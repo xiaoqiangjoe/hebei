@@ -1970,6 +1970,12 @@ http://live.dxhmt.cn:9081/tv/10421-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
 #EXTINF:-1 group-title="河南频道",河南-邓州新闻
 http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
+#EXTINF:-1 group-title="河南频道",河南-扶沟综合
+http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
+#EXTINF:-1 group-title="河南频道",河南-固始综合
+http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
+#EXTINF:-1 group-title="河南频道",河南-光山综合
+http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
 #EXTINF:-1 group-title="河南频道",河南-信阳新闻
 http://localhost/dashboard/12_henan_xinyang.php?id=xyxw
 #EXTINF:-1 group-title="河南频道",河南-信阳文旅
