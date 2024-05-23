@@ -1531,7 +1531,7 @@ http://localhost/dashboard/06_jiangxi_fuzhou.php?id=fsgg
 
 
 #EXTINF:-1 group-title="湖北频道",湖北卫视
-http://localhost/dashboard/07_hubei_sheng ji.php?id=hbws
+http://localhost/dashboard/07_hubei_shengji.php?id=hbws
 #EXTINF:-1 group-title="湖北频道",湖北卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN911989BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTjwoxLREP8RbFWdRUM4faswoDIwMxbrlyyVy9x6ZDKnEdPk51m%2FYpbAXpN4hljdv%2Fuo7x98HZteEPqTZvSaqAE
 #EXTINF:-1 group-title="湖北频道",湖北经济
