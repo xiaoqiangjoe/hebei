@@ -1934,17 +1934,17 @@ http://localhost/dashboard/12_henan_shengji.php?id=ydxj
 http://localhost/dashboard/12_henan_shengji.php?id=xsj
 #EXTINF:-1 group-title="河南频道",河南-国学频道
 http://localhost/dashboard/12_henan_shengji.php?id=gxpd
-#EXTINF:-1 group-title="河南频道",郑州新闻
+#EXTINF:-1 group-title="河南频道",河南-郑州新闻
 https://live3-new.zztv.tv:443/xwzh/sd/live.m3u8
-#EXTINF:-1 group-title="河南频道",郑州商都
+#EXTINF:-1 group-title="河南频道",河南-郑州商都
 https://live3-new.zztv.tv:443/sdpd/sd/live.m3u8
-#EXTINF:-1 group-title="河南频道",郑州文旅
+#EXTINF:-1 group-title="河南频道",河南-郑州文旅
 https://live3-new.zztv.tv:443/wtly/sd/live.m3u8
-#EXTINF:-1 group-title="河南频道",郑州影视
+#EXTINF:-1 group-title="河南频道",河南-郑州影视
 https://live3-new.zztv.tv:443/xqpd/sd/live.m3u8
-#EXTINF:-1 group-title="河南频道",郑州妇女
+#EXTINF:-1 group-title="河南频道",河南-郑州妇女
 https://live3-new.zztv.tv:443/fnet/sd/live.m3u8
-#EXTINF:-1 group-title="河南频道",郑州都市
+#EXTINF:-1 group-title="河南频道",河南-郑州都市
 https://live3-new.zztv.tv:443/dssh/sd/live.m3u8
 #EXTINF:-1 group-title="河南频道",河南-周口新闻综合
 http://localhost/dashboard/12_henan_zhoukou.php?id=zkxwzh
@@ -1984,7 +1984,7 @@ http://localhost/dashboard/12_henan_xinyang.php?id=xywy
 http://localhost/dashboard/12_henan_xinyang.php?id=hsgd
 #EXTINF:-1 group-title="河南频道",河南-平桥广电
 http://localhost/dashboard/12_henan_xinyang.php?id=pqgd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="河南频道",孟州电视台
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="河南频道",河南-孟州电视台
 http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 #EXTINF:-1 group-title="河南频道",河南-临颍新闻综合
 http://localhost/dashboard/12_henan_fangcheng.php?id=linying
@@ -1992,6 +1992,62 @@ http://localhost/dashboard/12_henan_fangcheng.php?id=linying
 http://localhost/dashboard/12_henan_fangcheng.php?id=wuyangzh
 #EXTINF:-1 group-title="河南频道",河南-方城
 http://localhost/dashboard/12_henan_fangcheng.php?id=fangcheng
+#EXTINF:-1 group-title="河南频道",河南-驻马店新闻综合
+http://tvlive.zmdtvw.cn/live/106770611978226682/index.m3u8
+#EXTINF:-1 group-title="河南频道",河南-驻马店公共频道
+http://tvlive.zmdtvw.cn/live/5927138998607870056/index.m3u8
+#EXTINF:-1 group-title="河南频道",河南-驻马店科教频道
+http://tvlive.zmdtvw.cn/live/8395198981051753732/index.m3u8
+#EXTINF:-1 group-title="河南频道",河南-鹤壁
+http://pili-live-hls.hebitv.com/hebi/hbtv.m3u8
+#EXTINF:-1 group-title="河南频道",河南-焦作综合
+http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+#EXTINF:-1 group-title="河南频道",河南-焦作公共
+http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+#EXTINF:-1 group-title="河南频道",河南-焦作教育
+http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8
+#EXTINF:-1 group-title="河南频道",河南-晴彩焦作
+http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8
+#EXTINF:-1 group-title="河南频道",河南-许昌综合
+http://live.s23.net:2017/live/smil:xczh.smil/playlist.m3u8
+#EXTINF:-1 group-title="河南频道",河南-许昌农业科教频道
+http://live.s23.net:2017/live/smil:nykj.smil/playlist.m3u8?DVR
+#EXTINF:-1 group-title="河南频道",河南-睛彩许昌频道
+http://live.s23.net:2017/live/smil:jcxc.smil/playlist.m3u8
+#EXTINF:-1 group-title="河南频道",河南-许昌襄城综合频道
+http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
+#EXTINF:-1 group-title="河南频道",河南-安阳新闻综合
+https://zhpull.dxhmt.cn/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
+#EXTINF:-1 group-title="河南频道",河南-安阳文旅
+https://zhpull.dxhmt.cn/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
+#EXTINF:-1 group-title="河南频道",河南-开封新闻综合
+http://tvpull.dxhmt.cn/tv/10200-2.m3u8
+#EXTINF:-1 group-title="河南频道",河南-开封文化旅游
+http://tvpull.dxhmt.cn/tv/10200-3.m3u8
+#EXTINF:-1 group-title="河南频道",河南-兰考新闻综合
+http://tvpull.dxhmt.cn/tv/10225-1.m3u8
+#EXTINF:-1 group-title="河南频道",河南-杞县新闻综合
+http://tvpull.dxhmt.cn/tv/10221-1.m3u8
+#EXTINF:-1 group-title="河南频道",河南-尉氏新闻综合
+http://tvpull.dxhmt.cn/tv/10223-1.m3u8
+#EXTINF:-1 group-title="河南频道",河南-通许新闻综合
+http://tvpull.dxhmt.cn/tv/10222-1.m3u8
+#EXTINF:-1 group-title="河南频道",河南-濮阳县电视台
+http://zhpull.dxhmt.cn/puyangxian/0779dbf4086a455fa1f36e3d56740a41/playlist.m3u8
+#EXTINF:-1 group-title="河南频道",河南-新乡
+http://player24.juyun.tv/camera/132168113.m3u8?auth_key=1716544715255-0-0-10174adf538ec66f4fedb3126c0a3c1e
+#EXTINF:-1 group-title="河南频道",河南-新乡县电视台
+http://tvpull.dxhmt.cn/tv/10721-1.m3u8
+#EXTINF:-1 group-title="河南频道",河南-卫辉综合频道-新乡市
+http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
+#EXTINF:-1 group-title="河南频道",河南-延津电视台
+http://tvpull.dxhmt.cn/tv/10726-1.m3u8
+#EXTINF:-1 group-title="河南频道",河南-原阳新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
+#EXTINF:-1 group-title="河南频道",河南-长桓综合
+http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
+#EXTINF:-1 group-title="河南频道",河南-辉县新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10782-1.m3u8
 
 
 #EXTINF:-1 group-title="浙江频道",浙江-浙江卫视
