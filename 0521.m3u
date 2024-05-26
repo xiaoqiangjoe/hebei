@@ -3043,10 +3043,6 @@ http://localhost/dashboard/21_yunnan_shengji.php?id=ynse
 #EXTINF:-1 tvg-id="云南影视" tvg-name="云南影视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/云南影视.png" group-title="云南频道",云南影视
 http://ynxsj.7766.org:9901/tsfile/live/1003_1.m3u8
 
-
-
-
-
 #EXTINF:-1 group-title="云南频道",云南-昆明新闻综合
 http://localhost/dashboard/21_yunnan_kunming.php?id=3143
 #EXTINF:-1 group-title="云南频道",云南-昆明经济生活
@@ -3098,22 +3094,26 @@ https://file.hhtv.cc/nmip-media/channellive/channel100708/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",云南-红河电视台-2
 https://file.hhtv.cc/nmip-media/channellive/channel101239/playlist.m3u8
 
-#EXTINF:-1 group-title="云南频道",元阳综合
+#EXTINF:-1 group-title="云南频道",云南-元阳综合
 http://tv.drs.hhtv.cc:8100/channellive/yydst.flv
-#EXTINF:-1 group-title="云南频道",彝良综合-昭通
+#EXTINF:-1 group-title="云南频道",云南-彝良综合-昭通
 http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
-#EXTINF:-1 group-title="云南频道",新平综合-玉溪市
+#EXTINF:-1 group-title="云南频道",云南-新平综合-玉溪市
 http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8
-#EXTINF:-1 group-title="云南频道",文山州新闻综合
+#EXTINF:-1 group-title="云南频道",云南-文山州新闻综合
 http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
-#EXTINF:-1 group-title="云南频道",文山州公共
+#EXTINF:-1 group-title="云南频道",云南-文山州公共
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
-#EXTINF:-1 group-title="云南频道",文山州新闻综合
+#EXTINF:-1 group-title="云南频道",云南-文山州新闻综合
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",云南-德宏新闻综合
 https://zhztsrs.edehong.com:8001/srs1/matrix/102580.flv 
 #EXTINF:-1 group-title="云南频道",云南-德宏文旅
 https://zhztsrs.edehong.com:8001/srs1/matrix/102531.flv 
+#EXTINF:-1 group-title="云南频道",云南-普洱-1
+https://zhibo.puerw.cn/puer/f3e9b9e6-c0b2-43fd-af11-578979db639f.m3u8
+#EXTINF:-1 group-title="云南频道",云南-普洱-2
+https://zhibo.puerw.cn/puer/ef91c39e-6b27-493e-9728-05e595ce3573.m3u8
 
 
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/内蒙古卫视.png" group-title="内蒙古频道",内蒙古卫视
