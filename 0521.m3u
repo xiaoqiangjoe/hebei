@@ -1612,6 +1612,8 @@ http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 #EXTINF:-1 group-title="湖北频道",湖北-襄城综合频道
 http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
+#EXTINF:-1 group-title="湖北频道",湖北-安陆新闻综合
+http://localhost/dashboard/07_hubei_anlu.php?id=hbws
 
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/湖南卫视.png" group-title="湖南频道",湖南卫视
