@@ -2190,7 +2190,8 @@ http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",文成综合频道-温州
 http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-
+#EXTINF:-1 group-title="浙江频道",温州新闻综合
+http://play-qk.wzrb.com.cn/live/1699597667591352.m3u8?auth_key=2020833336-ef01f843ba59489b9d84349c672d71db-0-249871a0a9a8d3ba6e0e6d2090475e19
 
 #EXTINF:-1 group-title="广东频道",广东-广东卫视
 http://localhost/dashboard/14_guangdong_shengji.php?id=gdws
