@@ -1857,6 +1857,8 @@ http://localhost/dashboard/10_xizang_lasa.php?id=zyzh
 http://localhost/dashboard/10_xizang_lasa.php?id=xwzh
 #EXTINF:-1 group-title="西藏频道",西藏-拉萨文化旅游
 http://localhost/dashboard/10_xizang_lasa.php?id=whly
+#EXTINF:-1 group-title="西藏频道",西藏-工布江达县广播电视台
+http://localhost/dashboard/14_guangdong_shengji.php?id=gbjd
 
 #EXTINF:-1 group-title="贵州频道",贵州卫视
 http://localhost/dashboard/11_guizhou_shengji.php?id=ch01
@@ -2331,8 +2333,6 @@ http://localhost/dashboard/14_guangdong_shengji.php?id=kpzh
 http://localhost/dashboard/14_guangdong_shengji.php?id=kpsh
 #EXTINF:-1 group-title="广东频道",广东-广宁综合
 http://localhost/dashboard/14_guangdong_shengji.php?id=gnzh
-#EXTINF:-1 group-title="广东频道",广东-工布江达县广播电视台
-http://localhost/dashboard/14_guangdong_shengji.php?id=gbjd
 #EXTINF:-1 group-title="广东频道",广东-化州综合
 http://localhost/dashboard/14_guangdong_shengji.php?id=hzzh
 #EXTINF:-1 group-title="广东频道",广东-鹤山综合
