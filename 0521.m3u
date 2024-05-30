@@ -247,7 +247,6 @@ http://localhost/dashboard/56_1095.php?id=1905b
 http://localhost/dashboard/56_1095.php?id=1905a
 
 
-
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC家庭影院.png" group-title="北京频道",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8?
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC家庭影院.png" group-title="北京频道",CHC家庭影院
@@ -1495,6 +1494,16 @@ http://localhost/dashboard/06_jiangxi_nanchang.php?id=ncds
 http://localhost/dashboard/06_jiangxi_nanchang.php?id=nczx
 #EXTINF:-1 group-title="江西频道",江西-南昌公共（有时效）
 http://localhost/dashboard/06_jiangxi_nanchang.php?id=ncgg
+#EXTINF:-1 group-title="江西频道",江西-新建台
+http://localhost/dashboard/06_jiangxi_nanchang.php?id=xjtv
+#EXTINF:-1 group-title="江西频道",江西-南昌县台
+http://localhost/dashboard/06_jiangxi_nanchang.php?id=ncxtv
+#EXTINF:-1 group-title="江西频道",江西-安义台
+http://localhost/dashboard/06_jiangxi_nanchang.php?id=aytv
+#EXTINF:-1 group-title="江西频道",江西-进贤台
+http://localhost/dashboard/06_jiangxi_nanchang.php?id=jxtv
+#EXTINF:-1 group-title="江西频道",江西-湾里台
+http://localhost/dashboard/06_jiangxi_nanchang.php?id=wltv
 
 #EXTINF:-1 group-title="江西频道",江西-九江新闻综合
 http://localhost/dashboard/06_jiangxi_jiujiang.php?id=jjzh
@@ -1998,6 +2007,160 @@ http://localhost/dashboard/12_henan_fangcheng.php?id=linying
 http://localhost/dashboard/12_henan_fangcheng.php?id=wuyangzh
 #EXTINF:-1 group-title="河南频道",河南-方城
 http://localhost/dashboard/12_henan_fangcheng.php?id=fangcheng
+#EXTINF:-1 group-title="河南频道",河南-新郑综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=xianzheng
+#EXTINF:-1 group-title="河南频道",河南-巩义综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=gongyi
+#EXTINF:-1 group-title="河南频道",河南-偃师综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=yanshi
+#EXTINF:-1 group-title="河南频道",河南-封丘综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=fengqiu
+#EXTINF:-1 group-title="河南频道",河南-汝州综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=ruzhou
+#EXTINF:-1 group-title="河南频道",河南-镇平综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=zhenping
+#EXTINF:-1 group-title="河南频道",河南-鹿邑综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=luyi
+#EXTINF:-1 group-title="河南频道",河南-长垣综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=changyuan
+#EXTINF:-1 group-title="河南频道",河南-虞城综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=yucheng
+#EXTINF:-1 group-title="河南频道",河南-济源综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=jiyuan
+#EXTINF:-1 group-title="河南频道",河南-郸城综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=dancheng
+#EXTINF:-1 group-title="河南频道",河南-西华综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=xihua
+#EXTINF:-1 group-title="河南频道",河南-西峡综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=xixia
+#EXTINF:-1 group-title="河南频道",河南-鄢陵综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=yanling
+#EXTINF:-1 group-title="河南频道",河南-长葛综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=changge
+#EXTINF:-1 group-title="河南频道",河南-新密综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=xinmi
+#EXTINF:-1 group-title="河南频道",河南-渑池综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=mianchi
+#EXTINF:-1 group-title="河南频道",河南-三门峡市陕州区综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=shanzhouqu
+#EXTINF:-1 group-title="河南频道",河南-项城综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=xiangcheng
+#EXTINF:-1 group-title="河南频道",河南-温县综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=wenxian
+#EXTINF:-1 group-title="河南频道",河南-新安综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=xinan
+#EXTINF:-1 group-title="河南频道",河南-登封综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=dengfeng
+#EXTINF:-1 group-title="河南频道",河南-太康综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=taikang
+#EXTINF:-1 group-title="河南频道",河南-禹州综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=yuzhou
+#EXTINF:-1 group-title="河南频道",河南-唐河综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=tanghe
+#EXTINF:-1 group-title="河南频道",河南-南乐综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=nanle
+#EXTINF:-1 group-title="河南频道",河南-沈丘综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=shenqiu
+#EXTINF:-1 group-title="河南频道",河南-固始综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=gushi
+#EXTINF:-1 group-title="河南频道",河南-灵宝综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=lingbao
+#EXTINF:-1 group-title="河南频道",河南-孟州综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=mengzhou
+#EXTINF:-1 group-title="河南频道",河南-孟津综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=mengjin
+#EXTINF:-1 group-title="河南频道",河南-宜阳综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=yiyang
+#EXTINF:-1 group-title="河南频道",河南-获嘉综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=huojia
+#EXTINF:-1 group-title="河南频道",河南-汤阴综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=tangyin
+#EXTINF:-1 group-title="河南频道",河南-兰考综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=lankao
+#EXTINF:-1 group-title="河南频道",河南-确山综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=queshan
+#EXTINF:-1 group-title="河南频道",河南-上蔡综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=shangcai
+#EXTINF:-1 group-title="河南频道",河南-内乡综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=neixiang
+#EXTINF:-1 group-title="河南频道",河南-扶沟综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=fugou
+#EXTINF:-1 group-title="河南频道",河南-滑县综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=huaxian
+#EXTINF:-1 group-title="河南频道",河南-许昌市建安区综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=jiananqu
+#EXTINF:-1 group-title="河南频道",河南-遂平综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=suiping
+#EXTINF:-1 group-title="河南频道",河南-社旗综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=sheqi
+#EXTINF:-1 group-title="河南频道",河南-卢氏综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=lushi
+#EXTINF:-1 group-title="河南频道",河南-内黄综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=neihuang
+#EXTINF:-1 group-title="河南频道",河南-沁阳综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=qinyang
+#EXTINF:-1 group-title="河南频道",河南-泌阳综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=biyang
+#EXTINF:-1 group-title="河南频道",河南-淅川综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=xichuan
+#EXTINF:-1 group-title="河南频道",河南-新野综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=xinye
+#EXTINF:-1 group-title="河南频道",河南-邓州综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=dengzhou
+#EXTINF:-1 group-title="河南频道",河南-濮阳综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=puyangxian
+#EXTINF:-1 group-title="河南频道",河南-汝阳综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=ruyang
+#EXTINF:-1 group-title="河南频道",河南-嵩县综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=songxian
+#EXTINF:-1 group-title="河南频道",河南-安阳综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=anyangxian
+#EXTINF:-1 group-title="河南频道",河南-林州综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=linzhou
+#EXTINF:-1 group-title="河南频道",河南-武陟综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=wuzhi
+#EXTINF:-1 group-title="河南频道",河南-栾川综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=luanchuan
+#EXTINF:-1 group-title="河南频道",河南-尉氏综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=weishi
+#EXTINF:-1 group-title="河南频道",河南-襄城综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=xcxiangcheng
+#EXTINF:-1 group-title="河南频道",河南-清丰综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=qingfeng
+#EXTINF:-1 group-title="河南频道",河南-浚县综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=xunxian
+#EXTINF:-1 group-title="河南频道",河南-鲁山综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=lushan
+#EXTINF:-1 group-title="河南频道",河南-郏县综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=jiaxian
+#EXTINF:-1 group-title="河南频道",河南-叶县综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=yexian
+#EXTINF:-1 group-title="河南频道",河南-通许综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=tongxu
+#EXTINF:-1 group-title="河南频道",河南-杞县综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=kfqixian
+#EXTINF:-1 group-title="河南频道",河南-新蔡综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=xincai
+
+#EXTINF:-1 group-title="河南频道",河南-上街综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=shangjie
+#EXTINF:-1 group-title="河南频道",河南-光山综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=guangshan
+#EXTINF:-1 group-title="河南频道",河南-罗山综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=luoshan
+#EXTINF:-1 group-title="河南频道",河南-新县台综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=xinxian
+#EXTINF:-1 group-title="河南频道",河南-淮滨综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=huaibin
+#EXTINF:-1 group-title="河南频道",河南-永城综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=yongcheng
+#EXTINF:-1 group-title="河南频道",河南-桐柏综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=tongbai
+#EXTINF:-1 group-title="河南频道",河南-舞阳综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=wuyang
+#EXTINF:-1 group-title="河南频道",河南-临颍综合频道
+http://localhost/dashboard/12_henan_fangcheng.php?id=linying
+
 #EXTINF:-1 group-title="河南频道",河南-驻马店新闻综合
 http://tvlive.zmdtvw.cn/live/106770611978226682/index.m3u8
 #EXTINF:-1 group-title="河南频道",河南-驻马店公共频道
@@ -2050,8 +2213,6 @@ http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
 http://tvpull.dxhmt.cn/tv/10726-1.m3u8
 #EXTINF:-1 group-title="河南频道",河南-原阳新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
-#EXTINF:-1 group-title="河南频道",河南-长桓综合
-http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
 #EXTINF:-1 group-title="河南频道",河南-辉县新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10782-1.m3u8
 
@@ -2121,6 +2282,37 @@ http://localhost/dashboard/13_zhejiang_jiaxing.php?id=5
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=6
 #EXTINF:-1 group-title="浙江频道",浙江-开化电视台
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=7
+#EXTINF:-1 group-title="浙江频道",浙江-开化国家公园
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=khgjgy
+#EXTINF:-1 group-title="浙江频道",浙江-建德综合
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=jdzh
+#EXTINF:-1 group-title="浙江频道",浙江-桐庐综合
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=tlzh
+#EXTINF:-1 group-title="浙江频道",浙江-萧山综合
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=xszh
+#EXTINF:-1 group-title="浙江频道",浙江-萧山生活
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=xssh
+#EXTINF:-1 group-title="浙江频道",浙江-平阳娱乐生活
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=pyylsh
+#EXTINF:-1 group-title="浙江频道",浙江-永嘉新闻综合
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=yjxwzh
+#EXTINF:-1 group-title="浙江频道",浙江-东阳影视生活
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=dyyssh
+#EXTINF:-1 group-title="浙江频道",浙江-天台和合频道
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=tthh
+#EXTINF:-1 group-title="浙江频道",浙江-庆元电视台
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=qytv
+#EXTINF:-1 group-title="浙江频道",浙江-云和新闻综合
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=yhxwzh
+#EXTINF:-1 group-title="浙江频道",浙江-衢州新闻综合(非全天候)
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=qzxwzh
+#EXTINF:-1 group-title="浙江频道",浙江-常山新闻综合
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=csxwzh
+#EXTINF:-1 group-title="浙江频道",浙江-江山电视台
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=jstv
+
+#EXTINF:-1 group-title="浙江频道",浙江-衢江新闻综合(非全天候)
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=qjxwzh
 
 #EXTINF:-1 group-title="浙江频道",浙江-金华新闻综合
 http://live.plus.jinhua.com.cn/xwzh/app/live.m3u8
@@ -2221,6 +2413,8 @@ http://localhost/dashboard/14_guangdong_shengji.php?id=gdse
 http://localhost/dashboard/14_guangdong_shengji.php?id=jjkt
 #EXTINF:-1 group-title="广东频道",广东-广东移动
 http://localhost/dashboard/14_guangdong_shengji.php?id=gdyd
+#EXTINF:-1 group-title="广东频道",广东-GRTN文化频道
+http://localhost/dashboard/14_guangdong_shengji.php?id=gdwh
 
 #EXTINF:-1 group-title="广东频道",广东-广州综合
 http://localhost/dashboard/14_guangdong_guangzhou.php?id=zh
@@ -2295,20 +2489,11 @@ http://localhost/dashboard/14_guangdong_jieyang.php?id=11
 #EXTINF:-1 group-title="广东频道",广东-揭阳生活
 http://localhost/dashboard/14_guangdong_jieyang.php?id=12
 #EXTINF:-1 group-title="广东频道",广东-台山台
-http://localhost/dashboard/14_guangdong_taishan.php
-#EXTINF:-1 group-title="广东频道",广东-肇庆综合
-http://localhost/dashboard/14_guangdong_zhaoqing.php?id=zqzh
-#EXTINF:-1 group-title="广东频道",广东-肇庆公共
-http://localhost/dashboard/14_guangdong_zhaoqing.php?id=zqgg
+http://localhost/dashboard/14_guangdong_shengji.php?id=tstv
 #EXTINF:-1 group-title="广东频道",广东-番禺电视台
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-#EXTINF:-1 group-title="广东频道",广东-阳江1
-https://live.yjtvw.com:8081/live/yjtv1.m3u8
-#EXTINF:-1 group-title="广东频道",广东-阳江2
-https://live.yjtvw.com:8081/live/yjtv2.m3u8
 
-#EXTINF:-1 group-title="广东频道",广东-GRTN文化频道
-http://localhost/dashboard/14_guangdong_shengji.php?id=gdwh
+
 #EXTINF:-1 group-title="广东频道",广东-东莞新闻综合
 http://localhost/dashboard/14_guangdong_shengji.php?id=dgzh
 #EXTINF:-1 group-title="广东频道",广东-东莞公共
@@ -2323,10 +2508,14 @@ http://localhost/dashboard/14_guangdong_shengji.php?id=hyzh
 http://localhost/dashboard/14_guangdong_shengji.php?id=hygg
 #EXTINF:-1 group-title="广东频道",广东-连平台
 http://localhost/dashboard/14_guangdong_shengji.php?id=lpzh
+#EXTINF:-1 group-title="广东频道",广东-阳江1
+https://live.yjtvw.com:8081/live/yjtv1.m3u8
 #EXTINF:-1 group-title="广东频道",广东-阳江-1
 http://localhost/dashboard/14_guangdong_shengji.php?id=yjtv1
 #EXTINF:-1 group-title="广东频道",广东-阳江-2
 http://localhost/dashboard/14_guangdong_shengji.php?id=yjtv2
+#EXTINF:-1 group-title="广东频道",广东-阳江2
+https://live.yjtvw.com:8081/live/yjtv2.m3u8
 #EXTINF:-1 group-title="广东频道",广东-开平综合
 http://localhost/dashboard/14_guangdong_shengji.php?id=kpzh
 #EXTINF:-1 group-title="广东频道",广东-开平生活
@@ -2985,50 +3174,101 @@ https://klmyzb.rcsxzx.com/hls/klmy2.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-新疆克拉玛依影视
 https://klmyzb.rcsxzx.com/hls/klmy3.m3u8
 
-#EXTINF:-1 group-title="新疆频道",伊犁汉语综合
+#EXTINF:-1 group-title="新疆频道",新疆-伊犁汉语综合
 http://110.153.180.106:55555/out_1/index.m3u8
-#EXTINF:-1 group-title="新疆频道",伊犁维吾尔
+#EXTINF:-1 group-title="新疆频道",新疆-伊犁维吾尔
 http://110.153.180.106:55555/out_2/index.m3u8
-#EXTINF:-1 group-title="新疆频道",伊犁哈萨克
+#EXTINF:-1 group-title="新疆频道",新疆-伊犁哈萨克
 http://110.153.180.106:55555/out_3/index.m3u8
-#EXTINF:-1 group-title="新疆频道",伊犁经济法制
+#EXTINF:-1 group-title="新疆频道",新疆-伊犁经济法制
 http://110.153.180.106:55555/out_4/index.m3u8
-#EXTINF:-1 group-title="新疆频道",塔城电视汉语一套
+#EXTINF:-1 group-title="新疆频道",新疆-塔城电视汉语一套
 http://218.84.35.38:3000/m3u8/live/tctv-1/index.m3u8
-#EXTINF:-1 group-title="新疆频道",塔城电视哈语
+#EXTINF:-1 group-title="新疆频道",新疆-塔城电视哈语
 http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
-#EXTINF:-1 group-title="新疆频道",塔城电视汉语三套
+#EXTINF:-1 group-title="新疆频道",新疆-塔城电视汉语三套
 http://218.84.35.38:3000/m3u8/live/tctv-3/index.m3u8
-#EXTINF:-1 group-title="新疆频道",阿勒泰汉语
+#EXTINF:-1 group-title="新疆频道",新疆-阿勒泰汉语
 https://play-a2.quklive.com/live/1704380285590041.m3u8
-#EXTINF:-1 group-title="新疆频道",阿勒泰哈萨克语
+#EXTINF:-1 group-title="新疆频道",新疆-阿勒泰哈萨克语
 https://play-a2.quklive.com/live/1704380366011045.m3u8
-#EXTINF:-1 group-title="新疆频道",博尔塔拉汉语新闻综合
+#EXTINF:-1 group-title="新疆频道",新疆-博尔塔拉汉语新闻综合
 http://localhost/dashboard/20_xinjiang_boer.php?id=17
-#EXTINF:-1 group-title="新疆频道",博尔塔拉蒙古语新闻综合
+#EXTINF:-1 group-title="新疆频道",新疆-博尔塔拉蒙古语新闻综合
 http://localhost/dashboard/20_xinjiang_boer.php?id=16
-#EXTINF:-1 group-title="新疆频道",博尔塔拉维吾尔语新闻综合
+#EXTINF:-1 group-title="新疆频道",新疆-博尔塔拉维吾尔语新闻综合
 http://localhost/dashboard/20_xinjiang_boer.php?id=14
-#EXTINF:-1 group-title="新疆频道",巴音郭楞汉语综合
-http://localhost/dashboard/20_xinjiang_boer.php?id=24
-#EXTINF:-1 group-title="新疆频道",巴音郭楞蒙古语综合
+#EXTINF:-1 group-title="新疆频道",新疆-巴音郭楞汉语综合
+rtmp://tv.loulannews.cn/channellive/ch1
+#EXTINF:-1 group-title="新疆频道",新疆-巴音郭楞蒙古语综合
 http://localhost/dashboard/20_xinjiang_boer.php?id=22
-#EXTINF:-1 group-title="新疆频道",巴音郭楞维吾尔语综合
+#EXTINF:-1 group-title="新疆频道",新疆-巴音郭楞维吾尔语综合
 http://localhost/dashboard/20_xinjiang_boer.php?id=21
-#EXTINF:-1 group-title="新疆频道",巴音郭楞教育频道
+#EXTINF:-1 group-title="新疆频道",新疆-巴音郭楞教育频道
 http://localhost/dashboard/20_xinjiang_boer.php?id=20
-#EXTINF:-1 group-title="新疆频道",哈密1套
+#EXTINF:-1 group-title="新疆频道",新疆-巴音郭楞教育频道rtmp
+rtmp://tv.loulannews.cn/channellive/ch4
+#EXTINF:-1 group-title="新疆频道",新疆-哈密1套
 http://localhost/dashboard/20_xinjiang_boer.php?id=220
-#EXTINF:-1 group-title="新疆频道",哈密2套
+#EXTINF:-1 group-title="新疆频道",新疆-哈密2套
 http://localhost/dashboard/20_xinjiang_boer.php?id=210
-#EXTINF:-1 group-title="新疆频道",哈密3套
+#EXTINF:-1 group-title="新疆频道",新疆-哈密3套
 http://localhost/dashboard/20_xinjiang_boer.php?id=200
-#EXTINF:-1 group-title="新疆频道",昌吉城市生活
+#EXTINF:-1 group-title="新疆频道",新疆-昌吉城市生活
 http://localhost/dashboard/55_guangdianyun.php?id=cjcssh
 #EXTINF:-1 group-title="新疆频道",新疆-霍尔果斯-bug
 http://117.190.118.175:9090/stream1/m2e2000.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-玛纳斯
 http://218.84.127.245:1026/hls/main1/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="新疆频道",新疆-可克达拉综合
+http://test5.btzx.com.cn/live/kkdl.stream.flv
+#EXTINF:-1 group-title="新疆频道",新疆-五狮综合
+http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-五狮双河影视
+http://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-五家渠新闻
+http://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-胡杨河新闻
+https://klmyzb.rcsxzx.com/hls/qishi1.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-石河子新闻
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-石河子新闻
+rtmp://124.88.144.73:1935/live/xwzh
+#EXTINF:-1 group-title="新疆频道",新疆-石河子影视
+rtmp://124.88.144.73:1935/live/jjsh
+#EXTINF:-1 group-title="新疆频道",新疆-石河子经济
+rtmp://124.88.144.73:1935/live/dywt
+#EXTINF:-1 group-title="新疆频道",新疆-石河子教育
+rtmp://124.88.144.73:1935/live/jiaoyu
+#EXTINF:-1 group-title="新疆频道",新疆-石河子教育
+http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-新星综合
+http://test5.btzx.com.cn/live/13TV.stream.flv
+#EXTINF:-1 group-title="新疆频道",新疆-昆玉综合
+http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-十二师
+http://liveout.btzx.com.cn/62ds9e/454mm6.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-玛纳斯综合
+http://218.84.127.245:1026/hls/main1/playlist.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-奎屯汉语综合
+http://218.84.12.186:8001/hls/main/playlist.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-奎屯哈语综合
+http://218.84.12.186:8002/hls/main/playlist.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-塔城
+http://218.84.35.38:3000/m3u8/live/tctv-1/index.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-塔城二
+http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-塔城三
+http://218.84.35.38:3000/m3u8/live/tctv-3/index.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-裕民汉语综合
+http://117.190.130.4:8081/out_1/index.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-裕民哈语综合
+http://117.190.130.4:8081/out_2/index.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-福海汉语综合
+http://222.81.86.42:8060/hls/ch3/ch3.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-福海维语综合
+http://222.81.86.42:8060/hls/ch4/ch4.m3u8
 
 
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/云南卫视.png" group-title="云南频道",云南卫视
@@ -3719,6 +3959,12 @@ http://localhost/dashboard/55_guangdianyun.php?id=cjcssh
 http://localhost/dashboard/55_guangdianyun.php?id=njtv
 #EXTINF:-1 group-title="海南频道",儋州台 海南 
 http://localhost/dashboard/55_guangdianyun.php?id=dztv
+#EXTINF:-1 group-title="胡南频道",金鹰纪实
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaWf4k%2B88FALXqp3i7ExZ4HArfvJF2pWpm4RxcBNhZ7j8oKdkoj6hFDX2k81AyJk8L2ZgQL4lTNsyfhwMVyjNWA
+#EXTINF:-1 group-title="胡南频道",快乐垂钓
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRJiJ8tFyWVQ4LIMJg%2BXyuQCUUYb4If0LygirGPvYsbTi60DjU3KKPbFtbFrR1EGj%2FI
+#EXTINF:-1 group-title="河南频道",梨园频道
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm
 
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/凤凰卫视中文台.png" group-title="港澳台",凤凰中文
@@ -3994,3 +4240,49 @@ https://epg.pw/stream/5b471967247922dd626a252fb38f22a06be7e1a8c34e2b8c8cea7d4bc7
 
 #EXTINF:-1 group-title="港澳台",TVBS-频道
 http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
+
+
+#EXTINF:-1 group-title="未分组",黑莓电影
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",黑莓动画
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV武搏世界
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV中国功夫
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV军事评论
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV农业致富
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV动作电影
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV古装剧场
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV爱情喜剧
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV惊悚悬疑
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV潮妈辣婆
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV精品纪录
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV精品体育
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV超级体育
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV超级电影
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV超级电视剧
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV超级综艺
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV金牌综艺
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV怡伴健康
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7820874641606664941&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV高清剧场
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV精品综合
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=4
+#EXTINF:-1 group-title="未分组",NewTV精品大剧
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=4
