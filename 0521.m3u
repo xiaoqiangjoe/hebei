@@ -3386,11 +3386,6 @@ http://localhost/dashboard/21_yunnan_diqing.php?id=dqxwzh
 #EXTINF:-1 group-title="云南频道",云南-迪庆藏语
 http://localhost/dashboard/21_yunnan_diqing.php?id=dqzy
 
-#EXTINF:-1 group-title="云南频道",云南-彝良综合-昭通
-http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
-#EXTINF:-1 group-title="云南频道",云南-新平综合-玉溪市
-http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8
-
 #EXTINF:-1 group-title="云南频道",云南-西双版纳综合
 http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",云南-西双版纳公共
@@ -3433,7 +3428,10 @@ https://zhztsrs.edehong.com:8001/srs1/matrix/102531.flv
 https://zhibo.puerw.cn/puer/f3e9b9e6-c0b2-43fd-af11-578979db639f.m3u8
 #EXTINF:-1 group-title="云南频道",云南-普洱-2
 https://zhibo.puerw.cn/puer/ef91c39e-6b27-493e-9728-05e595ce3573.m3u8
-
+#EXTINF:-1 group-title="云南频道",云南-昭通1套
+https://live.zttv.cn/lsdream/Ii3aRRS/1000/k5nI430.m3u8  
+#EXTINF:-1 group-title="云南频道",云南-昭通3套
+https://live.zttv.cn/lsdream/EiCgjnA/1000/q3hE4C0.m3u8
 
 
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/内蒙古卫视.png" group-title="内蒙古频道",内蒙古卫视
@@ -3626,6 +3624,20 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-黑河综合
 https://liveplaysr.dbw.cn/lsdream/86qwqcs/1024/live.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-穆棱综合频道
+http://vod.center.hljtv.com/lsdream/wy7HG9x/1024/542w470.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-绥芬河综合
+http://vod.center.hljtv.com/lsdream/gS7S5pS/512/r4g0470.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-嘉荫综合
+http://vod.center.hljtv.com/lsdream/1lqKC4B/1024/y6914q0.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-铁力综合
+http://vod.center.hljtv.com/lsdream/QgOu88F/1024/a5xQ4O0.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-讷河综合
+http://vod.center.hljtv.com/lsdream/Ig4YRW0/1024/o5jI4w0.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-依安综合
+http://vod.center.hljtv.com/lsdream/1szOvMr/1024/a4x14z0.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-友谊综合
+http://vod.center.hljtv.com/lsdream/d037rmI/1000/651d430.m3u8
 
 
 
