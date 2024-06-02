@@ -588,7 +588,7 @@ https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 https://jwcdnqx.hebyun.com.cn/live/jiyunxushui123/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",河北-深州综合
 http://hbsz.chinashadt.com:2036/live/stream:sztv.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="河北频道",涞源综合
+#EXTINF:-1 group-title="河北频道",河北-涞源综合
 https://jwcdnqx.hebyun.com.cn/live/jiyunlaiyuan/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",河北-兴隆综合频道
 https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
@@ -596,6 +596,8 @@ https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
 #EXTINF:-1 group-title="河北频道",河北-定州新闻综合
 https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
+#EXTINF:-1 group-title="河北频道",河北-定州国学影视
+https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
 #EXTINF:-1 group-title="河北频道",河北-衡山
 http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
 
@@ -609,8 +611,37 @@ https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
 https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",河北-望都综合频道
 https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
-#EXTINF:-1 group-title="河北频道",枣强综合
+#EXTINF:-1 group-title="河北频道",河北-枣强综合
 http://hbzqdb.chinashadt.com:1937/live/zqzh.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="河北频道",河北-迁西综合
+https://jwcdnqx.hebyun.com.cn/live/qxzhpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",河北-迁西综艺
+https://jwcdnqx.hebyun.com.cn/live/qxzyy/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",河北-迁西农业
+https://jwliveqxzb.hebyun.com.cn/qxny/qxny.m3u8
+
+#EXTINF:-1 group-title="河北频道",河北-清河新闻综合
+https://jwliveqxzb.hebyun.com.cn/qinghe/qinghe.m3u8
+#EXTINF:-1 group-title="河北频道",河北-清河经济综艺
+https://jwliveqxzb.hebyun.com.cn/qinghe1/qinghe1.m3u8
+#EXTINF:-1 group-title="河北频道",河北-青县新闻
+https://jwliveqxzb.hebyun.com.cn/qxtvlive1/qxtvlive1.m3u8
+
+#EXTINF:-1 group-title="河北频道",河北-涞水新闻
+https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
+#EXTINF:-1 group-title="河北频道",河北-望都综合
+https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
+#EXTINF:-1 group-title="河北频道",河北-徐水综合
+https://jwliveqxzb.hebyun.com.cn/jiyunxushui123/jiyunxushui123.m3u8
+#EXTINF:-1 group-title="河北频道",河北-高邑综合
+https://jwcdnqx.hebyun.com.cn/live/gaoyiyitao/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",河北-南皮综合
+https://jwcdnqx.hebyun.com.cn/live/npdspd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",河北-双滦新闻
+https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",河北-双滦影视
+https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
+
 
 
 #EXTINF:-1 group-title="山东频道",山东卫视
