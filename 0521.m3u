@@ -1726,23 +1726,12 @@ http://localhost/dashboard/07_hubei_shiyan.php?id=jjly
 http://localhost/dashboard/07_hubei_jingmen.php?id=0
 #EXTINF:-1 group-title="湖北频道",湖北-荆门科教文旅
 http://localhost/dashboard/07_hubei_jingmen.php?id=1
-
-
-
 #EXTINF:-1 group-title="湖北频道",湖北-鄂州新闻频道
 http://localhost/dashboard/07_hubei_ezhou.php?id=ezxw
 #EXTINF:-1 group-title="湖北频道",湖北-鄂州新闻频道
 http://localhost/dashboard/07_hubei_ezhou.php?id=ezgg
-
-
-#EXTINF:-1 group-title="湖北频道",湖北-荆门新闻
-http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 group-title="湖北频道",湖北-荆门教育
-http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
-
 #EXTINF:-1 group-title="湖北频道",湖北-襄城综合频道
 http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
-
 #EXTINF:-1 group-title="湖北频道",湖北-安陆新闻综合
 http://localhost/dashboard/07_hubei_anlu.php?id=hbws
 
