@@ -510,6 +510,10 @@ http://jwcdnqx.hebyun.com.cn/live/SXTV1/1500k/tzwj_video.m3u8
 http://localhost/dashboard/01_hebei_xingtai_chengde_baoding.php?id=1
 #EXTINF:-1 group-title="河北频道",河北-邢台城市生活
 http://localhost/dashboard/01_hebei_xingtai_chengde_baoding.php?id=2
+#EXTINF:-1 group-title="河北频道",河北-邢台南宫
+https://jwcdnqx.hebyun.com.cn/live/ngtv1/1500k/tzwj_video.m3u8
+
+
 #EXTINF:-1 group-title="河北频道",河北-承德市新闻综合
 http://localhost/dashboard/01_hebei_xingtai_chengde_baoding.php?id=3
 #EXTINF:-1 group-title="河北频道",河北-承德市公共生活
@@ -540,6 +544,8 @@ http://localhost/dashboard/otv.php?id=13112
 http://localhost/dashboard/otv.php?id=13113
 #EXTINF:-1 group-title="河北频道",河北-唐山迁安
 http://jwplay.hebyun.com.cn/live/jiuyunqianan/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",河北-唐山玉田
+https://p2bj.vzan.com/slowlive/743175440646736781/live.m3u8
 #EXTINF:-1 group-title="河北频道",河北-鹿泉二套
 https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",河北-鹿泉一套
@@ -1632,32 +1638,6 @@ http://localhost/dashboard/07_hubei_shengji.php?id=hbls
 #EXTINF:-1 group-title="湖北频道",湖北垄上
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
 
-
-#EXTINF:-1 group-title="湖北频道",湖北-随州综合
-http://localhost/dashboard/07_hubei_suizhou.php?id=szzh
-#EXTINF:-1 group-title="湖北频道",湖北-随州农村
-http://localhost/dashboard/07_hubei_suizhou.php?id=sznc
-#EXTINF:-1 group-title="湖北频道",湖北-宜昌综合
-http://playapp.3xgd.com:80/sxgd/zhpd.m3u8
-#EXTINF:-1 group-title="湖北频道",湖北-宜昌旅游
-http://playapp.3xgd.com:80/sxgd/lysw.m3u8
-#EXTINF:-1 group-title="湖北频道",湖北-十堰新闻综合
-http://localhost/dashboard/07_hubei_shiyan.php?id=xwzh
-#EXTINF:-1 group-title="湖北频道",湖北-十堰经济旅游
-http://localhost/dashboard/07_hubei_shiyan.php?id=jjly
-#EXTINF:-1 group-title="湖北频道",湖北-荆门新闻综合
-http://localhost/dashboard/07_hubei_jingmen.php?id=0
-#EXTINF:-1 group-title="湖北频道",湖北-荆门科教文旅
-http://localhost/dashboard/07_hubei_jingmen.php?id=1
-
-#EXTINF:-1 group-title="湖北频道",湖北-咸宁综合
-http://localhost/dashboard/07_hubei_xianning.php?id=xnzh
-#EXTINF:-1 group-title="湖北频道",湖北-咸宁经济生活
-http://localhost/dashboard/07_hubei_xianning.php?id=xnjj
-#EXTINF:-1 group-title="湖北频道",湖北-鄂州新闻频道
-http://localhost/dashboard/07_hubei_ezhou.php?id=ezxw
-#EXTINF:-1 group-title="湖北频道",湖北-鄂州新闻频道
-http://localhost/dashboard/07_hubei_ezhou.php?id=ezgg
 #EXTINF:-1 group-title="湖北频道",湖北-武汉新闻综合
 http://stream.appwuhan.com/1tzb/sd/live.m3u8
 #EXTINF:-1 group-title="湖北频道",湖北-武汉生活
@@ -1675,14 +1655,101 @@ http://stream.appwuhan.com/jyzb/sd/live.m3u8
 #EXTINF:-1 group-title="湖北频道",湖北-武汉文体
 http://stream.appwuhan.com/5tzb/sd/live.m3u8
 
+#EXTINF:-1 group-title="湖北频道",湖北-随州综合
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=szzh
+#EXTINF:-1 group-title="湖北频道",湖北-随州农村
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=sznc
+#EXTINF:-1 group-title="湖北频道",湖北-黄冈新闻
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=hgzh
+#EXTINF:-1 group-title="湖北频道",湖北-黄冈生活
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=hggg
+#EXTINF:-1 group-title="湖北频道",湖北-嘉鱼电视台
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=jyzh
+#EXTINF:-1 group-title="湖北频道",湖北-广水新闻综合
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=gsxw
+#EXTINF:-1 group-title="湖北频道",湖北-潜江电视台
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=qianjiang
+#EXTINF:-1 group-title="湖北频道",湖北-房县综合
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=fxzh
+#EXTINF:-1 group-title="湖北频道",湖北-荆州新闻综合频道
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=jzzh
+#EXTINF:-1 group-title="湖北频道",湖北-荆州垄上频道
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=jzls
+#EXTINF:-1 group-title="湖北频道",湖北-荆州公共频道
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=jzgg
+#EXTINF:-1 group-title="湖北频道",湖北-远安融媒
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=yarm
+#EXTINF:-1 group-title="湖北频道",湖北-宜都综合
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=ydzh
+#EXTINF:-1 group-title="湖北频道",湖北-当阳电视台
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=dyzh
+#EXTINF:-1 group-title="湖北频道",湖北-长阳综合
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=cy1t
+#EXTINF:-1 group-title="湖北频道",湖北-松滋电视
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=sztv
+#EXTINF:-1 group-title="湖北频道",湖北-丹江口综合-切片？
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=djkzh
+#EXTINF:-1 group-title="湖北频道",湖北-孝昌新闻
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=xcxw
+
+
+
+
+#EXTINF:-1 group-title="湖北频道",湖北-宜昌综合
+http://playapp.3xgd.com:80/sxgd/zhpd.m3u8
+#EXTINF:-1 group-title="湖北频道",湖北-宜昌旅游
+http://playapp.3xgd.com:80/sxgd/lysw.m3u8
+
+#EXTINF:-1 group-title="湖北频道",湖北-咸宁综合
+http://localhost/dashboard/07_hubei_cjyun.php?id=xnzh
+#EXTINF:-1 group-title="湖北频道",湖北-咸宁经济生活
+http://localhost/dashboard/07_hubei_cjyun.php?id=xnjj
+#EXTINF:-1 group-title="湖北频道",湖北-大冶综合
+http://localhost/dashboard/07_hubei_cjyun.php?id=dyzh
+#EXTINF:-1 group-title="湖北频道",湖北-石首新闻
+http://localhost/dashboard/07_hubei_cjyun.php?id=sszh
+#EXTINF:-1 group-title="湖北频道",湖北-石首影视
+http://localhost/dashboard/07_hubei_cjyun.php?id=ssys
+#EXTINF:-1 group-title="湖北频道",湖北-罗田综合-切片？
+http://localhost/dashboard/07_hubei_cjyun.php?id=ltzh
+#EXTINF:-1 group-title="湖北频道",湖北-孝感综合
+http://localhost/dashboard/07_hubei_cjyun.php?id=xgzh
+#EXTINF:-1 group-title="湖北频道",湖北-孝感生活
+http://localhost/dashboard/07_hubei_cjyun.php?id=xgsh
+
+#EXTINF:-1 group-title="湖北频道",湖北-十堰新闻综合
+http://localhost/dashboard/07_hubei_shiyan.php?id=xwzh
+#EXTINF:-1 group-title="湖北频道",湖北-十堰经济旅游
+http://localhost/dashboard/07_hubei_shiyan.php?id=jjly
+
+#EXTINF:-1 group-title="湖北频道",湖北-荆门新闻综合
+http://localhost/dashboard/07_hubei_jingmen.php?id=0
+#EXTINF:-1 group-title="湖北频道",湖北-荆门科教文旅
+http://localhost/dashboard/07_hubei_jingmen.php?id=1
+
+
+
+#EXTINF:-1 group-title="湖北频道",湖北-鄂州新闻频道
+http://localhost/dashboard/07_hubei_ezhou.php?id=ezxw
+#EXTINF:-1 group-title="湖北频道",湖北-鄂州新闻频道
+http://localhost/dashboard/07_hubei_ezhou.php?id=ezgg
+
+
 #EXTINF:-1 group-title="湖北频道",湖北-荆门新闻
 http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 group-title="湖北频道",湖北-荆门教育
 http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
+
 #EXTINF:-1 group-title="湖北频道",湖北-襄城综合频道
 http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
+
 #EXTINF:-1 group-title="湖北频道",湖北-安陆新闻综合
 http://localhost/dashboard/07_hubei_anlu.php?id=hbws
+
+#EXTINF:-1 group-title="湖北频道",湖北-新洲综合频道
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=xzzh
+#EXTINF:-1 group-title="湖北频道",湖北-蔡甸综合频道
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=cdzh
 
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/湖南卫视.png" group-title="湖南频道",湖南卫视
@@ -3460,10 +3527,13 @@ https://zhibo.puerw.cn/puer/f3e9b9e6-c0b2-43fd-af11-578979db639f.m3u8
 #EXTINF:-1 group-title="云南频道",云南-普洱-2
 https://zhibo.puerw.cn/puer/ef91c39e-6b27-493e-9728-05e595ce3573.m3u8
 #EXTINF:-1 group-title="云南频道",云南-昭通1套
-https://live.zttv.cn/lsdream/Ii3aRRS/1000/k5nI430.m3u8  
+https://live.zttv.cn/lsdream/Ii3aRRS/w4nfi4a.m3u8
 #EXTINF:-1 group-title="云南频道",云南-昭通3套
-https://live.zttv.cn/lsdream/EiCgjnA/1000/q3hE4C0.m3u8
-
+https://live.zttv.cn/lsdream/EiCgjnA/23hhi4g.m3u8
+#EXTINF:-1 group-title="云南频道",云南-丽江新闻综合
+http://localhost/dashboard/21_yunnan_lijiang.php?id=ljxwzh
+#EXTINF:-1 group-title="云南频道",云南-丽江公共频道
+http://localhost/dashboard/21_yunnan_lijiang.php?id=ljwhly
 
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/内蒙古卫视.png" group-title="内蒙古频道",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
@@ -4095,20 +4165,36 @@ http://localhost/dashboard/51_fenghuang_480.php?id=fhzx
 http://113.64.145.61:8081/hls/38/index.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰卫视香港台
 http://nz189l149.bb27109.ctm.net:8892/bysid/85
-#EXTINF:-1 group-title="港澳台",经典影视台
-https://ali.hlspull.yximgs.com/live/asdfg32516.flv
-#EXTINF:-1 group-title="港澳台",经典电影台
-https://ali.hlspull.yximgs.com/live/asdfg32522.flv
-#EXTINF:-1 group-title="港澳台",美亚电影台
-https://ali.hlspull.yximgs.com/live/12344.flv
-#EXTINF:-1 group-title="港澳台",星光综合台
-http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-#EXTINF:-1 group-title="港澳台",星河频道国语
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 group-title="港澳台",星河频道粤语
-http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳台",亚洲武侠
-http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="港澳台",东森超视
+http://171.108.239.74:8181/tsfile/live/1023_1.m3u8
+#EXTINF:-1 group-title="港澳台",东森洋片
+http://171.108.239.74:8181/tsfile/live/1016_1.m3u8
+#EXTINF:-1 group-title="港澳台",东森电影
+http://171.108.239.74:8181/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="港澳台",星河频道
+http://171.108.239.74:8181/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="港澳台",天映电影
+http://171.108.239.74:8181/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="港澳台",龙祥电影
+http://171.108.239.74:8181/tsfile/live/1011_1.m3u8
+#EXTINF:-1 group-title="港澳台",星空卫视
+http://171.108.239.74:8181/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="港澳台",中国电影
+http://171.108.239.74:8181/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="港澳台",东森洋片
+http://171.108.239.74:8181/tsfile/live/1016_1.m3u8
+#EXTINF:-1 group-title="港澳台",经典电影
+http://171.108.239.74:8181/tsfile/live/1019_1.m3u8
+#EXTINF:-1 group-title="港澳台",热播剧场
+http://171.108.239.74:8181/tsfile/live/1020_1.m3u8
+#EXTINF:-1 group-title="港澳台",谍战剧场
+http://171.108.239.74:8181/tsfile/live/1021_1.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://171.108.239.74:8181/tsfile/live/1024_1.m3u8
+#EXTINF:-1 group-title="港澳台",莲花台
+http://171.108.239.74:8181/tsfile/live/1025_1.m3u8
 
 #EXTINF:-1 group-title="港澳台",澳门莲花
 http://localhost/dashboard/52_aomen_lianhua.php
