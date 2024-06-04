@@ -38,6 +38,13 @@ http://localhost/dashboard/57_migu720.php?id=cctv15
 http://localhost/dashboard/otv.php?id=116
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV17.png" group-title="咪咕",cctv17
 http://localhost/dashboard/57_migu720.php?id=cctv17
+#EXTINF:-1 group-title="咪咕",中国教育1
+http://117.114.153.25:8180/TV00000000000000000149@HHZT?
+#EXTINF:-1 group-title="咪咕",中国教育3
+http://117.114.153.25:8180/TV00000000000000000009@HHZT?
+#EXTINF:-1 group-title="咪咕",中国教育4
+http://117.114.153.25:8180/TV00000000000000000012@HHZT?
+
 
 #EXTINF:-1 group-title="咪咕",,咪咕视频
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
@@ -247,6 +254,11 @@ http://localhost/dashboard/otv.php?id=43067
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/重温经典.png" group-title="电影频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 group-title="电影频道",重温经典
+http://117.114.153.25:8180/TV00000000000000000007@HHZT?
+
+
+
 #EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" group-title="电影频道",cctv6
 http://localhost/dashboard/56_1095.php?id=cctv6
 #EXTINF:-1 tvg-id="1905b" tvg-name="1905b" group-title="电影频道",1905b
@@ -270,6 +282,14 @@ http://localhost/dashboard/27_chongqin_cqyx.php?id=chcgq
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC动作电影.png" group-title="北京频道",CHC动作电影
 http://localhost/dashboard/27_chongqin_cqyx.php?id=chcdz
+#EXTINF:-1 group-title="北京频道",CHC家庭影院
+http://117.114.153.25:8180/TV00000000000000000092@HHZT?
+#EXTINF:-1 group-title="北京频道",CHC动作电影
+http://117.114.153.25:8180/TV00000000000000000093@HHZT?
+#EXTINF:-1 group-title="北京频道",CHC影迷电影高清
+http://117.114.153.25:8180/TV00000000000000000094@HHZT?
+#EXTINF:-1 group-title="北京频道",CHC影迷电影高清
+http://117.114.153.25:8180/TV00000000000000000195@HHZT?
 
 
 
@@ -291,28 +311,59 @@ https://epg.pw/stream/2817645ca1c4af8071081a53a99cc05f99f9af0e6c3f9751c9295c1538
 http://localhost/dashboard/otv.php?id=11001
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京纪实科教.png" group-title="北京频道",北京纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1 group-title="北京频道",北京影视
+http://117.114.153.25:8180/TV00000000000000000022@HHZT?
+#EXTINF:-1 group-title="北京频道",北京生活
+http://117.114.153.25:8180/TV00000000000000000023@HHZT?
+#EXTINF:-1 group-title="北京频道",北京纪实科教
+http://117.114.153.25:8180/TV00000000000000000020@HHZT?
+#EXTINF:-1 group-title="北京频道",北京新闻
+http://117.114.153.25:8180/TV00000000000000000025@HHZT?
+#EXTINF:-1 group-title="北京频道",北京卡酷
+http://117.114.153.25:8180/TV00000000000000000026@HHZT?
+#EXTINF:-1 group-title="北京频道",北京财经
+http://117.114.153.25:8180/TV00000000000000000095@HHZT?
+#EXTINF:-1 group-title="北京频道",北京文艺
+http://117.114.153.25:8180/TV00000000000000000100@HHZT?
+#EXTINF:-1 group-title="北京频道",北京体育休闲
+http://117.114.153.25:8180/TV00000000000000000196@HHZT?
+#EXTINF:-1 group-title="北京频道",北京体育休闲
+http://117.114.153.25:8180/TV00000000000000000146@HHZT?
 
 #EXTINF:-1 tvg-id="北京国际" tvg-name="北京国际" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京国际.png" group-title="北京频道",北京国际
 https://epg.pw/stream/48ce1655f67ddb04f2f124a816e97665c1a6c0604751021d820fa3cb4ad19c61.ctv
 
 #EXTINF:-1 tvg-id="BRTV8K2" tvg-name="BRTV8K2" group-title="北京频道",北京纪实科教8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+
 #EXTINF:-1 tvg-id="北京怀柔" tvg-name="北京怀柔" group-title="北京频道",北京-北京怀柔
 http://localhost/dashboard/50_quxian_qita.php?id=hrtv
 #EXTINF:-1 tvg-id="北京房山" tvg-name="北京房山" tvg-logo="https://i.imgur.com/WJeOjFE.png" group-title="北京频道",北京-北京房山无线
 https://live.funhillrm.com/2/sd/live.m3u8
 #EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京新闻.png" group-title="北京频道",北京-北京新闻
 https://live.funhillrm.com/5/sd/live.m3u8
+
 #EXTINF:-1 tvg-id="北京大兴" tvg-name="北京大兴" group-title="北京频道",北京-北京大兴
 http://localhost/dashboard/26_beijing_daxing.php
 #EXTINF:-1 tvg-id="北京昌平" tvg-name="北京昌平" group-title="北京频道",北京-北京昌平
 http://localhost/dashboard/26_beijing_changping.php
+#EXTINF:-1 tvg-id="北京昌平" tvg-name="北京昌平" group-title="北京频道",北京-北京昌平
+http://localhost/dashboard/55_guangdianyun.php?id=cptv
 #EXTINF:-1 tvg-id="北京延庆" tvg-name="北京延庆" group-title="北京频道",北京-北京延庆
 http://localhost/dashboard/26_beijing_yanqing.php
 #EXTINF:-1 tvg-id="北京顺义" tvg-name="北京顺义" group-title="北京频道",北京-北京顺义
 https://livebjsy.chinamcache.com/live/zb01.m3u8
 #EXTINF:-1 tvg-id="北京石景山" tvg-name="北京石景山" group-title="北京频道",北京-石景山
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
+
+#EXTINF:-1 group-title="北京频道",北京朝阳
+http://117.114.153.25:8180/TV00000000000000000062@HHZT?
+#EXTINF:-1 group-title="北京频道",北京海淀
+http://117.114.153.25:8180/TV00000000000000000063@HHZT?
+#EXTINF:-1 group-title="北京频道",北京丰台
+http://117.114.153.25:8180/TV00000000000000000064@HHZT?
+#EXTINF:-1 group-title="北京频道",北京石景山
+http://117.114.153.25:8180/TV00000000000000000065@HHZT?
 #EXTINF:-1 tvg-name="朝阳融媒" group-title="北京频道",朝阳融媒-组播
 http://123.112.246.248:5555/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-name="通州融媒" group-title="北京频道",通州融媒-组播
@@ -321,6 +372,7 @@ http://123.112.246.248:5555/rtp/239.3.1.221:8001
 http://123.112.246.248:5555/rtp/239.3.1.154:8001
 #EXTINF:-1 tvg-name="延庆电视台" group-title="北京频道",延庆电视台-组播
 http://123.112.246.248:5555/rtp/239.3.1.187:8001
+
 #EXTINF:-1 tvg-id="北京萌宠" tvg-name="北京萌宠" group-title="北京频道",北京萌宠
 http://123.112.246.248:5555/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-id="北京iptv淘精彩" tvg-name="北京iptv淘精彩" group-title="北京频道",北京iptv淘精彩
@@ -670,6 +722,8 @@ http://localhost/dashboard/02_shandong_shengji.php?id=shpd
 http://localhost/dashboard/02_shandong_shengji.php?id=zypd
 #EXTINF:-1 group-title="山东频道",山东教育
 http://localhost/dashboard/02_shandong_jiaoyu.php
+#EXTINF:-1 group-title="山东频道",,山东教育卫视
+http://117.114.153.25:8180/TV00000000000000000036@HHZT?
 #EXTINF:-1 group-title="山东频道",济南新闻
 http://localhost/dashboard/02_shandong_jinan.php?id=jnxw
 #EXTINF:-1 group-title="山东频道",济南都市
@@ -3125,14 +3179,8 @@ http://localhost/dashboard/18_fujian_shengji.php?id=10
 http://localhost/dashboard/18_fujian_shengji.php?id=2
 #EXTINF:-1 group-title="福建频道",福建-海峡卫视
 http://localhost/dashboard/18_fujian_shengji.php?id=3
-#EXTINF:-1 group-title="福建频道",福建-CCTV1综合
-http://localhost/dashboard/18_fujian_shengji.php?id=414
-#EXTINF:-1 group-title="福建频道",福建-CCTV13新闻
-http://localhost/dashboard/18_fujian_shengji.php?id=410
-#EXTINF:-1 group-title="福建频道",福建-CCTV13新闻-备
-http://localhost/dashboard/18_fujian_shengji.php?id=371
-#EXTINF:-1 group-title="福建频道",福建-CCTV1综合
-http://localhost/dashboard/18_fujian_shengji.php?id=409
+
+
 
 #EXTINF:-1 group-title="福建频道",福建-福州新闻综合
 http://localhost/dashboard/18_fujian_fuzhou.php?id=1
@@ -3158,6 +3206,8 @@ http://localhost/dashboard/18_fujian_putian.php?id=xw
 http://localhost/dashboard/18_fujian_putian.php?id=gg
 #EXTINF:-1 group-title="福建频道",福建-莆田仙游电视
 http://localhost/dashboard/18_fujian_putian.php?id=xy
+#EXTINF:-1 group-title="福建频道",福建-厦门卫视
+http://117.114.153.25:8180/TV00000000000000000044@HHZT?
 #EXTINF:-1 group-title="福建频道",福建-厦门卫视
 http://localhost/dashboard/18_fujian_xiamen.php?id=xmws
 #EXTINF:-1 group-title="福建频道",福建-厦门一套
@@ -3834,6 +3884,36 @@ http://localhost/dashboard/27_chongqin_cqyx.php?id=cqqm
 http://localhost/dashboard/27_chongqin_cqyx.php?id=cgrm
 #EXTINF:-1 group-title="重庆频道",重庆-爱看导视
 http://localhost/dashboard/27_chongqin_cqyx.php?id=akds
+
+#EXTINF:-1 group-title="重庆频道",CQTV影视-组播
+http://113.251.178.188:6666/rtp/235.254.198.180:7980
+#EXTINF:-1 group-title="重庆频道",CQTV都市-组播
+http://113.251.178.188:6666/rtp/235.254.198.181:7980
+#EXTINF:-1 group-title="重庆频道",CQTV时尚-组播
+http://113.251.178.188:6666/rtp/235.254.198.182:7980
+#EXTINF:-1 group-title="重庆频道",CQTV娱乐-组播
+http://113.251.178.188:6666/rtp/235.254.198.187:7980
+#EXTINF:-1 group-title="重庆频道",CQTV公共农村-组播
+http://113.251.178.188:6666/rtp/235.254.198.186:7980
+#EXTINF:-1 group-title="重庆频道",CQTV少儿-组播
+http://113.251.178.188:6666/rtp/235.254.196.214:1128
+#EXTINF:-1 group-title="重庆频道",CQTV科教-组播
+http://113.251.178.188:6666/rtp/235.254.196.215:1132
+#EXTINF:-1 group-title="重庆频道",CQTV生活-组播
+http://113.251.178.188:6666/rtp/235.254.196.216:1136
+#EXTINF:-1 group-title="重庆频道",CQTV汽摩-组播
+http://113.251.178.188:6666/rtp/235.254.196.221:1156
+#EXTINF:-1 group-title="重庆频道",CQTV新闻超高清-组播
+http://113.251.178.188:6666/rtp/235.254.196.199:7980
+#EXTINF:-1 group-title="重庆频道",CQTV手持电视-组播
+http://113.251.178.188:6666/rtp/235.254.196.219:1148
+#EXTINF:-1 group-title="重庆频道",CQTV移动-组播
+http://113.251.178.188:6666/rtp/235.254.196.217:1140
+#EXTINF:-1 group-title="重庆频道",睛彩重庆-组播
+http://113.251.178.188:6666/rtp/235.254.196.218:1146
+#EXTINF:-1 group-title="重庆频道",开县本地电视1-组播
+http://113.251.178.188:6666/rtp/235.254.198.145:1870
+
 #EXTINF:-1 group-title="重庆频道",重庆-合川综合
 http://localhost/dashboard/27_chongqin_cqyx.php?id=hczh
 #EXTINF:-1 group-title="重庆频道",重庆-长寿综合
@@ -3844,8 +3924,6 @@ http://localhost/dashboard/27_chongqin_cqyx.php?id=yyzh
 http://localhost/dashboard/27_chongqin_cqyx.php?id=yunyzh
 #EXTINF:-1 group-title="重庆频道",重庆-铜梁综合
 http://localhost/dashboard/27_chongqin_cqyx.php?id=tlzh
-
-
 
 #EXTINF:-1 group-title="重庆频道",重庆-合川综合
 http://125.62.24.72:8030/ch0.m3u8
@@ -4074,8 +4152,7 @@ https://livesec.mudu.tv/watch/fb3vzu.m3u8
 http://localhost/dashboard/55_guangdianyun.php?id=cctv13
 #EXTINF:-1 group-title="央视频道",CCTV第一剧场
 http://localhost/dashboard/55_guangdianyun.php?id=dyjc
-#EXTINF:-1 group-title="北京频道",昌平电视台
-http://localhost/dashboard/55_guangdianyun.php?id=cptv
+
 #EXTINF:-1 group-title="辽宁频道",大连金普一套
 http://localhost/dashboard/55_guangdianyun.php?id=jptv1
 #EXTINF:-1 group-title="辽宁频道",大连金普二套
@@ -4201,7 +4278,44 @@ http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
 http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 #EXTINF:-1 group-title="港澳台",澳视葡语
 http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
-
+#EXTINF:-1 group-title="港澳台",[V]音乐台
+http://117.114.153.25:8180/TV00000000000000000067@HHZT?
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://117.114.153.25:8180/TV00000000000000000068@HHZT?
+#EXTINF:-1 group-title="港澳台",凤凰卫视
+http://117.114.153.25:8180/TV00000000000000000069@HHZT?
+#EXTINF:-1 group-title="港澳台",start sports
+http://117.114.153.25:8180/TV00000000000000000070@HHZT?
+#EXTINF:-1 group-title="港澳台",星空卫视
+http://117.114.153.25:8180/TV00000000000000000071@HHZT?
+#EXTINF:-1 group-title="港澳台",凤凰电影
+http://117.114.153.25:8180/TV00000000000000000072@HHZT?
+#EXTINF:-1 group-title="港澳台",tvb星河
+http://117.114.153.25:8180/TV00000000000000000073@HHZT?
+#EXTINF:-1 group-title="港澳台",HBO
+http://117.114.153.25:8180/TV00000000000000000074@HHZT?
+#EXTINF:-1 group-title="港澳台",start movies
+http://117.114.153.25:8180/TV00000000000000000075@HHZT?
+#EXTINF:-1 group-title="港澳台",ANX
+http://117.114.153.25:8180/TV00000000000000000076@HHZT?
+#EXTINF:-1 group-title="港澳台",DIScover
+http://117.114.153.25:8180/TV00000000000000000077@HHZT?
+#EXTINF:-1 group-title="港澳台",CNN
+http://117.114.153.25:8180/TV00000000000000000108@HHZT?
+#EXTINF:-1 group-title="港澳台",CINEMAX
+http://117.114.153.25:8180/TV00000000000000000109@HHZT?
+#EXTINF:-1 group-title="港澳台",sport2
+http://117.114.153.25:8180/TV00000000000000000111@HHZT?
+#EXTINF:-1 group-title="港澳台",国家地理
+http://117.114.153.25:8180/TV00000000000000000112@HHZT?
+#EXTINF:-1 group-title="港澳台",澳亚卫视
+http://117.114.153.25:8180/TV00000000000000000117@HHZT?
+#EXTINF:-1 group-title="港澳台",澳亚卫视
+http://117.114.153.25:8180/TV00000000000000000082@HHZT?
+#EXTINF:-1 group-title="港澳台",KBS-world
+http://117.114.153.25:8180/TV00000000000000000166@HHZT?
+#EXTINF:-1 group-title="港澳台",NHK
+http://117.114.153.25:8180/TV00000000000000000161@HHZT?
 #EXTINF:-1 group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",香港电台31
