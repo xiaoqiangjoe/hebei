@@ -95,7 +95,7 @@ http://localhost/dashboard/qly.php?id=5608
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4K.png" group-title="央视频",CCTV-4K 超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4K.png" group-title="央视频",CCTV-4K 超高清-河北衡水联通组播
-http://121.17.146.174:2022/rtp/239.253.93.134:6631
+http://121.29.90.47:7077/rtp/239.253.93.134:6631
 
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4K.png"  group-title="央视频",cctv4k
 http://localhost/dashboard/58_ysp.php?id=cctv4k
