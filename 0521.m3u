@@ -1757,11 +1757,16 @@ http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=dyzh
 http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=cy1t
 #EXTINF:-1 group-title="湖北频道",湖北-松滋电视
 http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=sztv
-#EXTINF:-1 group-title="湖北频道",湖北-丹江口综合-切片？
-http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=djkzh
 #EXTINF:-1 group-title="湖北频道",湖北-孝昌新闻
 http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=xcxw
-
+#EXTINF:-1 group-title="湖北频道",湖北-襄阳综合频道-切片？
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=xyzh
+#EXTINF:-1 group-title="湖北频道",湖北-襄阳公共频道-切片？
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=xyedu
+#EXTINF:-1 group-title="湖北频道",湖北-襄阳经济生活频道-切片？
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=xysoc
+#EXTINF:-1 group-title="湖北频道",湖北-丹江口综合-切片？
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=djkzh
 
 
 
