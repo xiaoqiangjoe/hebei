@@ -2004,12 +2004,16 @@ http://localhost/dashboard/09_anhui_shengji2.php?id=ahyd
 http://localhost/dashboard/09_anhui_bozhou.php?id=bzzh
 #EXTINF:-1 group-title="安徽频道",安徽-亳州农村
 http://localhost/dashboard/09_anhui_bozhou.php?id=bznc
+
 #EXTINF:-1 group-title="安徽频道",安徽-安庆综合
 http://localhost/dashboard/09_anhui_anqing.php?id=aqzh
+#EXTINF:-1 group-title="安徽频道",安徽-安庆综合-静态
+https://52223.hlsplay.aodianyun.com/tv_radio_52223/tv_channel_3559.m3u8?auth_key=4865282323-0-0-151e6a9c65e6c851a32dc115a0b354ac&extra_key=Wn-vevsZG5xzjpXvhZ6AJyS1EV_gEpVNydzx_HfyUciKIX-PaxE4q8ZpyocYdxKucyrJE06s_6Mk4K5PoLTXb_qNyDxo3vOPmaX3dlGIbiiw_EGo4rd_j9osrr-sjCCZ3gNEWVEjGzPrQwx-3rXKPHTUA55_ixKLn3zlItfIYJ0
 #EXTINF:-1 group-title="安徽频道",安徽-安庆经济生活
-http://localhost/dashboard/09_anhui_anqing.php?id=aqgg
-#EXTINF:-1 group-title="安徽频道",安徽-安庆-岳西综合
-https://wyflv.ahwanyun.cn/live/b62955a9283f4c2ea8ccb96e8ac468bc.m3u8
+https://localhost/dashboard/09_anhui_anqing.php?id=aqgg
+#EXTINF:-1 group-title="安徽频道",安徽-安庆经济生活-静态
+https://52223.hlsplay.aodianyun.com/tv_radio_52223/tv_channel_3560.m3u8?auth_key=4865282364-0-0-4b8fb9ad49c7d422653e7900d78b55cb&extra_key=bRLZGaiUFTu1xIdlgXdNMKwAya4SJsGHq_pBgNprB4q7r2xjxOfq29i7sVt1lg7MQVyRKh1ZWkh3qj8tf3eKGfUrmteRVe2AkDFYDSraGcCy3juep8j8aowZAmN2XazBaQOCc7H-kc3UfXCWylarEyVboBymBbMUdwFjQqsNJGI
+
 #EXTINF:-1 group-title="安徽频道",安徽-合肥新闻
 http://localhost/dashboard/09_anhui_hefei.php?id=hfzh
 #EXTINF:-1 group-title="安徽频道",安徽-合肥生活
