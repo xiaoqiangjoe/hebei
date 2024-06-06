@@ -409,12 +409,17 @@ http://localhost/dashboard/57_migu720.php?id=shics
 http://localhost/dashboard/25_shanghai_shengji.php?id=shds
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海东方影视.png" group-title="上海频道",东方影视
 http://localhost/dashboard/57_migu720.php?id=dfys
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海第一财经.png" group-title="上海频道",第一财经
-http://localhost/dashboard/25_shanghai_shengji.php?id=dycj
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/纪实人文.png" group-title="上海频道",纪实人文
 http://localhost/dashboard/25_shanghai_shengji.php?id=jsrw
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海哈哈炫动.png" group-title="上海频道",哈哈炫动
 http://localhost/dashboard/25_shanghai_shengji.php?id=hhxd
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海第一财经.png" group-title="上海频道",第一财经
+http://localhost/dashboard/25_shanghai_shengji.php?id=dycj
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海第一财经.png" group-title="上海频道",第一财经-代理
+http://localhost/dashboard/25_shanghai_dongfangcaijing.php?id=dycjhd2
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海第一财经.png" group-title="上海频道",第一财经浦东-代理
+http://localhost/dashboard/25_shanghai_dongfangcaijing.php?id=dfcjhd
+
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/纪实人文.png" group-title="上海频道",纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/动漫秀场.png" group-title="上海频道",动漫秀场
@@ -1759,16 +1764,53 @@ http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=cy1t
 http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=sztv
 #EXTINF:-1 group-title="湖北频道",湖北-孝昌新闻
 http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=xcxw
-#EXTINF:-1 group-title="湖北频道",湖北-襄阳综合频道-切片？
-http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=xyzh
-#EXTINF:-1 group-title="湖北频道",湖北-襄阳公共频道-切片？
-http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=xyedu
-#EXTINF:-1 group-title="湖北频道",湖北-襄阳经济生活频道-切片？
-http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=xysoc
+#EXTINF:-1 group-title="湖北频道",湖北-阳新综合
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=yszh
+#EXTINF:-1 group-title="湖北频道",湖北-通山综合
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=tszh
 #EXTINF:-1 group-title="湖北频道",湖北-丹江口综合-切片？
 http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=djkzh
+#EXTINF:-1 group-title="湖北频道",湖北-枝江综合
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=zjzh
+#EXTINF:-1 group-title="湖北频道",湖北-应城综合
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=yczh
+#EXTINF:-1 group-title="湖北频道",湖北-赤壁综合
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=cbzh
+#EXTINF:-1 group-title="湖北频道",湖北-秭归综合
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=zgtv
+#EXTINF:-1 group-title="湖北频道",湖北-云梦综合频道
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=ymzh
+#EXTINF:-1 group-title="湖北频道",湖北-汉川新闻综合频道
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=hczh
+#EXTINF:-1 group-title="湖北频道",湖北-五峰电视台
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=wftv
+#EXTINF:-1 group-title="湖北频道",湖北-来凤电视台
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=lftv01
+#EXTINF:-1 group-title="湖北频道",湖北-钟祥综合
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=zxzh
+#EXTINF:-1 group-title="湖北频道",湖北-谷城电视台
+http://localhost/dashboard/07_hubei_cjyun_aodian.php?id=gctv
 
-
+#EXTINF:-1 group-title="湖北频道",湖北-江夏新闻
+http://59.175.226.142:280/gb28181/xwzh.m3u8
+#EXTINF:-1 group-title="湖北频道",湖北-崇阳新闻
+http://61.184.176.248:10500/live/live.m3u8
+#EXTINF:-1 group-title="湖北频道",湖北-襄阳综合频道
+http://localhost/dashboard/07_hubei_xiangyang.php?id=xyzh
+#EXTINF:-1 group-title="湖北频道",湖北-襄阳公共频道
+http://localhost/dashboard/07_hubei_xiangyang.php?id=xygg
+#EXTINF:-1 group-title="湖北频道",湖北-襄阳经济生活频道
+http://localhost/dashboard/07_hubei_xiangyang.php?id=xyjjsh
+#EXTINF:-1 group-title="湖北频道",湖北-恩施综合
+http://localhost/dashboard/07_hubei_enshi.php?id=eszh
+#EXTINF:-1 group-title="湖北频道",湖北-恩施文旅
+http://localhost/dashboard/07_hubei_enshi.php?id=eswl
+#EXTINF:-1 group-title="湖北频道",湖北-巴东综合
+http://localhost/dashboard/07_hubei_enshi.php?id=bdzh
+#EXTINF:-1 group-title="湖北频道",湖北-咸丰综合
+http://localhost/dashboard/07_hubei_enshi.php?id=xfzh
+#EXTINF:-1 group-title="湖北频道",湖北-鹤峰综合
+http://localhost/dashboard/07_hubei_enshi.php?id=hfzh
 
 #EXTINF:-1 group-title="湖北频道",湖北-宜昌综合
 http://playapp.3xgd.com:80/sxgd/zhpd.m3u8
@@ -1814,6 +1856,10 @@ http://localhost/dashboard/07_hubei_anlu.php?id=hbws
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=xzzh
 #EXTINF:-1 group-title="湖北频道",湖北-蔡甸综合频道
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=cdzh
+#EXTINF:-1 group-title="湖北频道",湖北-黄石综合频道
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=hszh
+#EXTINF:-1 group-title="湖北频道",湖北-黄石都市综合频道
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=hsds
 
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/湖南卫视.png" group-title="湖南频道",湖南卫视
@@ -1937,7 +1983,7 @@ http://localhost/dashboard/08_hunan_loudi.php?id=klg
 #EXTINF:-1 group-title="安徽频道",安徽-安徽卫视
 http://localhost/dashboard/09_anhui_shengji.php?id=ahws
 #EXTINF:-1 group-title="安徽频道",安徽-安徽经视
-http://localhost/dashboard/09_anhui_shengji.php?id=ahjs
+http://localhost/dashboard/09_anhui_shengji2.php?id=ahjjsh
 #EXTINF:-1 group-title="安徽频道",安徽-安徽综艺
 http://localhost/dashboard/09_anhui_shengji.php?id=ahzy
 #EXTINF:-1 group-title="安徽频道",安徽-安徽综艺
@@ -1962,6 +2008,8 @@ http://localhost/dashboard/09_anhui_bozhou.php?id=bznc
 http://localhost/dashboard/09_anhui_anqing.php?id=aqzh
 #EXTINF:-1 group-title="安徽频道",安徽-安庆经济生活
 http://localhost/dashboard/09_anhui_anqing.php?id=aqgg
+#EXTINF:-1 group-title="安徽频道",安徽-安庆-岳西综合
+https://wyflv.ahwanyun.cn/live/b62955a9283f4c2ea8ccb96e8ac468bc.m3u8
 #EXTINF:-1 group-title="安徽频道",安徽-合肥新闻
 http://localhost/dashboard/09_anhui_hefei.php?id=hfzh
 #EXTINF:-1 group-title="安徽频道",安徽-合肥生活
@@ -1975,7 +2023,7 @@ http://localhost/dashboard/09_anhui_hefei.php?id=hfxx
 #EXTINF:-1 group-title="安徽频道",安徽-合肥公共
 http://localhost/dashboard/09_anhui_hefei.php?id=hfgg
 #EXTINF:-1 group-title="安徽频道",安徽-阜阳新闻rtmp
-http://localhost/dashboard/09_anhui_fuyang.php?id=1
+rtmp://41007.lssplay.aodianyun.com/tv_radio_41007/tv_channel_2851?auth_key=4849374383-0-0-72d0e2f65df460eb00233e5a4f48d3fb
 #EXTINF:-1 group-title="安徽频道",安徽-阜阳教育频道
 http://localhost/dashboard/09_anhui_fuyang.php?id=2
 #EXTINF:-1 group-title="安徽频道",安徽-阜阳生活频道
@@ -1985,10 +2033,10 @@ http://localhost/dashboard/09_anhui_fuyang.php?id=4
 
 #EXTINF:-1 group-title="安徽频道",安徽-芜湖新闻综合
 http://localhost/dashboard/09_anhui_wuhui.php?id=whzh
-#EXTINF:-1 group-title="安徽频道",安徽-芜湖生活频道
-http://localhost/dashboard/09_anhui_wuhui.php?id=whsh
 #EXTINF:-1 group-title="安徽频道",安徽-芜湖公共频道
 http://localhost/dashboard/09_anhui_wuhui.php?id=whgg
+#EXTINF:-1 group-title="安徽频道",安徽-南陵新闻综合
+http://localhost/dashboard/09_anhui_wuhui.php?id=nlzh
 
 #EXTINF:-1 group-title="安徽频道",安徽-繁昌新闻综合
 http://localhost/dashboard/09_anhui_wuhui.php?id=fczh
@@ -2035,15 +2083,67 @@ http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
 #EXTINF:-1 group-title="安徽频道",安徽-淮南民生
 http://112.30.194.221:20080/live/6e43da3335a640b3a73c948fccf935c5/hls.m3u8
 
-#EXTINF:-1 group-title="安徽卫视",安徽-宣城新闻组播
-http://220.178.185.76:4000/udp/238.1.78.142:7008
-#EXTINF:-1 group-title="安徽卫视",安徽-宣城文旅生活组播
-http://220.178.185.76:4000/udp/238.1.78.143:7016
+#EXTINF:-1 group-title="安徽频道",安徽-宣城新闻-组播
+http://223.240.187.21:8888/udp/238.1.78.142:7008
+#EXTINF:-1 group-title="安徽频道",安徽-宣城文旅生活-组播
+http://223.240.187.21:8888/udp/238.1.78.143:7016
 #EXTINF:-1 group-title="安徽频道",安徽-无为新闻综合
 http://localhost/dashboard/59_qita.php?id=wwxwzh
 #EXTINF:-1 group-title="安徽频道",安徽-寿县新闻-网页可以
 http://localhost/dashboard/59_qita.php?id=sxxwzh
+#EXTINF:-1 group-title="安徽频道",安徽-蒙城县电视台rtmp
+rtmp://pull-hsbj.vzan.com/v/200263_698384284379943742?zbid=200263&tpid=1914190744
 
+#EXTINF:-1 group-title="安徽频道",安徽-宿松新闻综合频道-奥点云
+http://52181.hlsplay.aodianyun.com/tv_radio_52181/tv_channel_3390.m3u8?auth_key=4864330173-0-0-2a353fbf5a7ca1fbcd416784d0dd6feb&extra_key=FRIjWvNtz2cHy_4tijOGiUt7HGzSh36VS8wM7heXJuKS7QcdzmYtB4Xdwq1-b49heYVFgOjfNYcHlNkWMLljrgOgBYUtPvwV329k2Wtl9C1vpcHndVm2VT0bYMkLnNPAKUqWAnhUpZ259pZH3kjIIJAAI7lXbvNNkOq0p761Gds
+#EXTINF:-1 group-title="安徽频道",安徽-宿松戏曲文艺-奥点云
+http://52181.hlsplay.aodianyun.com/tv_radio_52181/tv_channel_3389.m3u8?auth_key=4864330202-0-0-2268f4d5824c10bb314f55dc9cd6b165&extra_key=rwRUgVSNWali97XRZgNTe4xO1vc8AG2jj51x8uQ7gSUG-XyXYVHFzXxi5tygubMbWE7cRjthGbemXjtCXGTqIE-4BBaPBL-LaG6ZTKGc-p9GYmcPwlPB3DuYKNV_2nnPq7h_TG4Dvi4flw3CUYjIRvrtvCAUIcWgymSmI75x3QU
+
+
+#EXTINF:-1 group-title="安徽频道",安徽-霍邱电视台
+http://112.30.194.221:20080/live/186d03e65fd64d33b033c31da5a4a5a0/hls.m3u8
+#EXTINF:-1 group-title="安徽频道",安徽-歙县综合频道
+http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8?zanhd
+#EXTINF:-1 group-title="安徽频道",安徽-歙县综合频道-资源2
+https://wyflv.ahwanyun.cn/live/4b3024127d1c472986ccdcb454f81a9f.m3u8
+
+#EXTINF:-1 group-title="安徽频道",安徽-屯溪融媒
+http://112.30.194.221:20080/live/63cfaf06e7064943b9a1b7d76d3470dd/hls.m3u8
+#EXTINF:-1 group-title="安徽频道",安徽-当涂新闻综合
+http://112.30.194.221:20080/live/4f38ef59c79e4d4bac1a995681102573/hls.m3u8
+#EXTINF:-1 group-title="安徽频道",安徽-濉溪新闻综合
+http://112.30.194.221:20080/live/7f6926bc79174b03a212fe2aad0b62b6/hls.m3u8
+#EXTINF:-1 group-title="安徽频道",安徽-桐城综合频道
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=tczh
+
+#EXTINF:-1 group-title="安徽频道",安徽-泾县综合频道
+https://apisave.jxnn.cn/hls/xwzonhe/playlist.m3u8
+#EXTINF:-1 group-title="安徽频道",安徽-泾县文化旅游
+https://apisave.jxnn.cn/hls/wenlv/playlist.m3u8
+#EXTINF:-1 group-title="安徽频道",安徽-黟县综合频道
+https://play-a2.quklive.com/live/1715757116493079.m3u8
+#EXTINF:-1 group-title="安徽频道",安徽-广德综合频道
+http://tlive.gdtv.ah.cn/live/newsTV.m3u8
+#EXTINF:-1 group-title="安徽频道",安徽-广德生活频道
+http://tlive.gdtv.ah.cn/live/shenghuoTV.m3u8
+#EXTINF:-1 group-title="安徽频道",安徽-五河新闻综合频道
+http://60.170.109.149:8098/hls/wuhe2/playlist.m3u8
+#EXTINF:-1 group-title="安徽频道",安徽-五河影视生活
+http://60.170.109.149:8098/hls/wuhevideo/playlist.m3u8
+#EXTINF:-1 group-title="安徽频道",安徽-萧县新闻综合
+http://60.171.239.216:9080/hls/stream0.m3u8
+
+#EXTINF:-1 group-title="安徽频道",安徽-利辛新闻综合频道
+https://live.rong-lixin.com/hls/lixinxw/playlist.m3u8
+#EXTINF:-1 group-title="安徽频道",安徽-利辛影视娱乐
+https://live.rong-lixin.com/hls/lixinys/playlist.m3u8
+
+#EXTINF:-1 group-title="安徽频道",安徽-金寨新闻综合
+http://file.kanjinzhai.cn/hls/jinzhaixw/playlist.m3u8
+#EXTINF:-1 group-title="安徽频道" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/%E5%AE%89%E5%BE%BD-%E6%B6%A1%E9%98%B3.png",安徽-涡阳新闻综合
+http://wyflv.ahwanyun.cn/live/53b0864f78934894addd8168ce64c0a8.flv
+#EXTINF:-1 group-title="安徽频道",安徽-岳西新闻综合
+https://wyflv.ahwanyun.cn/live/bdb496323e1740e487959f84a7e62503.m3u8
 
 #EXTINF:-1 group-title="西藏频道",西藏卫视
 http://localhost/dashboard/10_xizang_shengji.php?id=ws
@@ -3330,25 +3430,20 @@ http://localhost/dashboard/19_jiangsu_yancheng.php?id=26
 #EXTINF:-1 group-title="江苏频道",江苏-苏州新闻综合
 https://liveshowbak2.kan0512.com/norecord/tv_csztv1.m3u8
 #EXTINF:-1 group-title="江苏频道",江苏-苏州社会经济
-https://liveshowbak2.kan0512.com/norecord/tv_csztv2.m3u8
+rtmp://liveshowbak2.kan0512.com/norecord/norecord_sbs2
 #EXTINF:-1 group-title="江苏频道",江苏-苏州文化生活
-https://liveshowbak2.kan0512.com/norecord/tv_csztv3.m3u8
+rtmp://liveshowbak2.kan0512.com/norecord/norecord_sbs3
 #EXTINF:-1 group-title="江苏频道",江苏-苏州电影娱乐
-https://liveshowbak2.kan0512.com/norecord/tv_csztv4.m3u8
+rtmp://liveshowbak2.kan0512.com/norecord/norecord_sbs4
 #EXTINF:-1 group-title="江苏频道",江苏-苏州生活资讯
-https://liveshowbak2.kan0512.com/norecord/tv_csztv5.m3u8
+rtmp://liveshowbak2.kan0512.com/norecord/norecord_sbs5
 #EXTINF:-1 group-title="江苏频道",江苏-泰州新闻频道
 http://localhost/dashboard/19_jiangsu_taizhou.php?id=5
 #EXTINF:-1 group-title="江苏频道",江苏-泰州经济生活频道
 http://localhost/dashboard/19_jiangsu_taizhou.php?id=6
 #EXTINF:-1 group-title="江苏频道",江苏-泰州影视娱乐频道
 http://localhost/dashboard/19_jiangsu_taizhou.php?id=7
-#EXTINF:-1 group-title="江苏频道",江苏-南通综合-静态
-https://nt-hls.ntjoy.com/live/4f1.m3u8
-#EXTINF:-1 group-title="江苏频道",江苏-南通社教-静态
-https://nt-hls.ntjoy.com/live/4f3.m3u8
-#EXTINF:-1 group-title="江苏频道",江苏-南通公共-静态
-https://nt-hls.ntjoy.com/live/4f5.m3u8
+
 #EXTINF:-1 group-title="江苏频道",江苏-南通综合- PHP1
 http://localhost/dashboard/19_jiangsu_nantong1.php?id=nttv1
 #EXTINF:-1 group-title="江苏频道",江苏-南通社教- PHP1
@@ -3594,6 +3689,11 @@ https://live.zttv.cn/lsdream/EiCgjnA/23hhi4g.m3u8
 http://localhost/dashboard/21_yunnan_lijiang.php?id=ljxwzh
 #EXTINF:-1 group-title="云南频道",云南-丽江公共频道
 http://localhost/dashboard/21_yunnan_lijiang.php?id=ljwhly
+#EXTINF:-1 group-title="云南频道",云南-昭通-1
+http://localhost/dashboard/21_yunnan_zhaotong.php?id=zttv1
+#EXTINF:-1 group-title="云南频道",云南-昭通-3
+http://localhost/dashboard/21_yunnan_zhaotong.php?id=zttv3
+
 
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/内蒙古卫视.png" group-title="内蒙古频道",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
@@ -4236,52 +4336,64 @@ http://localhost/dashboard/55_guangdianyun.php?id=cjcssh
 http://localhost/dashboard/55_guangdianyun.php?id=njtv
 #EXTINF:-1 group-title="海南频道",儋州台 海南 
 http://localhost/dashboard/55_guangdianyun.php?id=dztv
-#EXTINF:-1 group-title="胡南频道",金鹰纪实
+#EXTINF:-1 group-title="湖南频道",金鹰纪实
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaWf4k%2B88FALXqp3i7ExZ4HArfvJF2pWpm4RxcBNhZ7j8oKdkoj6hFDX2k81AyJk8L2ZgQL4lTNsyfhwMVyjNWA
-#EXTINF:-1 group-title="胡南频道",快乐垂钓
+#EXTINF:-1 group-title="湖南频道",快乐垂钓
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRJiJ8tFyWVQ4LIMJg%2BXyuQCUUYb4If0LygirGPvYsbTi60DjU3KKPbFtbFrR1EGj%2FI
 #EXTINF:-1 group-title="河南频道",梨园频道
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm
 
-
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/凤凰卫视中文台.png" group-title="港澳台",凤凰中文
-http://localhost/dashboard/51_fenghuang_480.php?id=fhzw
+http://117.114.153.25:8180/TV00000000000000000069@HHZT?
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/凤凰卫视中文台.png" group-title="港澳台",凤凰中文
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/凤凰卫视资讯台.png" group-title="港澳台",凤凰资讯
-http://localhost/dashboard/51_fenghuang_480.php?id=fhzx
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/凤凰卫视资讯台.png" group-title="港澳台",凤凰资讯
+http://171.108.239.74:8181/tsfile/live/1024_1.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/凤凰卫视资讯台.png" group-title="港澳台",凤凰资讯
+http://117.114.153.25:8180/TV00000000000000000068@HHZT?
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/凤凰卫视资讯台.png" group-title="港澳台",凤凰资讯
+http://61.221.215.25:8800/hls/47/index.m3u8
+
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/凤凰香港.png" group-title="港澳台",凤凰香港
 http://113.64.145.61:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰卫视香港台
-http://nz189l149.bb27109.ctm.net:8892/bysid/85
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/凤凰香港.png" group-title="港澳台",凤凰香港
+http://171.108.239.74:8181/tsfile/live/1025_1.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰电影
+http://117.114.153.25:8180/TV00000000000000000072@HHZT?
+
 
 
 #EXTINF:-1 group-title="港澳台",东森超视
 http://171.108.239.74:8181/tsfile/live/1023_1.m3u8
+#EXTINF:-1 group-title="港澳台",东森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 group-title="港澳台",东森洋片
 http://171.108.239.74:8181/tsfile/live/1016_1.m3u8
 #EXTINF:-1 group-title="港澳台",东森电影
 http://171.108.239.74:8181/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="港澳台",东森新闻美国
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+
+
+
 #EXTINF:-1 group-title="港澳台",星河频道
 http://171.108.239.74:8181/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="港澳台",天映电影
 http://171.108.239.74:8181/tsfile/live/1009_1.m3u8
 #EXTINF:-1 group-title="港澳台",龙祥电影
 http://171.108.239.74:8181/tsfile/live/1011_1.m3u8
-#EXTINF:-1 group-title="港澳台",星空卫视
-http://171.108.239.74:8181/tsfile/live/1012_1.m3u8
+
 #EXTINF:-1 group-title="港澳台",中国电影
 http://171.108.239.74:8181/tsfile/live/1013_1.m3u8
-#EXTINF:-1 group-title="港澳台",东森洋片
-http://171.108.239.74:8181/tsfile/live/1016_1.m3u8
+
 #EXTINF:-1 group-title="港澳台",经典电影
 http://171.108.239.74:8181/tsfile/live/1019_1.m3u8
 #EXTINF:-1 group-title="港澳台",热播剧场
 http://171.108.239.74:8181/tsfile/live/1020_1.m3u8
 #EXTINF:-1 group-title="港澳台",谍战剧场
 http://171.108.239.74:8181/tsfile/live/1021_1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://171.108.239.74:8181/tsfile/live/1024_1.m3u8
-#EXTINF:-1 group-title="港澳台",莲花台
-http://171.108.239.74:8181/tsfile/live/1025_1.m3u8
 
 #EXTINF:-1 group-title="港澳台",澳门莲花
 http://localhost/dashboard/52_aomen_lianhua.php
@@ -4299,18 +4411,26 @@ http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
 http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 #EXTINF:-1 group-title="港澳台",澳视葡语
 http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
+#EXTINF:-1 group-title="港澳台",澳亚卫视
+http://117.114.153.25:8180/TV00000000000000000117@HHZT?
+#EXTINF:-1 group-title="港澳台",澳亚卫视
+http://117.114.153.25:8180/TV00000000000000000082@HHZT?
+
+
 #EXTINF:-1 group-title="港澳台",[V]音乐台
 http://117.114.153.25:8180/TV00000000000000000067@HHZT?
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://117.114.153.25:8180/TV00000000000000000068@HHZT?
-#EXTINF:-1 group-title="港澳台",凤凰卫视
-http://117.114.153.25:8180/TV00000000000000000069@HHZT?
 #EXTINF:-1 group-title="港澳台",start sports
 http://117.114.153.25:8180/TV00000000000000000070@HHZT?
+
 #EXTINF:-1 group-title="港澳台",星空卫视
 http://117.114.153.25:8180/TV00000000000000000071@HHZT?
-#EXTINF:-1 group-title="港澳台",凤凰电影
-http://117.114.153.25:8180/TV00000000000000000072@HHZT?
+#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳台",星空卫视
+https://epg.pw/stream/295e40de2803afdf3bdd9e10c5468e14227aca3ddcb253c76c5124bd0b09e1a7.ctv
+#EXTINF:-1 group-title="港澳台",星空卫视-云南组播
+http://106.59.2.162:55555/udp/239.200.200.134:8884
+#EXTINF:-1 group-title="港澳台",星空卫视-临时
+http://171.108.239.74:8181/tsfile/live/1012_1.m3u8
+
 #EXTINF:-1 group-title="港澳台",tvb星河
 http://117.114.153.25:8180/TV00000000000000000073@HHZT?
 #EXTINF:-1 group-title="港澳台",HBO
@@ -4329,53 +4449,12 @@ http://117.114.153.25:8180/TV00000000000000000109@HHZT?
 http://117.114.153.25:8180/TV00000000000000000111@HHZT?
 #EXTINF:-1 group-title="港澳台",国家地理
 http://117.114.153.25:8180/TV00000000000000000112@HHZT?
-#EXTINF:-1 group-title="港澳台",澳亚卫视
-http://117.114.153.25:8180/TV00000000000000000117@HHZT?
-#EXTINF:-1 group-title="港澳台",澳亚卫视
-http://117.114.153.25:8180/TV00000000000000000082@HHZT?
 #EXTINF:-1 group-title="港澳台",KBS-world
 http://117.114.153.25:8180/TV00000000000000000166@HHZT?
 #EXTINF:-1 group-title="港澳台",NHK
 http://117.114.153.25:8180/TV00000000000000000161@HHZT?
 #EXTINF:-1 group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",香港电台31
-http://localhost/dashboard/53_hk_radio.php?id=rhk31
-#EXTINF:-1 group-title="港澳台",香港电台32
-http://localhost/dashboard/53_hk_radio.php?id=rhk32
-#EXTINF:-1 group-title="港澳台",香港电台33
-http://localhost/dashboard/53_hk_radio.php?id=rhk33
-#EXTINF:-1 group-title="港澳台",香港电台34
-http://localhost/dashboard/53_hk_radio.php?id=rhk34
-#EXTINF:-1 group-title="港澳台",香港电台35
-http://localhost/dashboard/53_hk_radio.php?id=rhk35
-#EXTINF:-1 group-title="港澳台",澳亚卫视
-http://localhost/dashboard/53_hk_radio.php?id=ayws
-#EXTINF:-1 group-title="港澳台",香港有线电视台直播新闻台
-http://localhost/dashboard/53_hk_radio.php?id=yxzbxwt
-#EXTINF:-1 group-title="港澳台",香港耀阳财经频道
-http://localhost/dashboard/53_hk_radio.php?id=yccj
-#EXTINF:-1 group-title="港澳台",TVB星河
-http://113.64.145.61:8081/hls/135/index.m3u8
-#EXTINF:-1 group-title="港澳台",TVB_PLus
-http://nz189l149.bb27109.ctm.net:8892/bysid/82
-
-#EXTINF:-1 group-title="港澳台",无线新闻
-http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
-#EXTINF:-1 group-title="港澳台",无线新闻
-http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
-#EXTINF:-1 group-title="港澳台",无线明珠
-http://nz189l149.bb27109.ctm.net:8892/bysid/2
-#EXTINF:-1 group-title="港澳台",韩国阿里郎
-http://66.165.240.154:8080/live/hgArirang01/hls.m3u8
-#EXTINF:-1 group-title="港澳台",韩国TVWorkNet
-http://66.165.240.154:8080/live/hgTVWorkNet/hls.m3u8
-#EXTINF:-1 group-title="港澳台",三立新闻台
-http://66.165.240.154:8080/live/slxw02/hls.m3u8
-#EXTINF:-1 group-title="港澳台",华语电视
-http://66.165.240.154:8080/live/tytvbs11/hls.m3u8
-#EXTINF:-1 group-title="港澳台",AMC电影台
-http://66.165.240.154:8080/live/sf2xby4/hls.m3u8
 
 
 
@@ -4385,18 +4464,12 @@ http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="港澳台",民视新闻台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",东森新闻美国
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",东森超视
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",东森超视
-http://66.165.240.154:8080/live/gatdscj02/hls.m3u8
+#EXTINF:-1 group-title="港澳台",客家电视台
+https://hc73k3dhwo5gfkt.wcetv.com/hls/hakkatv.m3u8
 #EXTINF:-1 group-title="港澳台",TVBS-亚洲
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS-亚洲
-http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
-#EXTINF:-1 group-title="港澳台",测试是啥台
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+
+
 #EXTINF:-1 tvg-name="环球电视台HD" tvg-id="" group-title="港澳台"  tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719075349183643_37.png",环球电视台HD
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="港澳台",番薯音乐
@@ -4409,21 +4482,21 @@ http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 http://61.221.215.25:8800/hls/1/index.m3u8
 #EXTINF:-1 group-title="港澳台",TVBSnew
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 group-title="港澳台",八大戏剧
-http://61.221.215.25:8800/hls/39/index.m3u8
+
 #EXTINF:-1 group-title="港澳台",中华小当家
 http://61.221.215.25:8800/hls/40/index.m3u8
 #EXTINF:-1 group-title="港澳台",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 group-title="港澳台",amc电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://61.221.215.25:8800/hls/47/index.m3u8
+
 
 #EXTINF:-1 group-title="港澳台",ASIA
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 group-title="港澳台",NHKworld
 http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1 group-title="港澳台",八大戏剧
+http://61.221.215.25:8800/hls/39/index.m3u8
 #EXTINF:-1 group-title="港澳台",八大第一
 http://61.221.215.25:8800/hls/55/index.m3u8
 #EXTINF:-1 group-title="港澳台",八大综合
@@ -4434,33 +4507,13 @@ http://61.221.215.25:8800/hls/57/index.m3u8
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 group-title="港澳台",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 group-title="港澳台",纬来体育
-https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
-#EXTINF:-1 group-title="港澳台",纬来体育
-http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-#EXTINF:-1 group-title="港澳台",纬来体育
-https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 group-title="港澳台",纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 group-title="港澳台",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 group-title="港澳台",中天新闻台
-http://66.165.240.154:8080/live/ztylt01/hls.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻台
-http://66.165.240.154:8080/live/tyxltsxw3/hls.m3u8
 
-#EXTINF:-1 group-title="港澳台",华语电视
-http://66.165.240.154:8080/live/tytvbs10/hls.m3u8
-#EXTINF:-1 group-title="港澳台",华视
-rtmp://f13h.mine.nu/sat/tv111
-#EXTINF:-1 group-title="港澳台",中视
-http://66.165.240.154:8080/live/ztylt06/hls.m3u8
-#EXTINF:-1 group-title="港澳台",HBO-2
-http://66.165.240.154:8080/live/2mghbo02/hls.m3u8
-#EXTINF:-1 group-title="港澳台",TSN-3
-http://66.165.240.154:8080/live/2cahbd7/hls.m3u8
-#EXTINF:-1 group-title="港澳台",大爱
-http://66.165.240.154:8080/live/gatda201/hls.m3u8
+
+
 #EXTINF:-1 group-title="港澳台",大愛1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="港澳台",大爱2
@@ -4472,104 +4525,13 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 #EXTINF:-1 group-title="港澳台",好消息电视台2
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-#EXTINF:-1 group-title="港澳台",天映频道
-http://210.210.155.37/dr9445/h/h14/index.m3u8
-#EXTINF:-1 group-title="港澳台",天映经典
-https://epg.pw/stream/829a289488e515cbb09574e8c3e1f748306d1b85c56c97500556b755990b9af7.ctv
 
-#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳台",星空卫视
-https://epg.pw/stream/295e40de2803afdf3bdd9e10c5468e14227aca3ddcb253c76c5124bd0b09e1a7.ctv
-#EXTINF:-1 group-title="港澳台",星空卫视-云南组播
-http://106.59.3.47:55555/udp/239.200.200.134:8884
 
-#EXTINF:-1 group-title="港澳台",GOODTV旅行
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
-#EXTINF:-1 group-title="港澳台",MTVBASE
-https://epg.pw/stream/9968913972051a638af9dcd61e65d77dccba869b5278b8dbae0b98f0571b0185.ctv
-#EXTINF:-1 group-title="港澳台",TVB翡翠台
-https://epg.pw/stream/80c9fc96e45c72553ecc03313de560755db339689870f9095aa9c685e39879e5.m3u8
-#EXTINF:-1 group-title="港澳台",TVB明珠台
-https://epg.pw/stream/4b6c809c8f12c14f840b1a00024562de2a134fe653509cc76ff6782f881a05d1.ctv
 
-#EXTINF:-1 group-title="港澳台",TVB千玺经典台
-https://epg.pw/stream/039a052852baa005d8e3258222ddff79dd0aa0ea63dc3e1885e78f72efaff9a4.ctv
-#EXTINF:-1 group-title="港澳台",无线财经
-http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
-#EXTINF:-1 group-title="港澳台",J2
-http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
-#EXTINF:-1 group-title="港澳台",龙华经典-限制区域
-https://epg.pw/stream/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8
-#EXTINF:-1 group-title="港澳台",龙华日韩-限制区域
-https://epg.pw/stream/3fc108be6954ed3cda32d576d9c18a1cf044b003c6d173c74a3fa25824fe100c.m3u8
-#EXTINF:-1 group-title="港澳台",龙华洋片台
-https://epg.pw/stream/458429f81d1a14007fd3d6f5a8ec3cdd04e16d2237f1f1647eaf3c027cc96505.m3u8
-#EXTINF:-1 group-title="港澳台",龙华戏剧
-https://epg.pw/stream/6dfb8189be0e3e69a2b9a63956a201bdd04ba0c3db1eeec0c20406ada33ba775.m3u8
-#EXTINF:-1 group-title="港澳台",龙华偶像
-https://epg.pw/stream/f04cd7ed7bbbd3449b03632a4df58481a0871423d84f0e2950b5507a9652eaca.m3u8
 
-#EXTINF:-1 group-title="港澳台",中天新闻台-备
-https://epg.pw/stream/b9e82cfac65f66443693e33a291fb6c781816165e5877e9c57480ad2e03dbee8.ctv
-#EXTINF:-1 group-title="港澳台",中天亚洲台-限制
-https://epg.pw/stream/8c4cc58cb16312d301865331be6a868a21485d02bbaea7a4b2aa65c79c4083ca.ctv
-#EXTINF:-1 group-title="港澳台",tvbs新闻台
-http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
-#EXTINF:-1 group-title="港澳台",东森新闻台
-http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
-#EXTINF:-1 group-title="港澳台",东森新闻台-备
-https://epg.pw/stream/7354586f1fc075ff7ca765620bbb23172a047a9fcddd664b95145579c0585d74.ctv
-#EXTINF:-1 group-title="港澳台",东森戏剧
-https://epg.pw/stream/77762d772ca29166c741bb720f444a036c6b7c2c721673e67c5d276c2e7e09c9.ctv
-#EXTINF:-1 group-title="港澳台",东森美洲
-https://epg.pw/stream/4f75b6abb8483c7acd3ce3b93a088cb93d1be9ec7c8bf4d9137f0f4c3a2076a6.m3u8
-#EXTINF:-1 group-title="港澳台",寰宇新闻台
-http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
 
-#EXTINF:-1 group-title="港澳台",年代新闻台
-http://ali.hlspull.yximgs.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
-#EXTINF:-1 group-title="港澳台",三立新闻台
-http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw.flv
-#EXTINF:-1 group-title="港澳台",壹新闻频道
-http://ali.hlspull.yximgs.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
-#EXTINF:-1 group-title="港澳台",镜新闻频道
-http://ali.hlspull.yximgs.com/live/twliveexcvzzocvuozxucfdexzpzzyxchvlzxzfezhcelethzzdxw.flv
-#EXTINF:-1 group-title="港澳台",三立LIVE台
-http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive.flv
-#EXTINF:-1 group-title="港澳台",动物星球台
-http://ali.hlspull.yximgs.com/live/twlivexcvbpzyhvzcvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzzwxz.flv
-#EXTINF:-1 group-title="港澳台",探索频道台
-http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz.flv
-#EXTINF:-1 group-title="港澳台",龙祥电影台
-http://ali.hlspull.yximgs.com/live/twlivemzloehzbzzzpvboydetzewszhthzyuzfzwetyzzzhflxsz.flv
-#EXTINF:-1 group-title="港澳台",东森电影台
-http://ali.hlspull.yximgs.com/live/twlivezowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy.flv
-#EXTINF:-1 group-title="港澳台",龙华电影台
-http://ali.hlspull.yximgs.com/live/twlivezpxnmzfhzuowezczxhvzlfzffzdwpoehcopvdzozzfxwzy.flv
-#EXTINF:-1 group-title="港澳台",龙华洋片台
-http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfvxcvxszbcvzfdvsfcbzbnztyxty.flv
-#EXTINF:-1 group-title="港澳台",好莱坞电影
-http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
-#EXTINF:-1 group-title="港澳台",AXN台频道
-http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv
-#EXTINF:-1 group-title="港澳台",东森戏剧台
-http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
-#EXTINF:-1 group-title="港澳台",台视台频道
-http://ali.hlspull.yximgs.com/live/twliveptezfsxlvczdewzzzpszfvvxczzzpfossvbxcfzztzvxzhlts.flv
-#EXTINF:-1 group-title="港澳台",台视HD
-https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
 
-#EXTINF:-1 group-title="港澳台",台视新闻台-备份
-https://epg.pw/stream/3494a155d6e7afad40f588196589dc0504ac51f3ba233b6338181e20b7e5428b.ctv
-#EXTINF:-1 group-title="港澳台",民视台频道
-http://ali.hlspull.yximgs.com/live/twlivephzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms.flv
 
-#EXTINF:-1 group-title="港澳台",中视新闻台
-http://ali.hlspull.yximgs.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
-#EXTINF:-1 group-title="港澳台",中视新闻台-备
-https://epg.pw/stream/5b471967247922dd626a252fb38f22a06be7e1a8c34e2b8c8cea7d4bc73a5c7f.ctv
-
-#EXTINF:-1 group-title="港澳台",TVBS-频道
-http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
 
 
 #EXTINF:-1 group-title="未分组",黑莓电影
@@ -4616,7 +4578,123 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7681593
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=4
 #EXTINF:-1 group-title="未分组",NewTV精品大剧
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=4
+
+
 #EXTINF:-1 group-title="未分组",郑铁频道
 http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
 #EXTINF:-1 group-title="未分组",人民铁道
 http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
+
+
+
+#EXTINF:-1 group-title="港澳台",香港电台31
+http://localhost/dashboard/53_hk_radio.php?id=rhk31
+#EXTINF:-1 group-title="港澳台",香港电台32
+http://localhost/dashboard/53_hk_radio.php?id=rhk32
+#EXTINF:-1 group-title="港澳台",香港电台33
+http://localhost/dashboard/53_hk_radio.php?id=rhk33
+#EXTINF:-1 group-title="港澳台",香港电台34
+http://localhost/dashboard/53_hk_radio.php?id=rhk34
+#EXTINF:-1 group-title="港澳台",香港电台35
+http://localhost/dashboard/53_hk_radio.php?id=rhk35
+#EXTINF:-1 group-title="港澳台",澳亚卫视
+http://localhost/dashboard/53_hk_radio.php?id=ayws
+#EXTINF:-1 group-title="港澳台",香港有线电视台直播新闻台
+http://localhost/dashboard/53_hk_radio.php?id=yxzbxwt
+#EXTINF:-1 group-title="港澳台",香港耀阳财经频道
+http://localhost/dashboard/53_hk_radio.php?id=yccj
+#EXTINF:-1 group-title="港澳台",TVB星河
+http://113.64.145.61:8081/hls/135/index.m3u8
+#EXTINF:-1 group-title="港澳台",TVB_PLus
+http://nz189l149.bb27109.ctm.net:8892/bysid/82
+
+
+#EXTM3U
+#EXTINF:-1 group-title="春晚",春晚1984
+http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+#EXTINF:-1 group-title="春晚",春晚1985
+http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+#EXTINF:-1 group-title="春晚",春晚1986
+https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚1987
+https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+#EXTINF:-1 group-title="春晚",春晚1988
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+#EXTINF:-1 group-title="春晚",春晚1989
+http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+#EXTINF:-1 group-title="春晚",春晚1991
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚1992
+https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚1993
+https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚1994
+https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚1995
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚1997
+https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚1998
+https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚1999
+https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚2000
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚2001
+https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚2002
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚2004
+https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚2005
+https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚2006
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚2007
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚2008
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚2009
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚2014
+https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚2019
+https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚2020
+https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚2021
+http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+#EXTINF:-1 group-title="春晚",春晚2022
+http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+#EXTINF:-1 group-title="春晚",春晚2023
+https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚1992
+https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚1993
+https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚1994
+https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚1995
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚1997
+https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚1999
+https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚2001
+https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚2014
+https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚2019
+https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚2020
+http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+#EXTINF:-1 group-title="春晚",春晚2021
+http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+#EXTINF:-1 group-title="春晚",春晚2022
+http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+#EXTINF:-1 group-title="春晚",春晚2023
+https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚",春晚2024
+https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+#EXTINF:-1 group-title="春晚",春晚2024
+https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
