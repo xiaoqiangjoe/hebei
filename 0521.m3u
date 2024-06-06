@@ -2071,12 +2071,14 @@ http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
 #EXTINF:-1 group-title="安徽频道",安徽-歙县综合
 http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
 
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="安徽频道",安徽-宿州新闻综合
-http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="安徽频道",安徽-宿州公共
-http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+http://localhost/dashboard/09_anhui_suzhou.php?id=szzh
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="安徽频道",安徽-宿州经济生活
+http://localhost/dashboard/09_anhui_suzhou.php?id=ggpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="安徽频道",安徽-宿州科教
-http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+http://localhost/dashboard/09_anhui_suzhou.php?id=kxjy
 
 #EXTINF:-1 group-title="安徽频道",安徽-淮南新闻综合
 http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
@@ -2141,8 +2143,8 @@ https://live.rong-lixin.com/hls/lixinys/playlist.m3u8
 #EXTINF:-1 group-title="安徽频道",安徽-金寨新闻综合
 http://file.kanjinzhai.cn/hls/jinzhaixw/playlist.m3u8
 #EXTINF:-1 group-title="安徽频道" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/%E5%AE%89%E5%BE%BD-%E6%B6%A1%E9%98%B3.png",安徽-涡阳新闻综合
-http://wyflv.ahwanyun.cn/live/53b0864f78934894addd8168ce64c0a8.flv
-#EXTINF:-1 group-title="安徽频道",安徽-岳西新闻综合
+http://112.28.86.56:8099/live/one/playlist.m3u8
+#EXTINF:-1 group-title="安徽频道",安徽-岳西新闻综合-app可以
 https://wyflv.ahwanyun.cn/live/bdb496323e1740e487959f84a7e62503.m3u8
 
 #EXTINF:-1 group-title="西藏频道",西藏卫视
