@@ -1283,7 +1283,8 @@ http://localhost/dashboard/03_shanxi_jincheng.php?id=jcgg
 http://localhost/dashboard/03_shanxi_shuozhou.php?id=szxw
 #EXTINF:-1 group-title="山西频道",山西-朔州生活娱乐频道
 http://localhost/dashboard/03_shanxi_shuozhou.php?id=szyl
-
+#EXTINF:-1 group-title="山西频道",山西-朔州-怀仁
+http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
 #EXTINF:-1 group-title="山西频道",山西-长子综合频道
 http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
 #EXTINF:-1 group-title="山西频道",山西-长治综合-1
