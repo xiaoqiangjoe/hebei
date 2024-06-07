@@ -863,6 +863,10 @@ http://localhost/dashboard/02_shandong_qita.php?id=rzls
 http://localhost/dashboard/02_shandong_qita.php?id=rzwlzh
 #EXTINF:-1 group-title="山东频道",日照-五莲文化旅游
 http://localhost/dashboard/02_shandong_qita.php?id=rzwlwh
+#EXTINF:-1 group-title="山东频道",山东-泰安电视台综合频道
+http://111.36.110.2:8068/live/tahd01.m3u8
+#EXTINF:-1 group-title="山东频道",山东-泰安电视台经济
+http://111.36.110.2:8068/live/tahd02.m3u8
 #EXTINF:-1 group-title="山东频道",泰安-东平综合
 http://localhost/dashboard/02_shandong_qita.php?id=tadpzh
 #EXTINF:-1 group-title="山东频道",泰安-东平民生
@@ -883,10 +887,7 @@ http://localhost/dashboard/02_shandong_qita.php?id=tats
 http://localhost/dashboard/02_shandong_qita.php?id=taxtzh
 #EXTINF:-1 group-title="山东频道",泰安-新泰乡村
 http://localhost/dashboard/02_shandong_qita.php?id=taxtxc
-#EXTINF:-1 group-title="山东频道",新泰乡村频道-泰安
-http://119.184.188.117:1935/live/xtxc/playlist.m3u8
-#EXTINF:-1 group-title="山东频道",新泰综合频道-泰安
-http://119.184.188.117:1935/live/xtzh/playlist.m3u8
+
 #EXTINF:-1 group-title="山东频道",威海-新闻综合
 http://localhost/dashboard/02_shandong_qita.php?id=whxwzh
 #EXTINF:-1 group-title="山东频道",威海-都市生活
@@ -1121,7 +1122,25 @@ http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199
 http://localhost/dashboard/02_shandong_shouguang.php?id=sgzh
 #EXTINF:-1 group-title="山东频道",山东-寿光蔬菜
 http://localhost/dashboard/02_shandong_shouguang.php?id=sgsc
+#EXTINF:-1 group-title="山东频道",山东-肥综城合
+http://localhost/dashboard/02_shandong_shouguang.php?id=fczh
+#EXTINF:-1 group-title="山东频道",山东-肥城生活
+http://localhost/dashboard/02_shandong_shouguang.php?id=fcsh
 
+
+
+
+
+#EXTINF:-1 group-title="山东频道",山东-济宁城合
+http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
+#EXTINF:-1 group-title="山东频道",山东-济宁生活
+http://lives.jnnews.tv/video/s10001-JNTV2-2023/index.m3u8
+#EXTINF:-1 group-title="山东频道",山东-济宁公共
+http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
+#EXTINF:-1 group-title="山东频道",山东卫视-济宁源
+http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
+#EXTINF:-1 group-title="山东频道",CCTV新闻-济宁源
+http://lives.jnnews.tv/video/s10001-cctv/index.m3u8
 #EXTINF:-1 group-title="山东频道",烟台-长岛TV
 http://localhost/dashboard/02_shandong_qita.php?id=ytcd
 #EXTINF:-1 group-title="山东频道",烟台-福山综合
