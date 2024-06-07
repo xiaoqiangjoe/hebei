@@ -1100,7 +1100,10 @@ http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b3
 http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd
 #EXTINF:-1 group-title="山东频道",山东-烟台新闻综合
 http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
-
+#EXTINF:-1 group-title="山东频道",山东-寿光新闻综合频道
+http://localhost/dashboard/02_shandong_shouguang.php?id=sgzh
+#EXTINF:-1 group-title="山东频道",山东-寿光蔬菜
+http://localhost/dashboard/02_shandong_shouguang.php?id=sgsc
 
 #EXTINF:-1 group-title="山东频道",烟台-长岛TV
 http://localhost/dashboard/02_shandong_qita.php?id=ytcd
