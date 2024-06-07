@@ -846,6 +846,13 @@ http://localhost/dashboard/02_shandong_qita.php?id=zztezxw
 http://localhost/dashboard/02_shandong_qita.php?id=zzxcxw
 #EXTINF:-1 group-title="山东频道",枣庄-峄城综合
 http://localhost/dashboard/02_shandong_qita.php?id=zzyczh
+
+#EXTINF:-1 group-title="山东频道",日照-日照新闻综合频道
+http://localhost/dashboard/02_shandong_rizhao.php?id=rzzh
+#EXTINF:-1 group-title="山东频道",日照-日照科教
+http://localhost/dashboard/02_shandong_rizhao.php?id=rzkj
+#EXTINF:-1 group-title="山东频道",日照-日照公共
+http://localhost/dashboard/02_shandong_rizhao.php?id=rzgg
 #EXTINF:-1 group-title="山东频道",日照-莒县综合
 http://localhost/dashboard/02_shandong_qita.php?id=rzjx1
 #EXTINF:-1 group-title="山东频道",日照-莒县2套
@@ -900,6 +907,11 @@ http://localhost/dashboard/02_shandong_qita.php?id=whrssh
 http://localhost/dashboard/02_shandong_qita.php?id=whwd1
 #EXTINF:-1 group-title="山东频道",威海-文登TV2
 http://localhost/dashboard/02_shandong_qita.php?id=whwd2
+
+#EXTINF:-1 group-title="山东频道",山东-聊城新闻综合
+http://file.lcxw.cn/nmip-media/channellive/channel101173/playlist.m3u8
+#EXTINF:-1 group-title="山东频道",山东-聊城民生
+http://file.lcxw.cn/nmip-media/channellive/channel101246/playlist.m3u8
 #EXTINF:-1 group-title="山东频道",聊城-茌平综合
 http://localhost/dashboard/02_shandong_qita.php?id=lccpzh
 #EXTINF:-1 group-title="山东频道",聊城-茌平生活
@@ -1032,6 +1044,11 @@ http://localhost/dashboard/02_shandong_qita.php?id=dzxjgg
 http://localhost/dashboard/02_shandong_qita.php?id=dzyczh
 #EXTINF:-1 group-title="山东频道",德州-禹城综艺
 http://localhost/dashboard/02_shandong_qita.php?id=dzyczy
+
+#EXTINF:-1 group-title="山东频道",山东-滨州新闻综合
+https://pullhls23ee9d41.live.126.net/live/14581ba42b9543139e940d7bd24797a8/playlist.m3u8
+#EXTINF:-1 group-title="山东频道",山东-滨州民生
+https://pullhls23ee9d41.live.126.net/live/c493e16c720c4bc2b46129e594ee027a/playlist.m3u8
 #EXTINF:-1 group-title="山东频道",滨州-滨城TV
 http://localhost/dashboard/02_shandong_qita.php?id=bzbctv
 #EXTINF:-1 group-title="山东频道",滨州-博兴综合
