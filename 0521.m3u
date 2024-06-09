@@ -1858,9 +1858,9 @@ http://localhost/dashboard/07_hubei_enshi.php?id=xfzh
 http://localhost/dashboard/07_hubei_enshi.php?id=hfzh
 
 #EXTINF:-1 group-title="湖北频道",湖北-宜昌综合
-http://playapp.3xgd.com:80/sxgd/zhpd.m3u8
+https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 #EXTINF:-1 group-title="湖北频道",湖北-宜昌旅游
-http://playapp.3xgd.com:80/sxgd/lysw.m3u8
+https://liveplay.ycrmt.cn/sxgd/lysw.m3u8
 
 #EXTINF:-1 group-title="湖北频道",湖北-咸宁综合
 http://localhost/dashboard/07_hubei_cjyun.php?id=xnzh
