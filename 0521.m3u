@@ -1947,6 +1947,14 @@ http://localhost/dashboard/08_hunan_loudi.php?id=jlg
 http://localhost/dashboard/08_hunan_shaoyang.php?id=xwzh
 #EXTINF:-1 group-title="湖南频道",湖南-邵阳公共频道
 http://localhost/dashboard/08_hunan_shaoyang.php?id=ggpd
+#EXTINF:-1 group-title="湖北频道",湖南-岳阳综合频道
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=yyzh
+#EXTINF:-1 group-title="湖北频道",湖南-岳阳公共频道
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=yygg
+
+
+
+
 #EXTINF:-1 group-title="湖南频道",湖南-桂阳新闻综合
 http://localhost/dashboard/08_hunan_difang.php?id=7
 #EXTINF:-1 group-title="湖南频道",湖南-中方县电视台
