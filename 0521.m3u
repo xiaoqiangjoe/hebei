@@ -1630,7 +1630,8 @@ http://media.qdnrm.cn:18100/live/279784/playlist.m3u8
 https://p8.vzan.com/slowlive/147077707554082780/live.m3u8
 #EXTINF:-1 group-title="四川频道",四川-井研县
 http://localhost/dashboard/05_sichuan_jingyan.php
-
+#EXTINF:-1 group-title="四川频道",四川雅安-石棉电视台
+https://m3u8channel-sm.yunxya.com/nmip-media/channellive/channel100420/playlist.m3u8
 
 
 
@@ -3773,7 +3774,8 @@ http://localhost/dashboard/21_yunnan_lijiang.php?id=ljwhly
 http://localhost/dashboard/21_yunnan_zhaotong.php?id=zttv1
 #EXTINF:-1 group-title="云南频道",云南-昭通-3
 http://localhost/dashboard/21_yunnan_zhaotong.php?id=zttv3
-
+#EXTINF:-1 group-title="云南频道",云南-纳西电视台
+https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8
 
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/内蒙古卫视.png" group-title="内蒙古频道",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
