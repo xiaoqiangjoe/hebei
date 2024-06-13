@@ -4331,25 +4331,24 @@ http://live.kanwz.net/ggpd/sd/live.m3u8
 
 
 #EXTINF:-1 group-title="其他",欧洲-华文一套
-http://localhost/dashboard/50_European_Chinese_Television_Station.php?id=tv1
+http://localhost/dashboard/50_European_Chinese_Television_Station.php?id=11
 #EXTINF:-1 group-title="其他",欧洲-华文二套
-http://localhost/dashboard/50_European_Chinese_Television_Station.php?id=tv2
+http://localhost/dashboard/50_European_Chinese_Television_Station.php?id=12
 #EXTINF:-1 group-title="其他",欧洲-华文三套
-http://localhost/dashboard/50_European_Chinese_Television_Station.php?id=tv3
+http://localhost/dashboard/50_European_Chinese_Television_Station.php?id=13
 #EXTINF:-1 group-title="其他",欧洲-华文四套
-http://localhost/dashboard/50_European_Chinese_Television_Station.php?id=tv4
+http://localhost/dashboard/50_European_Chinese_Television_Station.php?id=14
 #EXTINF:-1 group-title="其他",欧洲-华文五套
-http://localhost/dashboard/50_European_Chinese_Television_Station.php?id=tv5
+http://localhost/dashboard/50_European_Chinese_Television_Station.php?id=15
 #EXTINF:-1 group-title="其他",欧洲-华文六套(福州频道)
-http://localhost/dashboard/50_European_Chinese_Television_Station.php?id=tv6
+http://localhost/dashboard/50_European_Chinese_Television_Station.php?id=16
 #EXTINF:-1 group-title="其他",欧洲-华文七套
-http://localhost/dashboard/50_European_Chinese_Television_Station.php?id=tv7
+http://localhost/dashboard/50_European_Chinese_Television_Station.php?id=19
 #EXTINF:-1 group-title="其他",欧洲-华文八套
-http://localhost/dashboard/50_European_Chinese_Television_Station.php?id=tv8
+http://localhost/dashboard/50_European_Chinese_Television_Station.php?id=137
 #EXTINF:-1 group-title="其他",喀秋莎
 http://localhost/dashboard/54_Russia_kaqiusha.php
-#EXTINF:-1 group-title="其他",中国国际少儿电视台
-https://livesec.mudu.tv/watch/fb3vzu.m3u8
+
 
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://localhost/dashboard/55_guangdianyun.php?id=cctv13
