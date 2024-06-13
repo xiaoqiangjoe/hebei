@@ -3751,6 +3751,8 @@ http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",云南-文山州新闻综合
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 group-title="云南频道",云南文山-麻栗坡台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",云南-德宏新闻综合
 https://zhztsrs.edehong.com:8001/srs1/matrix/102580.flv 
 #EXTINF:-1 group-title="云南频道",云南-德宏文旅
@@ -4223,6 +4225,8 @@ http://localhost/dashboard/28_jilin_xianji.php?id=76
 http://localhost/dashboard/28_jilin_xianji.php?id=168 
 #EXTINF:-1 group-title="吉林频道",吉林-集安综合频道
 http://localhost/dashboard/28_jilin_xianji.php?id=84
+#EXTINF:-1 group-title="吉林频道",吉林-集安综合频道php
+http://localhost/dashboard/28_jilin_jian.php
 #EXTINF:-1 group-title="吉林频道",吉林-前郭综合频道
 http://localhost/dashboard/28_jilin_xianji.php?id=90
 #EXTINF:-1 group-title="吉林频道",吉林-农安综合频道
@@ -4502,7 +4506,8 @@ http://117.114.153.25:8180/TV00000000000000000082@HHZT?
 http://117.114.153.25:8180/TV00000000000000000067@HHZT?
 #EXTINF:-1 group-title="港澳台",start sports
 http://117.114.153.25:8180/TV00000000000000000070@HHZT?
-
+#EXTINF:-1 group-title="港澳台",亚洲卫视
+http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 #EXTINF:-1 group-title="港澳台",星空卫视
 http://117.114.153.25:8180/TV00000000000000000071@HHZT?
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳台",星空卫视
