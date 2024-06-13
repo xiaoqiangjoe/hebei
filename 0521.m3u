@@ -2858,6 +2858,11 @@ http://localhost/dashboard/14_guangdong_shantou.php?id=1
 http://localhost/dashboard/14_guangdong_shantou.php?id=2
 #EXTINF:-1 group-title="广东频道",广东-汕头文旅体育
 http://localhost/dashboard/14_guangdong_shantou.php?id=3
+#EXTINF:-1 group-title="广东频道",广东-汕尾新闻综合
+http://localhost/dashboard/14_guangdong_shanwei.php?id=35
+#EXTINF:-1 group-title="广东频道",广东-汕尾文化生活
+http://localhost/dashboard/14_guangdong_shanwei.php?id=36
+
 #EXTINF:-1 group-title="广东频道",广东-东莞新闻综合
 http://localhost/dashboard/14_guangdong_dongguan.php?id=xwzh
 #EXTINF:-1 group-title="广东频道",广东-东莞生活资讯
