@@ -2263,7 +2263,10 @@ http://localhost/dashboard/11_guizhou_qiannan.php?id=qngg
 http://localhost/dashboard/11_guizhou_liupanshui.php?id=110181
 #EXTINF:-1 group-title="贵州频道",贵州六盘水公共
 http://localhost/dashboard/11_guizhou_liupanshui.php?id=110983
-
+#EXTINF:-1 group-title="贵州频道",贵州-习水综合
+http://localhost/dashboard/11_guizhou_xishui.php?id=xszh
+#EXTINF:-1 group-title="贵州频道",贵州-习水经济
+http://localhost/dashboard/11_guizhou_xishui.php?id=xsjj
 
 #EXTINF:-1 group-title="河南频道",河南-河南卫视
 http://localhost/dashboard/12_henan_shengji.php?id=hnws
@@ -2962,6 +2965,10 @@ http://localhost/dashboard/14_guangdong_shengji.php?id=wczh
 http://localhost/dashboard/14_guangdong_shengji.php?id=lctv
 #EXTINF:-1 group-title="广东频道",广东-潮安综合
 http://localhost/dashboard/14_guangdong_shengji.php?id=cazh
+#EXTINF:-1 group-title="广东频道",广东-广东增城
+http://localhost/dashboard/14_guangdong_zengcheng.php
+#EXTINF:-1 group-title="广东频道",广东-广东蛇口电视台
+http://localhost/dashboard/otv.php?id=37
 
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南卫视.png" group-title="海南频道",海南卫视
 http://localhost/dashboard/15_hainan_shengji.php?id=1
@@ -3097,6 +3104,9 @@ http://localhost/dashboard/17_liaoniang_shengji.php?id=481
 http://localhost/dashboard/17_liaoniang_shengji.php?id=480
 #EXTINF:-1 group-title="辽宁频道",北方导视
 http://localhost/dashboard/17_liaoniang_shengji.php?id=187
+#EXTINF:-1 group-title="辽宁频道",辽宁-辽宁金普综合
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=jpzh
+
 #EXTINF:-1 group-title="辽宁频道",辽宁-抚顺综合
 http://localhost/dashboard/17_liaoniang_shengji.php?id=275
 #EXTINF:-1 group-title="辽宁频道",辽宁-大连新闻综合
@@ -3410,6 +3420,8 @@ http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?auth_key=171250
 http://localhost/dashboard/18_fujian_ningde.php?id=ndzh
 #EXTINF:-1 group-title="福建频道",福建-宁德文化旅游频道
 http://localhost/dashboard/18_fujian_ningde.php?id=ndwl
+#EXTINF:-1 group-title="福建频道",湖北-云霄电视台
+http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 
 #EXTINF:-1 group-title="江苏频道",江苏-江苏卫视
 http://localhost/dashboard/19_jiangsu_shengji.php?id=jsws
@@ -4436,7 +4448,10 @@ http://171.108.239.74:8181/tsfile/live/1010_1.m3u8
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 
 
-
+#EXTINF:-1 group-title="港澳台",TVB星河
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台",亚洲武侠电视台 
+http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1 group-title="港澳台",星河频道
 http://171.108.239.74:8181/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="港澳台",天映电影
