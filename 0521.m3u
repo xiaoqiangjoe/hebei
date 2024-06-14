@@ -1569,6 +1569,8 @@ http://localhost/dashboard/05_sichuan_dazhou.php?id=1
 http://localhost/dashboard/05_sichuan_dazhou.php?id=2
 #EXTINF:-1 group-title="四川频道",四川-达州通川
 http://localhost/dashboard/05_sichuan_dazhou.php?id=3
+#EXTINF:-1 group-title="四川频道",四川达州-万源新闻综合
+http://live.wanyuannews.com/wytv/hd/live.m3u8
 #EXTINF:-1 group-title="四川频道",四川-资阳新闻综合
 http://localhost/dashboard/05_sichuan_ziyang.php?id=zyxw
 #EXTINF:-1 group-title="四川频道",四川-雁江
@@ -1636,6 +1638,38 @@ https://p8.vzan.com/slowlive/147077707554082780/live.m3u8
 http://localhost/dashboard/05_sichuan_jingyan.php
 #EXTINF:-1 group-title="四川频道",四川雅安-石棉电视台
 https://m3u8channel-sm.yunxya.com/nmip-media/channellive/channel100420/playlist.m3u8
+#EXTINF:-1 group-title="四川频道",四川-万源新闻综合
+http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",四川-乐至综合
+http://175.155.106.72:89/live1/live1.m3u8
+#EXTINF:-1 group-title="四川频道",四川-什邡新闻
+http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",四川-利州
+http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv
+#EXTINF:-1 group-title="四川频道",四川-康定
+http://kdfile.ganzitv.com/nmip-media/channellive/channel100663/playlist.m3u8
+#EXTINF:-1 group-title="四川频道",四川-松潘新闻综合
+http://live.spccmc.com:90/live/spxwzh.m3u8
+#EXTINF:-1 group-title="四川频道",四川-洪雅新闻综合
+http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8
+#EXTINF:-1 group-title="四川频道",四川-甘孜综合
+http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
+#EXTINF:-1 group-title="四川频道",四川-蓬安新闻综合
+http://palive.patv123.com:8091/live/xwpd_800K.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",四川-金川新闻综合
+http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",四川-长宁综合
+http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",四川-青神综合
+http://lmt.scqstv.com/live1/live1.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",四川-马尔康综合
+http://live.zmmek.com:90/live/zhxw.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",四川-黑水新闻综合
+http://live.schstv.com:90/live/xwzh.m3u8
+
+
+
+
 
 
 
@@ -4221,8 +4255,7 @@ http://218.201.85.71:3170/m3u8
 http://125.62.24.185:80/1.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-荣昌综合
 http://183.64.181.25:40023/rongchang01.m3u8
-#EXTINF:-1 group-title="重庆频道",重庆-万源新闻综合
-http://live.wanyuannews.com/wytv/hd/live.m3u8
+
 
 #EXTINF:-1 group-title="吉林频道",吉林-吉林卫视频道
 http://localhost/dashboard/28_jilin_shengji.php?id=351
