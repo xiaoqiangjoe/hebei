@@ -2001,7 +2001,12 @@ http://localhost/dashboard/08_hunan_shaoyang.php?id=ggpd
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=yyzh
 #EXTINF:-1 group-title="湖北频道",湖南-岳阳公共频道
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=yygg
-
+#EXTINF:-1 group-title="湖南频道",金鹰纪实
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaWf4k%2B88FALXqp3i7ExZ4HArfvJF2pWpm4RxcBNhZ7j8oKdkoj6hFDX2k81AyJk8L2ZgQL4lTNsyfhwMVyjNWA
+#EXTINF:-1 group-title="湖南频道",快乐垂钓
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRJiJ8tFyWVQ4LIMJg%2BXyuQCUUYb4If0LygirGPvYsbTi60DjU3KKPbFtbFrR1EGj%2FI
+#EXTINF:-1 group-title="湖南频道",湖南-湘潭新闻综合
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
 
 
 
@@ -2317,6 +2322,10 @@ http://localhost/dashboard/11_guizhou_liupanshui.php?id=110983
 http://localhost/dashboard/11_guizhou_xishui.php?id=xszh
 #EXTINF:-1 group-title="贵州频道",贵州-习水经济
 http://localhost/dashboard/11_guizhou_xishui.php?id=xsjj
+#EXTINF:-1 group-title="贵州频道",贵州-道真新闻综合
+http://live.dzrmtzx.org.cn:90/live/dspd_1M.m3u8
+#EXTINF:-1 group-title="贵州频道",贵州-凤冈综合
+http://live.fgxrmtzx.cn:90/live/zhpd.m3u8
 
 #EXTINF:-1 group-title="河南频道",河南-河南卫视
 http://localhost/dashboard/12_henan_shengji.php?id=hnws
@@ -3165,6 +3174,8 @@ https://play.kankanlive.com/live/1707482307440963.m3u8
 https://play.kankanlive.com/live/1698724188723989.m3u8
 #EXTINF:-1 group-title="甘肃频道",甘肃-天水文旅
 https://play.kankanlive.com/live/1698739309525985.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃-崆峒综合
+http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
 
 #EXTINF:-1 group-title="辽宁频道",辽宁卫视
 http://localhost/dashboard/17_liaoniang_shengji.php?id=058
@@ -3522,7 +3533,8 @@ http://localhost/dashboard/18_fujian_ningde.php?id=ndzh
 http://localhost/dashboard/18_fujian_ningde.php?id=ndwl
 #EXTINF:-1 group-title="福建频道",湖北-云霄电视台
 http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
-
+#EXTINF:-1 group-title="福建频道",福建-建宁综合
+https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
 
 
 
@@ -3656,7 +3668,16 @@ http://localhost/dashboard/57_migu720.php?id=lygxwzh
 http://localhost/dashboard/57_migu720.php?id=sqxwzh
 #EXTINF:-1 group-title="江苏频道",江苏-徐州新闻综合
 http://localhost/dashboard/57_migu720.php?id=xzxwzh
-
+#EXTINF:-1 group-title="江苏频道",江苏-靖江新闻综合
+http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
+#EXTINF:-1 group-title="江苏频道",江苏-如东新闻
+http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
+#EXTINF:-1 group-title="江苏频道",江苏-常熟民生经济
+http://cstvplay.21cs.cn/cstv2/cstv2.m3u8
+#EXTINF:-1 group-title="江苏频道",江苏-常熟综合
+http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
+#EXTINF:-1 group-title="江苏频道",江苏-江阴新闻综合
+http://221.228.70.101:8080/live/xinwen.m3u8
 
 
 
@@ -3947,6 +3968,10 @@ http://2573546249.cloudvdn.com/a.m3u8?domain=pili-live-hls.pill-bynr.tianma3600.
 http://2573546246.cloudvdn.com/a.m3u8?domain=pili-live-hls.pill-bynr.tianma3600.com&player=NdwAAIYtsuZV4rwX&secondToken=secondToken%3AGJlcKXFtdDzX8sgpjNef29Dm7T8&streamid=bynr1%3Abynr1%2FNEWysyl&v3=1
 #EXTINF:-1 group-title="内蒙古频道",内蒙古-巴彦淖尔新闻综合
 http://2573546246.cloudvdn.com/a.m3u8?domain=pili-live-hls.pill-bynr.tianma3600.com&player=NdwAAHxfkDeD4rwX&secondToken=secondToken%3A-UqnjIgc9CPM1J8cTwXOMteyOio&streamid=bynr1%3Abynr1%2FNEWxwzh&v3=1
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-包头新闻
+http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-鄂托克旗
+http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
 
 #EXTINF:-1 group-title="广西频道",广西卫视-组播
 http://222.84.98.63:4200/udp/239.81.0.107:4056
@@ -4475,12 +4500,6 @@ http://localhost/dashboard/54_Russia_kaqiusha.php
 
 
 
-#EXTINF:-1 group-title="湖南频道",金鹰纪实
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaWf4k%2B88FALXqp3i7ExZ4HArfvJF2pWpm4RxcBNhZ7j8oKdkoj6hFDX2k81AyJk8L2ZgQL4lTNsyfhwMVyjNWA
-#EXTINF:-1 group-title="湖南频道",快乐垂钓
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRJiJ8tFyWVQ4LIMJg%2BXyuQCUUYb4If0LygirGPvYsbTi60DjU3KKPbFtbFrR1EGj%2FI
-#EXTINF:-1 group-title="河南频道",梨园频道
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/凤凰卫视中文台.png" group-title="港澳台",凤凰中文
 http://117.114.153.25:8180/TV00000000000000000069@HHZT?
