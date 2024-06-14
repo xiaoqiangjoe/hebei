@@ -729,7 +729,8 @@ https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
 https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
 
 
-
+#EXTINF:-1 group-title="山东频道",山东卫视
+http://[2409:8087:1a0a:df::4036]:80/wh7f454c46tw3812967688_-1687053025/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8?icpid=88888888&RTS=1713970641&from=4&hms_devid=1209&online=1713970641&vqe=3
 #EXTINF:-1 group-title="山东频道",山东卫视
 http://localhost/dashboard/02_shandong_shengji.php?id=sdtv
 #EXTINF:-1 group-title="山东频道",山东齐鲁
