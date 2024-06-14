@@ -3082,6 +3082,14 @@ http://localhost/dashboard/14_guangdong_shengji.php?id=cazh
 http://localhost/dashboard/14_guangdong_zengcheng.php
 #EXTINF:-1 group-title="广东频道",广东-广东蛇口电视台
 http://localhost/dashboard/otv.php?id=37
+#EXTINF:-1 group-title="广东频道",广东-潮州综合
+http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
+#EXTINF:-1 group-title="广东频道",广东-潮州民生
+http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
+#EXTINF:-1 group-title="广东频道",广东-云浮综合
+https://livestream.oeeee.com/slive/17806.m3u8
+#EXTINF:-1 group-title="广东频道",广东-云浮文旅
+https://livestream.oeeee.com/slive/17807.m3u8
 
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南卫视.png" group-title="海南频道",海南卫视
 http://localhost/dashboard/15_hainan_shengji.php?id=1
@@ -4888,6 +4896,7 @@ http://biaozhun114.com/tv/tw9.php?id=29
 http://biaozhun114.com/tv/tw9.php?id=30
 
 
+
 #EXTINF:-1 group-title="春晚",春晚1984
 http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 #EXTINF:-1 group-title="春晚",春晚1985
@@ -4976,5 +4985,4 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 group-title="春晚",春晚2024
 https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
-
 
