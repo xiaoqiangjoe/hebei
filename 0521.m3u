@@ -296,6 +296,24 @@ http://117.114.153.25:8180/TV00000000000000000094@HHZT?
 #EXTINF:-1 group-title="北京频道",CHC影迷电影高清
 http://117.114.153.25:8180/TV00000000000000000195@HHZT?
 
+#EXTINF:-1 group-title="北京频道",北京-北京卫视-btime
+http://localhost/dashboard/26_beijing_shengji.php?id=bjws
+#EXTINF:-1 group-title="北京频道",北京-北京文艺-btime
+http://localhost/dashboard/26_beijing_shengji.php?id=bjwy
+#EXTINF:-1 group-title="北京频道",北京-北京纪实科教-btime
+http://localhost/dashboard/26_beijing_shengji.php?id=bjjs
+#EXTINF:-1 group-title="北京频道",北京-北京影视-btime
+http://localhost/dashboard/26_beijing_shengji.php?id=bjys
+#EXTINF:-1 group-title="北京频道",北京-北京财经-btime
+http://localhost/dashboard/26_beijing_shengji.php?id=bjcj
+#EXTINF:-1 group-title="北京频道",北京-北京体育休闲-btime
+http://localhost/dashboard/26_beijing_shengji.php?id=bjty
+#EXTINF:-1 group-title="北京频道",北京-北京生活-btime
+http://localhost/dashboard/26_beijing_shengji.php?id=bjsh
+#EXTINF:-1 group-title="北京频道",北京-北京新闻-btime
+http://localhost/dashboard/26_beijing_shengji.php?id=bjxw
+#EXTINF:-1 group-title="北京频道",北京-北京卡酷少儿-btime
+http://localhost/dashboard/26_beijing_shengji.php?id=bjkk
 
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京卫视.png" group-title="北京频道",北京卫视
