@@ -68,6 +68,8 @@ http://159.75.85.63:5679/cctv4k.php
 http://localhost/dashboard/59_qita.php?id=cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV2.png" group-title="央视频",cctv2
 http://localhost/dashboard/59_qita.php?id=cctv2
+#EXTINF:-1 group-title="央视频",湖南-cctv1
+http://localhost/dashboard/08_hunan_loudi.php?id=cctv1
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV1.png" group-title="qly",cctv1
 http://localhost/dashboard/qly.php?id=5490
@@ -2046,6 +2048,8 @@ http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=hszh
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=hsds
 
 
+#EXTINF:-1 group-title="湖南频道",湖南-湖南卫视
+http://localhost/dashboard/08_hunan_loudi.php?id=hnws
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/湖南卫视.png" group-title="湖南频道",湖南卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181358BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUds%2BUtPKX7dYKgp%2FtymOuOt9pHjY5eGh1%2F3MQt0stvVIffnHpm3K91ELxLBLxf9DE3IGliSDUqkfu%2BEzvoBJvtA
