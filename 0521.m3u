@@ -2161,6 +2161,8 @@ http://localhost/dashboard/08_hunan_difang.php?id=182
 http://localhost/dashboard/08_hunan_difang.php?id=183
 #EXTINF:-1 group-title="湖南频道",湖南-嘉禾新闻综合
 http://localhost/dashboard/08_hunan_difang.php?id=184
+#EXTINF:-1 group-title="湖南频道",湖南-桑植新闻
+http://localhost/dashboard/08_hunan_difang.php?id=185
 #EXTINF:-1 group-title="湖南频道",湖南-长沙县新闻综合
 http://localhost/dashboard/08_hunan_difang.php?id=203
 #EXTINF:-1 group-title="湖南频道",湖南-安化综合
@@ -2193,13 +2195,20 @@ http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=yzds
 #EXTINF:-1 group-title="湖南频道",湖南-资兴电视台
 http://localhost/dashboard/08_hunan_zixing.php
 #EXTINF:-1 group-title="湖南频道",湖南-茶陵电视台
-http://localhost/dashboard/111.php?id=clzh
+http://localhost/dashboard/08_hunan_qita.php?id=clzh
 #EXTINF:-1 group-title="湖南频道",湖南-云溪电视台-暂时不能播放
-http://localhost/dashboard/111.php?id=yxzh
+http://localhost/dashboard/08_hunan_qita.php?id=yxzh
 #EXTINF:-1 group-title="湖南频道",湖南-洪江电视台
-http://localhost/dashboard/111.php?id=hjzh
+http://localhost/dashboard/08_hunan_qita.php?id=hjzh
 #EXTINF:-1 group-title="湖南频道",湖南-沅陵电视台
-http://localhost/dashboard/111.php?id=rlzh
+http://localhost/dashboard/08_hunan_qita.php?id=rlzh
+#EXTINF:-1 group-title="湖南频道",湖南-沅陵电视台
+http://localhost/dashboard/08_hunan_qita.php?id=rlzh
+#EXTINF:-1 group-title="湖南频道",湖南-新田综合-不能播放？
+http://localhost/dashboard/08_hunan_qita.php?id=xtzh
+
+
+
 
 #EXTINF:-1 group-title="安徽频道",安徽-安徽卫视
 http://localhost/dashboard/09_anhui_shengji.php?id=ahws
