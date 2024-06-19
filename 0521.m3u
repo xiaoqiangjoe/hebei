@@ -3997,15 +3997,16 @@ http://localhost/dashboard/21_yunnan_shengji.php?id=ynse
 http://ynxsj.7766.org:9901/tsfile/live/1003_1.m3u8
 
 #EXTINF:-1 group-title="云南频道",云南-昆明新闻综合
-http://localhost/dashboard/21_yunnan_kunming.php?id=3143
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=kmxw
 #EXTINF:-1 group-title="云南频道",云南-昆明经济生活
-http://localhost/dashboard/21_yunnan_kunming.php?id=3192
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=kmjj
 #EXTINF:-1 group-title="云南频道",云南-昆明科学教育
-http://localhost/dashboard/21_yunnan_kunming.php?id=3193
-#EXTINF:-1 group-title="云南频道",云南-昆明综艺频道
-http://localhost/dashboard/21_yunnan_kunming.php?id=3185
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=kmkj
+#EXTINF:-1 group-title="云南频道",云南-昆明影视频道
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=kmys
 #EXTINF:-1 group-title="云南频道",云南-昆明春城民生
-http://localhost/dashboard/21_yunnan_kunming.php?id=3194
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=kmcc
+
 
 #EXTINF:-1 group-title="云南频道",云南-师宗电视台
 http://localhost/dashboard/50_quxian_qita.php?id=sztv
