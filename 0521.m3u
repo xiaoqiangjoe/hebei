@@ -3884,12 +3884,6 @@ http://110.153.180.106:55555/out_2/index.m3u8
 http://110.153.180.106:55555/out_3/index.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-伊犁经济法制
 http://110.153.180.106:55555/out_4/index.m3u8
-#EXTINF:-1 group-title="新疆频道",新疆-塔城电视汉语一套
-http://218.84.35.38:3000/m3u8/live/tctv-1/index.m3u8
-#EXTINF:-1 group-title="新疆频道",新疆-塔城电视哈语
-http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
-#EXTINF:-1 group-title="新疆频道",新疆-塔城电视汉语三套
-http://218.84.35.38:3000/m3u8/live/tctv-3/index.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-阿勒泰汉语
 https://play-a2.quklive.com/live/1704380285590041.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-阿勒泰哈萨克语
