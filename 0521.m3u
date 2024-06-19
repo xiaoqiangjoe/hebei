@@ -4603,6 +4603,12 @@ http://localhost/dashboard/28_jilin_xianji.php?id=248
 http://localhost/dashboard/28_jilin_xianji.php?id=252
 #EXTINF:-1 group-title="吉林频道",吉林-桦甸综合 
 http://localhost/dashboard/28_jilin_xianji.php?id=259
+#EXTINF:-1 group-title="吉林频道",吉林-长春九台区电视台
+http://stream10.jlntv.cn/jiutaitv/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",长白山综合
+http://stream8.jlntv.cn/cbstv/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",敦化一套
+http://stream8.jlntv.cn/dhtv/playlist.m3u8
 
 
 
