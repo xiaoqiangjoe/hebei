@@ -3598,7 +3598,7 @@ http://localhost/dashboard/18_fujian_shengji.php?id=4
 #EXTINF:-1 group-title="福建频道",福建-福建综合频道
 http://localhost/dashboard/18_fujian_shengji.php?id=401
 #EXTINF:-1 group-title="福建频道",福建-福建综合频道
-http://localhost/dashboard/18_fujian_ninghua.php?id=nhzh
+http://localhost/dashboard/18_fujian_ninghua.php?id=fjzh
 #EXTINF:-1 group-title="福建频道",福建-福建乡村振兴·公共频道
 http://localhost/dashboard/18_fujian_shengji.php?id=6
 #EXTINF:-1 group-title="福建频道",福建-福建新闻频道
@@ -3662,7 +3662,7 @@ http://localhost/dashboard/18_fujian_jingjiang.php
 #EXTINF:-1 group-title="福建频道",福建-三明1套
 http://localhost/dashboard/18_fujian_sanming.php?id=11
 #EXTINF:-1 group-title="福建频道",福建-三明一套
-http://localhost/dashboard/18_fujian_ninghua.php?id=nhzh
+http://localhost/dashboard/18_fujian_ninghua.php?id=smzh
 #EXTINF:-1 group-title="福建频道",福建-三明2套
 http://localhost/dashboard/18_fujian_sanming.php?id=12
 #EXTINF:-1 group-title="福建频道",三明尤溪新闻综合
