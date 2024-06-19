@@ -2165,6 +2165,8 @@ http://localhost/dashboard/08_hunan_difang.php?id=184
 http://localhost/dashboard/08_hunan_difang.php?id=185
 #EXTINF:-1 group-title="湖南频道",湖南-长沙县新闻综合
 http://localhost/dashboard/08_hunan_difang.php?id=203
+#EXTINF:-1 group-title="湖南频道",湖南-长沙县电视台静态
+http://xsds.b.dingtoo.com/AppName/StreamName.m3u8
 #EXTINF:-1 group-title="湖南频道",湖南-安化综合
 http://localhost/dashboard/08_hunan_difang.php?id=204
 #EXTINF:-1 group-title="湖南频道",湖南-安化综合-静态
@@ -2182,6 +2184,8 @@ http://localhost/dashboard/08_hunan_chenzhou.php?id=2
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=zzzh
 #EXTINF:-1 group-title="湖南频道",湖南-株洲公共频道
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=zzgg
+#EXTINF:-1 group-title="湖南频道",湖南-浏阳电视台
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lyds
 #EXTINF:-1 group-title="湖南频道",湖南-娄底综合
 http://localhost/dashboard/08_hunan_loudi.php?id=ldzh
 #EXTINF:-1 group-title="湖南频道",湖南-快乐购
