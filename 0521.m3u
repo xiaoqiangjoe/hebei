@@ -4151,6 +4151,12 @@ http://2573546246.cloudvdn.com/a.m3u8?domain=pili-live-hls.pill-bynr.tianma3600.
 http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live
 #EXTINF:-1 group-title="内蒙古频道",内蒙古-鄂托克旗
 http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-通辽新闻综合频道
+http://localhost/dashboard/22_neimenggu_tongliao.php?id=tlzh
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-通辽蒙语综合频道
+http://localhost/dashboard/22_neimenggu_tongliao.php?id=tlmy
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-通辽城市生活
+http://localhost/dashboard/22_neimenggu_tongliao.php?id=tlcs
 
 #EXTINF:-1 group-title="广西频道",广西卫视-组播
 http://222.84.98.63:4200/udp/239.81.0.107:4056
