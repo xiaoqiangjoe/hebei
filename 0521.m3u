@@ -1352,6 +1352,10 @@ https://fpsfgptf.live.sxmty.com/live/hls/b41fb247f68048f893a7a1d320044ce8/790f46
 https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8
 #EXTINF:-1 group-title="山西频道",山西-榆树广播电视台综合频道
 http://localhost/dashboard/03_shanxi_yushu.php?id=yszh
+#EXTINF:-1 group-title="山西频道",山西-吕梁综合频道
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lvzh
+#EXTINF:-1 group-title="山西频道",山西-吕梁综合频道
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lvys
 
 #EXTINF:-1 tvg-id="阳泉新闻综合HD" tvg-name="阳泉新闻综合HD" tvg-logo="https://epg.112114.xyz/logo/阳泉新闻综合.png" group-title="山西频道",阳泉新闻综合
 https://live.yqrtv.com/xwpd/sd/live.m3u8
