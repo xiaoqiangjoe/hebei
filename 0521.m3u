@@ -66,6 +66,8 @@ http://localhost/dashboard/59_qita.php?id=cctv4k
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV1.png" group-title="央视频",cctv1
 http://localhost/dashboard/59_qita.php?id=cctv1
+#EXTINF:-1 group-title="央频道",CCTV1
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=CCTV1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV2.png" group-title="央视频",cctv2
 http://localhost/dashboard/59_qita.php?id=cctv2
 #EXTINF:-1 group-title="央视频",cctv1
@@ -605,7 +607,8 @@ http://localhost/dashboard/01_hebei_xingtai_chengde_baoding.php?id=1
 http://localhost/dashboard/01_hebei_xingtai_chengde_baoding.php?id=2
 #EXTINF:-1 group-title="河北频道",河北-邢台南宫
 https://jwcdnqx.hebyun.com.cn/live/ngtv1/1500k/tzwj_video.m3u8
-
+#EXTINF:-1 group-title="河北频道",河北-冀州新闻综合
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=jzxwzh
 
 #EXTINF:-1 group-title="河北频道",河北-承德市新闻综合
 http://localhost/dashboard/01_hebei_xingtai_chengde_baoding.php?id=3
@@ -1414,6 +1417,8 @@ http://localhost/dashboard/03_shanxi_linfen.php?id=1
 http://localhost/dashboard/03_shanxi_linfen.php?id=14
 #EXTINF:-1 group-title="山西频道",山西-临汾三套
 http://localhost/dashboard/03_shanxi_linfen.php?id=15
+#EXTINF:-1 group-title="山西频道",山西-曲沃新闻综合-临汾
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=qwtv
 #EXTINF:-1 group-title="山西频道",山西-沁县新闻综合
 http://localhost/dashboard/59_qita.php?id=qxxwzh
 
@@ -2072,6 +2077,8 @@ http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=hszh
 #EXTINF:-1 group-title="湖北频道",湖北-黄石都市综合频道
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=hsds
 
+#EXTINF:-1 group-title="湖南频道",湖南卫视
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=hnws
 
 #EXTINF:-1 group-title="湖南频道",湖南-湖南卫视
 http://localhost/dashboard/08_hunan_loudi.php?id=hnws
@@ -2125,7 +2132,8 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/in
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRJiJ8tFyWVQ4LIMJg%2BXyuQCUUYb4If0LygirGPvYsbTi60DjU3KKPbFtbFrR1EGj%2FI
 #EXTINF:-1 group-title="湖南频道",湖南-湘潭新闻综合
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
-
+#EXTINF:-1 group-title="湖南频道",南县新闻-益阳
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=nxtv
 
 
 #EXTINF:-1 group-title="湖南频道",湖南-桂阳新闻综合
@@ -4328,6 +4336,8 @@ http://vod.center.hljtv.com/lsdream/Ig4YRW0/1024/o5jI4w0.m3u8
 http://vod.center.hljtv.com/lsdream/1szOvMr/1024/a4x14z0.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-友谊综合
 http://vod.center.hljtv.com/lsdream/d037rmI/1000/651d430.m3u8
+#EXTINF:-1 group-title="黑龙江频道",宁安综合-黑龙江佳木斯
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=nazh
 
 
 
