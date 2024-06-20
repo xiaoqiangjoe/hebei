@@ -3635,10 +3635,10 @@ http://localhost/dashboard/18_fujian_quanzhou.php?id=2
 http://localhost/dashboard/18_fujian_quanzhou2.php?id=2
 #EXTINF:-1 group-title="福建频道",福建-泉州闽南语频道-app
 http://localhost/dashboard/18_fujian_quanzhou2.php?id=1
-#EXTINF:-1 group-title="福建频道",泉州永春综合
-http://localhost/dashboard/55_guangdianyun.php?id=yctv1
-#EXTINF:-1 group-title="福建频道",泉州永春公共
-http://localhost/dashboard/55_guangdianyun.php?id=yctv2
+#EXTINF:-1 group-title="福建频道",福建-泉州永春新闻综合
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=yctv
+#EXTINF:-1 group-title="福建频道",福建-泉州永春测试频道
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=yccs
 #EXTINF:-1 group-title="福建频道",福建-泉州石狮综合
 http://localhost/dashboard/18_fujian_quanzhou_shishi.php
 #EXTINF:-1 group-title="福建频道",福建-莆田新闻综合
