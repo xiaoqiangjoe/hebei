@@ -3971,18 +3971,6 @@ http://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8
 http://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-胡杨河新闻
 https://klmyzb.rcsxzx.com/hls/qishi1.m3u8
-#EXTINF:-1 group-title="新疆频道",新疆-石河子新闻
-http://124.88.144.73:1935/live/xwzh/playlist.m3u8
-#EXTINF:-1 group-title="新疆频道",新疆-石河子新闻
-rtmp://124.88.144.73:1935/live/xwzh
-#EXTINF:-1 group-title="新疆频道",新疆-石河子影视
-rtmp://124.88.144.73:1935/live/jjsh
-#EXTINF:-1 group-title="新疆频道",新疆-石河子经济
-rtmp://124.88.144.73:1935/live/dywt
-#EXTINF:-1 group-title="新疆频道",新疆-石河子教育
-rtmp://124.88.144.73:1935/live/jiaoyu
-#EXTINF:-1 group-title="新疆频道",新疆-石河子教育
-http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-新星综合
 http://test5.btzx.com.cn/live/13TV.stream.flv
 #EXTINF:-1 group-title="新疆频道",新疆-昆玉综合
