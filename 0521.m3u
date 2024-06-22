@@ -1700,10 +1700,6 @@ http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8
 #EXTINF:-1 group-title="四川频道",四川-汶川新闻综合
 http://live.iwcmt.cn:90/live/zhxw.m3u8
-#EXTINF:-1 group-title="四川频道",四川-黔东南电视台-多点击几次
-http://media.qdnrm.cn:18100/live/264712/playlist.m3u8
-#EXTINF:-1 group-title="四川频道",四川-凯里电视台-多点击几次
-http://media.qdnrm.cn:18100/live/279784/playlist.m3u8
 #EXTINF:-1 group-title="四川频道",四川-毕节七星关电视台
 https://p8.vzan.com/slowlive/147077707554082780/live.m3u8
 #EXTINF:-1 group-title="四川频道",四川-井研县
@@ -2459,6 +2455,14 @@ http://localhost/dashboard/11_guizhou_shengji.php?id=ch09
 http://localhost/dashboard/11_guizhou_shengji.php?id=ch10
 #EXTINF:-1 group-title="贵州频道",贵州移动电视
 http://localhost/dashboard/11_guizhou_shengji.php?id=ch13
+
+#EXTINF:-1 group-title="贵州频道",贵州-贵阳新闻综合频道
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=gyxw
+#EXTINF:-1 group-title="贵州频道",贵州-贵阳经济生活频道
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=gyjj
+#EXTINF:-1 group-title="贵州频道",贵州-贵阳都市频道
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=gyds
+
 #EXTINF:-1 group-title="贵州频道",遵义综合-无信号
 http://localhost/dashboard/11_guizhou_zunyi.php?id=zyzh
 #EXTINF:-1 group-title="贵州频道",贵州-遵义公共-无信号
@@ -2491,6 +2495,10 @@ http://localhost/dashboard/11_guizhou_xishui.php?id=xsjj
 http://live.dzrmtzx.org.cn:90/live/dspd_1M.m3u8
 #EXTINF:-1 group-title="贵州频道",贵州-凤冈综合
 http://live.fgxrmtzx.cn:90/live/zhpd.m3u8
+#EXTINF:-1 group-title="贵州频道",贵州-黔东南电视台-多点击几次
+http://media.qdnrm.cn:18100/live/264712/playlist.m3u8
+#EXTINF:-1 group-title="贵州频道",贵州-凯里电视台-多点击几次
+http://media.qdnrm.cn:18100/live/279784/playlist.m3u8
 
 #EXTINF:-1 group-title="河南频道",河南-河南卫视
 http://localhost/dashboard/12_henan_shengji.php?id=hnws
@@ -4195,20 +4203,24 @@ http://localhost/dashboard/22_neimenggu_tongliao.php?id=tlmy
 #EXTINF:-1 group-title="内蒙古频道",内蒙古-通辽城市生活
 http://localhost/dashboard/22_neimenggu_tongliao.php?id=tlcs
 
-#EXTINF:-1 group-title="广西频道",广西卫视-组播
-http://222.84.98.63:4200/udp/239.81.0.107:4056
+#EXTINF:-1 group-title="广西频道",广西卫视
+https://mobilelive.gxtv.cn/live/nn_live1004/playlist.m3u8
 #EXTINF:-1 group-title="广西频道",广西综艺-组播
 http://222.84.98.63:4200/udp/239.81.0.214:4056
-#EXTINF:-1 group-title="广西频道",广西影视-组播
-http://222.84.98.63:4200/udp/239.81.0.250:4056
-#EXTINF:-1 group-title="广西频道",广西新闻-组播
-http://222.84.98.63:4200/udp/239.81.0.248:4056
+#EXTINF:-1 group-title="广西频道",广西影视
+https://mobilelive.gxtv.cn/live/nn_live1003/playlist.m3u8
+#EXTINF:-1 group-title="广西频道",广西新闻
+https://mobilelive.gxtv.cn/live/nn_live1007/playlist.m3u8
 #EXTINF:-1 group-title="广西频道",广西公共-组播
 http://222.84.98.63:4200/udp/239.81.0.249:4056
-#EXTINF:-1 group-title="广西频道",广西都市-组播
-http://222.84.98.63:4200/udp/239.81.0.247:4056
-#EXTINF:-1 group-title="广西频道",广西国际-组播
-http://222.84.98.63:4200/udp/239.81.0.8:4056
+#EXTINF:-1 group-title="广西频道",广西都市
+https://mobilelive.gxtv.cn/live/nn_live1006/playlist.m3u8
+#EXTINF:-1 group-title="广西频道",广西国际
+https://mobilelive.gxtv.cn/live/nn_live1009/playlist.m3u8
+#EXTINF:-1 group-title="广西频道",广西移动
+https://mobilelive.gxtv.cn/live/gxyd/playlist.m3u8
+#EXTINF:-1 group-title="广西频道",广西乐思购
+https://mobilelive.gxtv.cn/live/nn_live1002/playlist.m3u8
 
 #EXTINF:-1 group-title="广西频道",广西-南宁新闻综合
 http://localhost/dashboard/23_guangxi_nanning.php?id=nnzh
