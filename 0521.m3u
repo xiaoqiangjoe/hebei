@@ -1506,8 +1506,27 @@ http://localhost/dashboard/59_qita.php?id=lqsh
 #EXTINF:-1 group-title="陕西频道",陕西-礼泉戏曲
 http://localhost/dashboard/59_qita.php?id=lqxq
 
-#EXTINF:-1 group-title="四川频道",四川卫视
-http://117.114.153.25:8180/TV00000000000000000033@HHZT?
+
+#EXTINF:-1 group-title="四川频道",四川-四川卫视(官网-一周一次token)
+http://localhost/dashboard/05_sichuan_shengji.php?id=scws
+#EXTINF:-1 group-title="四川频道",四川-四川经济
+http://localhost/dashboard/05_sichuan_shengji.php?id=scjj
+#EXTINF:-1 group-title="四川频道",四川-四川文化旅游
+http://localhost/dashboard/05_sichuan_shengji.php?id=scwhly
+#EXTINF:-1 group-title="四川频道",四川-四川新闻
+http://localhost/dashboard/05_sichuan_shengji.php?id=scxw
+#EXTINF:-1 group-title="四川频道",四川-四川影视文艺
+http://localhost/dashboard/05_sichuan_shengji.php?id=scyswy
+#EXTINF:-1 group-title="四川频道",四川-四川星空购物
+http://localhost/dashboard/05_sichuan_shengji.php?id=scxkgw
+#EXTINF:-1 group-title="四川频道",四川-四川妇女儿童
+http://localhost/dashboard/05_sichuan_shengji.php?id=scfnet
+#EXTINF:-1 group-title="四川频道",四川-四川乡村
+http://localhost/dashboard/05_sichuan_shengji.php?id=scxc
+#EXTINF:-1 group-title="四川频道",四川-康巴卫视
+http://localhost/dashboard/05_sichuan_shengji.php?id=kbws
+
+
 #EXTINF:-1 group-title="四川频道",四川文化旅游
 http://118.122.2.29:9999/hls/52/index.m3u8
 #EXTINF:-1 group-title="四川频道",四川影视文化
@@ -3379,6 +3398,10 @@ https://time-vod-qhlive.sobeylive.com/zhddgbds/ddnews.m3u8
 http://localhost/dashboard/17_liaoniang_dandong.php
 #EXTINF:-1 group-title="辽宁频道",锦州新闻综合
 http://localhost/dashboard/17_liaoniang_shengji.php?id=277
+#EXTINF:-1 group-title="辽宁频道",辽宁-锦州综合
+http://localhost/dashboard/17_liaoniang_jinzhou.php?id=jzzh
+#EXTINF:-1 group-title="辽宁频道",辽宁-锦州教育
+http://localhost/dashboard/17_liaoniang_jinzhou.php?id=jzjy
 #EXTINF:-1 group-title="辽宁频道",阜新综合
 http://localhost/dashboard/17_liaoniang_shengji.php?id=279
 #EXTINF:-1 group-title="辽宁频道",辽阳新闻综合
@@ -3776,6 +3799,26 @@ http://localhost/dashboard/19_jiangsu_wuxi.php?id=3
 http://localhost/dashboard/19_jiangsu_wuxi.php?id=4
 #EXTINF:-1 group-title="江苏频道",江苏-无锡经济
 http://localhost/dashboard/19_jiangsu_wuxi.php?id=5
+#EXTINF:-1 group-title="江苏频道",江苏-无锡教育
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=wxjy
+#EXTINF:-1 group-title="江苏频道",江苏-连云港综合
+http://localhost/dashboard/19_jiangsu_lianyungang.php?id=lygzh
+#EXTINF:-1 group-title="江苏频道",江苏-连云港公共
+http://localhost/dashboard/19_jiangsu_lianyungang.php?id=lyggg
+#EXTINF:-1 group-title="江苏频道",江苏-镇江新闻综合
+http://cm.wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1 group-title="江苏频道",江苏-镇江民生
+http://cm.wshls.homecdn.com/live/2aa16.m3u8
+#EXTINF:-1 group-title="江苏频道",江苏-溧水新闻频道
+https://live.lsrmw.cn/zhpd/sd/live.m3u8
+#EXTINF:-1 group-title="江苏频道",江苏-徐州-1
+http://stream3.huaihai.tv/xwzh1t/sd/live.m3u8
+#EXTINF:-1 group-title="江苏频道",江苏-徐州-2
+http://stream3.huaihai.tv/xz2t/sd/live.m3u8
+#EXTINF:-1 group-title="江苏频道",江苏-徐州-3
+http://stream3.huaihai.tv/xz3t/sd/live.m3u8
+#EXTINF:-1 group-title="江苏频道",江苏-徐州-4
+http://stream3.huaihai.tv/xz4t/sd/live.m3u8
 #EXTINF:-1 group-title="江苏频道",江苏-盐城电视一套
 http://localhost/dashboard/19_jiangsu_yancheng.php?id=24
 #EXTINF:-1 group-title="江苏频道",江苏-盐城电视二套
@@ -3848,8 +3891,7 @@ http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=hazh
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=hagg
 #EXTINF:-1 group-title="江苏频道",江苏-淮安影视娱乐
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=haysyl
-#EXTINF:-1 group-title="江苏频道",江苏-无锡教育
-http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=wxjy
+
 #EXTINF:-1 group-title="江苏频道",江苏-灌云综合-连云港
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=gyzh
 #EXTINF:-1 group-title="江苏频道",江苏-灌云影视-连云港
@@ -4310,6 +4352,14 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-大庆教育
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-大庆综合
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=dqzh
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-大庆教育
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=dqjy
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-鹤岗电视台
+https://rmplive.hljtv.com/live/hegang.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-绥化综合
+https://liveplaysr.dbw.cn/lsdream/amzPoBP/1000/live.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-黑河综合
 https://liveplaysr.dbw.cn/lsdream/86qwqcs/1024/live.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-穆棱综合频道
@@ -4523,6 +4573,8 @@ http://localhost/dashboard/28_jilin_xianji.php?id=356
 http://localhost/dashboard/28_jilin_xianji.php?id=358
 #EXTINF:-1 group-title="吉林频道",吉林-综艺频道高清
 http://localhost/dashboard/28_jilin_xianji.php?id=362
+#EXTINF:-1 group-title="吉林频道",吉林-吉林县
+http://localhost/dashboard/50_quxian_qita.php?id=jxzh
 
 #EXTINF:-1 group-title="吉林频道",吉林-长春综合
 http://localhost/dashboard/28_jilin_changchun.php?id=cczh
