@@ -18,6 +18,7 @@ http://localhost/dashboard/57_migu720.php?id=cctv5
 http://localhost/dashboard/57_migu720.php?id=cctv6
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV7.png" group-title="咪咕",cctv7
 http://localhost/dashboard/57_migu720.php?id=cctv7
+
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV8.png" group-title="咪咕",cctv8
 http://localhost/dashboard/57_migu720.php?id=cctv8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV9.png" group-title="咪咕",cctv9
@@ -66,7 +67,7 @@ http://localhost/dashboard/59_qita.php?id=cctv4k
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV1.png" group-title="央视频",cctv1
 http://localhost/dashboard/59_qita.php?id=cctv1
-#EXTINF:-1 group-title="央频道",CCTV1
+#EXTINF:-1 group-title="央视频",CCTV1
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=CCTV1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV2.png" group-title="央视频",cctv2
 http://localhost/dashboard/59_qita.php?id=cctv2
@@ -173,19 +174,19 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/index.m
 #EXTINF:-1 group-title="央视频",CCTV第一剧场(vip)
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIg5Jm9ufDm6djkkrhWP0zlHbXMBq03w%2FgOHENZxE4ay%2BEXqK0XzFFWJtPAReIvdhE
 #EXTINF:-1 group-title="央视频",CCTV怀旧剧场(vip)
-http://localhost/dashboard/58_ysp.php?id=hjjc
+http://localhost/dashboard/27_chongqin_cqyx.php?id=hjjc
 #EXTINF:-1 group-title="央视频",CCTV风云剧场(vip)
-http://localhost/dashboard/58_ysp.php?id=fyjc
+http://localhost/dashboard/27_chongqin_cqyx.php?id=fyjc
 #EXTINF:-1 group-title="央视频",CCTV风云音乐(vip)
 http://localhost/dashboard/58_ysp.php?id=fyyy
 #EXTINF:-1 group-title="央视频",CCTV风云足球(vip)
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGJz5anxUFgyS6MrkLezPQZm9JL%2Bv9RrHWJTagMmnVYzpeQ%2FU0oiypeROXP7q2riYic
 #EXTINF:-1 group-title="央视频",CCTV电视指南(vip)
-http://localhost/dashboard/58_ysp.php?id=dszn
+http://localhost/dashboard/27_chongqin_cqyx.php?id=dszn
 #EXTINF:-1 group-title="央视频",CCTV女性时尚(vip)
-http://localhost/dashboard/58_ysp.php?id=nxss
-#EXTINF:-1 group-title="央视频",CCTV央视文化精品(vip)
-http://localhost/dashboard/58_ysp.php?id=whjp
+http://localhost/dashboard/27_chongqin_cqyx.php?id=nxss
+#EXTINF:-1 group-title="央视频",CCTV央广购物(vip)
+http://localhost/dashboard/27_chongqin_cqyx.php?id=yggw
 #EXTINF:-1 group-title="央视频",CCTV世界地理(vip)
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGJ1P%2BMWIbO7dcr69BOnWr6VtCf%2FZIGsCvoR9H9LBuL%2Bb%2BgUMie3w0VElI8jl5lx%2Fxs
 #EXTINF:-1 group-title="央视频",CCTV高尔夫网球(vip)
@@ -194,6 +195,14 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0
 #EXTINF:-1 group-title="央视频",CCTV卫生健康(vip)
 http://localhost/dashboard/58_ysp.php?id=wsjk
+
+#EXTINF:-1 group-title="央视频",种养新影-中学生
+http://localhost/dashboard/27_chongqin_cqyx.php?id=zxs
+#EXTINF:-1 group-title="央视频",种养新影-发现之旅
+http://localhost/dashboard/27_chongqin_cqyx.php?id=fxzl
+#EXTINF:-1 group-title="央视频",种养新影-老故事
+http://localhost/dashboard/27_chongqin_cqyx.php?id=lgs
+
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CGTN.png"  group-title="央视频",CGTN
 http://localhost/dashboard/58_ysp.php?id=cgtn
@@ -208,54 +217,7 @@ http://localhost/dashboard/58_ysp.php?id=cgtna
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CGTN俄语.png"  group-title="央视频",CGTN俄语
 http://localhost/dashboard/58_ysp.php?id=cgtnr
 
-#EXTINF:-1 group-title="央视频",教育1台
-http://localhost/dashboard/58_ysp.php?id=cetv1
-#EXTINF:-1 group-title="央视频",北京卫视
-http://localhost/dashboard/58_ysp.php?id=bjws
-#EXTINF:-1 group-title="央视频",东方卫视
-http://localhost/dashboard/58_ysp.php?id=dfws
-#EXTINF:-1 group-title="央视频",天津卫视
-http://localhost/dashboard/58_ysp.php?id=tjws
-#EXTINF:-1 group-title="央视频",重庆卫视
-http://localhost/dashboard/58_ysp.php?id=cqws
-#EXTINF:-1 group-title="央视频",黑龙江卫视
-http://localhost/dashboard/58_ysp.php?id=hljws
-#EXTINF:-1 group-title="央视频",辽宁卫视
-http://localhost/dashboard/58_ysp.php?id=lnws
-#EXTINF:-1 group-title="央视频",河北卫视
-http://localhost/dashboard/58_ysp.php?id=hbws
-#EXTINF:-1 group-title="央视频",山东卫视
-http://localhost/dashboard/58_ysp.php?id=sdws
-#EXTINF:-1 group-title="央视频",安徽卫视
-http://localhost/dashboard/58_ysp.php?id=ahws
-#EXTINF:-1 group-title="央视频",河南卫视
-http://localhost/dashboard/58_ysp.php?id=hnws
-#EXTINF:-1 group-title="央视频",湖北卫视
-http://localhost/dashboard/58_ysp.php?id=hubws
-#EXTINF:-1 group-title="央视频",湖南卫视
-http://localhost/dashboard/58_ysp.php?id=hunws
-#EXTINF:-1 group-title="央视频",江西卫视
-http://localhost/dashboard/58_ysp.php?id=jxws
-#EXTINF:-1 group-title="央视频",江苏卫视
-http://localhost/dashboard/58_ysp.php?id=jsws
-#EXTINF:-1 group-title="央视频",浙江卫视
-http://localhost/dashboard/58_ysp.php?id=zjws
-#EXTINF:-1 group-title="央视频",东南卫视
-http://localhost/dashboard/58_ysp.php?id=dnws
-#EXTINF:-1 group-title="央视频",广东卫视
-http://localhost/dashboard/58_ysp.php?id=gdws
-#EXTINF:-1 group-title="央视频",深圳卫视
-http://localhost/dashboard/58_ysp.php?id=szws
-#EXTINF:-1 group-title="央视频",广西卫视
-http://localhost/dashboard/58_ysp.php?id=gxws
-#EXTINF:-1 group-title="央视频",贵州卫视
-http://localhost/dashboard/58_ysp.php?id=gzws
-#EXTINF:-1 group-title="央视频",四川卫视
-http://localhost/dashboard/58_ysp.php?id=scws
-#EXTINF:-1 group-title="央视频",新疆卫视
-http://localhost/dashboard/58_ysp.php?id=xjws
-#EXTINF:-1 group-title="央视频",海南卫视
-http://localhost/dashboard/58_ysp.php?id=hinws
+
 
 
 #EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="求索系列",求索动物
@@ -273,6 +235,7 @@ http://localhost/dashboard/otv.php?id=43067
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/重温经典.png" group-title="电影频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+
 #EXTINF:-1 group-title="电影频道",重温经典
 http://117.114.153.25:8180/TV00000000000000000007@HHZT?
 
@@ -4471,7 +4434,8 @@ http://localhost/dashboard/27_chongqin_cqyx.php?id=cqqm
 http://localhost/dashboard/27_chongqin_cqyx.php?id=cgrm
 #EXTINF:-1 group-title="重庆频道",重庆-爱看导视
 http://localhost/dashboard/27_chongqin_cqyx.php?id=akds
-
+#EXTINF:-1 group-title="重庆频道",重庆-购物频道
+https://cqonsitecdn.cbgcloud.com:443/161o3l/5tu7tm.m3u8
 #EXTINF:-1 group-title="重庆频道",CQTV影视-组播
 http://113.251.178.188:6666/rtp/235.254.198.180:7980
 #EXTINF:-1 group-title="重庆频道",CQTV都市-组播
@@ -4776,6 +4740,9 @@ http://171.108.239.74:8181/tsfile/live/1010_1.m3u8
 #EXTINF:-1 group-title="港澳台",东森新闻美国
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 
+
+#EXTINF:-1 group-title="港澳台",美亚C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 #EXTINF:-1 group-title="港澳台",TVB星河
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
