@@ -4126,7 +4126,10 @@ http://localhost/dashboard/21_yunnan_nujiang.php?id=lpxw
 https://file.hhtv.cc/nmip-media/channellive/channel100708/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",云南-红河电视台-2
 https://file.hhtv.cc/nmip-media/channellive/channel101239/playlist.m3u8
-
+#EXTINF:-1 group-title="云南频道",云南-楚雄新闻综合
+http://39.129.113.77:38083/live/cxxwpd.m3u8
+#EXTINF:-1 group-title="云南频道",云南-楚雄文旅
+http://39.129.113.77:38083/live/cxwlpd.m3u8
 #EXTINF:-1 group-title="云南频道",云南-麻栗坡县电视台
 https://m3u8.channel.wsrtv.com.cn/nmip-media/channellive/channel107237/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",云南文山-麻栗坡台
