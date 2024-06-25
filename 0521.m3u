@@ -1608,6 +1608,16 @@ https://njzb.scnj.tv/hls_njtv_direct/9.m3u8
 http://110.189.153.160:1001/zhpd.flv
 #EXTINF:-1 group-title="四川频道",四川-自贡公共
 http://110.189.153.160:1002/ggpd.flv
+#EXTINF:-1 group-title="四川频道",四川-雅安新闻
+https://play.yunxya.com/channellive/xinwen.m3u8
+#EXTINF:-1 group-title="四川频道",四川-雅安文化生活
+https://play.yunxya.com/channellive/whsh.m3u8
+#EXTINF:-1 group-title="四川频道",四川-雅安文化生活
+https://m3u8channel.yunxya.com/nmip-media/channellive/channel100819/playlist.m3u8
+#EXTINF:-1 group-title="四川频道",四川-乐山新闻
+http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="四川频道",四川-乐山文旅生活
+http://m3u8file.lstv.org.cn/nmip-media/channellive/channel12/playlist.m3u8
 #EXTINF:-1 group-title="四川频道",四川-泸州新闻综合
 https://www.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
 #EXTINF:-1 group-title="四川频道",四川-泸州科教
