@@ -1618,6 +1618,10 @@ https://m3u8channel.yunxya.com/nmip-media/channellive/channel100819/playlist.m3u
 http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 group-title="四川频道",四川-乐山文旅生活
 http://m3u8file.lstv.org.cn/nmip-media/channellive/channel12/playlist.m3u8
+#EXTINF:-1 group-title="四川频道",四川-利州电视台
+http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
+#EXTINF:-1 group-title="四川频道",四川-泸县新闻综合
+http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 #EXTINF:-1 group-title="四川频道",四川-泸州新闻综合
 https://www.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
 #EXTINF:-1 group-title="四川频道",四川-泸州科教
@@ -4123,6 +4127,17 @@ https://file.hhtv.cc/nmip-media/channellive/channel100708/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",云南-红河电视台-2
 https://file.hhtv.cc/nmip-media/channellive/channel101239/playlist.m3u8
 
+#EXTINF:-1 group-title="云南频道",云南-麻栗坡县电视台
+https://m3u8.channel.wsrtv.com.cn/nmip-media/channellive/channel107237/playlist.m3u8
+#EXTINF:-1 group-title="云南频道",云南文山-麻栗坡台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
+#EXTINF:-1 group-title="云南频道",云南-丘北新闻综合
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
+#EXTINF:-1 group-title="云南频道",云南-砚山频道
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="云南频道",云南-元阳综合
 http://tv.drs.hhtv.cc:8100/channellive/yydst.flv
 #EXTINF:-1 group-title="云南频道",云南-彝良综合-昭通
@@ -4135,8 +4150,7 @@ http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",云南-文山州新闻综合
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
-#EXTINF:-1 group-title="云南频道",云南文山-麻栗坡台
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
+
 #EXTINF:-1 group-title="云南频道",云南-德宏新闻综合
 https://zhztsrs.edehong.com:8001/srs1/matrix/102580.flv 
 #EXTINF:-1 group-title="云南频道",云南-德宏文旅
