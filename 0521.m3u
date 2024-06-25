@@ -2026,7 +2026,14 @@ http://localhost/dashboard/07_hubei_enshi.php?id=bdzh
 http://localhost/dashboard/07_hubei_enshi.php?id=xfzh
 #EXTINF:-1 group-title="湖北频道",湖北-鹤峰综合
 http://localhost/dashboard/07_hubei_enshi.php?id=hfzh
-
+#EXTINF:-1 group-title="湖北频道",湖北-江陵综合
+http://localhost/dashboard/07_hubei_cjy.php?id=jlzh
+#EXTINF:-1 group-title="湖北频道",湖北-丹江口综合
+http://localhost/dashboard/07_hubei_cjy.php?id=djkzh
+#EXTINF:-1 group-title="湖北频道",湖北-武穴综合
+http://localhost/dashboard/07_hubei_cjy.php?id=wxzh
+#EXTINF:-1 group-title="湖北频道",湖北-公安频道
+http://localhost/dashboard/07_hubei_cjy.php?id=gapd
 #EXTINF:-1 group-title="湖北频道",湖北-宜昌综合
 https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 #EXTINF:-1 group-title="湖北频道",湖北-宜昌旅游
@@ -4130,6 +4137,7 @@ https://file.hhtv.cc/nmip-media/channellive/channel101239/playlist.m3u8
 http://39.129.113.77:38083/live/cxxwpd.m3u8
 #EXTINF:-1 group-title="云南频道",云南-楚雄文旅
 http://39.129.113.77:38083/live/cxwlpd.m3u8
+
 #EXTINF:-1 group-title="云南频道",云南-麻栗坡县电视台
 https://m3u8.channel.wsrtv.com.cn/nmip-media/channellive/channel107237/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",云南文山-麻栗坡台
