@@ -4179,7 +4179,8 @@ http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/pla
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",云南-砚山频道
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
-
+#EXTINF:-1 group-title="云南频道",云南-玉溪公共
+http://localhost/dashboard/21_yunnan_yuxi.php
 
 
 #EXTINF:-1 group-title="云南频道",云南-元阳综合
