@@ -1233,6 +1233,18 @@ http://localhost/dashboard/02_shandong_qita.php?id=wfwc
 http://localhost/dashboard/02_shandong_qita.php?id=wfzcxw
 #EXTINF:-1 group-title="山东频道",潍坊-诸城生活娱乐
 http://localhost/dashboard/02_shandong_qita.php?id=wfzcsh
+#EXTINF:-1 group-title="山东频道",青岛-1
+http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00000500/index.m3u8?IAS
+#EXTINF:-1 group-title="山东频道",青岛-2
+http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00000501/index.m3u8?IAS
+#EXTINF:-1 group-title="山东频道",青岛-3
+http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00000502/index.m3u8?IAS
+#EXTINF:-1 group-title="山东频道",青岛-4
+http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00000503/index.m3u8?IAS
+#EXTINF:-1 group-title="山东频道",青岛-5
+http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00000504/index.m3u8?IAS
+#EXTINF:-1 group-title="山东频道",青岛-6
+http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00000505/index.m3u8?IAS
 #EXTINF:-1 group-title="山东频道",青岛-黄岛综合
 http://localhost/dashboard/02_shandong_qita.php?id=qdhdzh
 #EXTINF:-1 group-title="山东频道",青岛-黄岛生活
