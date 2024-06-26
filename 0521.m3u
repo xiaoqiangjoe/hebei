@@ -2149,6 +2149,10 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/in
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRJiJ8tFyWVQ4LIMJg%2BXyuQCUUYb4If0LygirGPvYsbTi60DjU3KKPbFtbFrR1EGj%2FI
 #EXTINF:-1 group-title="湖南频道",湖南-湘潭新闻综合
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
+#EXTINF:-1 group-title="湖南频道",湖南-益阳新闻综合
+http://localhost/dashboard/08_hunan_yiyang.php?id=yyxw
+#EXTINF:-1 group-title="湖南频道",湖南-益阳新闻综合
+http://localhost/dashboard/08_hunan_yiyang.php?id=yygg
 #EXTINF:-1 group-title="湖南频道",南县新闻-益阳
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=nxtv
 
