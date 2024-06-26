@@ -3277,9 +3277,9 @@ http://localhost/dashboard/14_guangdong_zengcheng.php
 #EXTINF:-1 group-title="广东频道",广东-广东蛇口电视台
 http://localhost/dashboard/otv.php?id=37
 #EXTINF:-1 group-title="广东频道",广东-潮州综合
-http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
+http://biaozhun114.com/tv/iptv2.php?id=1
 #EXTINF:-1 group-title="广东频道",广东-潮州民生
-http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
+http://biaozhun114.com/tv/iptv2.php?id=2
 #EXTINF:-1 group-title="广东频道",广东-云浮综合
 https://livestream.oeeee.com/slive/17806.m3u8
 #EXTINF:-1 group-title="广东频道",广东-云浮文旅
