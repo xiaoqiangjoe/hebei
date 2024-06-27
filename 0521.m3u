@@ -2984,7 +2984,10 @@ http://live.plus.jinhua.com.cn/jjsh/app/live.m3u8
 https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-庆元
 http://localhost/dashboard/13_zhejiang_qingyuan.php
-
+#EXTINF:-1 group-title="浙江频道",浙江-乐清新闻综合
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lqzh
+#EXTINF:-1 group-title="浙江频道",浙江-乐清综合综合
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lqsh
 #EXTINF:-1 group-title="浙江频道",浙江-柯桥新闻综合
 http://localhost/dashboard/13_zhejiang_keqiao.php
 #EXTINF:-1 group-title="浙江频道",浙江-绍兴综合
