@@ -1138,9 +1138,10 @@ http://localhost/dashboard/02_shandong_shouguang.php?id=sgsc
 http://localhost/dashboard/02_shandong_shouguang.php?id=fczh
 #EXTINF:-1 group-title="山东频道",山东-肥城生活
 http://localhost/dashboard/02_shandong_shouguang.php?id=fcsh
-
-
-
+#EXTINF:-1 group-title="山东频道",山东-阳谷综合
+http://localhost/dashboard/02_shandong_shouguang.php?id=ygzh
+#EXTINF:-1 group-title="山东频道",山东-阳谷影视
+http://localhost/dashboard/02_shandong_shouguang.php?id=ygys
 
 
 #EXTINF:-1 group-title="山东频道",山东-济宁城合
@@ -1755,7 +1756,10 @@ https://dcpull.sctvcloud.com/live/522fab2601881000cd142f2900000000/playlist.m3u8
 https://dcpull.sctvcloud.com/live/52304cbd0188100059040d3700000000/playlist.m3u8
 #EXTINF:-1 group-title="四川频道",四川-富顺新闻综合[需要观察时效性]
 http://pili-live-hls.145.i2863.com/i2863-145/live_145_906964.m3u8?sign=187cfc13ffadc03beede7c3fd66cf4b7&t=667bd5f9
-
+#EXTINF:-1 group-title="四川频道",四川-旺苍电视台
+http://channel.wcrmt.cn/nmip-media/channellive/channel105268/playlist.m3u8
+#EXTINF:-1 group-title="四川频道",四川-威远综合频道
+https://wy-live-pull.thecover.cn/rmtlive/fmzb1710746907096.m3u8
 
 
 
@@ -3084,6 +3088,13 @@ http://localhost/dashboard/55_guangdianyun.php?id=cxxwzh
 http://localhost/dashboard/55_guangdianyun.php?id=cxmsxx
 #EXTINF:-1 group-title="浙江频道",宁波慈溪影视图文
 http://localhost/dashboard/55_guangdianyun.php?id=cxystw
+#EXTINF:-1 group-title="浙江频道",浙江-温岭新闻综合
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=wlzh
+#EXTINF:-1 group-title="浙江频道",浙江-温岭民生休闲
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=wlxx
+#EXTINF:-1 group-title="浙江频道",浙江-兰溪新闻综合
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lxzh
+
 
 #EXTINF:-1 group-title="广东频道",广东-广东卫视
 http://localhost/dashboard/14_guangdong_shengji.php?id=gdws
