@@ -1673,7 +1673,8 @@ http://localhost/dashboard/05_sichuan_ziyang.php?id=zyyj
 http://localhost/dashboard/05_sichuan_meishan.php?id=gqpd
 #EXTINF:-1 group-title="四川频道",四川-眉山文旅乡村
 http://localhost/dashboard/05_sichuan_meishan.php?id=ggpd
-
+#EXTINF:-1 group-title="四川频道",四川-昭华新闻综合
+http://live.zhgbtv.cn:3100/hls/kwqtkbbi/index.m3u8
 #EXTINF:-1 group-title="四川频道",四川-崇州电视1套
 http://localhost/dashboard/05_chengdu_quxian.php?id=cztv
 #EXTINF:-1 group-title="四川频道",四川-都江堰电视台
@@ -2972,7 +2973,8 @@ http://localhost/dashboard/13_zhejiang_jiaxing.php?id=yyyjwh
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=phxwzh
 #EXTINF:-1 group-title="浙江频道",浙江-象山新闻综合
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=xsxwzh
-
+#EXTINF:-1 group-title="浙江频道",浙江-杭州市临安区新闻综合
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lazh
 
 #EXTINF:-1 group-title="浙江频道",浙江-金华新闻综合
 http://live.plus.jinhua.com.cn/xwzh/app/live.m3u8
