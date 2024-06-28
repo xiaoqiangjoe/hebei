@@ -3091,6 +3091,8 @@ http://play-sh11.quklive.com/live/1626400915947070.m3u8
 http://play-sh11.quklive.com/live/1626401163709056.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-苍南新闻综合
 http://play-sh13.quklive.com/live/1690277040164280.m3u8?auth_key=2028413660-0d11c1ff5d134c70b3c52a734b8a9fcf-0-4f0dd757a3240da4a10f5ec5aa172659
+#EXTINF:-1 group-title="浙江频道",浙江-洞头综合
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=dtzh
 #EXTINF:-1 group-title="浙江频道",浙江-洞头综合频道
 http://play-sh13.quklive.com/live/1688012459764188.m3u8?auth_key=2028413596-fc5dc2320f7f48b98b2287e55a028b39-0-2d0ee22ce5009e44ff294c7ca34a6274
 #EXTINF:-1 group-title="浙江频道",浙江-龙游新闻综合
