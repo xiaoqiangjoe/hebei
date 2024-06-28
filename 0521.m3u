@@ -2984,8 +2984,7 @@ http://live.plus.jinhua.com.cn/xwzh/app/live.m3u8
 http://live.plus.jinhua.com.cn/jykj/app/live.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-金华公共频道
 http://live.plus.jinhua.com.cn/jjsh/app/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="浙江频道",嵊州综合 (720p) [Not 24/7]
-https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+
 #EXTINF:-1 group-title="浙江频道",浙江-庆元
 http://localhost/dashboard/13_zhejiang_qingyuan.php
 #EXTINF:-1 group-title="浙江频道",浙江-乐清新闻综合
@@ -3028,8 +3027,7 @@ http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",余姚姚江文化
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-#EXTINF:-1 group-title="浙江频道",嵊州新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+
 #EXTINF:-1 group-title="浙江频道",诸暨新闻综合
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",上虞新闻综合
@@ -3066,6 +3064,8 @@ http://play-a11.quklive.com/live/1689126294179076.m3u8
 http://play-a2.quklive.com/live/1681269183807252.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-龙港综合频道
 http://play-qukan.cztv.com/live/1690766586436244.m3u8
+#EXTINF:-1 group-title="浙江频道",嵊州新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-嵊州新闻综合
 http://play-sh11.quklive.com/live/1626935015913208.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-永康新闻综合
