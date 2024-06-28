@@ -2949,6 +2949,8 @@ http://localhost/dashboard/13_zhejiang_jiaxing.php?id=xssh
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=pyylsh
 #EXTINF:-1 group-title="浙江频道",浙江-永嘉新闻综合
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=yjxwzh
+#EXTINF:-1 group-title="浙江频道",浙江-东阳新闻
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=dyxwzh
 #EXTINF:-1 group-title="浙江频道",浙江-东阳影视生活
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=dyyssh
 #EXTINF:-1 group-title="浙江频道",浙江-天台和合频道
@@ -3038,8 +3040,12 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",兰溪新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
-#EXTINF:-1 group-title="浙江频道",义乌新闻综合
-https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
+#EXTINF:-1 group-title="浙江频道",浙江-义乌新闻综合 
+http://localhost/dashboard/26_beijing_yanqing.php?id=ywxwzh
+#EXTINF:-1 group-title="浙江频道",浙江-义乌商贸频道 
+http://localhost/dashboard/26_beijing_yanqing.php?id=ywsmpd
+#EXTINF:-1 group-title="浙江频道",浙江-义乌文艺频道 
+http://localhost/dashboard/26_beijing_yanqing.php?id=ywwtpd
 #EXTINF:-1 group-title="浙江频道",云和新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",永嘉综合-温州
@@ -3120,6 +3126,11 @@ http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=wlxx
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lxzh
 #EXTINF:-1 group-title="浙江频道",浙江-奉化新闻综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=fhzh
+#EXTINF:-1 group-title="浙江频道",浙江-杭州市富阳区新闻综合
+http://localhost/dashboard/07_hubei_quxian_guangdianyun2.php?id=fyzh
+
+
+
 
 #EXTINF:-1 group-title="广东频道",广东-广东卫视
 http://localhost/dashboard/14_guangdong_shengji.php?id=gdws
