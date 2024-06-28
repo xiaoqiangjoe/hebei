@@ -2984,15 +2984,22 @@ http://live.plus.jinhua.com.cn/xwzh/app/live.m3u8
 http://live.plus.jinhua.com.cn/jykj/app/live.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-金华公共频道
 http://live.plus.jinhua.com.cn/jjsh/app/live.m3u8
-
+#EXTINF:-1 group-title="浙江频道",浙江-嘉善新闻综合
+http://localhost/dashboard/13_zhejiang_jiashan.php
 #EXTINF:-1 group-title="浙江频道",浙江-庆元
 http://localhost/dashboard/13_zhejiang_qingyuan.php
 #EXTINF:-1 group-title="浙江频道",浙江-乐清新闻综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lqzh
 #EXTINF:-1 group-title="浙江频道",浙江-乐清综合综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lqsh
-#EXTINF:-1 group-title="浙江频道",浙江-柯桥新闻综合
-http://localhost/dashboard/13_zhejiang_keqiao.php
+#EXTINF:-1 group-title="浙江频道",浙江-永康新闻综合
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=ykxwzh
+#EXTINF:-1 group-title="浙江频道",浙江-华溪综合
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=hxzh
+#EXTINF:-1 group-title="浙江频道",浙江-诸暨综合
+http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
+#EXTINF:-1 group-title="浙江频道",浙江-柯桥综合
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=kqzh
 #EXTINF:-1 group-title="浙江频道",浙江-绍兴综合
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-绍兴公共频道
