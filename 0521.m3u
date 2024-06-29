@@ -2940,13 +2940,11 @@ http://localhost/dashboard/13_zhejiang_jiaxing.php?id=khgjgy
 #EXTINF:-1 group-title="浙江频道",浙江-建德综合
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=jdzh
 #EXTINF:-1 group-title="浙江频道",浙江-桐庐综合
-http://localhost/dashboard/13_zhejiang_jiaxing.php?id=tlzh
+http://localhost/dashboard/13_zhejiang_tonglu.php
 #EXTINF:-1 group-title="浙江频道",浙江-萧山综合
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=xszh
 #EXTINF:-1 group-title="浙江频道",浙江-萧山生活
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=xssh
-#EXTINF:-1 group-title="浙江频道",浙江-平阳娱乐生活
-http://localhost/dashboard/13_zhejiang_jiaxing.php?id=pyylsh
 #EXTINF:-1 group-title="浙江频道",浙江-永嘉新闻综合
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=yjxwzh
 #EXTINF:-1 group-title="浙江频道",浙江-东阳新闻
@@ -2959,30 +2957,16 @@ http://localhost/dashboard/13_zhejiang_jiaxing.php?id=tthh
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=qytv
 #EXTINF:-1 group-title="浙江频道",浙江-云和新闻综合
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=yhxwzh
-#EXTINF:-1 group-title="浙江频道",浙江-衢州新闻综合(非全天候)
-http://localhost/dashboard/13_zhejiang_jiaxing.php?id=qzxwzh
 #EXTINF:-1 group-title="浙江频道",浙江-常山新闻综合
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=csxwzh
 #EXTINF:-1 group-title="浙江频道",浙江-江山电视台
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=jstv
 #EXTINF:-1 group-title="浙江频道",浙江-衢江新闻综合(非全天候)
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=qjxwzh
-#EXTINF:-1 group-title="浙江频道",浙江-余姚新闻综合
-http://localhost/dashboard/13_zhejiang_jiaxing.php?id=yyxwzh
-#EXTINF:-1 group-title="浙江频道",浙江-余姚姚江文化
-http://localhost/dashboard/13_zhejiang_jiaxing.php?id=yyyjwh
-#EXTINF:-1 group-title="浙江频道",浙江-平湖新闻综合
-http://localhost/dashboard/13_zhejiang_jiaxing.php?id=phxwzh
-#EXTINF:-1 group-title="浙江频道",浙江-象山新闻综合
-http://localhost/dashboard/13_zhejiang_jiaxing.php?id=xsxwzh
 #EXTINF:-1 group-title="浙江频道",浙江-苍南综合
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=cnzh
 #EXTINF:-1 group-title="浙江频道",浙江-永嘉综合
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=yjzh
-#EXTINF:-1 group-title="浙江频道",浙江-永康新闻综合
-http://localhost/dashboard/13_zhejiang_jiaxing.php?id=ykxwzh
-#EXTINF:-1 group-title="浙江频道",浙江-华溪综合
-http://localhost/dashboard/13_zhejiang_jiaxing.php?id=hxzh
 #EXTINF:-1 group-title="浙江频道",浙江-柯桥综合
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=kqzh
 
@@ -3002,9 +2986,9 @@ http://localhost/dashboard/13_zhejiang_jiashan.php
 #EXTINF:-1 group-title="浙江频道",浙江-庆元
 http://localhost/dashboard/13_zhejiang_qingyuan.php
 #EXTINF:-1 group-title="浙江频道",浙江-乐清新闻综合
-http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lqzh
+http://33809.hlsplay.aodianyun.com/guangdianyun_33809/tv_channel_170.m3u8?auth_key=1719729055-0-0-62399e57c50769bd5615b63d53680a09&extra_key=jcB1_V7GaQUaV32WbUCUSAuVsoSR0U6kIDerJ38KCG7_fkDJQcMeOD11n88aN1imTLGgRLW3Azz1ZW44TxusbFN_86nCzlDMdx5SHLCW-Wp7-grRBWmnQ5__LZDAPNliaKPAw5jLQYwdUqf61xlCoetKiJ3vm0BNXnDJEow5iJU
 #EXTINF:-1 group-title="浙江频道",浙江-乐清综合综合
-http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lqsh
+http://33809.hlsplay.aodianyun.com/guangdianyun_33809/tv_channel_171.m3u8?auth_key=1719731665-0-0-8353be35ecc07df8f186463cbd50ce6d&extra_key=RJscL-Xqg9sDz75mh86G7gVPU8z-DZGm6Crs5NnlkMs5hmeijSFr9B2JzynnBtwefKBXP8KfeDGTEZS5nbweB3l2k7fUm8rgANtF_f65sOkOqJJgzLbwq2GqWCYpxP9QU7W56C0Vm_VQ7b3uvSTwGteROZXxm3OBOw4M2PkRpGE
 
 #EXTINF:-1 group-title="浙江频道",浙江-绍兴综合
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
@@ -3022,8 +3006,7 @@ http://localhost/dashboard/13_zhejiang_ningbo.php?id=nbtv3
 http://localhost/dashboard/13_zhejiang_ningbo.php?id=nbtv4
 #EXTINF:-1 group-title="浙江频道",浙江杭州淳安
 http://localhost/dashboard/13_zhejiang_hangzhou_chunan.php
-#EXTINF:-1 group-title="浙江频道",武义新闻综合
-http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+
 #EXTINF:-1 group-title="浙江频道",平湖新闻综合
 http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",平湖民生休闲
@@ -3049,8 +3032,7 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",上虞新商都
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-#EXTINF:-1 group-title="浙江频道",兰溪新闻综合
-http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+
 #EXTINF:-1 group-title="浙江频道",浙江-义乌新闻综合 
 http://localhost/dashboard/26_beijing_yanqing.php?id=ywxwzh
 #EXTINF:-1 group-title="浙江频道",浙江-义乌商贸频道 
@@ -3063,8 +3045,28 @@ http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",象山综合-宁波市
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
-#EXTINF:-1 group-title="浙江频道",武义新闻综合-金华市
-http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+#EXTINF:-1 group-title="浙江频道",浙江-龙港市新闻综合
+https://play-qukan.cztv.com/live/1690766586436244.m3u8
+#EXTINF:-1 group-title="浙江频道",浙江-普陀新闻综合
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=ptxw
+#EXTINF:-1 group-title="浙江频道",浙江-万象新闻综合
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=wxxw
+#EXTINF:-1 group-title="浙江频道",浙江-武义新闻综合
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=wyxw
+
+
+#EXTINF:-1 group-title="浙江频道",浙江-宁波市镇海区新闻综合
+https://netlive.zhxwzx.com/live/ZHTV-2.m3u8
+#EXTINF:-1 group-title="浙江频道",浙江-宁波市镇海区先锋影视
+https://netlive.zhxwzx.com/live/ZHTV-1.m3u8
+#EXTINF:-1 group-title="浙江频道",浙江-文成电视台
+http://l.66wc.com:1234/hls/10001-002-L.m3u8
+#EXTINF:-1 group-title="浙江频道",浙江-桐乡新闻综合
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=txxw
+#EXTINF:-1 group-title="浙江频道",浙江-安吉新闻综合
+http://localhost/dashboard/55_guangdianyun.php?id=ajxw
+#EXTINF:-1 group-title="浙江频道",浙江-安吉生活影视
+http://localhost/dashboard/55_guangdianyun.php?id=ajys
 #EXTINF:-1 group-title="浙江频道",文成综合频道-温州
 http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",温州新闻综合
@@ -3074,17 +3076,18 @@ http://play-sh11.quklive.com/live/1692151289551258.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-长兴新闻综合
 http://play-a11.quklive.com/live/1689126294179076.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-瑞安新闻综合
-http://play-a2.quklive.com/live/1681269183807252.m3u8
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=razh
 #EXTINF:-1 group-title="浙江频道",浙江-龙港综合频道
 http://play-qukan.cztv.com/live/1690766586436244.m3u8
 #EXTINF:-1 group-title="浙江频道",嵊州新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-嵊州新闻综合
 http://play-sh11.quklive.com/live/1626935015913208.m3u8
+
 #EXTINF:-1 group-title="浙江频道",浙江-永康新闻综合
-http://play-sh11.quklive.com/live/1625061424267104.m3u8
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=ykxwzh
 #EXTINF:-1 group-title="浙江频道",浙江-永康华溪频道
-http://play-sh11.quklive.com/live/1625062755227231.m3u8
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=ykhxzh
 #EXTINF:-1 group-title="浙江频道",浙江-磐安新闻综合
 http://play-sh11.quklive.com/live/1626400915947070.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-磐安文化生活
@@ -3133,14 +3136,16 @@ http://localhost/dashboard/55_guangdianyun.php?id=nhxwzh
 http://localhost/dashboard/55_guangdianyun.php?id=cxxwzh
 #EXTINF:-1 group-title="浙江频道",宁波慈溪民生休闲
 http://localhost/dashboard/55_guangdianyun.php?id=cxmsxx
-#EXTINF:-1 group-title="浙江频道",宁波慈溪影视图文
-http://localhost/dashboard/55_guangdianyun.php?id=cxystw
 #EXTINF:-1 group-title="浙江频道",浙江-温岭新闻综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=wlzh
 #EXTINF:-1 group-title="浙江频道",浙江-温岭民生休闲
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=wlxx
 #EXTINF:-1 group-title="浙江频道",浙江-兰溪新闻综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lxzh
+#EXTINF:-1 group-title="浙江频道",兰溪新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1 group-title="浙江频道",浙江-兰溪新闻综合-静态
+https://33524.hlsplay.aodianyun.com/tv_radio_33524/tv_channel_1185.m3u8?auth_key=1719733331-0-0-7f98bbba7ac887ca5a9ac3419e7b279f&extra_key=_AUmvQjYZgim94y92MAAjcXvfX8aEWajtwiwbpP0gxTNb5EIGc0ji3F4LrNc4hEHVOOnNZyX_UtFiMJFFru9rcfabM28hDfhFcPmQu7o5LpkAD3retDoEKbXO-wLzNUdouKq9NSdreK9QfS33ysF65C8QvTqogopZDA7LQE4qgc
 #EXTINF:-1 group-title="浙江频道",浙江-奉化新闻综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=fhzh
 #EXTINF:-1 group-title="浙江频道",浙江-杭州市富阳区新闻综合
