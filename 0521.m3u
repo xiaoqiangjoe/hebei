@@ -3486,6 +3486,24 @@ https://play.kankanlive.com/live/1701943385631927.m3u8
 https://play.kankanlive.com/live/1698975966407974.m3u8
 #EXTINF:-1 group-title="甘肃频道",甘肃-静宁电视台
 https://play.kankanlive.com/live/1691141121430928.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃-西和电视台
+https://play.kankanlive.com/live/1659926941626981.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃-平川电视台(爱平川)
+https://play.kankanlive.com/live/1692756037756937.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃-靖远电视台
+https://play.kankanlive.com/live/1692005762394912.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃-礼县电视台
+https://play.kankanlive.com/live/1716949735680956.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃-成县电视台
+https://play.kankanlive.com/live/1702454377323961.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃-崆峒电视台
+http://125.74.200.110:10080/hls/001/001_live.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃-民勤电视台
+https://play.kankanlive.com/live/1715673703395911.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃-陇西电视台
+https://play.kankanlive.com/live/1702426649052972.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃-敦煌电视台
+https://play.kankanlive.com/live/1698234808271963.m3u8
 
 #EXTINF:-1 group-title="辽宁频道",辽宁卫视
 http://localhost/dashboard/17_liaoniang_shengji.php?id=058
