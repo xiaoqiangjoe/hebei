@@ -3476,6 +3476,16 @@ http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
 http://localhost/dashboard/16_gansu_linxia.php?id=lxzh
 #EXTINF:-1 group-title="甘肃频道",甘肃-临夏文旅
 http://localhost/dashboard/16_gansu_linxia.php?id=lxwl
+#EXTINF:-1 group-title="甘肃频道",甘肃-秦安综合频道
+http://localhost/dashboard/26_beijing_yanqing.php?id=qatv
+#EXTINF:-1 group-title="甘肃频道",甘肃-西峰电视台
+https://play.kankanlive.com/live/1683944827526991.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃-渭源电视台
+https://play.kankanlive.com/live/1701943385631927.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃-华池电视台【不能？】
+https://play.kankanlive.com/live/1698975966407974.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃-静宁电视台
+https://play.kankanlive.com/live/1691141121430928.m3u8
 
 #EXTINF:-1 group-title="辽宁频道",辽宁卫视
 http://localhost/dashboard/17_liaoniang_shengji.php?id=058
