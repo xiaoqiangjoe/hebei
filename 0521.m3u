@@ -3502,6 +3502,16 @@ https://play.kankanlive.com/live/1715673703395911.m3u8
 https://play.kankanlive.com/live/1702426649052972.m3u8
 #EXTINF:-1 group-title="甘肃频道",甘肃-敦煌电视台
 https://play.kankanlive.com/live/1698234808271963.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃-庄浪电视台
+https://play.kankanlive.com/live/1687654127961989.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃-玉门电视台
+rtmp://live.yumentv.cn:12345/live/room10
+#EXTINF:-1 group-title="甘肃频道",甘肃-张掖市甘州区电视台
+https://play.kankanlive.com/live/1656898082155960.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃-永昌电视台
+https://play.kankanlive.com/live/1652755738635915.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃-古浪电视台
+https://play.kankanlive.com/live/1711282408137964.m3u8
 
 #EXTINF:-1 group-title="辽宁频道",辽宁卫视
 http://localhost/dashboard/17_liaoniang_shengji.php?id=058
