@@ -708,7 +708,12 @@ https://jwcdnqx.hebyun.com.cn/live/npdspd/1500k/tzwj_video.m3u8
 https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",河北-双滦影视
 https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
-
+#EXTINF:-1 group-title="河北频道",滦南综合
+https://tvnew.lnshw.com.cn:58123/live/lntv1.m3u8
+#EXTINF:-1 group-title="河北频道",滦南影视
+https://tvnew.lnshw.com.cn:58123/live/lntv2.m3u8
+#EXTINF:-1 group-title="河北频道",新乐影视[石家庄]
+http://jwcdnqx.hebyun.com.cn/live/XLTV/1500k/tzwj_video.m3u8
 
 
 #EXTINF:-1 group-title="山东频道",山东卫视
@@ -1148,6 +1153,16 @@ http://localhost/dashboard/02_shandong_shouguang.php?id=fcsh
 http://localhost/dashboard/02_shandong_shouguang.php?id=ygzh
 #EXTINF:-1 group-title="山东频道",山东-阳谷影视
 http://localhost/dashboard/02_shandong_shouguang.php?id=ygys
+#EXTINF:-1 group-title="山东频道",山东-曹县新闻综合频道
+http://localhost/dashboard/02_shandong_shouguang.php?id=cxzh
+#EXTINF:-1 group-title="山东频道",山东-邹平新闻综合频道
+http://localhost/dashboard/02_shandong_shouguang.php?id=zpzh
+#EXTINF:-1 group-title="山东频道",山东-邹平民生
+http://localhost/dashboard/02_shandong_shouguang.php?id=zpms
+#EXTINF:-1 group-title="山东频道",山东-商河新闻综合频道
+http://localhost/dashboard/02_shandong_shouguang.php?id=shzh
+#EXTINF:-1 group-title="山东频道",山东-商河影视频道
+http://localhost/dashboard/02_shandong_shouguang.php?id=shys
 
 
 #EXTINF:-1 group-title="山东频道",山东-济宁城合
@@ -5306,7 +5321,12 @@ http://biaozhun114.com/tv/tw9.php?id=28
 http://biaozhun114.com/tv/tw9.php?id=29
 #EXTINF:-1 group-title="港澳台",CinemaWorld
 http://biaozhun114.com/tv/tw9.php?id=30
-
+#EXTINF:-1 group-title="港澳台",原住民
+https://hc73k3dhwo5gfkt.wcetv.com/hls/titv.m3u8
+#EXTINF:-1 group-title="港澳台",华视
+https://k44991.kylintv.tv/live/ctshd_iphone.m3u8
+#EXTINF:-1 group-title="港澳台",民视
+https://k44991.kylintv.tv/live/formosatv_iphone.m3u8
 
 
 #EXTINF:-1 group-title="春晚",春晚1984
