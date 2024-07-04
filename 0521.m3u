@@ -1584,6 +1584,8 @@ http://118.122.2.29:9999/hls/47/index.m3u8
 http://118.122.2.29:9999/hls/49/index.m3u8
 #EXTINF:-1 group-title="四川频道",四川-凉山新闻
 http://118.122.2.29:9999/hls/51/index.m3u8
+#EXTINF:-1 group-title="四川频道",四川-大竹新闻综合
+https://lmt.dazhutv.com/live1/live1.m3u8
 
 
 #EXTINF:-1 tvg-id="cdtv1" tvg-name="cdtv1" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cdtv1.png" group-title="四川频道",四川-成都新闻综合
