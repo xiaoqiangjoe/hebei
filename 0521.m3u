@@ -1133,14 +1133,14 @@ http://localhost/dashboard/02_shandong_qita.php?id=zbzd2
 http://localhost/dashboard/02_shandong_qita.php?id=zbzctv1
 #EXTINF:-1 group-title="山东频道",淄博-周村生活
 http://localhost/dashboard/02_shandong_qita.php?id=zbzctv2
-#EXTINF:-1 group-title="山东频道",山东-烟台影视频道
-http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
-#EXTINF:-1 group-title="山东频道",山东-烟台公共
-http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8?shandd
-#EXTINF:-1 group-title="山东频道",山东-烟台经济科技
-http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd
-#EXTINF:-1 group-title="山东频道",山东-烟台新闻综合
-http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
+#EXTINF:-1 group-title="山东频道",烟台新闻[组播]
+http://182.32.160.19:9997/udp/239.21.1.116:5002
+#EXTINF:-1 group-title="山东频道",烟台公共[组播]
+http://182.32.160.19:9997/udp/239.21.1.117:5002
+#EXTINF:-1 group-title="山东频道",烟台经济[组播]
+http://182.32.160.19:9997/udp/239.21.1.205:5002
+#EXTINF:-1 group-title="山东频道",烟台影视[组播]
+http://182.32.160.19:9997/udp/239.21.1.204:5002
 #EXTINF:-1 group-title="山东频道",山东-寿光新闻综合频道
 http://localhost/dashboard/02_shandong_shouguang.php?id=sgzh
 #EXTINF:-1 group-title="山东频道",山东-寿光蔬菜
@@ -2965,6 +2965,8 @@ http://localhost/dashboard/13_zhejiang_jiaxing.php?id=khgjgy
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=jdzh
 #EXTINF:-1 group-title="浙江频道",浙江-桐庐综合
 http://localhost/dashboard/13_zhejiang_tonglu.php
+#EXTINF:-1 group-title="浙江频道",浙江-平湖电视台
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=phdst
 #EXTINF:-1 group-title="浙江频道",浙江-萧山综合
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=xszh
 #EXTINF:-1 group-title="浙江频道",浙江-萧山生活
@@ -5151,6 +5153,55 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPla
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="港澳台",RTHK35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="港澳台",TVBS Asia[加载慢]
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",中天新聞台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 group-title="港澳台",唯心電視
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="港澳台",中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 group-title="港澳台",東森購物
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+#EXTINF:-1 group-title="港澳台",東森購物2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯卫视
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1 group-title="港澳台",新唐人亚太台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+#EXTINF:-1 group-title="港澳台",天才衝衝衝
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 group-title="港澳台",三立新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 group-title="港澳台",cctv4
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯卫视
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1 group-title="港澳台",大爱2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+#EXTINF:-1 group-title="港澳台",美好1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+#EXTINF:-1 group-title="港澳台",国会频道1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+#EXTINF:-1 group-title="港澳台",Taiwan Plus TV
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:-1 group-title="港澳台",中视
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+#EXTINF:-1 group-title="港澳台",中视
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS-News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
+#EXTINF:-1 group-title="港澳台",寰宇新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
+#EXTINF:-1 group-title="港澳台",寰宇新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+#EXTINF:-1 group-title="港澳台",M[未知]
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV89.m3u8
+#EXTINF:-1 group-title="港澳台",韩国KPOP
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 
 
 
