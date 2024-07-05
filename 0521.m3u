@@ -4,7 +4,7 @@
 http://localhost/dashboard/57_migu2.php?id=cctv1
 #EXTINF:-1 group-title="咪咕",CCTV1[广电云]
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=CCTV1
-#EXTINF:-1 group-title="咪咕",cctv1[福建]
+#EXTINF:-1 group-title="咪咕",cctv1[湖南娄底]
 http://localhost/dashboard/08_hunan_loudi.php?id=cctv1
 #EXTINF:-1 group-title="咪咕",CCTV1[福建]
 http://localhost/dashboard/18_fujian_ninghua.php?id=CCTV1
@@ -4658,6 +4658,8 @@ http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=nazh
 http://localhost/dashboard/59_qita.php?id=ykxwzh
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-营口辽河文化生活频道
 http://localhost/dashboard/59_qita.php?id=yklhsh
+#EXTINF:-1 group-title="黑龙江频道",黑龙江省鹤岗萝北综合
+http://localhost/dashboard/24_heilongjiang_luobei.php
 
 
 
