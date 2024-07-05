@@ -405,8 +405,10 @@ http://localhost/dashboard/25_shanghai_shengji.php?id=dfws
 http://localhost/dashboard/25_shanghai_shengji.php?id=shxwzh
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海上视新闻.png" group-title="上海频道",上海新闻-静态
 http://localhost/dashboard/57_migu720.php?id=shxwzh
-#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海外语.png" group-title="上海频道",上海ICS-失效
+#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海外语.png" group-title="上海频道",上海ICS
 http://localhost/dashboard/57_migu720.php?id=shics
+#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海外语.png" group-title="上海频道",上海ICS
+http://localhost/dashboard/25_shanghai_shengji.php?id=shics
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海都市.png" group-title="上海频道",上海都市
 http://localhost/dashboard/25_shanghai_shengji.php?id=shds
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海东方影视.png" group-title="上海频道",东方影视
