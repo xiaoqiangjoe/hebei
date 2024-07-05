@@ -322,9 +322,9 @@ http://localhost/dashboard/26_beijing_shengji.php?id=bjkk
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京卫视.png" group-title="北京频道",北京卫视
 https://epg.pw/stream/a1b8449e57128964aa71351c670ff6f35a16043ffbf54a2bf1cb780837224ce6.m3u8
 #EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京文艺.png" group-title="北京频道",北京文艺
-https://epg.pw/stream/482cd47d11488114d92ab5949ac22d214aeb7b1042b033dde53a158a6ab5c707.ctv
+https://stream1.freetv.fun/8d1156a87cd9a99a96edea7b1cf2d187504afb3d2308ab656b24f89f57279280.ctv
 #EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京生活.png" group-title="北京频道",北京生活
-https://epg.pw/stream/eee2f771439b02e1c67272b823e65fdedb4905421c47151e48570f3cf5f86ed1.ctv
+https://stream1.freetv.fun/967122466244033e999ef448c46aa608c240231b17852bd2a6e53ac1fcc1fadb.ctv
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/卡酷少儿.png" group-title="北京频道",北京卡酷少儿
 https://epg.pw/stream/854e5b22b0bccb0a73f8028c9a570cf53d9bf03224490f89a8748222b9eff1df.ctv
 #EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京影视.png" group-title="北京频道",北京影视
@@ -332,7 +332,7 @@ https://epg.pw/stream/cdcfe3ec6cca2a8ba74df72bc575c307bbc69e2fbf4cce276ef60356af
 #EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京财经.png" group-title="北京频道",北京财经
 https://epg.pw/stream/e39ca4f8fa3af15f8cd6b747458b6ee6277e951355d280bc5c73aceb3131900c.ctv
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京体育休闲.png" group-title="北京频道",北京体育休闲
-https://epg.pw/stream/2817645ca1c4af8071081a53a99cc05f99f9af0e6c3f9751c9295c15384d60b1.ctv
+https://stream1.freetv.fun/e1b600de7ced23af4678a9a90f40dd2c0624a33bbeb92631ad200014dcd43c61.ctv
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京纪实科教.png" group-title="北京频道",北京纪实科教
 http://localhost/dashboard/otv.php?id=11001
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京纪实科教.png" group-title="北京频道",北京纪实科教
