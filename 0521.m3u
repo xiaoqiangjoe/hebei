@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="咪咕",cctv1[赣橙]
 http://localhost/dashboard/58_gctv.php?id=cctv1
-#EXTINF:-1 group-title="咪咕",cctv1[cqyx]
-http://zy.otioi.cn/cs/cqyx.php?id=cctv1
 #EXTINF:-1 group-title="咪咕",cctv1[咪咕2]
 http://localhost/dashboard/57_migu2.php?id=cctv1
 #EXTINF:-1 group-title="咪咕",CCTV1[广电云]
@@ -119,7 +117,7 @@ http://localhost/dashboard/qly.php?id=5604
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV15.png" group-title="qly",cctv15
 http://localhost/dashboard/qly.php?id=5854
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV16.png" group-title="qly",cctv16
-http://localhost/dashboard/otv.php?id=6095
+http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV17.png" group-title="qly",cctv17
 http://localhost/dashboard/qly.php?id=5608
 
@@ -179,6 +177,63 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CGTN俄语.png"  group-title="央视频",CGTN俄语
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2
 
+
+#EXTINF:-1 group-title="天翼云频道",cctv6
+http://localhost/dashboard/60_dxtyy.php?id=cctv6
+#EXTINF:-1 group-title="天翼云频道",四川卫视
+http://localhost/dashboard/60_dxtyy.php?id=scws
+#EXTINF:-1 group-title="天翼云频道",广东卫视
+http://localhost/dashboard/60_dxtyy.php?id=gdws
+#EXTINF:-1 group-title="天翼云频道",河南卫视
+http://localhost/dashboard/60_dxtyy.php?id=henws
+#EXTINF:-1 group-title="天翼云频道",重庆卫视
+http://localhost/dashboard/60_dxtyy.php?id=cqws
+#EXTINF:-1 group-title="天翼云频道",辽宁卫视
+http://localhost/dashboard/60_dxtyy.php?id=lnws
+#EXTINF:-1 group-title="天翼云频道",江西卫视
+http://localhost/dashboard/60_dxtyy.php?id=jxws
+#EXTINF:-1 group-title="天翼云频道",山西卫视
+http://localhost/dashboard/60_dxtyy.php?id=sxiws
+#EXTINF:-1 group-title="天翼云频道",陕西卫视
+http://localhost/dashboard/60_dxtyy.php?id=saaxws
+#EXTINF:-1 group-title="天翼云频道",吉林卫视
+http://localhost/dashboard/60_dxtyy.php?id=jlws
+#EXTINF:-1 group-title="天翼云频道",湖北卫视
+http://localhost/dashboard/60_dxtyy.php?id=hbws
+#EXTINF:-1 group-title="天翼云频道",东南卫视
+http://localhost/dashboard/60_dxtyy.php?id=dnws
+#EXTINF:-1 group-title="天翼云频道",贵州卫视
+http://localhost/dashboard/60_dxtyy.php?id=gzws
+#EXTINF:-1 group-title="天翼云频道",广西卫视
+http://localhost/dashboard/60_dxtyy.php?id=gxws
+#EXTINF:-1 group-title="天翼云频道",云南卫视
+http://localhost/dashboard/60_dxtyy.php?id=ynws
+#EXTINF:-1 group-title="天翼云频道",甘肃卫视
+http://localhost/dashboard/60_dxtyy.php?id=gsws
+#EXTINF:-1 group-title="天翼云频道",内蒙古卫视
+http://localhost/dashboard/60_dxtyy.php?id=nmws
+#EXTINF:-1 group-title="天翼云频道",兵团卫视
+http://localhost/dashboard/60_dxtyy.php?id=btws
+#EXTINF:-1 group-title="天翼云频道",青海卫视
+http://localhost/dashboard/60_dxtyy.php?id=qhws
+#EXTINF:-1 group-title="天翼云频道",新疆卫视
+http://localhost/dashboard/60_dxtyy.php?id=xjws
+#EXTINF:-1 group-title="天翼云频道",西藏卫视
+http://localhost/dashboard/60_dxtyy.php?id=xzws
+#EXTINF:-1 group-title="天翼云频道",宁夏卫视
+http://localhost/dashboard/60_dxtyy.php?id=nxws
+#EXTINF:-1 group-title="天翼云频道",海南卫视
+http://localhost/dashboard/60_dxtyy.php?id=hanws
+#EXTINF:-1 group-title="天翼云频道",CETV1
+http://localhost/dashboard/60_dxtyy.php?id=cetv1
+#EXTINF:-1 group-title="天翼云频道",CETV2
+http://localhost/dashboard/60_dxtyy.php?id=cetv2
+#EXTINF:-1 group-title="天翼云频道",CETV4
+http://localhost/dashboard/60_dxtyy.php?id=cetv4
+#EXTINF:-1 group-title="天翼云频道",中国交通
+http://localhost/dashboard/60_dxtyy.php?id=zgjt
+#EXTINF:-1 group-title="天翼云频道",杭州生活
+http://localhost/dashboard/60_dxtyy.php?id=hzsh
 
 
 
@@ -378,6 +433,8 @@ http://114.254.80.164:4000/rtp/239.3.1.154:8001
 http://114.254.80.164:4000/rtp/239.3.1.187:8001
 
 
+
+
 #EXTINF:-1 tvg-id="北京萌宠" tvg-name="北京萌宠" group-title="北京频道",北京萌宠
 http://114.254.80.164:4000/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-id="北京iptv淘精彩" tvg-name="北京iptv淘精彩" group-title="北京频道",北京iptv淘精彩
@@ -392,6 +449,9 @@ http://114.254.80.164:4000/rtp/239.3.1.100:8001
 http://114.254.80.164:4000/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="北京大健康" tvg-name="北京大健康" group-title="北京频道",北京大健康
 http://114.254.80.164:4000/rtp/239.3.1.251:8001
+#EXTINF:-1 tvg-id="北京大健康" tvg-name="北京大健康" group-title="北京频道",北京大健康[备用ip]
+http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.251:8001
+
 
 
 
@@ -3217,6 +3277,10 @@ http://localhost/dashboard/14_guangdong_shengji.php?id=jjkt
 http://localhost/dashboard/14_guangdong_shengji.php?id=gdyd
 #EXTINF:-1 group-title="广东频道",广东-GRTN文化频道
 http://localhost/dashboard/14_guangdong_shengji.php?id=gdwh
+#EXTINF:-1 group-title="广东频道",广东综艺4k[组播]
+http://113.87.161.3:4022/udp/239.77.0.245:5146
+#EXTINF:-1 group-title="广东频道",广东现代教育[组播]
+http://113.87.161.3:4022/udp/239.77.0.18:5146
 
 #EXTINF:-1 group-title="广东频道",广东-广州综合
 http://localhost/dashboard/14_guangdong_guangzhou.php?id=zh
@@ -3309,6 +3373,22 @@ http://localhost/dashboard/14_guangdong_zhanjiang.php?id=zjgg
 http://localhost/dashboard/14_guangdong_shengji.php?id=dgzh
 #EXTINF:-1 group-title="广东频道",广东-东莞公共
 http://localhost/dashboard/14_guangdong_shengji.php?id=dggg
+
+#EXTINF:-1 group-title="广东频道",广东-中山新闻综合[组播]
+http://113.87.161.3:4022/udp/239.253.43.62:5146
+#EXTINF:-1 group-title="广东频道",广东-香山文化[组播]
+http://113.87.161.3:4022/udp/239.253.43.63:5146
+#EXTINF:-1 group-title="广东频道",广东-HZTV1[组播]
+http://113.87.161.3:4022/udp/239.77.1.232:5146
+#EXTINF:-1 group-title="广东频道",广东-HZTV2[组播]
+http://113.87.161.3:4022/udp/239.77.1.233:5146
+#EXTINF:-1 group-title="广东频道",广东-珠海1[组播]
+http://113.87.161.3:4022/udp/239.77.0.155:5146
+#EXTINF:-1 group-title="广东频道",广东-珠海2[组播]
+http://113.87.161.3:4022/udp/239.77.0.154:5146
+
+
+
 #EXTINF:-1 group-title="广东频道",广东-肇庆综合
 http://localhost/dashboard/14_guangdong_zhaoqing.php?id=zqzh
 #EXTINF:-1 group-title="广东频道",广东-肇庆生活
@@ -5058,8 +5138,8 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳台",星空卫视
 https://epg.pw/stream/295e40de2803afdf3bdd9e10c5468e14227aca3ddcb253c76c5124bd0b09e1a7.ctv
-#EXTINF:-1 group-title="港澳台",星空卫视-云南组播
-http://106.59.2.162:55555/udp/239.200.200.134:8884
+#EXTINF:-1 group-title="港澳台",星空卫视[四川组播]
+http://yujukoo.gicp.net:8888/udp/239.93.0.156:2193
 
 
 
