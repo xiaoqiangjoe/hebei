@@ -124,7 +124,7 @@ http://localhost/dashboard/qly.php?id=5608
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4K.png" group-title="央视频",CCTV-4K 超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4K.png" group-title="央视频",CCTV-4K 超高清-河北衡水联通组播
-http://121.29.138.231:4022/rtp/239.253.93.134:6631
+http://pwd.unnas.top:4000/rtp/239.253.93.134:6631
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4K.png" group-title="央视频",CCTV-4K 超高清
 https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
@@ -660,14 +660,14 @@ https://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",河北-涞水新闻频道
 https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
 
-#EXTINF:-1 group-title="河北频道",河北-唐山新闻综合-otv
-http://localhost/dashboard/otv.php?id=13110
+#EXTINF:-1 group-title="河北频道",河北-唐山新闻综合[组播]
+http://pwd.unnas.top:4000/rtp/239.253.92.245:6089
 #EXTINF:-1 group-title="河北频道",河北-唐山生活服务-otv
 http://localhost/dashboard/otv.php?id=13111
-#EXTINF:-1 group-title="河北频道",河北-唐山影视频道-otv
-http://localhost/dashboard/otv.php?id=13112
-#EXTINF:-1 group-title="河北频道",河北-唐山公共频道-otv
-http://localhost/dashboard/otv.php?id=13113
+#EXTINF:-1 group-title="河北频道",河北-唐山影视频道[组播]
+http://pwd.unnas.top:4000/rtp/239.253.92.127:6027
+#EXTINF:-1 group-title="河北频道",河北-唐山公共频道[组播]
+http://pwd.unnas.top:4000/rtp/239.253.92.128:6028
 #EXTINF:-1 group-title="河北频道",河北-唐山迁安
 http://jwplay.hebyun.com.cn/live/jiuyunqianan/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",河北-唐山玉田
@@ -678,17 +678,17 @@ https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
 https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
 
 #EXTINF:-1 group-title="河北频道",香河电视-联通组播
-http://121.29.138.231:4022/rtp/239.253.92.185:6049
+http://pwd.unnas.top:4000/rtp/239.253.92.185:6049
 #EXTINF:-1 group-title="河北频道",秦皇岛综合-组播
-http://121.29.138.231:4022/udp/239.253.92.52:6021
+http://pwd.unnas.top:4000/udp/239.253.92.52:6021
 #EXTINF:-1 group-title="河北频道",秦皇岛公共-组播
-http://121.29.138.231:4022/udp/239.253.92.53:6022
+http://pwd.unnas.top:4000/udp/239.253.92.53:6022
 #EXTINF:-1 group-title="河北频道",秦皇岛影视-组播
-http://121.29.138.231:4022/udp/239.253.92.54:6023
+http://pwd.unnas.top:4000/udp/239.253.92.54:6023
 #EXTINF:-1 group-title="河北频道",河北-廊坊综合-组播
-http://121.29.138.231:4022/udp/239.253.92.164:6036
+http://pwd.unnas.top:4000/udp/239.253.92.164:6036
 #EXTINF:-1 group-title="河北频道",河北-廊坊公共-组播
-http://121.29.138.231:4022/udp/239.253.92.166:6037
+http://pwd.unnas.top:4000/udp/239.253.92.166:6037
 #EXTINF:-1 group-title="河北频道",河北-廊坊综合
 rtmp://222.222.126.18/live/lfxw
 #EXTINF:-1 group-title="河北频道",河北-廊坊公共
