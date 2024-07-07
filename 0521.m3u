@@ -652,11 +652,11 @@ http://localhost/dashboard/01_hebei_xingtai_chengde_baoding.php?id=6
 #EXTINF:-1 group-title="河北频道",河北-保定生活
 http://localhost/dashboard/01_hebei_xingtai_chengde_baoding.php?id=7
 #EXTINF:-1 group-title="河北频道",河北-保定新闻-官网
-http://localhost/dashboard/01_hebei_baoding.php?id=1
+https://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",河北-保定公共-官网
-http://localhost/dashboard/01_hebei_baoding.php?id=2
+https://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",河北-保定生活-官网
-http://localhost/dashboard/01_hebei_baoding.php?id=3
+https://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",河北-涞水新闻频道
 https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
 
