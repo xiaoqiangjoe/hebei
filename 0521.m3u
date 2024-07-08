@@ -4306,6 +4306,12 @@ http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8?zxinjd
 http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-五师双河影视
 http://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-六师-五家渠新闻
+http://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-七师胡杨河新闻
+https://klmysjtzb.rcsxzx.com/hls/qishi1.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-七师cctv1
+https://klmysjtzb.rcsxzx.com/hls/qishi2.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-八师石河子教育
 http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd
 #EXTINF:-1 group-title="新疆频道",新疆-八师石河子新闻综合
@@ -4322,10 +4328,8 @@ http://test5.btzx.com.cn/live/13TV.stream.flv
 http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd
 
 
-#EXTINF:-1 group-title="新疆频道",新疆-五家渠新闻
-http://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
-#EXTINF:-1 group-title="新疆频道",新疆-胡杨河新闻
-https://klmyzb.rcsxzx.com/hls/qishi1.m3u8
+
+
 
 
 
