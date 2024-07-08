@@ -665,7 +665,7 @@ https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
 #EXTINF:-1 group-title="河北频道",河北-唐山新闻综合[组播]
 http://pwd.unnas.top:4000/rtp/239.253.92.245:6089
 #EXTINF:-1 group-title="河北频道",河北-唐山生活服务-otv
-http://localhost/dashboard/otv.php?id=13111
+http://pwd.unnas.top:4000/rtp/239.253.92.126:6026
 #EXTINF:-1 group-title="河北频道",河北-唐山影视频道[组播]
 http://pwd.unnas.top:4000/rtp/239.253.92.127:6027
 #EXTINF:-1 group-title="河北频道",河北-唐山公共频道[组播]
