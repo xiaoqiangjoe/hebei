@@ -529,35 +529,33 @@ http://localhost/dashboard/25_shanghai_jinshan.php?id=1
 #EXTINF:-1 tvg-id="浦东电视台" tvg-name="浦东电视台" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海浦东电视台.png" group-title="上海频道",浦东电视台
 http://localhost/dashboard/25_shanghai_pudong.php
 
-#EXTINF:-1 group-title="天津频道",天津-天津卫视
-https://epg.pw/stream/e7bc8916d500f0d6e0818c0a3fb5dfc4658e8245bc79e4c4cf35ac9dab436fec.m3u8
-#EXTINF:-1 group-title="天津频道",天津卫视-组播
-http://125.37.57.151:18888/udp/225.1.1.111:5002
 
-#EXTINF:-1 group-title="天津频道",天津新闻 1-组播
-http://125.37.57.151:18888/udp/225.1.1.130:5002
-#EXTINF:-1 group-title="天津频道",天津文艺 2-组播
-http://125.37.57.151:18888/udp/225.1.1.131:5002
-#EXTINF:-1 group-title="天津频道",天津影视 3-组播
-http://125.37.57.151:18888/udp/225.1.1.149:5002
-#EXTINF:-1 group-title="天津频道",天津都市 4-组播
-http://125.37.57.151:18888/udp/225.1.1.128:5002
-#EXTINF:-1 group-title="天津频道",天津体育 5-组播
-http://125.37.57.151:18888/udp/225.1.1.122:5002
-#EXTINF:-1 group-title="天津频道",天津教育 6-组播
-http://125.37.57.151:18888/udp/225.1.1.129:5002
-#EXTINF:-1 group-title="天津频道",天津购物-组播
-http://125.37.57.151:18888/udp/225.1.1.151:5002
-#EXTINF:-1 group-title="天津频道",天津购物-组播
-http://125.37.57.151:18888/udp/225.1.1.118:5002
-#EXTINF:-1 group-title="天津频道",天津iptv
-http://125.37.57.151:18888/udp/225.1.1.132:5002
-#EXTINF:-1 group-title="天津频道",天津iptv[高清]
-http://125.37.57.151:18888/udp/225.1.1.108:5002
-#EXTINF:-1 group-title="天津频道",天津iptv-组播
-http://125.37.57.151:18888/udp/225.1.1.109:5002
-#EXTINF:-1 group-title="天津频道",天津静海-组播
-http://125.37.57.151:18888/udp/225.1.1.110:5002
+#EXTINF:-1 group-title="天津频道",天津卫视[组播]
+http://nas.hssvm.com:8888/udp/225.1.1.111:5002
+#EXTINF:-1 group-title="天津频道",天津新闻 1[组播]
+http://nas.hssvm.com:8888/udp/225.1.1.130:5002
+#EXTINF:-1 group-title="天津频道",天津文艺 2[组播]
+http://nas.hssvm.com:8888/udp/225.1.1.131:5002
+#EXTINF:-1 group-title="天津频道",天津影视 3[组播]
+http://nas.hssvm.com:8888/udp/225.1.1.149:5002
+#EXTINF:-1 group-title="天津频道",天津都市 4[组播]
+http://nas.hssvm.com:8888/udp/225.1.1.128:5002
+#EXTINF:-1 group-title="天津频道",天津体育 5[组播]
+http://nas.hssvm.com:8888/udp/225.1.1.122:5002
+#EXTINF:-1 group-title="天津频道",天津教育 6[组播]
+http://nas.hssvm.com:8888/udp/225.1.1.129:5002
+#EXTINF:-1 group-title="天津频道",天津购物[组播]
+http://nas.hssvm.com:8888/udp/225.1.1.151:5002
+#EXTINF:-1 group-title="天津频道",天津购物[组播]
+http://nas.hssvm.com:8888/udp/225.1.1.118:5002
+#EXTINF:-1 group-title="天津频道",天津iptv[组播]
+http://nas.hssvm.com:8888/udp/225.1.1.132:5002
+#EXTINF:-1 group-title="天津频道",天津iptv[组播]
+http://nas.hssvm.com:8888/udp/225.1.1.108:5002
+#EXTINF:-1 group-title="天津频道",天津iptv[组播]
+http://nas.hssvm.com:8888/udp/225.1.1.109:5002
+#EXTINF:-1 group-title="天津频道",天津静海[组播]
+http://nas.hssvm.com:8888/udp/225.1.1.110:5002
 #EXTINF:-1 group-title="天津频道",天津-滨海新闻
 http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
 #EXTINF:-1 group-title="天津频道",天津-滨海新闻
@@ -570,8 +568,12 @@ http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8?ztianjd
 http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
 #EXTINF:-1 group-title="天津频道",天津-西青新闻综合
 http://221.238.209.44:81/hls/live1.m3u8
-#EXTINF:-1 group-title="天津频道",天津-天津蓟县[需要观察时效性]
+#EXTINF:-1 group-title="天津频道",天津-天津蓟县
 http://pili-live-hls.181.i2863.com/i2863-181/live_181_899443.m3u8
+#EXTINF:-1 group-title="天津频道",天津-天津蓟县[组播]
+http://nas.hssvm.com:8888/udp/225.1.1.82:5002
+#EXTINF:-1 group-title="天津频道",天津-大港油田企业[组播]
+http://nas.hssvm.com:8888/udp/225.1.2.14:5002
 
 
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="河北频道",河北卫视
