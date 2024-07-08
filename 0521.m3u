@@ -1230,7 +1230,12 @@ http://localhost/dashboard/02_shandong_shouguang.php?id=zpms
 http://localhost/dashboard/02_shandong_shouguang.php?id=shzh
 #EXTINF:-1 group-title="山东频道",山东-商河影视频道
 http://localhost/dashboard/02_shandong_shouguang.php?id=shys
-
+#EXTINF:-1 group-title="山东频道",山东-临朐新闻综合频道
+http://localhost/dashboard/02_shandong_shouguang.php?id=lqzh
+#EXTINF:-1 group-title="山东频道",山东-胶州新闻综合频道
+http://localhost/dashboard/02_shandong_shouguang.php?id=jzzh
+#EXTINF:-1 group-title="山东频道",山东-胶州生活频道
+http://localhost/dashboard/02_shandong_shouguang.php?id=jzsh
 
 #EXTINF:-1 group-title="山东频道",山东-济宁城合
 http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
@@ -1857,6 +1862,8 @@ https://wy-live-pull.thecover.cn/rmtlive/fmzb1710746907096.m3u8
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/pwgq_4000.m3u8
 #EXTINF:-1 group-title="四川频道",四川-邻水综合电视台[需要观察]
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/lsxw_2000.m3u8
+#EXTINF:-1 group-title="四川频道",四川-南部新闻综合
+http://pili-live-hls.148.i2863.com/i2863-148/live_148_811389.m3u8
 
 
 
@@ -4434,7 +4441,8 @@ http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/pla
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",云南-玉溪公共
 http://localhost/dashboard/21_yunnan_yuxi.php
-
+#EXTINF:-1 group-title="云南频道",云南-陇川新闻综合[需要观察]
+https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
 
 #EXTINF:-1 group-title="云南频道",云南-元阳综合
 http://tv.drs.hhtv.cc:8100/channellive/yydst.flv
