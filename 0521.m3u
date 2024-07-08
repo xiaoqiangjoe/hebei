@@ -4299,26 +4299,35 @@ http://117.190.118.175:9090/stream1/m2e2000.m3u8
 http://localhost/dashboard/20_xinjiang_boer.php?id=kahy
 #EXTINF:-1 group-title="新疆频道",新疆-喀什维语影视
 http://localhost/dashboard/20_xinjiang_boer.php?id=kawy
-#EXTINF:-1 group-title="新疆频道",新疆-可克达拉综合
-http://test5.btzx.com.cn/live/kkdl.stream.flv
 
+#EXTINF:-1 group-title="新疆频道",新疆-四师可克达拉综合
+http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8?zxinjd
 #EXTINF:-1 group-title="新疆频道",新疆-五师综合
 http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-五师双河影视
 http://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-八师石河子教育
+http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="新疆频道",新疆-八师石河子新闻综合
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="新疆频道",新疆-八师石河子经济生活
+http://124.88.144.73:1935/live/dywt/playlist.m3u8?zxinjd
 #EXTINF:-1 group-title="新疆频道",新疆-九师新闻综合频道[静态需要观察]
 http://liveout.btzx.com.cn/3pyc0h/dbfvwu.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-十二师
 http://liveout.btzx.com.cn/62ds9e/454mm6.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-十三师新星综合
+http://test5.btzx.com.cn/live/13TV.stream.flv
+#EXTINF:-1 group-title="新疆频道",新疆-十四师昆玉综合
+http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd
+
 
 #EXTINF:-1 group-title="新疆频道",新疆-五家渠新闻
 http://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-胡杨河新闻
 https://klmyzb.rcsxzx.com/hls/qishi1.m3u8
-#EXTINF:-1 group-title="新疆频道",新疆-新星综合
-http://test5.btzx.com.cn/live/13TV.stream.flv
-#EXTINF:-1 group-title="新疆频道",新疆-昆玉综合
-http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="新疆频道",新疆-玛纳斯综合
 http://218.84.127.245:1026/hls/main1/playlist.m3u8
@@ -4340,16 +4349,9 @@ http://117.190.130.4:8081/out_2/index.m3u8
 http://222.81.86.42:8060/hls/ch3/ch3.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-福海维语综合
 http://222.81.86.42:8060/hls/ch4/ch4.m3u8
-#EXTINF:-1 group-title="新疆频道",新疆-兵团四师可克达拉综合
-http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8?zxinjd
-#EXTINF:-1 group-title="新疆频道",新疆-兵团八师石河子教育
-http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd
-#EXTINF:-1 group-title="新疆频道",新疆-兵团八师石河子新闻综合
-http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
-#EXTINF:-1 group-title="新疆频道",新疆-兵团八师石河子经济生活
-http://124.88.144.73:1935/live/dywt/playlist.m3u8?zxinjd
-#EXTINF:-1 group-title="新疆频道",新疆-兵团十四师昆玉综合
-http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd
+
+
+
 
 
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/云南卫视.png" group-title="云南频道",云南卫视
