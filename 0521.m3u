@@ -1693,7 +1693,7 @@ http://localhost/dashboard/05_sichuan_bazhong.php?id=6725
 http://localhost/dashboard/05_sichuan_bazhong.php?id=6726
 #EXTINF:-1 group-title="四川频道",四川-巴中城市生活
 http://localhost/dashboard/55_guangdianyun.php?id=cjcssh
-#EXTINF:-1 group-title="四川频道",四川-巴南江电视台
+#EXTINF:-1 group-title="四川频道",四川-南江电视台
 http://localhost/dashboard/55_guangdianyun.php?id=njtv
 #EXTINF:-1 group-title="四川频道",四川-南充综合
 http://localhost/dashboard/05_sichuan_nanchong.php?id=1
@@ -1703,6 +1703,10 @@ http://localhost/dashboard/05_sichuan_nanchong.php?id=2
 http://localhost/dashboard/05_sichuan_mianyang.php?id=mytv1
 #EXTINF:-1 group-title="四川频道",四川-绵阳科教生活
 http://localhost/dashboard/05_sichuan_mianyang.php?id=mytv2
+#EXTINF:-1 group-title="四川频道",四川-绵竹电视台
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=mzzh
+#EXTINF:-1 group-title="四川频道",四川-射洪电视台
+http://localhost/dashboard/07_hubei_quxian_guangdianyun2.php?id=shtv
 #EXTINF:-1 group-title="四川频道",四川-广元综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 #EXTINF:-1 group-title="四川频道",四川-广元公共
@@ -2680,6 +2684,8 @@ http://live.fgxrmtzx.cn:90/live/zhpd.m3u8
 http://media.qdnrm.cn:18100/live/264712/playlist.m3u8
 #EXTINF:-1 group-title="贵州频道",贵州-凯里电视台-多点击几次
 http://media.qdnrm.cn:18100/live/279784/playlist.m3u8
+#EXTINF:-1 group-title="贵州频道",印江电视台
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=yjtv
 
 #EXTINF:-1 group-title="河南频道",河南-河南卫视
 http://localhost/dashboard/12_henan_shengji.php?id=hnws
