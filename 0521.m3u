@@ -1741,6 +1741,22 @@ https://play.yunxya.com/channellive/xinwen.m3u8
 https://play.yunxya.com/channellive/whsh.m3u8
 #EXTINF:-1 group-title="四川频道",四川-雅安文化生活
 https://m3u8channel.yunxya.com/nmip-media/channellive/channel100819/playlist.m3u8
+#EXTINF:-1 group-title="四川频道",四川-会东电视台
+http://live.schdxww.com:90/live/xwzh.m3u8
+#EXTINF:-1 group-title="四川频道",四川-昭觉电视台
+http://dcpull.sctvcloud.com/live/4bb3c2bd01881000e843b73a00000000/playlist.m3u8
+#EXTINF:-1 group-title="四川频道",四川-荥经综合
+http://localhost/dashboard/11_guizhou_liupanshui.php?id=yjzh
+#EXTINF:-1 group-title="四川频道",四川-雅安市名山区电视台
+http://localhost/dashboard/11_guizhou_liupanshui.php?id=yamszh
+#EXTINF:-1 group-title="四川频道",四川-宝兴电视台
+http://localhost/dashboard/11_guizhou_liupanshui.php?id=bxzh
+#EXTINF:-1 group-title="四川频道",四川-天全电视台
+http://localhost/dashboard/11_guizhou_liupanshui.php?id=tqzh
+#EXTINF:-1 group-title="四川频道",四川-石棉电视台
+http://localhost/dashboard/11_guizhou_liupanshui.php?id=smzh
+#EXTINF:-1 group-title="四川频道",四川-雨城综合
+http://localhost/dashboard/11_guizhou_liupanshui.php?id=yczh
 #EXTINF:-1 group-title="四川频道",四川-四川宜宾公共
 http://localhost/dashboard/05_sichuan_yibin.php
 #EXTINF:-1 group-title="四川频道",四川-乐山新闻
@@ -1829,8 +1845,6 @@ http://live.iwcmt.cn:90/live/zhxw.m3u8
 https://p8.vzan.com/slowlive/147077707554082780/live.m3u8
 #EXTINF:-1 group-title="四川频道",四川-井研县
 http://localhost/dashboard/11_guizhou_liupanshui.php?id=jyzh
-#EXTINF:-1 group-title="四川频道",四川雅安-石棉电视台
-https://m3u8channel-sm.yunxya.com/nmip-media/channellive/channel100420/playlist.m3u8
 #EXTINF:-1 group-title="四川频道",四川-万源新闻综合
 http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd
 #EXTINF:-1 group-title="四川频道",四川-乐至综合
