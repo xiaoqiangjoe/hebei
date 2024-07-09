@@ -1828,7 +1828,7 @@ http://live.iwcmt.cn:90/live/zhxw.m3u8
 #EXTINF:-1 group-title="四川频道",四川-毕节七星关电视台
 https://p8.vzan.com/slowlive/147077707554082780/live.m3u8
 #EXTINF:-1 group-title="四川频道",四川-井研县
-http://localhost/dashboard/05_sichuan_jingyan.php
+http://localhost/dashboard/11_guizhou_liupanshui.php?id=jyzh
 #EXTINF:-1 group-title="四川频道",四川雅安-石棉电视台
 https://m3u8channel-sm.yunxya.com/nmip-media/channellive/channel100420/playlist.m3u8
 #EXTINF:-1 group-title="四川频道",四川-万源新闻综合
