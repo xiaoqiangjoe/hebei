@@ -1889,6 +1889,12 @@ http://58.216.99.148:80/live2.rxip.sc96655.com/live/pwgq_4000.m3u8
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/lsxw_2000.m3u8
 #EXTINF:-1 group-title="四川频道",四川-南部新闻综合
 http://pili-live-hls.148.i2863.com/i2863-148/live_148_811389.m3u8
+#EXTINF:-1 group-title="四川频道",四川-开江综合
+http://localhost/dashboard/05_sichuan_kaijiang.php?id=kjzh
+#EXTINF:-1 group-title="四川频道",四川-达川综合[需要观察]
+https://livepull.dachuan.org.cn/dcgc/dcgc1717933885.m3u8
+#EXTINF:-1 group-title="四川频道",四川-阆中综合
+https://p2hs.vzan.com/slowlive/798833473879633259/live.m3u8
 
 
 
