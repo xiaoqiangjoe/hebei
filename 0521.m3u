@@ -1895,6 +1895,8 @@ http://localhost/dashboard/05_sichuan_kaijiang.php?id=kjzh
 https://livepull.dachuan.org.cn/dcgc/dcgc1717933885.m3u8
 #EXTINF:-1 group-title="四川频道",四川-阆中综合
 https://p2hs.vzan.com/slowlive/798833473879633259/live.m3u8
+#EXTINF:-1 group-title="四川频道",四川-三台综合
+http://125.65.94.91:12351/live
 
 
 
