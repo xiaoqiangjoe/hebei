@@ -1905,6 +1905,14 @@ https://livepull.dachuan.org.cn/dcgc/dcgc1717933885.m3u8
 https://p2hs.vzan.com/slowlive/798833473879633259/live.m3u8
 #EXTINF:-1 group-title="四川频道",四川-三台综合
 http://125.65.94.91:12351/live
+#EXTINF:-1 group-title="四川频道",四川-荣县电视台
+http://localhost/dashboard/05_sichuan_rongxian.php
+#EXTINF:-1 group-title="四川频道",四川-洪雅电视台[需要观察]
+http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8
+#EXTINF:-1 group-title="四川频道",四川-什邡电视台
+http://live.sfrmt.com:85/live/zhpd.m3u8
+#EXTINF:-1 group-title="四川频道",四川-苍溪电视台
+http://localhost/dashboard/05_sichuan_cangxi.php
 
 
 
