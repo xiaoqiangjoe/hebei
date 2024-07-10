@@ -1661,10 +1661,6 @@ http://localhost/dashboard/05_chengdu_kangba.php?id=kbws
 http://118.122.2.29:9999/hls/47/index.m3u8
 #EXTINF:-1 group-title="四川频道",四川-峨眉电影
 http://118.122.2.29:9999/hls/49/index.m3u8
-#EXTINF:-1 group-title="四川频道",四川-凉山新闻
-http://118.122.2.29:9999/hls/51/index.m3u8
-#EXTINF:-1 group-title="四川频道",四川-大竹新闻综合
-https://lmt.dazhutv.com/live1/live1.m3u8
 
 
 #EXTINF:-1 tvg-id="cdtv1" tvg-name="cdtv1" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cdtv1.png" group-title="四川频道",四川-成都新闻综合
@@ -1913,7 +1909,12 @@ http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8
 http://live.sfrmt.com:85/live/zhpd.m3u8
 #EXTINF:-1 group-title="四川频道",四川-苍溪电视台
 http://localhost/dashboard/05_sichuan_cangxi.php
-
+#EXTINF:-1 group-title="四川频道",四川-凉山新闻
+http://118.122.2.29:9999/hls/51/index.m3u8
+#EXTINF:-1 group-title="四川频道",四川-大竹新闻综合
+https://lmt.dazhutv.com/live1/live1.m3u8
+#EXTINF:-1 group-title="四川频道",四川-郫都新闻综合
+http://vod.pdrmtzx.com/pd/live.m3u8
 
 
 
