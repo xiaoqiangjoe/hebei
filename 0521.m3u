@@ -1449,9 +1449,9 @@ http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lvys
 #EXTINF:-1 group-title="山西频道",山西-侯马综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=hmzh
 #EXTINF:-1 tvg-id="阳泉新闻综合HD" tvg-name="阳泉新闻综合HD" tvg-logo="https://epg.112114.xyz/logo/阳泉新闻综合.png" group-title="山西频道",阳泉新闻综合
-http://localhost/dashboard/03_shanxi_yangquan.php?id=xwpd
+http://localhost/dashboard/58_hbky.php?id=xwpd
 #EXTINF:-1 tvg-id="阳泉科教HD" tvg-name="阳泉科教HD" tvg-logo="https://epg.112114.xyz/logo/阳泉科教.png" group-title="山西频道",阳泉科教
-http://localhost/dashboard/03_shanxi_yangquan.php?id=xwchne
+http://localhost/dashboard/58_hbky.php?id=xwchne
 #EXTINF:-1 group-title="山西频道",山西-晋城新闻综合频道
 http://localhost/dashboard/03_shanxi_jincheng.php?id=jcxw
 #EXTINF:-1 group-title="山西频道",山西-晋城文化生活频道
@@ -1805,8 +1805,16 @@ http://localhost/dashboard/05_chengdu_quxian.php?id=gxtv
 http://localhost/dashboard/05_chengdu_quxian.php?id=jntv
 #EXTINF:-1 group-title="四川频道",四川-锦江电视台
 http://localhost/dashboard/05_chengdu_quxian.php?id=jjtv
+#EXTINF:-1 group-title="四川频道",四川-峨眉山综合
+http://localhost/dashboard/05_sichuan_emeishan.php
+#EXTINF:-1 group-title="四川频道",四川-青川综合
+http://localhost/dashboard/11_guizhou_liupanshui.php?id=qczh
+#EXTINF:-1 group-title="四川频道",四川-金堂新闻频道
+http://localhost/dashboard/58_hbky.php?id=jtxw
 #EXTINF:-1 group-title="四川频道",四川-金堂电视台
 http://localhost/dashboard/05_chengdu_quxian.php?id=jttv
+#EXTINF:-1 group-title="四川频道",四川-彭山电视台
+http://localhost/dashboard/11_guizhou_liupanshui.php?id=pszh
 #EXTINF:-1 group-title="四川频道",四川-简阳新闻综合
 http://localhost/dashboard/05_chengdu_quxian.php?id=jyxwzh
 #EXTINF:-1 group-title="四川频道",四川-龙泉综合
