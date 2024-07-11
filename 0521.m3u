@@ -1925,6 +1925,14 @@ rtmp://tv.ebrmt.com:1935/channellive/ch1
 http://rmlive.lzxrmtzx.com/live1/live1.m3u8
 #EXTINF:-1 group-title="四川频道",四川-犍为新闻综合频道
 http://localhost/dashboard/05_sichuan_jianwei.php
+#EXTINF:-1 group-title="四川频道",四川-沐川电视台
+http://localhost/dashboard/05_sichuan_channellive.php?id=mczh
+#EXTINF:-1 group-title="四川频道",四川-青神电视台
+https://lmt.scqstv.com/live1/live1.m3u8
+#EXTINF:-1 group-title="四川频道",四川-仪陇电视台
+http://localhost/dashboard/05_sichuan_yilong.php
+#EXTINF:-1 group-title="四川频道",四川-仁寿电视台
+http://localhost/dashboard/05_sichuan_renshou.php
 
 
 
