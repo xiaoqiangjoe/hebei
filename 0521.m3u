@@ -1780,9 +1780,16 @@ http://localhost/dashboard/05_sichuan_dazhou.php?id=3
 #EXTINF:-1 group-title="四川频道",四川达州-万源新闻综合
 http://live.wanyuannews.com/wytv/hd/live.m3u8
 #EXTINF:-1 group-title="四川频道",四川-资阳新闻综合
-http://localhost/dashboard/05_sichuan_ziyang.php?id=zyxw
+http://localhost/dashboard/05_tvradio.php?id=zyxw
 #EXTINF:-1 group-title="四川频道",四川-雁江
-http://localhost/dashboard/05_sichuan_ziyang.php?id=zyyj
+http://localhost/dashboard/05_tvradio.php?id=zyyj
+#EXTINF:-1 group-title="四川频道",四川-珙县电视台
+http://localhost/dashboard/05_tvradio.php?id=gxzh
+#EXTINF:-1 group-title="四川频道",四川-长宁电视台
+http://cnpull.sccnfb.com/live/123456.m3u8
+#EXTINF:-1 group-title="四川频道",四川-江安电视台
+https://p8.vzan.com/slowlive/917080675626502322/live.m3u8?zbid=1468353950&amp;amp;tpid=1614357566
+
 #EXTINF:-1 group-title="四川频道",四川-眉山新闻综合
 http://localhost/dashboard/05_sichuan_meishan.php?id=gqpd
 #EXTINF:-1 group-title="四川频道",四川-眉山文旅乡村
