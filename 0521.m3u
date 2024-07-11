@@ -1915,6 +1915,17 @@ http://118.122.2.29:9999/hls/51/index.m3u8
 https://lmt.dazhutv.com/live1/live1.m3u8
 #EXTINF:-1 group-title="四川频道",四川-郫都新闻综合
 http://vod.pdrmtzx.com/pd/live.m3u8
+#EXTINF:-1 group-title="四川频道",四川-罗江电视台-rtmp
+rtmp://pull.luojiangrongmei.com/ljds/ljtv
+#EXTINF:-1 group-title="四川频道",四川-叙永电视台[需要观察]
+http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8
+#EXTINF:-1 group-title="四川频道",四川-峨边电视台-rtmp
+rtmp://tv.ebrmt.com:1935/channellive/ch1
+#EXTINF:-1 group-title="四川频道",四川-乐至电视台
+http://rmlive.lzxrmtzx.com/live1/live1.m3u8
+#EXTINF:-1 group-title="四川频道",四川-犍为新闻综合频道
+http://localhost/dashboard/05_sichuan_jianwei.php
+
 
 
 
