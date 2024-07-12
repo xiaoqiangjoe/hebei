@@ -1484,7 +1484,12 @@ https://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/531304
 http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8
 #EXTINF:-1 group-title="山西频道",山西-灵石新闻综合
 https://live-stream.lsxrmtzx.com/live/video.m3u8
-
+#EXTINF:-1 group-title="山西频道",山西-太谷新闻综合
+http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
+#EXTINF:-1 group-title="山西频道",山西-介休新闻综合
+http://p2hs.vzan.com/235832/448981620783516053/live.m3u8
+#EXTINF:-1 group-title="山西频道",山西-离石综合
+http://p2bj.vzan.com/slowlive/409432888792717927/live.m3u8
 #EXTINF:-1 group-title="山西频道",山西-吉县新闻综合
 http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
 
@@ -1789,7 +1794,10 @@ http://localhost/dashboard/05_tvradio.php?id=gxzh
 http://cnpull.sccnfb.com/live/123456.m3u8
 #EXTINF:-1 group-title="四川频道",四川-江安电视台
 https://p8.vzan.com/slowlive/917080675626502322/live.m3u8?zbid=1468353950&amp;amp;tpid=1614357566
-
+#EXTINF:-1 group-title="四川频道",四川-巴州综合
+http://30814.hlsplay.aodianyun.com/tv_radio_30814/tv_channel_1839.m3u8                      
+#EXTINF:-1 group-title="四川频道",四川-巴中南江电视台
+http://36903.hlsplay.aodianyun.com/tv_radio_36903/tv_channel_1670.m3u8?auth_key=4842409639-0-0-319d3d61d27f502f5b5f0f76e7fa6874
 #EXTINF:-1 group-title="四川频道",四川-眉山新闻综合
 http://localhost/dashboard/05_sichuan_meishan.php?id=gqpd
 #EXTINF:-1 group-title="四川频道",四川-眉山文旅乡村
@@ -1852,8 +1860,7 @@ http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8
 #EXTINF:-1 group-title="四川频道",四川-汶川新闻综合
 http://live.iwcmt.cn:90/live/zhxw.m3u8
-#EXTINF:-1 group-title="四川频道",四川-毕节七星关电视台
-https://p8.vzan.com/slowlive/147077707554082780/live.m3u8
+
 #EXTINF:-1 group-title="四川频道",四川-井研县
 http://localhost/dashboard/11_guizhou_liupanshui.php?id=jyzh
 #EXTINF:-1 group-title="四川频道",四川-万源新闻综合
@@ -2580,7 +2587,8 @@ http://www.guzhenm.com:7001/hls/hd-live.m3u8
 http://www.guzhenm.com:7004/hls/hd-live.m3u8
 #EXTINF:-1 group-title="安徽频道",安徽-含山新闻综合
 https://newfiles.hswltv.com/hls/hanshanzh/playlist.m3u8
-
+#EXTINF:-1 group-title="安徽频道",安徽-太和新闻综合
+http://play-hsbj.vzan.com/1110366022/109031811546416830/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="安徽频道",安徽-宿州新闻综合
 http://localhost/dashboard/09_anhui_suzhou.php?id=szzh
@@ -2755,6 +2763,10 @@ http://media.qdnrm.cn:18100/live/264712/playlist.m3u8
 http://media.qdnrm.cn:18100/live/279784/playlist.m3u8
 #EXTINF:-1 group-title="贵州频道",印江电视台
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=yjtv
+#EXTINF:-1 group-title="贵州频道",贵州-毕节七星关电视台
+https://p8.vzan.com/slowlive/147077707554082780/live.m3u8
+#EXTINF:-1 group-title="贵州频道",贵州-湄潭新闻
+http://p8.vzan.com/slowlive/158160919638855965/live.m3u8
 
 #EXTINF:-1 group-title="河南频道",河南-河南卫视
 http://localhost/dashboard/12_henan_shengji.php?id=hnws
@@ -2996,7 +3008,8 @@ http://localhost/dashboard/12_henan_fangcheng.php?id=tongxu
 http://localhost/dashboard/12_henan_fangcheng.php?id=kfqixian
 #EXTINF:-1 group-title="河南频道",河南-新蔡综合频道
 http://localhost/dashboard/12_henan_fangcheng.php?id=xincai
-
+#EXTINF:-1 group-title="河南频道",河南-商丘新闻综合
+https://p2.vzan.com/slowlive/899859453853342540/live.m3u8
 #EXTINF:-1 group-title="河南频道",河南-上街综合频道
 http://localhost/dashboard/12_henan_fangcheng.php?id=shangjie
 #EXTINF:-1 group-title="河南频道",河南-光山综合频道
@@ -3191,6 +3204,8 @@ http://live.plus.jinhua.com.cn/jykj/app/live.m3u8
 http://live.plus.jinhua.com.cn/jjsh/app/live.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-嘉善新闻综合
 http://localhost/dashboard/13_zhejiang_jiashan.php
+#EXTINF:-1 group-title="浙江频道",浙江-嘉善善文化
+http://p2hs.vzan.com/slowlive/316803155868465733/live.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-庆元
 http://localhost/dashboard/13_zhejiang_qingyuan.php
 #EXTINF:-1 group-title="浙江频道",浙江-乐清新闻综合
@@ -3264,7 +3279,8 @@ http://localhost/dashboard/13_zhejiang_jiaxing.php?id=ptxw
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=wxxw
 #EXTINF:-1 group-title="浙江频道",浙江-武义新闻综合
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=wyxw
-
+#EXTINF:-1 group-title="浙江频道",浙江-海宁新闻综合
+https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8?zbid=293304&tpid=1708007815
 
 #EXTINF:-1 group-title="浙江频道",浙江-宁波市镇海区新闻综合
 https://netlive.zhxwzx.com/live/ZHTV-2.m3u8
@@ -3587,6 +3603,8 @@ http://biaozhun114.com/tv/iptv2.php?id=2
 https://livestream.oeeee.com/slive/17806.m3u8
 #EXTINF:-1 group-title="广东频道",广东-云浮文旅
 https://livestream.oeeee.com/slive/17807.m3u8
+#EXTINF:-1 group-title="广东频道",广东-丰顺综合
+http://p2.vzan.com/slowlive/024926084736123668/live.m3u8
 
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南卫视.png" group-title="海南频道",海南卫视
 http://localhost/dashboard/15_hainan_shengji.php?id=1
@@ -3744,7 +3762,8 @@ https://play.kankanlive.com/live/1656898082155960.m3u8
 https://play.kankanlive.com/live/1652755738635915.m3u8
 #EXTINF:-1 group-title="甘肃频道",甘肃-古浪电视台
 https://play.kankanlive.com/live/1711282408137964.m3u8
-
+#EXTINF:-1 group-title="甘肃频道", 甘肃-会宁综合
+http://p2.vzan.com/419307/577613453950840330/live.m3u8
 
 #EXTINF:-1 group-title="辽宁频道",辽宁卫视
 http://localhost/dashboard/17_liaoniang_shengji.php?id=058
@@ -4023,6 +4042,8 @@ http://localhost/dashboard/17_liaoniang_shengji.php?id=294
 http://localhost/dashboard/18_fujian_shengji.php?id=5
 #EXTINF:-1 group-title="福建频道",福建-福建综合频道
 http://localhost/dashboard/18_fujian_shengji.php?id=4
+#EXTINF:-1 group-title="福建频道",福建-福建综合
+http://p2.vzan.com/slowlive/485365200293316089/live.m3u8
 #EXTINF:-1 group-title="福建频道",福建-福建综合频道
 http://localhost/dashboard/18_fujian_shengji.php?id=401
 #EXTINF:-1 group-title="福建频道",福建-福建综合频道
@@ -4331,7 +4352,10 @@ http://localhost/dashboard/07_hubei_quxian_guangdianyun2.php?id=xyzh
 http://localhost/dashboard/07_hubei_quxian_guangdianyun2.php?id=xyzh2
 #EXTINF:-1 group-title="江苏频道",江苏-新沂老电影
 http://localhost/dashboard/07_hubei_quxian_guangdianyun2.php?id=xyldy
-
+#EXTINF:-1 group-title="江苏频道",江苏-六合新闻综合
+http://p2hs.vzan.com/slowlive/198761718166523205/live.m3u8
+#EXTINF:-1 group-title="江苏频道",江苏-六合影视生活
+http://p2hs.vzan.com/slowlive/687303133971409619/live.m3u8
 
 
 
@@ -4900,7 +4924,8 @@ http://localhost/dashboard/59_qita.php?id=ykxwzh
 http://localhost/dashboard/59_qita.php?id=yklhsh
 #EXTINF:-1 group-title="黑龙江频道",黑龙江省鹤岗萝北综合
 http://localhost/dashboard/24_heilongjiang_luobei.php
-
+#EXTINF:-1 group-title="黑龙江频道",七台河矿区电视台
+https://play-hsbj.vzan.com/201041892/650315866095242467/live.m3u8
 
 
 #EXTINF:-1 group-title="青海频道",青海-青海卫视
