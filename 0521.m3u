@@ -1951,6 +1951,20 @@ http://localhost/dashboard/05_sichuan_comulnId.php?id=rszh
 http://localhost/dashboard/05_sichuan_comulnId.php?id=rxzh
 #EXTINF:-1 group-title="四川频道",四川-南溪电视台
 http://localhost/dashboard/05_sichuan_comulnId.php?id=nxzh
+#EXTINF:-1 group-title="四川频道",四川-筠连综合
+https://live.dameijunlian.cn/live1/live1.m3u8
+#EXTINF:-1 group-title="四川频道",四川-金川电视台
+http://live.jinchuanrmt.com:90/live/zhxw.m3u8
+#EXTINF:-1 group-title="四川频道",四川-岳池综合
+http://localhost/dashboard/05_sichuan_yueci.php
+#EXTINF:-1 group-title="四川频道",四川-黑水综合
+http://live.schstv.com:90/live/xwzh.m3u8
+#EXTINF:-1 group-title="四川频道",四川-松潘电视台
+http://live.spccmc.com:90/live/spxwzh.m3u8
+#EXTINF:-1 group-title="四川频道",四川-安岳综合
+http://localhost/dashboard/05_tvradio.php?id=ayzh
+#EXTINF:-1 group-title="四川频道",四川-汉源综合
+http://localhost/dashboard/11_guizhou_liupanshui.php?id=hyzh
 
 
 
