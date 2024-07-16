@@ -403,7 +403,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 https://epg.pw/stream/48ce1655f67ddb04f2f124a816e97665c1a6c0604751021d820fa3cb4ad19c61.ctv
 
 #EXTINF:-1 tvg-id="BRTV8K2" tvg-name="BRTV8K2" group-title="北京频道",北京纪实科教8K
-http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+http://223.106.228.229/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 
 #EXTINF:-1 tvg-id="北京怀柔" tvg-name="北京怀柔" group-title="北京频道",北京-北京怀柔
 http://localhost/dashboard/50_quxian_qita.php?id=hrtv
