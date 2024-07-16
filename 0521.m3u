@@ -5487,7 +5487,8 @@ http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
 #EXTINF:-1 group-title="港澳台",澳门综艺
 http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
-
+#EXTINF:-1 group-title="港澳台",香港面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 #EXTINF:-1 group-title="港澳台",亚洲卫视
 http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
