@@ -5477,22 +5477,20 @@ http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="港澳台",澳门莲花
 http://localhost/dashboard/52_aomen_lianhua.php
-#EXTINF:-1 group-title="港澳台",澳门Macua
-https://epg.pw/stream/b94063fc121231f964796b623bfb06c99bdfc9252644c91294c36aedb98d5c33.m3u8
-#EXTINF:-1 group-title="港澳台",澳门资讯
-https://epg.pw/stream/7d84bc19526f28495ca4906fd2f1562a20a71c6175b8628b7ff708a29802be1f.m3u8
-
-#EXTINF:-1 group-title="港澳台",澳门资讯
-https://stream1.freetv.fun/ed95e0876da9a4cce72e5d5109b443e65ea078a568a27213928a001e50ab2740.ctv
 #EXTINF:-1 group-title="港澳台",澳视澳门
-https://stream1.freetv.fun/6bf8b2d5d63527504623778e40d5da27c470b9c03d84c8676596e10b5643a367.ctv
+http://61.244.22.5/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",澳视葡文
+http://61.244.22.5/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 group-title="港澳台",澳门Macua
+http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台",澳门体育
+http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
+#EXTINF:-1 group-title="港澳台",澳门综艺
+http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 
 
 #EXTINF:-1 group-title="港澳台",亚洲卫视
 http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
-
-
-
 
 
 #EXTINF:-1 group-title="港澳台",香港卫视
