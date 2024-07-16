@@ -5458,17 +5458,20 @@ http://lidahai.top:8100/udp/239.93.0.156:2193
 http://enlen.vip:4022/udp/239.200.200.134:8884
 #EXTINF:-1 group-title="港澳台",星空[四川组播]
 http://lidahai.top:8100/udp/239.93.1.10:2193
+#EXTINF:-1 group-title="港澳台",星空卫视
+http://171.108.239.79:8181/tsfile/live/1012_1.m3u8
 #EXTINF:-1 group-title="港澳台",CHANNEL-V[四川组播]
 http://lidahai.top:8100/udp/239.93.0.157:2194
 
 
-
-
-
+#EXTINF:-1 group-title="港澳台",星光视界台
+http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 #EXTINF:-1 group-title="港澳台",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="港澳台",TVB星河
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台",TVB星河
+http://171.108.239.79:8181/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="港澳台",亚洲武侠电视台 
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 
@@ -5500,6 +5503,8 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 group-title="港澳台",东森新闻美国
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",东森电影台
+http://171.108.239.79:8181/tsfile/live/1010_1.m3u8
 #EXTINF:-1 group-title="港澳台",长城精品
 http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 #EXTINF:-1 group-title="港澳台",台視新聞 HD
