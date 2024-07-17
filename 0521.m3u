@@ -1268,6 +1268,13 @@ http://localhost/dashboard/02_shandong_shouguang.php?id=gxzy
 http://localhost/dashboard/02_shandong_shouguang.php?id=llzh
 #EXTINF:-1 group-title="山东频道",山东-乐陵城市生活
 http://localhost/dashboard/02_shandong_shouguang.php?id=llsh
+#EXTINF:-1 group-title="山东频道",山东-平原综合
+http://localhost/dashboard/02_shandong_shouguang.php?id=pyzh
+#EXTINF:-1 group-title="山东频道",山东-莘县综合
+http://localhost/dashboard/02_shandong_shouguang.php?id=xxzh
+#EXTINF:-1 group-title="山东频道",山东-莘县生活
+http://localhost/dashboard/02_shandong_shouguang.php?id=xxsh
+
 
 #EXTINF:-1 group-title="山东频道",山东-济宁城合
 http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
