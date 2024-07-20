@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="咪咕",cctv1[赣橙]
-http://localhost/dashboard/58_gctv.php?id=cctv1
+
 #EXTINF:-1 group-title="咪咕",cctv1[咪咕2]
 http://localhost/dashboard/57_migu2.php?id=cctv1
 #EXTINF:-1 group-title="咪咕",CCTV1[广电云]
@@ -23,7 +22,6 @@ http://localhost/dashboard/18_fujian_ninghua.php?id=CCTV4
 http://localhost/dashboard/57_migu720.php?id=cctv4a
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4欧洲.png" group-title="咪咕",CCTV4欧洲
 http://localhost/dashboard/57_migu720.php?id=cctv4o
-
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV5.png" group-title="咪咕",cctv5[福建]
 http://localhost/dashboard/18_fujian_ninghua.php?id=CCTV5
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV5.png" group-title="咪咕",cctv5[IPV6]
@@ -130,7 +128,7 @@ http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024081303.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4K.png" group-title="央视频",CCTV-4K 超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4K.png" group-title="央视频",CCTV-4K 超高清-河北衡水联通组播
-http://pwd.unnas.top:4000/rtp/239.253.93.134:6631
+http://itms.xznet.org:41097/rtp/239.253.93.134:6631
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4K.png" group-title="央视频",CCTV-4K 超高清
 https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
@@ -436,32 +434,32 @@ https://livebjsy.chinamcache.com/live/zb01.m3u8
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
 
 
-#EXTINF:-1 tvg-name="朝阳融媒" group-title="北京频道",朝阳融媒-组播
-http://114.254.80.164:4000/rtp/239.3.1.163:8001
-#EXTINF:-1 tvg-name="通州融媒" group-title="北京频道",通州融媒-组播
-http://114.254.80.164:4000/rtp/239.3.1.221:8001
-#EXTINF:-1 tvg-name="密云电视台" group-title="北京频道",密云电视台-组播
-http://114.254.80.164:4000/rtp/239.3.1.154:8001
-#EXTINF:-1 tvg-name="延庆电视台" group-title="北京频道",延庆电视台-组播
-http://114.254.80.164:4000/rtp/239.3.1.187:8001
+#EXTINF:-1 tvg-name="朝阳融媒" group-title="北京频道",朝阳融媒[组播]
+http://ikuai.zlsip.top:4022/rtp/239.3.1.163:8001
+#EXTINF:-1 tvg-name="通州融媒" group-title="北京频道",通州融媒[组播]
+http://ikuai.zlsip.top:4022/rtp/239.3.1.221:8001
+#EXTINF:-1 tvg-name="密云电视台" group-title="北京频道",密云电视台[组播]
+http://ikuai.zlsip.top:4022/rtp/239.3.1.154:8001
+#EXTINF:-1 tvg-name="延庆电视台" group-title="北京频道",延庆电视台[组播]
+http://ikuai.zlsip.top:4022/rtp/239.3.1.187:8001
 
 
 
 
 #EXTINF:-1 tvg-id="北京萌宠" tvg-name="北京萌宠" group-title="北京频道",北京萌宠
-http://114.254.80.164:4000/rtp/239.3.1.102:8001
+http://ikuai.zlsip.top:4022/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-id="北京iptv淘精彩" tvg-name="北京iptv淘精彩" group-title="北京频道",北京iptv淘精彩
-http://114.254.80.164:4000/rtp/239.3.1.178:8001
+http://ikuai.zlsip.top:4022/rtp/239.3.1.178:8001
 #EXTINF:-1 tvg-id="北京淘baby" tvg-name="北京淘baby" group-title="北京频道",北京淘baby
-http://114.254.80.164:4000/rtp/239.3.1.238:8001
+http://ikuai.zlsip.top:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" group-title="北京频道",北京淘电影
-http://114.254.80.164:4000/rtp/239.3.1.250:8001
+http://ikuai.zlsip.top:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="北京淘" tvg-name="北京淘娱乐" group-title="北京频道",北京淘娱乐
-http://114.254.80.164:4000/rtp/239.3.1.100:8001
+http://ikuai.zlsip.top:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="北京淘剧场" tvg-name="北京淘剧场" group-title="北京频道",北京淘剧场
-http://114.254.80.164:4000/rtp/239.3.1.95:8001
+http://ikuai.zlsip.top:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="北京大健康" tvg-name="北京大健康" group-title="北京频道",北京大健康
-http://114.254.80.164:4000/rtp/239.3.1.251:8001
+http://ikuai.zlsip.top:4022/rtp/239.3.1.251:8001
 #EXTINF:-1 tvg-id="北京大健康" tvg-name="北京大健康" group-title="北京频道",北京大健康[备用ip]
 http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.251:8001
 
@@ -622,7 +620,7 @@ http://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=2510710360&k=2d3ada9117a7f
 #EXTINF:-1 group-title="河北频道",河北经济-静态
 http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=878ace626abc063571a3ddff9ec396a3
 #EXTINF:-1 group-title="河北频道",河北-河北杂技
-http://localhost/dashboard/otv.php?id=13002
+http://itms.xznet.org:41097/rtp/239.254.201.139:7203
 #EXTINF:-1 group-title="河北频道",河北-河北收视指南
 http://localhost/dashboard/otv.php?id=13010
 #EXTINF:-1 group-title="河北频道",河北-石家庄新闻
@@ -675,14 +673,7 @@ https://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",河北-涞水新闻频道
 https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
 
-#EXTINF:-1 group-title="河北频道",河北-唐山新闻综合[组播]
-http://pwd.unnas.top:4000/rtp/239.253.92.245:6089
-#EXTINF:-1 group-title="河北频道",河北-唐山生活服务-otv
-http://pwd.unnas.top:4000/rtp/239.253.92.126:6026
-#EXTINF:-1 group-title="河北频道",河北-唐山影视频道[组播]
-http://pwd.unnas.top:4000/rtp/239.253.92.127:6027
-#EXTINF:-1 group-title="河北频道",河北-唐山公共频道[组播]
-http://pwd.unnas.top:4000/rtp/239.253.92.128:6028
+
 #EXTINF:-1 group-title="河北频道",河北-唐山迁安
 http://jwplay.hebyun.com.cn/live/jiuyunqianan/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",河北-唐山玉田
@@ -692,18 +683,26 @@ https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",河北-鹿泉一套
 https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
 
-#EXTINF:-1 group-title="河北频道",香河电视-联通组播
-http://pwd.unnas.top:4000/rtp/239.253.92.185:6049
-#EXTINF:-1 group-title="河北频道",秦皇岛综合-组播
-http://pwd.unnas.top:4000/udp/239.253.92.52:6021
-#EXTINF:-1 group-title="河北频道",秦皇岛公共-组播
-http://pwd.unnas.top:4000/udp/239.253.92.53:6022
-#EXTINF:-1 group-title="河北频道",秦皇岛影视-组播
-http://pwd.unnas.top:4000/udp/239.253.92.54:6023
-#EXTINF:-1 group-title="河北频道",河北-廊坊综合-组播
-http://pwd.unnas.top:4000/udp/239.253.92.164:6036
-#EXTINF:-1 group-title="河北频道",河北-廊坊公共-组播
-http://pwd.unnas.top:4000/udp/239.253.92.166:6037
+#EXTINF:-1 group-title="河北频道",河北-唐山新闻综合[组播]
+http://itms.xznet.org:41097/rtp/239.253.92.245:6089
+#EXTINF:-1 group-title="河北频道",河北-唐山生活服务-otv
+http://itms.xznet.org:41097/rtp/239.253.92.126:6026
+#EXTINF:-1 group-title="河北频道",河北-唐山影视频道[组播]
+http://itms.xznet.org:41097/rtp/239.253.92.127:6027
+#EXTINF:-1 group-title="河北频道",河北-唐山公共频道[组播]
+http://itms.xznet.org:41097/rtp/239.253.92.128:6028
+#EXTINF:-1 group-title="河北频道",香河电视[组播]
+http://itms.xznet.org:41097/rtp/239.253.92.185:6049
+#EXTINF:-1 group-title="河北频道",秦皇岛综合[组播]
+http://itms.xznet.org:41097/udp/239.253.92.52:6021
+#EXTINF:-1 group-title="河北频道",秦皇岛公共[组播]
+http://itms.xznet.org:41097/udp/239.253.92.53:6022
+#EXTINF:-1 group-title="河北频道",秦皇岛影视[组播]
+http://itms.xznet.org:41097/udp/239.253.92.54:6023
+#EXTINF:-1 group-title="河北频道",河北-廊坊综合[组播]
+http://itms.xznet.org:41097/udp/239.253.92.164:6036
+#EXTINF:-1 group-title="河北频道",河北-廊坊公共[组播]
+http://itms.xznet.org:41097/udp/239.253.92.166:6037
 #EXTINF:-1 group-title="河北频道",河北-廊坊综合
 rtmp://222.222.126.18/live/lfxw
 #EXTINF:-1 group-title="河北频道",河北-廊坊公共
@@ -748,10 +747,7 @@ https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
 #EXTINF:-1 group-title="河北频道",河北-衡山
 http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
 
-#EXTINF:-1 group-title="河北频道",河北-隆化影视频道
-http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-#EXTINF:-1 group-title="河北频道",河北-隆化综合频道
-http://hblh.chinashadt.com:2036/live/stream:lh1.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="河北频道",河北-任丘文娱
 https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",河北-任丘综合
@@ -762,8 +758,7 @@ https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
 http://hbzqdb.chinashadt.com:1937/live/zqzh.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="河北频道",河北-迁西综合
 https://jwcdnqx.hebyun.com.cn/live/qxzhpd/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北频道",河北-迁西综艺
-https://jwcdnqx.hebyun.com.cn/live/qxzyy/1500k/tzwj_video.m3u8
+
 #EXTINF:-1 group-title="河北频道",河北-迁西农业
 https://jwliveqxzb.hebyun.com.cn/qxny/qxny.m3u8
 
@@ -1219,13 +1214,13 @@ http://localhost/dashboard/02_shandong_qita.php?id=zbzctv1
 http://localhost/dashboard/02_shandong_qita.php?id=zbzctv2
 
 #EXTINF:-1 group-title="山东频道",烟台新闻[组播]
-http://182.32.160.19:9997/udp/239.21.1.116:5002
+http://113.120.108.236:4000/udp/239.21.1.116:5002
 #EXTINF:-1 group-title="山东频道",烟台公共[组播]
-http://182.32.160.19:9997/udp/239.21.1.117:5002
+http://113.120.108.236:4000/udp/239.21.1.117:5002
 #EXTINF:-1 group-title="山东频道",烟台经济[组播]
-http://182.32.160.19:9997/udp/239.21.1.205:5002
+http://113.120.108.236:4000/udp/239.21.1.205:5002
 #EXTINF:-1 group-title="山东频道",烟台影视[组播]
-http://182.32.160.19:9997/udp/239.21.1.204:5002
+http://113.120.108.236:4000/udp/239.21.1.204:5002
 #EXTINF:-1 group-title="山东频道",山东-寿光新闻综合频道
 http://localhost/dashboard/02_shandong_shouguang.php?id=sgzh
 #EXTINF:-1 group-title="山东频道",山东-寿光蔬菜
@@ -1642,7 +1637,7 @@ http://localhost/dashboard/04_shan_xi_shengji.php?id=sxxwzx
 http://localhost/dashboard/04_shan_xi_shengji.php?id=sxdsqc
 #EXTINF:-1 tvg-id="陕西三套" tvg-name="陕西三套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西生活.png" group-title="陕西频道",陕西生活频道
 http://localhost/dashboard/04_shan_xi_shengji.php?id=sxsh
-#EXTINF:-1 tvg-id="陕西四套" tvg-name="陕西四套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西影视.png" group-title="陕西频道",陕西影视频道-组播
+#EXTINF:-1 tvg-id="陕西四套" tvg-name="陕西四套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西影视.png" group-title="陕西频道",陕西影视频道[组播]
 http://113.133.235.222:8010/udp/239.111.205.99:5140
 #EXTINF:-1 tvg-id="陕西五套" tvg-name="陕西五套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西公共.png" group-title="陕西频道",陕西公共频道
 http://localhost/dashboard/04_shan_xi_shengji.php?id=sxgg
@@ -2639,10 +2634,16 @@ http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lyds
 http://localhost/dashboard/08_hunan_loudi.php?id=ldzh
 #EXTINF:-1 group-title="湖南频道",湖南-快乐购
 http://localhost/dashboard/08_hunan_loudi.php?id=klg
-#EXTINF:-1 group-title="湖南频道",湘西综合-组播
-http://175.0.92.107:9000/udp/239.76.245.208:1234
-#EXTINF:-1 group-title="湖南频道",湘西公共HD-组播
-http://175.0.92.107:9000/udp/239.76.252.209:9000
+#EXTINF:-1 group-title="湖南频道",湘西综合[组播]
+http://yao87.com:4022/udp/239.76.245.208:1234
+#EXTINF:-1 group-title="湖南频道",湘西公共[组播]
+http://yao87.com:4022/udp/239.76.252.209:9000
+#EXTINF:-1 group-title="湖南频道",张家界综合[组播]
+http://yao87.com:4022/udp/239.76.245.234:1234
+#EXTINF:-1 group-title="湖南频道",张家界2[组播]
+http://yao87.com:4022/udp/239.76.245.235:1234
+
+
 #EXTINF:-1 group-title="湖南频道",湖南-宜章电视台
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=yzds
 #EXTINF:-1 group-title="湖南频道",湖南-资兴电视台
@@ -2782,9 +2783,9 @@ http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
 #EXTINF:-1 group-title="安徽频道",安徽-淮南民生
 http://112.30.194.221:20080/live/6e43da3335a640b3a73c948fccf935c5/hls.m3u8
 
-#EXTINF:-1 group-title="安徽频道",安徽-宣城新闻-组播
+#EXTINF:-1 group-title="安徽频道",安徽-宣城新闻[组播]
 http://223.240.187.21:8888/udp/238.1.78.142:7008
-#EXTINF:-1 group-title="安徽频道",安徽-宣城文旅生活-组播
+#EXTINF:-1 group-title="安徽频道",安徽-宣城文旅生活[组播]
 http://223.240.187.21:8888/udp/238.1.78.143:7016
 #EXTINF:-1 group-title="安徽频道",安徽-无为新闻综合
 http://localhost/dashboard/59_qita.php?id=wwxwzh
@@ -4884,13 +4885,13 @@ http://localhost/dashboard/22_neimenggu_tongliao.php?id=tlcs
 
 #EXTINF:-1 group-title="广西频道",广西卫视
 https://mobilelive.gxtv.cn/live/nn_live1004/playlist.m3u8
-#EXTINF:-1 group-title="广西频道",广西综艺-组播
+#EXTINF:-1 group-title="广西频道",广西综艺[组播]
 http://222.84.98.63:4200/udp/239.81.0.214:4056
 #EXTINF:-1 group-title="广西频道",广西影视
 https://mobilelive.gxtv.cn/live/nn_live1003/playlist.m3u8
 #EXTINF:-1 group-title="广西频道",广西新闻
 https://mobilelive.gxtv.cn/live/nn_live1007/playlist.m3u8
-#EXTINF:-1 group-title="广西频道",广西公共-组播
+#EXTINF:-1 group-title="广西频道",广西公共[组播]
 http://222.84.98.63:4200/udp/239.81.0.249:4056
 #EXTINF:-1 group-title="广西频道",广西都市
 https://mobilelive.gxtv.cn/live/nn_live1006/playlist.m3u8
@@ -5213,33 +5214,33 @@ http://localhost/dashboard/27_chongqin_cqyx.php?id=cgrm
 http://localhost/dashboard/27_chongqin_cqyx.php?id=akds
 #EXTINF:-1 group-title="重庆频道",重庆-购物频道
 https://cqonsitecdn.cbgcloud.com:443/161o3l/5tu7tm.m3u8
-#EXTINF:-1 group-title="重庆频道",CQTV影视-组播
+#EXTINF:-1 group-title="重庆频道",CQTV影视[组播]
 http://113.251.178.188:6666/rtp/235.254.198.180:7980
-#EXTINF:-1 group-title="重庆频道",CQTV都市-组播
+#EXTINF:-1 group-title="重庆频道",CQTV都市[组播]
 http://113.251.178.188:6666/rtp/235.254.198.181:7980
-#EXTINF:-1 group-title="重庆频道",CQTV时尚-组播
+#EXTINF:-1 group-title="重庆频道",CQTV时尚[组播]
 http://113.251.178.188:6666/rtp/235.254.198.182:7980
-#EXTINF:-1 group-title="重庆频道",CQTV娱乐-组播
+#EXTINF:-1 group-title="重庆频道",CQTV娱乐[组播]
 http://113.251.178.188:6666/rtp/235.254.198.187:7980
-#EXTINF:-1 group-title="重庆频道",CQTV公共农村-组播
+#EXTINF:-1 group-title="重庆频道",CQTV公共农村[组播]
 http://113.251.178.188:6666/rtp/235.254.198.186:7980
-#EXTINF:-1 group-title="重庆频道",CQTV少儿-组播
+#EXTINF:-1 group-title="重庆频道",CQTV少儿[组播]
 http://113.251.178.188:6666/rtp/235.254.196.214:1128
-#EXTINF:-1 group-title="重庆频道",CQTV科教-组播
+#EXTINF:-1 group-title="重庆频道",CQTV科教[组播]
 http://113.251.178.188:6666/rtp/235.254.196.215:1132
-#EXTINF:-1 group-title="重庆频道",CQTV生活-组播
+#EXTINF:-1 group-title="重庆频道",CQTV生活[组播]
 http://113.251.178.188:6666/rtp/235.254.196.216:1136
-#EXTINF:-1 group-title="重庆频道",CQTV汽摩-组播
+#EXTINF:-1 group-title="重庆频道",CQTV汽摩[组播]
 http://113.251.178.188:6666/rtp/235.254.196.221:1156
-#EXTINF:-1 group-title="重庆频道",CQTV新闻超高清-组播
+#EXTINF:-1 group-title="重庆频道",CQTV新闻超高清[组播]
 http://113.251.178.188:6666/rtp/235.254.196.199:7980
-#EXTINF:-1 group-title="重庆频道",CQTV手持电视-组播
+#EXTINF:-1 group-title="重庆频道",CQTV手持电视[组播]
 http://113.251.178.188:6666/rtp/235.254.196.219:1148
-#EXTINF:-1 group-title="重庆频道",CQTV移动-组播
+#EXTINF:-1 group-title="重庆频道",CQTV移动[组播]
 http://113.251.178.188:6666/rtp/235.254.196.217:1140
-#EXTINF:-1 group-title="重庆频道",睛彩重庆-组播
+#EXTINF:-1 group-title="重庆频道",睛彩重庆[组播]
 http://113.251.178.188:6666/rtp/235.254.196.218:1146
-#EXTINF:-1 group-title="重庆频道",开县本地电视1-组播
+#EXTINF:-1 group-title="重庆频道",开县本地电视1[组播]
 http://113.251.178.188:6666/rtp/235.254.198.145:1870
 
 #EXTINF:-1 group-title="重庆频道",重庆-合川综合
