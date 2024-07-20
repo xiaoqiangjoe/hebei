@@ -5490,7 +5490,7 @@ http://localhost/dashboard/54_Russia_kaqiusha.php
 http://localhost/dashboard/51_fenghuang_480.php?id=fhzx
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/凤凰卫视中文台.png" group-title="港澳台",凤凰中文
 http://localhost/dashboard/51_fenghuang_480.php?id=fhzw
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
 http://localhost/dashboard/51_fenghuang_480.php?id=fhhk
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/凤凰卫视中文台.png" group-title="港澳台",凤凰中文
@@ -5501,7 +5501,7 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/凤凰卫视资讯台.png" group-title="港澳台",凤凰资讯
 http://61.221.215.25:8800/hls/47/index.m3u8
 
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰中文[四川组播]
 http://lidahai.top:8100/udp/239.93.0.162:2192
