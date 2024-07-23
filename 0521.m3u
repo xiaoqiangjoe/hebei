@@ -1585,7 +1585,8 @@ http://pili-live-hls.189.i2863.com/i2863-189/live_189_170656.m3u8
 http://pili-live-hls.188.i2863.com/i2863-188/live_188_430198.m3u8?sign=e4382c67bc77902120f4c228b6ca57e8&t=667bd08c
 #EXTINF:-1 group-title="山西频道",山西-柳林新闻综合[需要观察时效性]
 http://pili-live-hls.212.i2863.com/i2863-212/live_212_336940.m3u8
-
+#EXTINF:-1 group-title="山西频道",山西卫视
+https://www.wxhcgbds.com:8081/channelTv/WXTV_1.flv
 
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西卫视.png" group-title="陕西频道",,陕西卫视
 http://localhost/dashboard/04_shan_xi_shanshipin.php?id=sxws
@@ -5504,27 +5505,29 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰中文[四川组播]
-http://lidahai.top:8100/udp/239.93.0.162:2192
+http://wouu.net:9977/udp/239.93.0.162:2192
 #EXTINF:-1 group-title="港澳台",凤凰中文[四川组播]
-http://lidahai.top:8100/udp/239.93.1.9:2192
+http://wouu.net:9977/udp/239.93.1.9:2192
 #EXTINF:-1 group-title="港澳台",凤凰资讯[四川组播]
-http://lidahai.top:8100/udp/239.93.0.118:2191
+http://wouu.net:9977/udp/239.93.0.118:2191
 #EXTINF:-1 group-title="港澳台",凤凰资讯[四川组播]
-http://lidahai.top:8100/udp/239.93.1.4:2191
+http://wouu.net:9977/udp/239.93.1.4:2191
 
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳台",星空卫视
 https://epg.pw/stream/295e40de2803afdf3bdd9e10c5468e14227aca3ddcb253c76c5124bd0b09e1a7.ctv
 #EXTINF:-1 group-title="港澳台",星空卫视[四川组播]
-http://lidahai.top:8100/udp/239.93.0.156:2193
+http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 group-title="港澳台",星空卫视[云南组播]
 http://enlen.vip:4022/udp/239.200.200.134:8884
 #EXTINF:-1 group-title="港澳台",星空[四川组播]
-http://lidahai.top:8100/udp/239.93.1.10:2193
+http://wouu.net:9977/udp/239.93.1.10:2193
 #EXTINF:-1 group-title="港澳台",星空卫视
 http://171.108.239.79:8181/tsfile/live/1012_1.m3u8
 #EXTINF:-1 group-title="港澳台",CHANNEL-V[四川组播]
-http://lidahai.top:8100/udp/239.93.0.157:2194
+http://wouu.net:9977/udp/239.93.0.157:2194
 
+#EXTINF:-1 group-title="港澳台",亚美卫视
+http://localhost/dashboard/56_ymws.php
 
 #EXTINF:-1 group-title="港澳台",星光视界台
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
