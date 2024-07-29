@@ -25,7 +25,7 @@ http://localhost/dashboard/57_migu720.php?id=cctv4o
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV5.png" group-title="咪咕",cctv5[福建]
 http://localhost/dashboard/18_fujian_ninghua.php?id=CCTV5
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV5.png" group-title="咪咕",cctv5[IPV6]
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMSXw4ajlL%2FoUYC2RZQQDco6uQSifXBocz5ID6RePfIKQ4rFWiHjq%2FeZoDmrzW%2FKlw
+http://localhost/dashboard/57_migu720.php?id=cctv5
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV5.png" group-title="咪咕",cctv5[咪咕2]
 http://localhost/dashboard/57_migu2.php?id=cctv5
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV6.png" group-title="咪咕",cctv6
