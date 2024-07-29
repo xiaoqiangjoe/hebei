@@ -4856,7 +4856,7 @@ http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/
 #EXTINF:-1 group-title="内蒙古频道",内蒙古-阿荣旗电视台
 http://localhost/dashboard/22_neimenggu_arongqi.php
 #EXTINF:-1 group-title="内蒙古频道",内蒙古-伊金霍洛旗综合频道
-http://localhost/dashboard/22_neimenggu_arongqi.php?id=79
+http://localhost/dashboard/22_neimenggu_yijin.php?id=79
 #EXTINF:-1 group-title="内蒙古频道",内蒙古-赤峰新闻综合
 http://localhost/dashboard/22_neimenggu_chifeng.php?id=1
 #EXTINF:-1 group-title="内蒙古频道",内蒙古-赤峰影视娱乐
