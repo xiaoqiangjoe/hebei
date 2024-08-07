@@ -5774,6 +5774,158 @@ https://k44991.kylintv.tv/live/ctshd_iphone.m3u8
 #EXTINF:-1 group-title="港澳台",民视
 https://k44991.kylintv.tv/live/formosatv_iphone.m3u8
 
+#EXTINF:-1 group-title="港澳台2",客家电视台
+http://37.27.111.214:8080/live/1/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",原住民族电视台
+http://37.27.111.214:8080/live/2/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",MOMO亲子台（合并了纬来儿童台）
+http://37.27.111.214:8080/live/3/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",民视第一台
+http://37.27.111.214:8080/live/4/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",民视台湾台
+http://37.27.111.214:8080/live/5/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",民视
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",中视
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",华视
+http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",TV5MONDE(法语电视台)
+http://37.27.111.214:8080/live/9/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",亚洲旅游台
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",探案台
+http://37.27.111.214:8080/live/11/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",博斯高球一台
+http://37.27.111.214:8080/live/13/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",博斯运动一台
+http://37.27.111.214:8080/live/14/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",博斯无限
+http://37.27.111.214:8080/live/15/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",博斯网球台
+http://37.27.111.214:8080/live/16/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",龙华电影
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",东森新闻
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",Nick Jr. （儿童频道、学龄前）
+http://37.27.111.214:8080/live/22/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",TVBs欢乐台
+http://37.27.111.214:8080/live/24/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",MTv
+http://37.27.111.214:8080/live/25/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",GSTV幸福空间居家台
+http://37.27.111.214:8080/live/26/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",HIstory
+http://37.27.111.214:8080/live/27/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",HITS电影高清台
+http://37.27.111.214:8080/live/28/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",Cinema World(世界影城电影频道)
+http://37.27.111.214:8080/live/30/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",三立综合台
+http://37.27.111.214:8080/live/31/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",彭博资讯
+http://37.27.111.214:8080/live/34/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",猪哥秀
+http://37.27.111.214:8080/live/35/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",滚动力 rollor(艺文纪实台)
+http://37.27.111.214:8080/live/40/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",龙华戏剧
+http://37.27.111.214:8080/live/41/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",龙华日韩
+http://37.27.111.214:8080/live/42/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",aljazeera半岛电视台
+http://37.27.111.214:8080/live/44/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",VOA美国之声
+http://37.27.111.214:8080/live/45/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",DW English(德国之声英文台)
+http://37.27.111.214:8080/live/46/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",中视经典
+http://37.27.111.214:8080/live/47/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",中视菁彩
+http://37.27.111.214:8080/live/48/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",新唐人亚太台
+http://37.27.111.214:8080/live/51/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",ariang Korea
+http://37.27.111.214:8080/live/52/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",Global Trekker
+http://37.27.111.214:8080/live/53/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",ABC互动英语
+http://37.27.111.214:8080/live/54/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",ELTV生活英语台
+http://37.27.111.214:8080/live/56/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",儿童
+http://37.27.111.214:8080/live/57/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",东森购物
+http://37.27.111.214:8080/live/61/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",镜新闻
+http://37.27.111.214:8080/live/62/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",寰宇新闻台湾台
+http://37.27.111.214:8080/live/63/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",全球财经HD
+http://37.27.111.214:8080/live/64/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",寰宇财经
+http://37.27.111.214:8080/live/65/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",东森购物
+http://37.27.111.214:8080/live/66/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",FTV综艺
+http://37.27.111.214:8080/live/67/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",ROCK Entertainment(娱乐频道)
+http://37.27.111.214:8080/live/70/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",Lifetime(女性娱乐频道)
+http://37.27.111.214:8080/live/71/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",CMUSIC音樂台
+http://37.27.111.214:8080/live/72/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",智林体育台
+http://37.27.111.214:8080/live/77/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",M+
+http://37.27.111.214:8080/live/78/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",TechStorm(科普频道)
+http://37.27.111.214:8080/live/80/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",Pet Club tv
+http://37.27.111.214:8080/live/81/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",FTV旅游
+http://37.27.111.214:8080/live/82/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",Festival
+http://37.27.111.214:8080/live/83/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",LOVE NATURE
+http://37.27.111.214:8080/live/84/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",ELTA生活旅游
+http://37.27.111.214:8080/live/85/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",LUXE TV
+http://37.27.111.214:8080/live/86/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",公视喜剧
+http://37.27.111.214:8080/live/87/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",FTV影剧
+http://37.27.111.214:8080/live/88/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",影迷记实台
+http://37.27.111.214:8080/live/92/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",金光布袋戏
+http://37.27.111.214:8080/live/93/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",ROCK Action(电影频道)
+http://37.27.111.214:8080/live/94/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",MCE
+http://37.27.111.214:8080/live/98/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",GOODTV2
+http://37.27.111.214:8080/live/99/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",人间卫视
+http://37.27.111.214:8080/live/101/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",CNBC
+http://37.27.111.214:8080/live/102/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",动漫
+http://37.27.111.214:8080/live/105/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",动漫2
+http://37.27.111.214:8080/live/106/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",哆啦A梦
+http://37.27.111.214:8080/live/107/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",电视剧2
+http://37.27.111.214:8080/live/109/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",超人
+http://37.27.111.214:8080/live/110/hls.m3u8
+#EXTINF:-1 group-title="港澳台2",电视剧3
+http://37.27.111.214:8080/live/111/hls.m3u8
+
+
 
 
 
