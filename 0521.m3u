@@ -1503,6 +1503,8 @@ http://localhost/dashboard/03_shanxi_datong.php?id=16
 http://localhost/dashboard/03_shanxi_datong.php?id=8
 #EXTINF:-1 group-title="山西频道",山西-大同煤都生活
 http://localhost/dashboard/03_shanxi_datong.php?id=9
+#EXTINF:-1 group-title="山西频道",山西-大同教育
+http://183.191.251.235:8001/rtp/226.0.2.232:9772
 #EXTINF:-1 group-title="山西频道",山西-运城新闻综合
 http://localhost/dashboard/03_shanxi_yuncheng.php?id=yczh
 #EXTINF:-1 group-title="山西频道",山西-运城公共
@@ -1590,7 +1592,6 @@ http://pili-live-hls.188.i2863.com/i2863-188/live_188_430198.m3u8?sign=e4382c67b
 http://pili-live-hls.212.i2863.com/i2863-212/live_212_336940.m3u8
 #EXTINF:-1 group-title="山西频道",山西卫视
 https://www.wxhcgbds.com:8081/channelTv/WXTV_1.flv
-
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西卫视.png" group-title="陕西频道",,陕西卫视
 http://localhost/dashboard/04_shan_xi_shanshipin.php?id=sxws
 #EXTINF:-1 tvg-id="陕西一套" tvg-name="陕西一套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西新闻资讯.png" group-title="陕西频道",陕西新闻资讯
