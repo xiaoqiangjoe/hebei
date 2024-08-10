@@ -75,14 +75,26 @@ http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="央视频",CETV-4
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
-#EXTINF:-1 group-title="咪咕",,咪咕视频
+#EXTINF:-1 group-title="咪咕",咪咕视频
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 group-title="咪咕",,咪咕视频
+#EXTINF:-1 group-title="咪咕",咪咕视频
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 group-title="咪咕",,124
+#EXTINF:-1 group-title="咪咕",124
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 group-title="咪咕",,147
+#EXTINF:-1 group-title="咪咕",147
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 group-title="咪咕",睛彩青少
+http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226053/main.m3u8
+#EXTINF:-1 group-title="咪咕",睛彩青少
+http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226031/main.m3u8
+#EXTINF:-1 group-title="咪咕",睛彩竞技
+http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225897/main.m3u8
+#EXTINF:-1 group-title="咪咕",睛彩竞技
+http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226046/main.m3u8
+#EXTINF:-1 group-title="咪咕",睛彩篮球
+http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225895/main.m3u8
+#EXTINF:-1 group-title="咪咕",睛彩篮球
+http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226027/main.m3u8
 
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV1.png" group-title="qly",cctv1
