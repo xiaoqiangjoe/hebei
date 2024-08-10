@@ -2886,6 +2886,10 @@ http://localhost/dashboard/10_xizang_lasa.php?id=xwzh
 http://localhost/dashboard/10_xizang_lasa.php?id=whly
 #EXTINF:-1 group-title="西藏频道",西藏-工布江达县广播电视台
 http://localhost/dashboard/14_guangdong_shengji.php?id=gbjd
+#EXTINF:-1 group-title="西藏频道",日喀则汉语
+http://218.207.233.111:20321/4.m3u8
+#EXTINF:-1 group-title="西藏频道",日喀则藏语
+http://218.207.233.111:20321/8.m3u8
 
 #EXTINF:-1 group-title="贵州频道",贵州卫视
 http://localhost/dashboard/11_guizhou_shengji.php?id=ch01
