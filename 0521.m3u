@@ -303,15 +303,23 @@ http://localhost/dashboard/27_chongqin_cqyx.php?id=chcjt
 http://localhost/dashboard/27_chongqin_cqyx.php?id=chcgq
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC动作电影.png" group-title="电影频道",CHC动作电影
 http://localhost/dashboard/27_chongqin_cqyx.php?id=chcdz
-#EXTINF:-1 group-title="电影频道",早期教育CHC动作电影[天津联通]
+#EXTINF:-1 group-title="电影频道",CHC动作电影[天津联通]
 http://nas.hssvm.com:8888/udp/225.1.1.215:5002
-#EXTINF:-1 group-title="电影频道",早期教育CHC高清电影[天津联通]
+#EXTINF:-1 group-title="电影频道",CHC高清电影[天津联通]
 http://nas.hssvm.com:8888/udp/225.1.1.214:5002
-#EXTINF:-1 group-title="电影频道",早期教育CHC家庭影院[天津联通]
+#EXTINF:-1 group-title="电影频道",CHC家庭影院[天津联通]
 http://nas.hssvm.com:8888/udp/225.1.1.213:5002
 
 #EXTINF:-1 group-title="教育频道",早期教育[天津联通]
 http://nas.hssvm.com:8888/udp/225.1.2.207:5002
+#EXTINF:-1 group-title="教育频道",CETV1HD[北京联通]
+http://ikuai.zlsip.top:4022/rtp/239.3.1.57:8152
+#EXTINF:-1 group-title="教育频道",CETV2[北京联通]
+http://ikuai.zlsip.top:4022/rtp/239.3.1.54:4120
+#EXTINF:-1 group-title="教育频道",CETV3[北京联通]
+http://ikuai.zlsip.top:4022/rtp/239.3.1.55:4120
+#EXTINF:-1 group-title="教育频道",CETV4[北京联通]
+http://ikuai.zlsip.top:4022/rtp/239.3.1.56:4120
 
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
