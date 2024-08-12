@@ -612,6 +612,10 @@ http://pili-live-hls.181.i2863.com/i2863-181/live_181_899443.m3u8
 http://nas.hssvm.com:8888/udp/225.1.1.82:5002
 #EXTINF:-1 group-title="天津频道",天津-大港油田企业[组播]
 http://nas.hssvm.com:8888/udp/225.1.2.14:5002
+#EXTINF:-1 group-title="天津频道",天津-武清
+https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8
+#EXTINF:-1 group-title="天津频道",天津-宝坻电视台
+https://player4.juyun.tv/tv/143100176.m3u8
 
 
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="河北频道",河北卫视
