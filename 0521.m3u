@@ -1936,8 +1936,10 @@ http://localhost/dashboard/11_guizhou_liupanshui.php?id=tqzh
 http://localhost/dashboard/11_guizhou_liupanshui.php?id=smzh
 #EXTINF:-1 group-title="四川频道",四川-雨城综合
 http://localhost/dashboard/11_guizhou_liupanshui.php?id=yczh
+#EXTINF:-1 group-title="四川频道",四川-四川宜宾综合
+http://localhost/dashboard/05_sichuan_yibin.php?id=yzzh
 #EXTINF:-1 group-title="四川频道",四川-四川宜宾公共
-http://localhost/dashboard/05_sichuan_yibin.php
+http://localhost/dashboard/05_sichuan_yibin.php?id=yzgg
 #EXTINF:-1 group-title="四川频道",四川-乐山新闻
 http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 group-title="四川频道",四川-乐山文旅生活
