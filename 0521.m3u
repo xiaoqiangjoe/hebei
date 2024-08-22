@@ -3708,11 +3708,8 @@ http://localhost/dashboard/14_guangdong_shenzhen.php?id=szyd
 http://localhost/dashboard/14_guangdong_shenzhen.php?id=yhgw
 
 #EXTINF:-1 group-title="广东频道",广东-汕头综合
-http://localhost/dashboard/14_guangdong_shantou.php?id=1
-#EXTINF:-1 group-title="广东频道",广东-汕头经济生活
-http://localhost/dashboard/14_guangdong_shantou.php?id=2
-#EXTINF:-1 group-title="广东频道",广东-汕头文旅体育
-http://localhost/dashboard/14_guangdong_shantou.php?id=3
+http://localhost/dashboard/14_guangdong_shantou.php?id=stxwzh
+
 #EXTINF:-1 group-title="广东频道",广东-汕尾新闻综合
 http://localhost/dashboard/14_guangdong_shanwei.php?id=35
 #EXTINF:-1 group-title="广东频道",广东-汕尾文化生活
