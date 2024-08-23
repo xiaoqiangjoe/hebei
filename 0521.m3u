@@ -5160,19 +5160,20 @@ https://liveplaysr.dbw.cn/lsdream/amzPoBP/1000/live.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-黑河综合
 https://liveplaysr.dbw.cn/lsdream/86qwqcs/1024/live.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-穆棱综合频道
-http://vod.center.hljtv.com/lsdream/wy7HG9x/1024/542w470.m3u8
+http://localhost/dashboard/24_heilongjiang_tide.php?id=mlzh
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-绥芬河综合
-http://vod.center.hljtv.com/lsdream/gS7S5pS/512/r4g0470.m3u8
+http://localhost/dashboard/24_heilongjiang_tide.php?id=sfhz
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-嘉荫综合
-http://vod.center.hljtv.com/lsdream/1lqKC4B/1024/y6914q0.m3u8
+http://localhost/dashboard/24_heilongjiang_tide.php?id=jyzh
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-铁力综合
-http://vod.center.hljtv.com/lsdream/QgOu88F/1024/a5xQ4O0.m3u8
+http://localhost/dashboard/24_heilongjiang_tide.php?id=tzyh
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-讷河综合
-http://vod.center.hljtv.com/lsdream/Ig4YRW0/1024/o5jI4w0.m3u8
+http://localhost/dashboard/24_heilongjiang_tide.php?id=nhzh
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-依安综合
-http://vod.center.hljtv.com/lsdream/1szOvMr/1024/a4x14z0.m3u8
+http://localhost/dashboard/24_heilongjiang_tide.php?id=yazh
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-友谊综合
-http://vod.center.hljtv.com/lsdream/d037rmI/1000/651d430.m3u8
+http://localhost/dashboard/24_heilongjiang_tide.php?id=fhyz
+
 #EXTINF:-1 group-title="黑龙江频道",宁安综合-黑龙江佳木斯
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=nazh
 
