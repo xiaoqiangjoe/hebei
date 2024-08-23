@@ -1540,18 +1540,23 @@ http://localhost/dashboard/03_shanxi_shengji.php?id=sxshfz
 http://localhost/dashboard/03_shanxi_shengji.php?id=sxwtsh
 #EXTINF:-1 group-title="山西频道",山西黄河
 http://localhost/dashboard/03_shanxi_shengji.php?id=sxhh
-#EXTINF:-1 group-title="山西频道",山西-太原新闻综合[联通组播]
-http://183.191.251.235:8001/rtp/226.0.2.201:9520
-#EXTINF:-1 group-title="山西频道",山西-太原生活[联通组播]
-http://183.191.251.235:8001/rtp/226.0.2.202:9528
-#EXTINF:-1 group-title="山西频道",山西-太原社教法制[联通组播]
-http://183.191.251.235:8001/rtp/226.0.2.203:9536
-#EXTINF:-1 group-title="山西频道",山西-太原文体频道[联通组播]
-http://183.191.251.235:8001/rtp/226.0.2.204:9544
-#EXTINF:-1 group-title="山西频道",山西-太原影视[联通组播]
-http://183.191.251.235:8001/rtp/226.0.2.205:9552
-#EXTINF:-1 group-title="山西频道",山西-太原教育[联通组播]
-http://183.191.251.235:8001/rtp/226.0.2.206:9560
+#EXTINF:-1 group-title="山西频道",山西-太原新闻综合
+http://localhost/dashboard/03_shanxi_taiyuan.php?id=tyxwzh
+#EXTINF:-1 group-title="山西频道",山西-太原生活
+http://localhost/dashboard/03_shanxi_taiyuan.php?id=tyjjsh
+#EXTINF:-1 group-title="山西频道",山西-太原社教法制
+http://localhost/dashboard/03_shanxi_taiyuan.php?id=tysjfz
+#EXTINF:-1 group-title="山西频道",山西-太原文体频道
+http://localhost/dashboard/03_shanxi_taiyuan.php?id=tywt
+#EXTINF:-1 group-title="山西频道",山西-太原影视
+http://localhost/dashboard/03_shanxi_taiyuan.php?id=tyys
+#EXTINF:-1 group-title="山西频道",山西-太原教育
+http://localhost/dashboard/03_shanxi_taiyuan.php?id=tyjy
+#EXTINF:-1 group-title="山西频道",山西-太原佰乐购
+http://localhost/dashboard/03_shanxi_taiyuan.php?id=tyblg
+#EXTINF:-1 group-title="山西频道",山西-太原城市生活
+http://localhost/dashboard/03_shanxi_taiyuan.php?id=tycssh
+
 #EXTINF:-1 group-title="山西频道",山西-大同新闻综合
 http://localhost/dashboard/03_shanxi_datong.php?id=16
 #EXTINF:-1 group-title="山西频道",山西-大同公共
