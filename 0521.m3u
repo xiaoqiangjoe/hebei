@@ -5334,7 +5334,8 @@ http://localhost/dashboard/27_chongqin_cqyx.php?id=yyzh
 http://localhost/dashboard/27_chongqin_cqyx.php?id=yunyzh
 #EXTINF:-1 group-title="重庆频道",重庆-铜梁综合
 http://localhost/dashboard/27_chongqin_cqyx.php?id=tlzh
-
+#EXTINF:-1 group-title="重庆频道",重庆-黔江电视台
+https://qxlmlive9.cbg.cn:443/applive/qjpd1/playlist.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-合川综合
 http://125.62.24.72:8030/ch0.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-铜梁综合
