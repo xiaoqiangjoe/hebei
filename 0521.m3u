@@ -1549,6 +1549,8 @@ http://localhost/dashboard/03_shanxi_datong.php?id=8
 http://localhost/dashboard/03_shanxi_datong.php?id=9
 #EXTINF:-1 group-title="山西频道",山西-大同教育
 http://183.191.251.235:8001/rtp/226.0.2.232:9772
+#EXTINF:-1 group-title="山西频道",大同-灵丘电视台
+https://player4.juyun.tv/tv/150434132.m3u8
 #EXTINF:-1 group-title="山西频道",山西-运城新闻综合
 http://localhost/dashboard/03_shanxi_yuncheng.php?id=yczh
 #EXTINF:-1 group-title="山西频道",山西-运城公共
@@ -1571,6 +1573,8 @@ http://localhost/dashboard/03_shanxi_yushu.php?id=yszh
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lvzh
 #EXTINF:-1 group-title="山西频道",山西-吕梁综合频道
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lvys
+#EXTINF:-1 group-title="山西频道",吕梁-离石综合频道
+https://p2bj.vzan.com/slowlive/409432888792717927/live.m3u8
 #EXTINF:-1 group-title="山西频道",山西-侯马综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=hmzh
 #EXTINF:-1 tvg-id="阳泉新闻综合HD" tvg-name="阳泉新闻综合HD" tvg-logo="https://epg.112114.xyz/logo/阳泉新闻综合.png" group-title="山西频道",阳泉新闻综合
@@ -4741,13 +4745,6 @@ http://liveout.btzx.com.cn/62ds9e/454mm6.m3u8
 http://test5.btzx.com.cn/live/13TV.stream.flv
 #EXTINF:-1 group-title="新疆频道",新疆-十四师昆玉综合
 http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="新疆频道",新疆-玛纳斯综合
 http://218.84.127.245:1026/hls/main1/playlist.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-奎屯汉语综合
@@ -4760,6 +4757,8 @@ http://218.84.35.38:3000/m3u8/live/tctv-1/index.m3u8
 http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-塔城三
 http://218.84.35.38:3000/m3u8/live/tctv-3/index.m3u8
+#EXTINF:-1 group-title="新疆频道",塔城-沙湾市电视台
+https://p2hs.vzan.com/slowlive/035157999419365700/live.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-裕民汉语综合
 http://117.190.130.4:8081/out_1/index.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-裕民哈语综合
