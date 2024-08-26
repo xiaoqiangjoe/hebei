@@ -1719,19 +1719,19 @@ http://1.83.124.121:8888/udp/239.111.205.42:5140
 http://localhost/dashboard/04_shan_xi_shengji.php?id=nlws
 
 #EXTINF:-1 tvg-id="西安新闻综合" tvg-name="西安新闻综合" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/西安新闻综合.png" group-title="陕西频道",西安新闻综合
-http://localhost/dashboard/04_shan_xi_xian.php?id=1
+http://localhost/dashboard/04_shan_xi_xian.php?id=xazh
 #EXTINF:-1 tvg-id="西安都市" tvg-name="西安都市" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/西安都市频道.png" group-title="陕西频道",西安都市频道
-http://localhost/dashboard/04_shan_xi_xian.php?id=2
+http://localhost/dashboard/04_shan_xi_xian.php?id=xads
 #EXTINF:-1 tvg-id="西安商务资迅" tvg-name="西安商务资迅" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/西安商务资讯.png" group-title="陕西频道",西安商务资讯
-http://localhost/dashboard/04_shan_xi_xian.php?id=3
+http://localhost/dashboard/04_shan_xi_xian.php?id=xasw
 #EXTINF:-1 tvg-id="西安影视" tvg-name="西安影视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/西安影视频道.png" group-title="陕西频道",西安影视频道
-http://localhost/dashboard/04_shan_xi_xian.php?id=4
+http://localhost/dashboard/04_shan_xi_xian.php?id=xays
 #EXTINF:-1 tvg-id="西安丝路" tvg-name="西安丝路" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/西安丝路频道.png" group-title="陕西频道",西安丝路频道
-http://localhost/dashboard/04_shan_xi_xian.php?id=5
+http://localhost/dashboard/04_shan_xi_xian.php?id=xasl
 #EXTINF:-1 group-title="陕西频道",陕西-乐购购物
-http://localhost/dashboard/04_shan_xi_xian.php?id=6
+http://localhost/dashboard/04_shan_xi_xian.php?id=xagw
 #EXTINF:-1 group-title="陕西频道",陕西-西安移动电视
-http://localhost/dashboard/04_shan_xi_xian.php?id=7
+http://localhost/dashboard/04_shan_xi_xian.php?id=xayd
 
 
 #EXTINF:-1 group-title="陕西频道",陕西-延安综合
