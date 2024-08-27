@@ -3753,25 +3753,25 @@ http://localhost/dashboard/14_guangdong_zhanjiang.php?id=zjzh
 http://localhost/dashboard/14_guangdong_zhanjiang.php?id=zjgg
 #EXTINF:-1 group-title="广东频道",广东-信宜综合频道
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=xyzhpd
-
+#EXTINF:-1 group-title="广东频道",清远-新闻综合频道
+http://localhost/dashboard/14_guangdong_qingyuan.php?id=qyxw
+#EXTINF:-1 group-title="广东频道",广东-清远-文旅生活频道
+http://localhost/dashboard/14_guangdong_qingyuan.php?id=qywl
 #EXTINF:-1 group-title="广东频道",广东-东莞新闻综合
 http://localhost/dashboard/14_guangdong_shengji.php?id=dgzh
 #EXTINF:-1 group-title="广东频道",广东-东莞公共
 http://localhost/dashboard/14_guangdong_shengji.php?id=dggg
 
 #EXTINF:-1 group-title="广东频道",广东-中山新闻综合[组播]
-http://113.87.161.3:4022/udp/239.253.43.62:5146
+http://59.38.62.36:2052/udp/239.253.43.62:5146
 #EXTINF:-1 group-title="广东频道",广东-香山文化[组播]
-http://113.87.161.3:4022/udp/239.253.43.63:5146
+http://59.38.62.36:2052/udp/239.253.43.63:5146
 #EXTINF:-1 group-title="广东频道",广东-HZTV1[组播]
-http://113.87.161.3:4022/udp/239.77.1.232:5146
+http://59.38.62.36:2052/udp/239.77.1.232:5146
 #EXTINF:-1 group-title="广东频道",广东-HZTV2[组播]
-http://113.87.161.3:4022/udp/239.77.1.233:5146
+http://59.38.62.36:2052/udp/239.77.1.233:5146
 #EXTINF:-1 group-title="广东频道",广东-珠海1[组播]
-http://113.87.161.3:4022/udp/239.77.0.155:5146
-#EXTINF:-1 group-title="广东频道",广东-珠海2[组播]
-http://113.87.161.3:4022/udp/239.77.0.154:5146
-
+http://59.38.62.36:2052/udp/239.77.0.155:5146
 
 
 #EXTINF:-1 group-title="广东频道",广东-肇庆综合
