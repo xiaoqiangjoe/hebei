@@ -4621,6 +4621,48 @@ http://p2hs.vzan.com/slowlive/198761718166523205/live.m3u8
 http://p2hs.vzan.com/slowlive/687303133971409619/live.m3u8
 #EXTINF:-1 group-title="江苏频道",江苏-泗洪综合
 https://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8
+#EXTINF:-1 group-title="江苏频道",江苏-扬中新闻综合
+http://localhost/dashboard/19_jiangsu_difang.php?id=yzxw
+#EXTINF:-1 group-title="江苏频道",江苏-扬中党建民生
+http://localhost/dashboard/19_jiangsu_difang.php?id=yzms
+#EXTINF:-1 group-title="江苏频道",江苏-大丰1
+http://localhost/dashboard/19_jiangsu_difang.php?id=df1
+#EXTINF:-1 group-title="江苏频道",江苏-大丰2
+http://localhost/dashboard/19_jiangsu_difang.php?id=df2
+#EXTINF:-1 group-title="江苏频道",江苏-淮阴综合
+http://localhost/dashboard/19_jiangsu_difang.php?id=hyzh
+#EXTINF:-1 group-title="江苏频道",江苏-淮阴影视
+http://localhost/dashboard/19_jiangsu_difang.php?id=hyys
+#EXTINF:-1 group-title="江苏频道",江苏-如东新闻综合
+http://localhost/dashboard/19_jiangsu_difang.php?id=rdxw
+#EXTINF:-1 group-title="江苏频道",江苏-睢宁综合
+http://localhost/dashboard/19_jiangsu_difang.php?id=snxw
+#EXTINF:-1 group-title="江苏频道",江苏-睢宁三农
+http://localhost/dashboard/19_jiangsu_difang.php?id=snsn
+#EXTINF:-1 group-title="江苏频道",江苏-睢宁生活
+http://localhost/dashboard/19_jiangsu_difang.php?id=snsh
+#EXTINF:-1 group-title="江苏频道",江苏-睢宁资讯
+http://localhost/dashboard/19_jiangsu_difang.php?id=snzx
+#EXTINF:-1 group-title="江苏频道",江苏-海安新闻综合
+http://localhost/dashboard/19_jiangsu_difang.php?id=haxw
+#EXTINF:-1 group-title="江苏频道",江苏-高邮新闻综合
+http://localhost/dashboard/19_jiangsu_difang.php?id=gyxw
+#EXTINF:-1 group-title="江苏频道",江苏-沛县新闻综合
+http://localhost/dashboard/19_jiangsu_difang.php?id=pxxw
+#EXTINF:-1 group-title="江苏频道",江苏-金湖新闻综合
+http://localhost/dashboard/19_jiangsu_difang.php?id=jhzh
+#EXTINF:-1 group-title="江苏频道",江苏-东台新闻综合
+http://localhost/dashboard/19_jiangsu_difang.php?id=dtzh
+#EXTINF:-1 group-title="江苏频道",江苏-盐都新闻综合
+http://localhost/dashboard/19_jiangsu_difang.php?id=ydzh
+#EXTINF:-1 group-title="江苏频道",江苏-贾汪新闻综合-有问题
+http://localhost/dashboard/19_jiangsu_difang.php?id=jwzh
+#EXTINF:-1 group-title="江苏频道",江苏-贾汪旅游
+http://localhost/dashboard/19_jiangsu_difang.php?id=jwlx
+#EXTINF:-1 group-title="江苏频道",江苏-涟水新闻综合
+http://localhost/dashboard/19_jiangsu_difang.php?id=lszh
+#EXTINF:-1 group-title="江苏频道",江苏-东海新闻综合
+http://localhost/dashboard/19_jiangsu_difang.php?id=dhzh
 
 
 
