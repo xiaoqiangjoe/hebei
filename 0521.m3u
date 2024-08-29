@@ -1677,8 +1677,7 @@ http://stream.snrtv.com/sxbc-yd-uBDW46.m3u8
 http://localhost/dashboard/04_shan_xi_shanshipin.php?id=xazh
 #EXTINF:-1 group-title="陕西频道",榆林一套
 http://localhost/dashboard/04_shan_xi_shanshipin.php?id=ylzh
-#EXTINF:-1 group-title="陕西频道",咸阳一套
-http://localhost/dashboard/04_shan_xi_shanshipin.php?id=xyzh
+
 #EXTINF:-1 group-title="陕西频道",延安一套
 http://localhost/dashboard/04_shan_xi_shanshipin.php?id=yazh
 #EXTINF:-1 group-title="陕西频道",渭南一套
@@ -1753,10 +1752,10 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/inde
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226384/index.m3u8?
 
 
-#EXTINF:-1 group-title="陕西频道",陕西-咸阳综合-官网
-https://hplayer1.juyun.tv/camera/140629170.m3u8
-#EXTINF:-1 group-title="陕西频道",陕西-咸阳公共-官网
-https://hplayer1.juyun.tv/camera/129041160.m3u8
+#EXTINF:-1 group-title="陕西频道",陕西-咸阳综合
+http://localhost/dashboard/04_shan_xi_xianyang.php?id=xyzh
+#EXTINF:-1 group-title="陕西频道",陕西-咸阳公共
+http://localhost/dashboard/04_shan_xi_xianyang.php?id=xygg
 
 #EXTINF:-1 group-title="陕西频道",陕西-铜川综合
 http://localhost/dashboard/04_shan_xi_tongchuan.php?id=zh
