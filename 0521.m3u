@@ -3939,10 +3939,6 @@ https://play.kankanlive.com/live/1696824115516930.m3u8
 https://play.kankanlive.com/live/1696834115672925.m3u8
 #EXTINF:-1 group-title="甘肃频道",甘肃-景泰
 https://play.kankanlive.com/live/1624439143745981.m3u8
-#EXTINF:-1 group-title="甘肃频道",甘肃-七台河新闻综合
-http://localhost/dashboard/16_gansu_qilihe.php?id=zh
-#EXTINF:-1 group-title="甘肃频道",甘肃-七台河民生科教
-http://localhost/dashboard/16_gansu_qilihe.php?id=gg
 #EXTINF:-1 group-title="甘肃频道",甘肃-临洮电视台
 http://localhost/dashboard/57_migu720.php?id=lttv
 #EXTINF:-1 group-title="甘肃频道",甘肃-甘南汉语频道
@@ -5265,8 +5261,16 @@ https://masterpull.hljtv.com/live/p7WSvrJJ.m3u8
 https://rmplive.hljtv.com/live/qingan.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-绥化安达综合频道
 https://rmplive.hljtv.com/live/anda.m3u8
-#EXTINF:-1 group-title="黑龙江频道",黑龙江-黑河综合
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-黑河新闻综合频道
 https://liveplaysr.dbw.cn/lsdream/86qwqcs/1024/live.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-黑河新闻综合频道
+https://rmplive.hljtv.com/live/heihe.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-黑河嫩江综合频道
+https://rmplive.hljtv.com/live/nenjiang.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-黑河孙吴综合频道
+https://rmplive.hljtv.com/live/sunwu.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-黑河逊克综合频道
+https://masterpull.hljtv.com/live/a0CULO9O.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-穆棱综合频道
 http://localhost/dashboard/24_heilongjiang_tide.php?id=mlzh
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-绥芬河综合
@@ -5281,18 +5285,34 @@ http://localhost/dashboard/24_heilongjiang_tide.php?id=nhzh
 http://localhost/dashboard/24_heilongjiang_tide.php?id=yazh
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-友谊综合
 http://localhost/dashboard/24_heilongjiang_tide.php?id=fhyz
-
 #EXTINF:-1 group-title="黑龙江频道",宁安综合-黑龙江佳木斯
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=nazh
-
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-营口新闻综合
 http://localhost/dashboard/59_qita.php?id=ykxwzh
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-营口辽河文化生活频道
 http://localhost/dashboard/59_qita.php?id=yklhsh
 #EXTINF:-1 group-title="黑龙江频道",黑龙江省鹤岗萝北综合
 http://localhost/dashboard/24_heilongjiang_luobei.php
-#EXTINF:-1 group-title="黑龙江频道",七台河矿区电视台
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-七台河新闻综合
+http://localhost/dashboard/24_heilongjiang_qilihe.php?id=zh
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-七台河民生科教
+http://localhost/dashboard/24_heilongjiang_qilihe.php?id=gg
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-七台河矿区电视台
 https://play-hsbj.vzan.com/201041892/650315866095242467/live.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-七台河勃利综合频道
+https://rmplive.hljtv.com/live/boli.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-大兴安岭新闻综合
+https://masterpull.hljtv.com/live/H2kVyS15.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-大兴安岭呼玛综合频道
+https://rmplive.hljtv.com/live/huma.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-大兴安岭漠河综合频道
+https://rmplive.hljtv.com/live/mohe.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-大兴安岭塔河综合频道
+https://rmplive.hljtv.com/live/tahe.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-鹤岗新闻综合频道
+https://rmplive.hljtv.com/live/hegang.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-绥滨综合频道
+https://masterpull.hljtv.com/live/DQiqZPCj.m3u8
 
 
 #EXTINF:-1 group-title="青海频道",青海-青海卫视
