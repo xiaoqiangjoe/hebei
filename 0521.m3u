@@ -4624,7 +4624,7 @@ http://localhost/dashboard/07_hubei_quxian_guangdianyun2.php?id=xyzh2
 #EXTINF:-1 group-title="江苏频道",江苏-新沂老电影
 http://localhost/dashboard/07_hubei_quxian_guangdianyun2.php?id=xyldy
 #EXTINF:-1 group-title="江苏频道",江苏-六合新闻综合
-http://p2hs.vzan.com/slowlive/198761718166523205/live.m3u8
+https://play-hsbj.vzan.com/720020/432453820030502236/live.m3u8
 #EXTINF:-1 group-title="江苏频道",江苏-六合影视生活
 http://p2hs.vzan.com/slowlive/687303133971409619/live.m3u8
 #EXTINF:-1 group-title="江苏频道",江苏-泗洪综合
@@ -4675,6 +4675,8 @@ http://localhost/dashboard/19_jiangsu_difang.php?id=dhzh
 http://localhost/dashboard/19_jiangsu_difang.php?id=syzh
 #EXTINF:-1 group-title="江苏频道",江苏-泗阳资讯
 http://localhost/dashboard/19_jiangsu_difang.php?id=syzx
+#EXTINF:-1 group-title="江苏频道",江苏-金坛新闻综合
+http://localhost/dashboard/19_jiangsu_difang.php?id=jtzx
 #EXTINF:-1 group-title="江苏频道",江苏-溧阳新闻综合
 http://tvlive.cxzly.com/live/tv.m3u8
 #EXTINF:-1 group-title="江苏频道",江苏-张家港综合
@@ -5245,6 +5247,24 @@ http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=dqjy
 https://rmplive.hljtv.com/live/hegang.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-绥化综合
 https://liveplaysr.dbw.cn/lsdream/amzPoBP/1000/live.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-绥化新闻综合频道
+https://rmplive.hljtv.com/live/suihua.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-绥化明水综合频道
+https://rmplive.hljtv.com/live/mingshui.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-绥化肇东综合频道
+https://rmplive.hljtv.com/live/zhaodong.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-绥化青冈综合频道
+https://rmplive.hljtv.com/live/qinggang.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-绥化兰西综合频道
+https://rmplive.hljtv.com/live/lanxi.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-绥化望奎综合频道
+https://rmplive.hljtv.com/live/wangkui.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-绥化绥棱综合频道
+https://masterpull.hljtv.com/live/p7WSvrJJ.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-绥化庆安县综合频道
+https://rmplive.hljtv.com/live/qingan.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江-绥化安达综合频道
+https://rmplive.hljtv.com/live/anda.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-黑河综合
 https://liveplaysr.dbw.cn/lsdream/86qwqcs/1024/live.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-穆棱综合频道
