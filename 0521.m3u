@@ -5592,6 +5592,8 @@ https://live.yunyangwang.com/live/dszb.m3u8
 https://qxlmlive9.cbg.cn/applive/lplive01/chunklist.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-铜梁综合
 https://tlpc01.cqliving.com/ch1.m3u8
+#EXTINF:-1 group-title="重庆频道",重庆-巴南综合
+https://live.cqbntv.com/bnmc/tv0709.m3u8
 
 #EXTINF:-1 group-title="吉林频道",吉林-吉林卫视频道
 http://localhost/dashboard/28_jilin_shengji.php?id=351
