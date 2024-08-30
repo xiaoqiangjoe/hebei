@@ -5524,60 +5524,70 @@ http://localhost/dashboard/27_chongqin_cqyx.php?id=cgrm
 http://localhost/dashboard/27_chongqin_cqyx.php?id=akds
 #EXTINF:-1 group-title="重庆频道",重庆-购物频道
 https://cqonsitecdn.cbgcloud.com:443/161o3l/5tu7tm.m3u8
-#EXTINF:-1 group-title="重庆频道",CQTV影视[组播]
-http://113.251.178.188:6666/rtp/235.254.198.180:7980
-#EXTINF:-1 group-title="重庆频道",CQTV都市[组播]
-http://113.251.178.188:6666/rtp/235.254.198.181:7980
-#EXTINF:-1 group-title="重庆频道",CQTV时尚[组播]
-http://113.251.178.188:6666/rtp/235.254.198.182:7980
-#EXTINF:-1 group-title="重庆频道",CQTV娱乐[组播]
-http://113.251.178.188:6666/rtp/235.254.198.187:7980
-#EXTINF:-1 group-title="重庆频道",CQTV公共农村[组播]
-http://113.251.178.188:6666/rtp/235.254.198.186:7980
-#EXTINF:-1 group-title="重庆频道",CQTV少儿[组播]
-http://113.251.178.188:6666/rtp/235.254.196.214:1128
-#EXTINF:-1 group-title="重庆频道",CQTV科教[组播]
-http://113.251.178.188:6666/rtp/235.254.196.215:1132
-#EXTINF:-1 group-title="重庆频道",CQTV生活[组播]
-http://113.251.178.188:6666/rtp/235.254.196.216:1136
-#EXTINF:-1 group-title="重庆频道",CQTV汽摩[组播]
-http://113.251.178.188:6666/rtp/235.254.196.221:1156
-#EXTINF:-1 group-title="重庆频道",CQTV新闻超高清[组播]
-http://113.251.178.188:6666/rtp/235.254.196.199:7980
-#EXTINF:-1 group-title="重庆频道",CQTV手持电视[组播]
-http://113.251.178.188:6666/rtp/235.254.196.219:1148
-#EXTINF:-1 group-title="重庆频道",CQTV移动[组播]
-http://113.251.178.188:6666/rtp/235.254.196.217:1140
-#EXTINF:-1 group-title="重庆频道",睛彩重庆[组播]
-http://113.251.178.188:6666/rtp/235.254.196.218:1146
-#EXTINF:-1 group-title="重庆频道",开县本地电视1[组播]
-http://113.251.178.188:6666/rtp/235.254.198.145:1870
 
-#EXTINF:-1 group-title="重庆频道",重庆-合川综合
-http://localhost/dashboard/27_chongqin_cqyx.php?id=hczh
-#EXTINF:-1 group-title="重庆频道",重庆-长寿综合
-http://localhost/dashboard/27_chongqin_cqyx.php?id=cszh
-#EXTINF:-1 group-title="重庆频道",重庆-酉阳综合
-http://localhost/dashboard/27_chongqin_cqyx.php?id=yyzh
-#EXTINF:-1 group-title="重庆频道",重庆-云阳综合
-http://localhost/dashboard/27_chongqin_cqyx.php?id=yunyzh
-#EXTINF:-1 group-title="重庆频道",重庆-铜梁综合
-http://localhost/dashboard/27_chongqin_cqyx.php?id=tlzh
+#EXTINF:-1 group-title="重庆频道",CQTV卫视[电信组播]
+http://113.251.226.247:7788/rtp/235.254.196.249:1268
+#EXTINF:-1 group-title="重庆频道",CQTV影视[电信组播]
+http://113.251.226.247:7788/rtp/235.254.198.180:7980
+#EXTINF:-1 group-title="重庆频道",CQTV都市[电信组播]
+http://113.251.226.247:7788/rtp/235.254.198.181:7980
+#EXTINF:-1 group-title="重庆频道",CQTV时尚[电信组播]
+http://113.251.226.247:7788/rtp/235.254.198.182:7980
+#EXTINF:-1 group-title="重庆频道",CQTV娱乐[电信组播]
+http://113.251.226.247:7788/rtp/235.254.198.187:7980
+#EXTINF:-1 group-title="重庆频道",CQTV公共农村[电信组播]
+http://113.251.226.247:7788/rtp/235.254.198.186:7980
+#EXTINF:-1 group-title="重庆频道",CQTV少儿[电信组播]
+http://113.251.226.247:7788/rtp/235.254.196.214:1128
+#EXTINF:-1 group-title="重庆频道",CQTV科教[电信组播]
+http://113.251.226.247:7788/rtp/235.254.196.215:1132
+#EXTINF:-1 group-title="重庆频道",CQTV生活[电信组播]
+http://113.251.226.247:7788/rtp/235.254.196.216:1136
+#EXTINF:-1 group-title="重庆频道",CQTV汽摩[电信组播]
+http://113.251.226.247:7788/rtp/235.254.196.221:1156
+#EXTINF:-1 group-title="重庆频道",CQTV新闻超高清[电信组播]
+http://113.251.226.247:7788/rtp/235.254.196.199:7980
+#EXTINF:-1 group-title="重庆频道",CQTV手持电视[电信组播]
+http://113.251.226.247:7788/rtp/235.254.196.219:1148
+#EXTINF:-1 group-title="重庆频道",CQTV移动[电信组播]
+http://113.251.226.247:7788/rtp/235.254.196.217:1140
+#EXTINF:-1 group-title="重庆频道",睛彩重庆[电信组播]
+http://113.251.226.247:7788/rtp/235.254.196.218:1146
+
 #EXTINF:-1 group-title="重庆频道",重庆-黔江电视台
 https://qxlmlive9.cbg.cn:443/applive/qjpd1/playlist.m3u8
-#EXTINF:-1 group-title="重庆频道",重庆-合川综合
-http://125.62.24.72:8030/ch0.m3u8
-#EXTINF:-1 group-title="重庆频道",重庆-铜梁综合
-http://183.64.174.171:40123/ch1.m3u8
-#EXTINF:-1 group-title="重庆频道",重庆-北碚综合
-http://222.178.181.121:12034/beibei01.m3u8
-#EXTINF:-1 group-title="重庆频道",重庆-大足综合
-http://218.201.85.71:3170/m3u8
-#EXTINF:-1 group-title="重庆频道",重庆-垫江综合
-http://125.62.24.185:80/1.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-荣昌综合
 http://183.64.181.25:40023/rongchang01.m3u8
-
+#EXTINF:-1 group-title="重庆频道",重庆-永川综合
+https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
+#EXTINF:-1 group-title="重庆频道",重庆-巫山综合
+https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
+#EXTINF:-1 group-title="重庆频道",重庆-万盛综合
+https://qxlmlive9.cbg.cn/applive/wslive01/playlist.m3u8"
+#EXTINF:-1 group-title="重庆频道",重庆-潼南综合
+http://183.230.184.51:65500/tntv1.m3u8
+#EXTINF:-1 group-title="重庆频道",重庆-忠县综合频道
+https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
+#EXTINF:-1 group-title="重庆频道",重庆-开州综合
+https://qxlmlive9.cbg.cn/applive/kzpd02/chunklist.m3u8
+#EXTINF:-1 group-title="重庆频道",重庆-江津综合
+http://222.179.155.21:1935/ch1.m3u8
+#EXTINF:-1 group-title="重庆频道",重庆-合川综合
+https://qxlmlive9.cbg.cn/applive/hechuan01/chunklist.m3u8
+#EXTINF:-1 group-title="重庆频道",重庆-垫江综合
+https://play-sh.quklive.com/live/1672366847646284.m3u8
+#EXTINF:-1 group-title="重庆频道",重庆-武隆综合
+https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8
+#EXTINF:-1 group-title="重庆频道",重庆-璧山综合
+http://222.179.42.129:8181/hls1.m3u8
+#EXTINF:-1 group-title="重庆频道",重庆-云阳综合[重庆有线]
+http://localhost/dashboard/27_chongqin_cqyx.php?id=yunyzh
+#EXTINF:-1 group-title="重庆频道",重庆-云阳综合[静态]
+https://live.yunyangwang.com/live/dszb.m3u8
+#EXTINF:-1 group-title="重庆频道",重庆-梁平综合
+https://qxlmlive9.cbg.cn/applive/lplive01/chunklist.m3u8
+#EXTINF:-1 group-title="重庆频道",重庆-铜梁综合
+https://tlpc01.cqliving.com/ch1.m3u8
 
 #EXTINF:-1 group-title="吉林频道",吉林-吉林卫视频道
 http://localhost/dashboard/28_jilin_shengji.php?id=351
