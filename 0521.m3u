@@ -4790,6 +4790,10 @@ http://110.153.180.106:55555/out_2/index.m3u8
 http://110.153.180.106:55555/out_3/index.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-伊犁经济法制
 http://110.153.180.106:55555/out_4/index.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-伊宁汉语频道
+http://222.81.52.40:9898/out_1/index.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆-伊宁维吾尔频道
+http://222.81.52.40:9898/out_2/index.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-阿勒泰汉语
 https://play-a2.quklive.com/live/1704380285590041.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-阿勒泰哈萨克语
