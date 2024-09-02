@@ -542,7 +542,7 @@ http://localhost/dashboard/26_beijing_daxing.php
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=cptv
 #EXTINF:-1 tvg-id="北京延庆" tvg-name="北京延庆" group-title="北京频道",北京-北京延庆
 http://localhost/dashboard/26_beijing_yanqing.php?id=bjyq
-#EXTINF:-1 tvg-id="北京顺义" tvg-name="北京顺义" vg-logo="https://gitee.com/xiaoxiaojoe/tv_log/blob/master/tv_logo/beijing/%E9%A1%BA%E4%B9%89%E7%94%B5%E8%A7%86%E5%8F%B0.jpg" group-title="北京频道",北京-北京顺义
+#EXTINF:-1 tvg-id="北京顺义" tvg-name="北京顺义" vg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E9%A1%BA%E4%B9%89%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="北京频道",北京-北京顺义
 https://livebjsy.chinamcache.com/live/zb01.m3u8
 #EXTINF:-1 tvg-id="北京石景山" tvg-name="北京石景山" group-title="北京频道",北京-石景山
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
