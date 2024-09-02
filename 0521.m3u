@@ -4392,8 +4392,6 @@ http://localhost/dashboard/18_fujian_shengji.php?id=401
 http://localhost/dashboard/18_fujian_shengji.php?id=6
 #EXTINF:-1 group-title="福建频道",福建-福建新闻频道
 http://localhost/dashboard/18_fujian_shengji.php?id=13
-#EXTINF:-1 group-title="福建频道",福建-福建新闻频道-备
-http://localhost/dashboard/18_fujian_shengji.php?id=343
 #EXTINF:-1 group-title="福建频道",福建-福建电视剧频道
 http://localhost/dashboard/18_fujian_shengji.php?id=7
 #EXTINF:-1 group-title="福建频道",福建-福建旅游频道
@@ -4406,9 +4404,6 @@ http://localhost/dashboard/18_fujian_shengji.php?id=10
 http://localhost/dashboard/18_fujian_shengji.php?id=2
 #EXTINF:-1 group-title="福建频道",福建-海峡卫视
 http://localhost/dashboard/18_fujian_shengji.php?id=3
-#EXTINF:-1 group-title="福建频道",福建-海峡卫视-咪咕2
-http://localhost/dashboard/57_migu2.php?id=haixws
-
 
 #EXTINF:-1 group-title="福建频道",福建-福州新闻综合
 http://localhost/dashboard/18_fujian_fuzhou.php?id=1
@@ -4433,8 +4428,7 @@ http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=yccs
 http://localhost/dashboard/18_fujian_quanzhou_shishi.php
 #EXTINF:-1 group-title="福建频道",福建-泉港综合频道
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=qgzh
-#EXTINF:-1 group-title="福建频道",福建-沙县综合-三明
-http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=sxzh
+
 #EXTINF:-1 group-title="福建频道",福建-莆田新闻综合
 http://localhost/dashboard/18_fujian_putian.php?id=xw
 #EXTINF:-1 group-title="福建频道",福建-莆田公共频道
@@ -4456,22 +4450,18 @@ http://localhost/dashboard/18_fujian_jingjiang.php
 http://localhost/dashboard/18_fujian_sanming.php?id=11
 #EXTINF:-1 group-title="福建频道",福建-三明2套
 http://localhost/dashboard/18_fujian_sanming.php?id=12
-#EXTINF:-1 group-title="福建频道",三明尤溪新闻综合
-http://localhost/dashboard/55_guangdianyun.php?id=yxxwzh
 #EXTINF:-1 group-title="福建频道",福建-尤溪新闻综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=yxzh
 #EXTINF:-1 group-title="福建频道",三明尤溪旅游宣传
-http://localhost/dashboard/55_guangdianyun.php?id=yxlyxc
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=yxlv
 
 
 #EXTINF:-1 group-title="福建频道",福建-武夷山综合频道
 http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
 #EXTINF:-1 group-title="福建频道",福建-漳州-1
 http://localhost/dashboard/18_fujian_zhangshi.php?id=zsxs
-#EXTINF:-1 group-title="福建频道",漳州一套
-http://localhost/dashboard/55_guangdianyun.php?id=zztv1
 #EXTINF:-1 group-title="福建频道",漳州漳浦综合
-http://localhost/dashboard/55_guangdianyun.php?id=zpzh
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=zpzh
 #EXTINF:-1 group-title="福建频道",福建-宁德新闻综合频道
 http://localhost/dashboard/18_fujian_ningde.php?id=ndzh
 #EXTINF:-1 group-title="福建频道",福建-宁德文化旅游频道
