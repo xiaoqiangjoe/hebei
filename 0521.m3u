@@ -227,8 +227,8 @@ https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 http://123.184.28.3:80/hlslive-tx-cdn.ysp.cctv.cn/780/2024081303.m3u8
 #EXTINF:-1 group-title="4K频道",cctv8k
 http://123.184.28.3:80/hlslive-tx-cdn.ysp.cctv.cn/071/2020603421.m3u8
-
-
+#EXTINF:-1 group-title="4K频道",纯享4K
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
 #EXTINF:-1 group-title="4K频道",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="4K频道",4K自然台
@@ -3966,22 +3966,45 @@ https://livestream.oeeee.com/slive/17807.m3u8
 #EXTINF:-1 group-title="广东频道",广东-丰顺综合
 http://p2.vzan.com/slowlive/024926084736123668/live.m3u8
 
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南卫视.png" group-title="海南频道",海南卫视
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南卫视.png" group-title="海南频道",海南卫视[官网]
 http://localhost/dashboard/15_hainan_shengji.php?id=1
-#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南文旅.png" group-title="海南频道",海南自贸
+#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南文旅.png" group-title="海南频道",海南自贸[官网]
 http://localhost/dashboard/15_hainan_shengji.php?id=3
-#EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南新闻.png" group-title="海南频道",海南新闻
+#EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南新闻.png" group-title="海南频道",海南新闻[官网]
 http://localhost/dashboard/15_hainan_shengji.php?id=4
-#EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南公共.png" group-title="海南频道",海南公共
+#EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南公共.png" group-title="海南频道",海南公共[官网]
 http://localhost/dashboard/15_hainan_shengji.php?id=5
-#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南文旅.png" group-title="海南频道",海南文旅
+#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南文旅.png" group-title="海南频道",海南文旅[官网]
 http://localhost/dashboard/15_hainan_shengji.php?id=6
-#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南少儿.png" group-title="海南频道",海南少儿
+#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南少儿.png" group-title="海南频道",海南少儿[官网]
 http://localhost/dashboard/15_hainan_shengji.php?id=7
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/三沙卫视.png" group-title="海南频道",三沙卫视
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/三沙卫视.png" group-title="海南频道",三沙卫视[官网]
 http://localhost/dashboard/15_hainan_shengji.php?id=2
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/三沙卫视.png" group-title="海南频道",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?fmmv6
+
+
+
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南卫视.png" group-title="海南频道",海南卫视[IPTV]
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006211/1.m3u8
+#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南文旅.png" group-title="海南频道",海南自贸[IPTV]
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
+#EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南新闻.png" group-title="海南频道",海南新闻[IPTV]
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
+#EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南公共.png" group-title="海南频道",海南公共[IPTV]
+http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
+#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南文旅.png" group-title="海南频道",海南文旅[IPTV]
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
+#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南少儿.png" group-title="海南频道",海南少儿[IPTV]
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/三沙卫视.png" group-title="海南频道",三沙卫视[IPTV]
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="海南频道",海南-儋州-看时效性
 https://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8?auth_key=4854915849-0-0-5cf8df0f6f82fbb8da58b60f011965c3&extra_key=HNL6clOeib0LS3fRsE7WQZ_4boW0AhqKOifX_vuKG0xEAexspcmCGIg-qbC7gZ9plvSkj2n0Msg6PQ5PoSWHCNTrvoEhEVOCmZSGwPoXfj6-jezQ4S5t
 #EXTINF:-1 group-title="海南频道",海南-海口新闻综合
