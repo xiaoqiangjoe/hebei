@@ -4481,21 +4481,23 @@ http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 #EXTINF:-1 group-title="福建频道",福建-建宁综合
 https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
 #EXTINF:-1 group-title="福建频道",福建-福清电视台综合频道
-http://localhost/dashboard/07_hubei_quxian_guangdianyun2.php?id=fqzh
+http://localhost/dashboard/18_fujian_guangdianyun.php?id=fqzh
 #EXTINF:-1 group-title="福建频道",福建-闽侯电视台综合频道
-http://localhost/dashboard/07_hubei_quxian_guangdianyun2.php?id=mhzh
+http://localhost/dashboard/18_fujian_guangdianyun.php?id=mhzh
 #EXTINF:-1 group-title="福建频道",福建-平潭综合频道
-http://localhost/dashboard/07_hubei_quxian_guangdianyun2.php?id=ptzh
+http://localhost/dashboard/18_fujian_guangdianyun.php?id=ptzh
 #EXTINF:-1 group-title="福建频道",福建-平潭旅游文化
-http://localhost/dashboard/07_hubei_quxian_guangdianyun2.php?id=ptwl
+http://localhost/dashboard/18_fujian_guangdianyun.php?id=ptwl
 #EXTINF:-1 group-title="福建频道",福建-沙县综合-三明
-http://localhost/dashboard/07_hubei_quxian_guangdianyun2.php?id=sxzh
+http://localhost/dashboard/18_fujian_guangdianyun.php?id=sxzh
 #EXTINF:-1 group-title="福建频道",福建-永安综合频道
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=yazh
 #EXTINF:-1 group-title="福建频道",福建-德化综合频道
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=dhzh
 #EXTINF:-1 group-title="福建频道",福建-集美综合频道
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=jmzh
+#EXTINF:-1 group-title="福建频道",福建南平-邵武新闻综合频道
+https://84y6jdxz.live2.danghongyun.com/live/hls/8efcc6f8c3a1469181c23d1c64e61526/92e393f1535f498bad7e6f570894fd85-1.m3u8
 
 
 
