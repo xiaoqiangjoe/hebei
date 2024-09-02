@@ -1953,10 +1953,9 @@ http://dcpull.sctvcloud.com/live/9d774482018e1000fec02f9500000000/playlist.m3u8
 http://localhost/dashboard/05_sichuan_bazhong.php?id=6725
 #EXTINF:-1 group-title="四川频道",四川-巴中文旅生活频道
 http://localhost/dashboard/05_sichuan_bazhong.php?id=6726
-#EXTINF:-1 group-title="四川频道",四川-巴中城市生活
-http://localhost/dashboard/55_guangdianyun.php?id=cjcssh
+
 #EXTINF:-1 group-title="四川频道",四川-南江电视台
-http://localhost/dashboard/55_guangdianyun.php?id=njtv
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=njtv
 #EXTINF:-1 group-title="四川频道",四川-南充综合
 http://localhost/dashboard/05_sichuan_nanchong.php?id=1
 #EXTINF:-1 group-title="四川频道",四川-南充科教
@@ -2555,14 +2554,7 @@ http://localhost/dashboard/07_hubei_xiangyang.php?id=xyjjsh
 http://localhost/dashboard/07_hubei_enshi.php?id=eszh
 #EXTINF:-1 group-title="湖北频道",湖北-恩施文旅
 http://localhost/dashboard/07_hubei_enshi.php?id=eswl
-#EXTINF:-1 group-title="湖北频道",湖北-恩施新闻综合-广
-http://localhost/dashboard/55_guangdianyun.php?id=eszh
-#EXTINF:-1 group-title="湖北频道",湖北-恩施文旅-广
-http://localhost/dashboard/55_guangdianyun.php?id=eswl
-#EXTINF:-1 group-title="湖北频道",湖北-黄石新闻综合-广
-http://localhost/dashboard/55_guangdianyun.php?id=hsxwzh
-#EXTINF:-1 group-title="湖北频道",湖北-黄石都市-广
-http://localhost/dashboard/55_guangdianyun.php?id=hsds
+
 #EXTINF:-1 group-title="湖北频道",湖北-巴东综合
 http://localhost/dashboard/07_hubei_enshi.php?id=bdzh
 #EXTINF:-1 group-title="湖北频道",湖北-咸丰综合
@@ -3411,8 +3403,6 @@ http://tvpull.dxhmt.cn/tv/10221-1.m3u8
 http://tvpull.dxhmt.cn/tv/10223-1.m3u8
 #EXTINF:-1 group-title="河南频道",河南-通许新闻综合
 http://tvpull.dxhmt.cn/tv/10222-1.m3u8
-#EXTINF:-1 group-title="河南频道",河南-濮阳县电视台
-http://zhpull.dxhmt.cn/puyangxian/0779dbf4086a455fa1f36e3d56740a41/playlist.m3u8
 #EXTINF:-1 group-title="河南频道",河南-新乡
 http://player24.juyun.tv/camera/132168113.m3u8?auth_key=1716544715255-0-0-10174adf538ec66f4fedb3126c0a3c1e
 #EXTINF:-1 group-title="河南频道",河南-新乡县电视台
@@ -3425,10 +3415,7 @@ http://tvpull.dxhmt.cn/tv/10726-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
 #EXTINF:-1 group-title="河南频道",河南-辉县新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10782-1.m3u8
-#EXTINF:-1 group-title="河南频道",濮阳新闻综合
-http://localhost/dashboard/55_guangdianyun.php?id=pyxwzh
-#EXTINF:-1 group-title="河南频道",濮阳公共
-http://localhost/dashboard/55_guangdianyun.php?id=pygg
+
 
 
 #EXTINF:-1 group-title="浙江频道",浙江-浙江卫视
@@ -3635,10 +3622,7 @@ https://netlive.zhxwzx.com/live/ZHTV-1.m3u8
 http://l.66wc.com:1234/hls/10001-002-L.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-桐乡新闻综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=txxw
-#EXTINF:-1 group-title="浙江频道",浙江-安吉新闻综合
-http://localhost/dashboard/55_guangdianyun.php?id=ajxw
-#EXTINF:-1 group-title="浙江频道",浙江-安吉生活影视
-http://localhost/dashboard/55_guangdianyun.php?id=ajys
+
 #EXTINF:-1 group-title="浙江频道",文成综合频道-温州
 http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",温州新闻综合
@@ -3688,24 +3672,6 @@ http://localhost/dashboard/13_zhejiang_jiaxing.php?id=sydst
 http://play-sh13.quklive.com/live/1681113308206040.m3u8?auth_key=2028413158-ad2723c5e94045f393c4ccc595b573f9-0-c75b8d81f4470e67519c154e85115a4e
 #EXTINF:-1 group-title="浙江频道",浙江-舟山普陀新闻综合
 http://play-sh13.quklive.com/live/1679466742638079.m3u8?auth_key=2027430086-1c0e8e8d03c34c50aeaddaad1b5b044a-0-a2361934cb47fcce22a87fc828bf668e
-#EXTINF:-1 group-title="浙江频道",杭州临平新闻
-http://localhost/dashboard/55_guangdianyun.php?id=lpxw
-#EXTINF:-1 group-title="浙江频道",温州乐清综合
-http://localhost/dashboard/55_guangdianyun.php?id=yqzh
-#EXTINF:-1 group-title="浙江频道",温州乐清新闻
-http://localhost/dashboard/55_guangdianyun.php?id=yqxw
-#EXTINF:-1 group-title="浙江频道",台州温岭新闻综合
-http://localhost/dashboard/55_guangdianyun.php?id=wlxwzh
-#EXTINF:-1 group-title="浙江频道",台州温岭民生休闲
-http://localhost/dashboard/55_guangdianyun.php?id=wlmsxx
-#EXTINF:-1 group-title="浙江频道",台州仙居新闻综合
-http://localhost/dashboard/55_guangdianyun.php?id=xjxwzh
-#EXTINF:-1 group-title="浙江频道",绍兴新昌新闻
-http://localhost/dashboard/55_guangdianyun.php?id=xcxw
-#EXTINF:-1 group-title="浙江频道",绍兴新昌生活
-http://localhost/dashboard/55_guangdianyun.php?id=xcsh
-#EXTINF:-1 group-title="浙江频道",宁波宁海新闻综合
-http://localhost/dashboard/55_guangdianyun.php?id=nhxwzh
 #EXTINF:-1 group-title="浙江频道",宁波慈溪新闻综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=cxxwzh
 #EXTINF:-1 group-title="浙江频道",宁波慈溪民生休闲
@@ -3720,7 +3686,6 @@ http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lxzh
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-兰溪新闻综合-静态
 https://33524.hlsplay.aodianyun.com/tv_radio_33524/tv_channel_1185.m3u8?auth_key=1719733331-0-0-7f98bbba7ac887ca5a9ac3419e7b279f&extra_key=_AUmvQjYZgim94y92MAAjcXvfX8aEWajtwiwbpP0gxTNb5EIGc0ji3F4LrNc4hEHVOOnNZyX_UtFiMJFFru9rcfabM28hDfhFcPmQu7o5LpkAD3retDoEKbXO-wLzNUdouKq9NSdreK9QfS33ysF65C8QvTqogopZDA7LQE4qgc
-
 #EXTINF:-1 group-title="浙江频道",浙江-杭州市富阳区新闻综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun2.php?id=fyzh
 
@@ -3967,8 +3932,6 @@ http://localhost/dashboard/15_hainan_shengji.php?id=2
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?fmmv6
 #EXTINF:-1 group-title="海南频道",海南-儋州-看时效性
 https://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8?auth_key=4854915849-0-0-5cf8df0f6f82fbb8da58b60f011965c3&extra_key=HNL6clOeib0LS3fRsE7WQZ_4boW0AhqKOifX_vuKG0xEAexspcmCGIg-qbC7gZ9plvSkj2n0Msg6PQ5PoSWHCNTrvoEhEVOCmZSGwPoXfj6-jezQ4S5t
-#EXTINF:-1 group-title="海南频道",儋州台 海南 
-http://localhost/dashboard/55_guangdianyun.php?id=dztv
 #EXTINF:-1 group-title="海南频道",海南-海口新闻综合
 http://localhost/dashboard/15_hainan_haikou.php?id=1
 #EXTINF:-1 group-title="海南频道",海南-海口娱乐频道
@@ -4687,8 +4650,7 @@ http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
 http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjjzh.m3u8
 #EXTINF:-1 group-title="江苏频道",南通-海门教育人文频道
 http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjyrw.m3u8
-#EXTINF:-1 group-title="江苏频道",南通如皋新闻综合
-http://localhost/dashboard/55_guangdianyun.php?id=rgxwzh
+
 #EXTINF:-1 group-title="江苏频道",江苏-丹阳电视台
 http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8
 #EXTINF:-1 group-title="江苏频道",江苏-淮安新闻综合
@@ -4892,8 +4854,6 @@ http://localhost/dashboard/20_xinjiang_boer.php?id=220
 http://localhost/dashboard/20_xinjiang_boer.php?id=210
 #EXTINF:-1 group-title="新疆频道",新疆-哈密3套
 http://localhost/dashboard/20_xinjiang_boer.php?id=200
-#EXTINF:-1 group-title="新疆频道",新疆-昌吉城市生活
-http://localhost/dashboard/55_guangdianyun.php?id=cjcssh
 #EXTINF:-1 group-title="新疆频道",新疆-昌吉综合-静态
 http://play.xjbzrk.com/live/cjzh.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-昌吉城市生活-静态
