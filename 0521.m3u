@@ -4659,15 +4659,13 @@ http://localhost/dashboard/19_jiangsu_yancheng.php?id=25
 #EXTINF:-1 group-title="江苏频道",江苏-盐城电视三套
 http://localhost/dashboard/19_jiangsu_yancheng.php?id=26
 #EXTINF:-1 group-title="江苏频道",江苏-苏州新闻综合
-https://liveshowbak2.kan0512.com/norecord/tv_csztv1.m3u8
+http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
 #EXTINF:-1 group-title="江苏频道",江苏-苏州社会经济
-rtmp://liveshowbak2.kan0512.com/norecord/norecord_sbs2
+http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
 #EXTINF:-1 group-title="江苏频道",江苏-苏州文化生活
-rtmp://liveshowbak2.kan0512.com/norecord/norecord_sbs3
-#EXTINF:-1 group-title="江苏频道",江苏-苏州电影娱乐
-rtmp://liveshowbak2.kan0512.com/norecord/norecord_sbs4
+http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
 #EXTINF:-1 group-title="江苏频道",江苏-苏州生活资讯
-rtmp://liveshowbak2.kan0512.com/norecord/norecord_sbs5
+http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 #EXTINF:-1 group-title="江苏频道",江苏-泰州新闻频道
 http://localhost/dashboard/19_jiangsu_taizhou.php?id=5
 #EXTINF:-1 group-title="江苏频道",江苏-泰州经济生活频道
