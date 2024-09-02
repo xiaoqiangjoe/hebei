@@ -3522,7 +3522,8 @@ http://localhost/dashboard/13_zhejiang_jiaxing.php?id=cnzh
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=yjzh
 #EXTINF:-1 group-title="浙江频道",浙江-柯桥综合
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=kqzh
-
+#EXTINF:-1 group-title="浙江频道",嘉兴桐乡新闻综合
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=txxwzh
 #EXTINF:-1 group-title="浙江频道",浙江-诸暨综合
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-杭州市临安区新闻综合
