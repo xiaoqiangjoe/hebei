@@ -3558,9 +3558,9 @@ http://33809.hlsplay.aodianyun.com/guangdianyun_33809/tv_channel_170.m3u8?auth_k
 #EXTINF:-1 group-title="浙江频道",浙江-乐清综合综合
 http://33809.hlsplay.aodianyun.com/guangdianyun_33809/tv_channel_171.m3u8?auth_key=1719731665-0-0-8353be35ecc07df8f186463cbd50ce6d&extra_key=RJscL-Xqg9sDz75mh86G7gVPU8z-DZGm6Crs5NnlkMs5hmeijSFr9B2JzynnBtwefKBXP8KfeDGTEZS5nbweB3l2k7fUm8rgANtF_f65sOkOqJJgzLbwq2GqWCYpxP9QU7W56C0Vm_VQ7b3uvSTwGteROZXxm3OBOw4M2PkRpGE
 #EXTINF:-1 group-title="浙江频道",浙江-奉化新闻综合
-http://localhost/dashboard/07_hubei_quxian_guangdianyun2.php?id=fhzh
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=fhzh
 #EXTINF:-1 group-title="浙江频道",浙江-奉化生活综合
-http://localhost/dashboard/07_hubei_quxian_guangdianyun2.php?id=fhsh
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=fhsh
 #EXTINF:-1 group-title="浙江频道",浙江-绍兴综合
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-绍兴公共频道
@@ -3720,8 +3720,7 @@ http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lxzh
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-兰溪新闻综合-静态
 https://33524.hlsplay.aodianyun.com/tv_radio_33524/tv_channel_1185.m3u8?auth_key=1719733331-0-0-7f98bbba7ac887ca5a9ac3419e7b279f&extra_key=_AUmvQjYZgim94y92MAAjcXvfX8aEWajtwiwbpP0gxTNb5EIGc0ji3F4LrNc4hEHVOOnNZyX_UtFiMJFFru9rcfabM28hDfhFcPmQu7o5LpkAD3retDoEKbXO-wLzNUdouKq9NSdreK9QfS33ysF65C8QvTqogopZDA7LQE4qgc
-#EXTINF:-1 group-title="浙江频道",浙江-奉化新闻综合
-http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=fhzh
+
 #EXTINF:-1 group-title="浙江频道",浙江-杭州市富阳区新闻综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun2.php?id=fyzh
 
