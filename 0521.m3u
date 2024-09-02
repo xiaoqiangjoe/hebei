@@ -4467,7 +4467,7 @@ http://localhost/dashboard/55_guangdianyun.php?id=yxlyxc
 #EXTINF:-1 group-title="福建频道",福建-武夷山综合频道
 http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
 #EXTINF:-1 group-title="福建频道",福建-漳州-1
-http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?auth_key=1712500780-0-0-6e77696d172ecf8689a6efd38944b951&extra_key=25riTTfe-rdR_hyOmNR_k_HLL6DQRvOOkxDPvPDoO7_sg_EY6fsh0-430FFET7eYLhdoZfUX6L0SGd3WihSCQ-Wfszlozzb-WGlJmTUSfXppZQL2mgH9O0Je71csHY6_ozhA3R5dqI7Q0QgtCaV9pQDpmLS8-UYfjB9kSk8PLS4
+http://localhost/dashboard/18_fujian_zhangshi.php?id=zsxs
 #EXTINF:-1 group-title="福建频道",漳州一套
 http://localhost/dashboard/55_guangdianyun.php?id=zztv1
 #EXTINF:-1 group-title="福建频道",漳州漳浦综合
