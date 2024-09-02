@@ -3613,7 +3613,25 @@ http://localhost/dashboard/13_zhejiang_jiaxing.php?id=wxxw
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=wyxw
 #EXTINF:-1 group-title="浙江频道",浙江-海宁新闻综合
 https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8?zbid=293304&tpid=1708007815
+#EXTINF:-1 group-title="浙江频道",杭州临平新闻
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=lpxw
+#EXTINF:-1 group-title="浙江频道",温州乐清综合
+http://localhost/dashboard/18_fujian_guangdianyun.php?id=yqzh
+#EXTINF:-1 group-title="浙江频道",温州乐清新闻
+http://localhost/dashboard/18_fujian_guangdianyun.php?id=yqxw
+#EXTINF:-1 group-title="浙江频道",台州温岭新闻综合
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=wlxwzh
+#EXTINF:-1 group-title="浙江频道",台州温岭民生休闲
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=wlmsxx
+#EXTINF:-1 group-title="浙江频道",台州仙居新闻综合
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=xjxwzh
+#EXTINF:-1 group-title="浙江频道",绍兴新昌新闻
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=xcxw
+#EXTINF:-1 group-title="浙江频道",绍兴新昌生活
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=xcsh
 
+#EXTINF:-1 group-title="浙江频道",宁波宁海新闻综合
+http://33658.hlsplay.aodianyun.com/tv_radio_33658/tv_channel_1423.m3u8?auth_key=1725363715-0-0-9702e4f53433bddb88f593922792fded
 #EXTINF:-1 group-title="浙江频道",浙江-宁波市镇海区新闻综合
 https://netlive.zhxwzx.com/live/ZHTV-2.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-宁波市镇海区先锋影视
