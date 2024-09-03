@@ -5944,8 +5944,8 @@ https://epg.pw/stream/295e40de2803afdf3bdd9e10c5468e14227aca3ddcb253c76c5124bd0b
 http://wouu.net:9977/udp/239.93.1.10:2193
 #EXTINF:-1 group-title="香港",CHANNEL-V[四川组播]
 http://wouu.net:9977/udp/239.93.0.157:2194
-
-
+#EXTINF:-1 group-title="香港",香港環球衛視
+rtmp://live.pyscripter.com/HKgstv_com/www_hkgstv_com?auth_key=6001723702257-0-0-1a56ccd327477eb45e7da54c8be2a6b5
 #EXTINF:-1 group-title="香港",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="香港",TVB星河
