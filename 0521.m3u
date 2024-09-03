@@ -220,13 +220,7 @@ http://localhost/dashboard/60_yst4.php?id=cctv4
 http://localhost/dashboard/60_yst4.php?id=cctv13
 
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4K.png" group-title="4K频道",CCTV-4K 超高清-河北联通组播
-http://120.6.7.242:4022/rtp/239.253.93.134:6631
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4K.png" group-title="4K频道",CCTV-4K 超高清
-https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 group-title="4K频道",cctv4k
-http://123.184.28.3:80/hlslive-tx-cdn.ysp.cctv.cn/780/2024081303.m3u8
-#EXTINF:-1 group-title="4K频道",cctv8k
-http://123.184.28.3:80/hlslive-tx-cdn.ysp.cctv.cn/071/2020603421.m3u8
+http://120.6.7.194:4022/rtp/239.253.93.134:6631
 #EXTINF:-1 group-title="4K频道",纯享4K
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
 #EXTINF:-1 group-title="4K频道",苏州4K
