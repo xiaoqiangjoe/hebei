@@ -5923,27 +5923,27 @@ http://localhost/dashboard/51_fenghuang_480.php?id=fhzw
 http://localhost/dashboard/51_fenghuang_480.php?id=fhhk
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/凤凰卫视中文台.png" group-title="香港",凤凰中文
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
 #EXTINF:-1 group-title="香港",凤凰中文[四川组播]
-http://wouu.net:9977/udp/239.93.0.162:2192
+http://ayolee.com:5253/udp/239.93.0.162:2192
 #EXTINF:-1 group-title="香港",凤凰中文[四川组播]
-http://wouu.net:9977/udp/239.93.1.9:2192
+http://ayolee.com:5253/udp/239.93.1.9:2192
 #EXTINF:-1 group-title="香港",凤凰资讯[四川组播]
-http://wouu.net:9977/udp/239.93.0.118:2191
+http://ayolee.com:5253/udp/239.93.0.118:2191
 #EXTINF:-1 group-title="香港",凤凰资讯[四川组播]
-http://wouu.net:9977/udp/239.93.1.4:2191
+http://ayolee.com:5253/udp/239.93.1.4:2191
 
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="香港",星空卫视
 https://epg.pw/stream/295e40de2803afdf3bdd9e10c5468e14227aca3ddcb253c76c5124bd0b09e1a7.ctv
 #EXTINF:-1 group-title="香港",星空[四川组播]
-http://wouu.net:9977/udp/239.93.1.10:2193
+http://ayolee.com:5253/udp/239.93.1.10:2193
 #EXTINF:-1 group-title="香港",CHANNEL-V[四川组播]
-http://wouu.net:9977/udp/239.93.0.157:2194
+http://ayolee.com:5253/udp/239.93.0.157:2194
 #EXTINF:-1 group-title="香港",香港環球衛視
 rtmp://live.pyscripter.com/HKgstv_com/www_hkgstv_com?auth_key=6001723702257-0-0-1a56ccd327477eb45e7da54c8be2a6b5
 #EXTINF:-1 group-title="香港",美亚C+
