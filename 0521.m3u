@@ -3176,6 +3176,42 @@ http://localhost/dashboard/12_henan_shengji.php?id=ydxj
 http://localhost/dashboard/12_henan_shengji.php?id=xsj
 #EXTINF:-1 group-title="河南频道",河南-国学频道
 http://localhost/dashboard/12_henan_shengji.php?id=gxpd
+#EXTINF:-1 group-title="河南频道",河南-河南卫视
+http://localhost/dashboard/12_henan_sanmenxia.php?id=hnws
+#EXTINF:-1 group-title="河南频道",河南-河南都市
+http://localhost/dashboard/12_henan_sanmenxia.php?id=hnds
+#EXTINF:-1 group-title="河南频道",河南-河南民生
+http://localhost/dashboard/12_henan_sanmenxia.php?id=hnms
+#EXTINF:-1 group-title="河南频道",河南-河南法治
+http://localhost/dashboard/12_henan_sanmenxia.php?id=hnfz
+#EXTINF:-1 group-title="河南频道",河南-河南电视剧
+http://localhost/dashboard/12_henan_sanmenxia.php?id=hndsj
+#EXTINF:-1 group-title="河南频道",河南-河南新闻
+http://localhost/dashboard/12_henan_sanmenxia.php?id=hnxw
+#EXTINF:-1 group-title="河南频道",河南-欢腾购物
+http://localhost/dashboard/12_henan_sanmenxia.php?id=htgw
+#EXTINF:-1 group-title="河南频道",河南-河南公共
+http://localhost/dashboard/12_henan_sanmenxia.php?id=hngg
+#EXTINF:-1 group-title="河南频道",河南-河南乡村
+http://localhost/dashboard/12_henan_sanmenxia.php?id=hnxc
+#EXTINF:-1 group-title="河南频道",河南-河南国际
+http://localhost/dashboard/12_henan_sanmenxia.php?id=hngj
+#EXTINF:-1 group-title="河南频道",河南-河南梨园
+http://localhost/dashboard/12_henan_sanmenxia.php?id=hnly
+#EXTINF:-1 group-title="河南频道",河南-文物宝库
+http://localhost/dashboard/12_henan_sanmenxia.php?id=wwbk
+#EXTINF:-1 group-title="河南频道",河南-武术世界
+http://localhost/dashboard/12_henan_sanmenxia.php?id=wssj
+#EXTINF:-1 group-title="河南频道",河南-晴彩中原
+http://localhost/dashboard/12_henan_sanmenxia.php?id=jczy
+#EXTINF:-1 group-title="河南频道",河南-移动戏曲
+http://localhost/dashboard/12_henan_sanmenxia.php?id=ydxq
+#EXTINF:-1 group-title="河南频道",河南-象世界
+http://localhost/dashboard/12_henan_sanmenxia.php?id=xsj
+
+
+#EXTINF:-1 group-title="河南频道",河南-郑州新闻综合
+http://localhost/dashboard/12_henan_sanmenxia.php?id=zz1
 #EXTINF:-1 group-title="河南频道",河南-郑州新闻
 https://live3-new.zztv.tv:443/xwzh/sd/live.m3u8
 #EXTINF:-1 group-title="河南频道",河南-郑州商都
@@ -3429,6 +3465,8 @@ https://zhpull.dxhmt.cn/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
 https://zhpull.dxhmt.cn/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
 #EXTINF:-1 group-title="河南频道",河南-开封新闻综合
 http://tvpull.dxhmt.cn/tv/10200-2.m3u8
+#EXTINF:-1 group-title="河南频道",河南-开封新闻综合
+http://localhost/dashboard/12_henan_sanmenxia.php?id=kf1
 #EXTINF:-1 group-title="河南频道",河南-开封文化旅游
 http://tvpull.dxhmt.cn/tv/10200-3.m3u8
 #EXTINF:-1 group-title="河南频道",河南-兰考新闻综合
@@ -3451,7 +3489,38 @@ http://tvpull.dxhmt.cn/tv/10726-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
 #EXTINF:-1 group-title="河南频道",河南-辉县新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10782-1.m3u8
-
+#EXTINF:-1 group-title="河南频道",河南-洛阳新闻综合
+http://localhost/dashboard/12_henan_sanmenxia.php?id=ly1
+#EXTINF:-1 group-title="河南频道",河南-平顶山新闻综合
+http://localhost/dashboard/12_henan_sanmenxia.php?id=pds1
+#EXTINF:-1 group-title="河南频道",河南-安阳新闻综合
+http://localhost/dashboard/12_henan_sanmenxia.php?id=ay1
+#EXTINF:-1 group-title="河南频道",河南-鹤壁新闻综合
+http://localhost/dashboard/12_henan_sanmenxia.php?id=hb1
+#EXTINF:-1 group-title="河南频道",河南-新乡新闻综合
+http://localhost/dashboard/12_henan_sanmenxia.php?id=xx1
+#EXTINF:-1 group-title="河南频道",河南-焦作新闻综合
+http://localhost/dashboard/12_henan_sanmenxia.php?id=jz1
+#EXTINF:-1 group-title="河南频道",河南-濮阳新闻综合
+http://localhost/dashboard/12_henan_sanmenxia.php?id=py1
+#EXTINF:-1 group-title="河南频道",河南-许昌新闻综合
+http://localhost/dashboard/12_henan_sanmenxia.php?id=xc1
+#EXTINF:-1 group-title="河南频道",河南-漯河新闻综合
+http://localhost/dashboard/12_henan_sanmenxia.php?id=lh1
+#EXTINF:-1 group-title="河南频道",河南-三门峡新闻综合
+http://localhost/dashboard/12_henan_sanmenxia.php?id=smx1
+#EXTINF:-1 group-title="河南频道",河南-南阳新闻综合
+http://localhost/dashboard/12_henan_sanmenxia.php?id=ny1
+#EXTINF:-1 group-title="河南频道",河南-商丘新闻综合
+http://localhost/dashboard/12_henan_sanmenxia.php?id=sq1
+#EXTINF:-1 group-title="河南频道",河南-信阳新闻综合
+http://localhost/dashboard/12_henan_sanmenxia.php?id=xy1
+#EXTINF:-1 group-title="河南频道",河南-周口新闻综合
+http://localhost/dashboard/12_henan_sanmenxia.php?id=zk1
+#EXTINF:-1 group-title="河南频道",河南-驻马店新闻综合
+http://localhost/dashboard/12_henan_sanmenxia.php?id=zmd1
+#EXTINF:-1 group-title="河南频道",河南-济源新闻综合
+http://localhost/dashboard/12_henan_sanmenxia.php?id=jy1
 
 
 #EXTINF:-1 group-title="浙江频道",浙江-浙江卫视
