@@ -982,6 +982,8 @@ http://op.sev7.net:4022/rtp/239.254.201.135:5270
 http://op.sev7.net:4022/rtp/239.254.201.146:5202
 #EXTINF:-1 group-title="河北频道",河北-昌黎电视
 http://op.sev7.net:4022/rtp/239.254.201.61:5230
+#EXTINF:-1 group-title="河北频道",河北-昌黎综合频道
+http://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.flv
 #EXTINF:-1 group-title="河北频道",河北-抚宁电视
 http://op.sev7.net:4022/rtp/239.254.201.213:5232
 #EXTINF:-1 group-title="河北频道",河北-卢龙电视
