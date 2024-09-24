@@ -211,33 +211,31 @@ http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 
 
 #EXTINF:-1 group-title="央视频",CCTV怀旧剧场(vip)
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=hjjcHD
+http://localhost/dashboard/cq/cqyx.php?id=hjjcHD
 #EXTINF:-1 group-title="央视频",CCTV风云剧场(vip)
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=fyjcHD
+http://localhost/dashboard/cq/cqyx.php?id=fyjcHD
 #EXTINF:-1 group-title="央视频",CCTV女性时尚(vip)
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=nvxing
+http://localhost/dashboard/cq/cqyx.php?id=nvxing
 #EXTINF:-1 group-title="央视频",CCTV兵器科技(vip)
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=bqkjHD
+http://localhost/dashboard/cq/cqyx.php?id=bqkjHD
 #EXTINF:-1 group-title="央视频",CCTV第一剧场(vip)
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=diyijuchangHD
+http://localhost/dashboard/cq/cqyx.php?id=diyijuchangHD
 #EXTINF:-1 group-title="央视频",CCTV风云音乐(vip)
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=fyyyHD
+http://localhost/dashboard/cq/cqyx.php?id=fyyyHD
 #EXTINF:-1 group-title="央视频",CCTV风云足球(vip)
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=fyzqHD
+http://localhost/dashboard/cq/cqyx.php?id=fyzqHD
 #EXTINF:-1 group-title="央视频",CCTV高尔夫网球(vip)
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=golfHD
+http://localhost/dashboard/cq/cqyx.php?id=golfHD
 #EXTINF:-1 group-title="央视频",CCTV央视台球(vip)
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=ystqHD
+http://localhost/dashboard/cq/cqyx.php?id=ystqHD
 #EXTINF:-1 group-title="央视频",CCTV央视文化精品(vip)
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=yswhHD
+http://localhost/dashboard/cq/cqyx.php?id=yswhHD
 
 
 #EXTINF:-1 group-title="央视频",CCTV兵器科技(vip)
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGKB9zm%2BIxepVqZYZm7RAv244Kkb0RUYfm4%2FqM8nid95yfI6je%2Fgd5aFLyZ9USd3KbA
 #EXTINF:-1 group-title="央视频",CCTV第一剧场(vip)
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIg5Jm9ufDm6djkkrhWP0zlHbXMBq03w%2FgOHENZxE4ay%2BEXqK0XzFFWJtPAReIvdhE
-
-
 #EXTINF:-1 group-title="央视频",CCTV风云音乐(vip)
 http://localhost/dashboard/58_ysp.php?id=fyyy
 #EXTINF:-1 group-title="央视频",CCTV风云足球(vip)
@@ -253,11 +251,11 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m
 http://localhost/dashboard/58_ysp.php?id=wsjk
 
 #EXTINF:-1 group-title="央视频",种养新影-中学生
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=zxs
+http://localhost/dashboard/cq/cqyx.php?id=zxs
 #EXTINF:-1 group-title="央视频",种养新影-发现之旅
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=fxzl
+http://localhost/dashboard/cq/cqyx.php?id=fxzl
 #EXTINF:-1 group-title="央视频",种养新影-老故事
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=lgs
+http://localhost/dashboard/cq/cqyx.php?id=lgs
 
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CGTN.png"  group-title="央视频",CGTN
