@@ -345,7 +345,7 @@ http://[2409:8087:1a01:df::7005]:80/000000001000/6000000002000003382/index.m3u8?
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/重温经典.png" group-title="电影频道",重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 group-title="电影频道",重庆-重温经典
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=cwjdHD
+http://localhost/dashboard/cq/cqyx.php?id=cwjdHD
 
 
 #EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" group-title="电影频道",cctv6
@@ -365,11 +365,11 @@ http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/
 
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=chcjtyyHD
+http://localhost/dashboard/cq/cqyx.php?id=chcjtyyHD
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC高清电影.png" group-title="电影频道",CHC高清电影
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=chcgqdyHD
+http://localhost/dashboard/cq/cqyx.php?id=chcgqdyHD
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC动作电影.png" group-title="电影频道",CHC动作电影
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=chcdzdyHD
+http://localhost/dashboard/cq/cqyx.php?id=chcdzdyHD
 
 
 
@@ -5833,29 +5833,29 @@ http://localhost/dashboard/27_chongqing_shengji.php?id=2
 #EXTINF:-1 group-title="重庆频道",重庆-重庆新闻
 http://localhost/dashboard/27_chongqing_shengji.php?id=3
 #EXTINF:-1 group-title="重庆频道",重庆-重庆新闻--重庆有线
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=CQTVNewsHD
+http://localhost/dashboard/cq/cqyx.php?id=CQTVNewsHD
 #EXTINF:-1 group-title="重庆频道",重庆-重庆科教
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=CQTVkejiaoHD
+http://localhost/dashboard/cq/cqyx.php?id=CQTVkejiaoHD
 #EXTINF:-1 group-title="重庆频道",重庆-重庆影视
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=cqyingshiHD
+http://localhost/dashboard/cq/cqyx.php?id=cqyingshiHD
 #EXTINF:-1 group-title="重庆频道",重庆-重庆文体娱乐
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=cqwtylHD
+http://localhost/dashboard/cq/cqyx.php?id=cqwtylHD
 #EXTINF:-1 group-title="重庆频道",重庆-重庆少儿
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=cqseHD
+http://localhost/dashboard/cq/cqyx.php?id=cqseHD
 #EXTINF:-1 group-title="重庆频道",重庆-重庆时尚生活
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=cqssgwHD
+http://localhost/dashboard/cq/cqyx.php?id=cqssgwHD
 #EXTINF:-1 group-title="重庆频道",重庆-重庆新农村
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=cqggncHD
+http://localhost/dashboard/cq/cqyx.php?id=cqggncHD
 #EXTINF:-1 group-title="重庆频道",重庆-重庆社会与法
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=CQTVTrendyHD
+http://localhost/dashboard/cq/cqyx.php?id=CQTVTrendyHD
 #EXTINF:-1 group-title="重庆频道",重庆-重庆移动
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=mryyHD
+http://localhost/dashboard/cq/cqyx.php?id=mryyHD
 #EXTINF:-1 group-title="重庆频道",重庆-重庆汽摩
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=cqcarSD
+http://localhost/dashboard/cq/cqyx.php?id=cqcarSD
 #EXTINF:-1 group-title="重庆频道",重庆-重广融媒
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=cqrongmei
+http://localhost/dashboard/cq/cqyx.php?id=cqrongmei
 #EXTINF:-1 group-title="重庆频道",重庆-爱看导视
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=aikanHD
+http://localhost/dashboard/cq/cqyx.php?id=aikanHD
 
 
 #EXTINF:-1 group-title="重庆频道",重庆-购物频道
@@ -5917,7 +5917,7 @@ https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-璧山综合
 http://222.179.42.129:8181/hls1.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-云阳综合[重庆有线]
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=jiangjinHD
+http://localhost/dashboard/cq/cqyx.php?id=jiangjinHD
 #EXTINF:-1 group-title="重庆频道",重庆-云阳综合[静态]
 https://live.yunyangwang.com/live/dszb.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-梁平综合
@@ -5927,37 +5927,37 @@ https://tlpc01.cqliving.com/ch1.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-巴南综合
 https://live.cqbntv.com/bnmc/tv0709.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-璧山综合
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=bishanHD
+http://localhost/dashboard/cq/cqyx.php?id=bishanHD
 #EXTINF:-1 group-title="重庆频道",重庆-长寿综合
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=changshou
+http://localhost/dashboard/cq/cqyx.php?id=changshou
 #EXTINF:-1 group-title="重庆频道",重庆-丰都综合
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=FDZH
+http://localhost/dashboard/cq/cqyx.php?id=FDZH
 #EXTINF:-1 group-title="重庆频道",重庆-涪陵综合
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=fulingzh
+http://localhost/dashboard/cq/cqyx.php?id=fulingzh
 #EXTINF:-1 group-title="重庆频道",重庆-合川综合
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=hechuan
+http://localhost/dashboard/cq/cqyx.php?id=hechuan
 #EXTINF:-1 group-title="重庆频道",重庆-开州综合
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=kaizhouHD
+http://localhost/dashboard/cq/cqyx.php?id=kaizhouHD
 #EXTINF:-1 group-title="重庆频道",重庆-黔江综合
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=qianjiang
+http://localhost/dashboard/cq/cqyx.php?id=qianjiang
 #EXTINF:-1 group-title="重庆频道",重庆-荣昌综合
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=rongchangHD
+http://localhost/dashboard/cq/cqyx.php?id=rongchangHD
 #EXTINF:-1 group-title="重庆频道",重庆-铜梁综合
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=tongliangzongheHD
+http://localhost/dashboard/cq/cqyx.php?id=tongliangzongheHD
 #EXTINF:-1 group-title="重庆频道",重庆-潼南综合
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=TNZH
+http://localhost/dashboard/cq/cqyx.php?id=TNZH
 #EXTINF:-1 group-title="重庆频道",重庆-武隆综合
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=wlzh
+http://localhost/dashboard/cq/cqyx.php?id=wlzh
 #EXTINF:-1 group-title="重庆频道",重庆-巫溪综合
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=WXZH
+http://localhost/dashboard/cq/cqyx.php?id=WXZH
 #EXTINF:-1 group-title="重庆频道",重庆-万州综合高清
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=wanzhouHD
+http://localhost/dashboard/cq/cqyx.php?id=wanzhouHD
 #EXTINF:-1 group-title="重庆频道",重庆-秀山综合
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=xiushan
+http://localhost/dashboard/cq/cqyx.php?id=xiushan
 #EXTINF:-1 group-title="重庆频道",重庆-永川综合
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=YCZH
+http://localhost/dashboard/cq/cqyx.php?id=YCZH
 #EXTINF:-1 group-title="重庆频道",重庆-酉阳综合
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=youyang
+http://localhost/dashboard/cq/cqyx.php?id=youyang
 
 
 #EXTINF:-1 group-title="吉林频道",吉林-吉林卫视频道
