@@ -47,10 +47,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://localhost/dashboard/57_migu720.php?id=cctv17
 
 
-#EXTINF:-1 group-title="央视频",CETV1
-http://hwylivehd.centv.cn/cetv1/ypd.m3u8
-#EXTINF:-1 group-title="央视频",CETV3
-http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
+
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频",CETV-1
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央视频",CETV-2
@@ -200,29 +197,18 @@ http://localhost/dashboard/60_yst3.php?id=cctv17
 #EXTINF:-1 group-title="ysp3",CCTV-5+
 http://localhost/dashboard/60_yst3.php?id=cctv5p
 
-#EXTINF:-1 group-title="ysp4",cctv1
-http://localhost/dashboard/60_yst4.php?id=cctv1
-#EXTINF:-1 group-title="ysp4",cctv2
-http://localhost/dashboard/60_yst4.php?id=cctv2
-#EXTINF:-1 group-title="ysp4",cctv4
-http://localhost/dashboard/60_yst4.php?id=cctv4
-#EXTINF:-1 group-title="ysp4",cctv13
-http://localhost/dashboard/60_yst4.php?id=cctv13
 
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4K.png" group-title="4K频道",CCTV-4K 超高清-河北联通组播
-http://120.6.7.194:4022/rtp/239.253.93.134:6631
+http://op.sev7.net:4022/rtp/239.253.93.134:6631
 #EXTINF:-1 group-title="4K频道",纯享4K
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
-#EXTINF:-1 group-title="4K频道",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="4K频道",4K自然台
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="4K频道",欢笑剧场
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
-#EXTINF:-1 group-title="4K频道",4K剧场
-http://123.112.208.22:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 group-title="4K频道",广东-南国都市4k
 http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+
 
 #EXTINF:-1 group-title="央视频",CCTV怀旧剧场(vip)
 http://localhost/dashboard/27_chongqin_cqyx2.php?id=hjjcHD
@@ -234,12 +220,10 @@ http://localhost/dashboard/27_chongqin_cqyx2.php?id=nvxing
 http://localhost/dashboard/27_chongqin_cqyx2.php?id=bqkjHD
 #EXTINF:-1 group-title="央视频",CCTV第一剧场(vip)
 http://localhost/dashboard/27_chongqin_cqyx2.php?id=diyijuchangHD
-
 #EXTINF:-1 group-title="央视频",CCTV风云音乐(vip)
 http://localhost/dashboard/27_chongqin_cqyx2.php?id=fyyyHD
 #EXTINF:-1 group-title="央视频",CCTV风云足球(vip)
 http://localhost/dashboard/27_chongqin_cqyx2.php?id=fyzqHD
-
 #EXTINF:-1 group-title="央视频",CCTV高尔夫网球(vip)
 http://localhost/dashboard/27_chongqin_cqyx2.php?id=golfHD
 #EXTINF:-1 group-title="央视频",CCTV央视台球(vip)
