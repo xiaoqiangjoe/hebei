@@ -2452,34 +2452,6 @@ http://localhost/dashboard/05_tvradio.php?id=ayzh
 http://localhost/dashboard/11_guizhou_liupanshui.php?id=hyzh
 
 
-
-
-#EXTINF:-1 group-title="江西频道",江西-江西卫视
-http://localhost/dashboard/06_jiangxi_shengji.php?id=jxws
-#EXTINF:-1 group-title="江西频道",江西-江西都市
-http://localhost/dashboard/06_jiangxi_shengji.php?id=jxds
-#EXTINF:-1 group-title="江西频道",江西-江西经视
-http://localhost/dashboard/06_jiangxi_shengji.php?id=jxjs
-#EXTINF:-1 group-title="江西频道",江西-江西影视
-http://localhost/dashboard/06_jiangxi_shengji.php?id=jxys
-#EXTINF:-1 group-title="江西频道",江西-江西公共
-http://localhost/dashboard/06_jiangxi_shengji.php?id=jxgg
-#EXTINF:-1 group-title="江西频道",江西-江西少儿
-http://localhost/dashboard/06_jiangxi_shengji.php?id=jxse
-#EXTINF:-1 group-title="江西频道",江西-江西新闻
-http://localhost/dashboard/06_jiangxi_shengji.php?id=jxxw
-#EXTINF:-1 group-title="江西频道",江西-江西移动
-http://localhost/dashboard/06_jiangxi_shengji.php?id=jxyd
-#EXTINF:-1 group-title="江西频道",江西-江西风尚购物
-http://localhost/dashboard/06_jiangxi_shengji.php?id=fsgw
-#EXTINF:-1 group-title="江西频道",江西-江西陶瓷频道
-http://localhost/dashboard/06_jiangxi_shengji.php?id=fstc
-#EXTINF:-1 group-title="江西频道",萍乡新闻综合频道
-https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
-#EXTINF:-1 group-title="江西频道",萍乡公共频道
-https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
-
-
 #EXTINF:-1 group-title="四川频道",四川-简阳电视台
 http://localhost/dashboard/05_sichuan_pull.php?id=jyzh
 #EXTINF:-1 group-title="四川频道",四川-蓬溪县电视台
@@ -2525,6 +2497,31 @@ http://localhost/dashboard/05_sichuan_leibo.php?id=lbzh
 #EXTINF:-1 group-title="四川频道",四川-乐山电视台
 http://localhost/dashboard/50_leshan.php
 
+
+#EXTINF:-1 group-title="江西频道",江西-江西卫视
+http://localhost/dashboard/06_jiangxi_shengji.php?id=jxws
+#EXTINF:-1 group-title="江西频道",江西-江西都市
+http://localhost/dashboard/06_jiangxi_shengji.php?id=jxds
+#EXTINF:-1 group-title="江西频道",江西-江西经视
+http://localhost/dashboard/06_jiangxi_shengji.php?id=jxjs
+#EXTINF:-1 group-title="江西频道",江西-江西影视
+http://localhost/dashboard/06_jiangxi_shengji.php?id=jxys
+#EXTINF:-1 group-title="江西频道",江西-江西公共
+http://localhost/dashboard/06_jiangxi_shengji.php?id=jxgg
+#EXTINF:-1 group-title="江西频道",江西-江西少儿
+http://localhost/dashboard/06_jiangxi_shengji.php?id=jxse
+#EXTINF:-1 group-title="江西频道",江西-江西新闻
+http://localhost/dashboard/06_jiangxi_shengji.php?id=jxxw
+#EXTINF:-1 group-title="江西频道",江西-江西移动
+http://localhost/dashboard/06_jiangxi_shengji.php?id=jxyd
+#EXTINF:-1 group-title="江西频道",江西-江西风尚购物
+http://localhost/dashboard/06_jiangxi_shengji.php?id=fsgw
+#EXTINF:-1 group-title="江西频道",江西-江西陶瓷频道
+http://localhost/dashboard/06_jiangxi_shengji.php?id=fstc
+#EXTINF:-1 group-title="江西频道",萍乡新闻综合频道
+https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
+#EXTINF:-1 group-title="江西频道",萍乡公共频道
+https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
 
 #EXTINF:-1 group-title="江西频道",江西-南昌新闻
 http://localhost/dashboard/06_jiangxi_nanchang.php?id=ncxw
