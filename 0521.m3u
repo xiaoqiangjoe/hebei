@@ -721,12 +721,12 @@ https://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8
 #EXTINF:-1 group-title="河北频道",河北-承德丰宁娱乐频道
 https://jwliveqxzb.hebyun.com.cn/fengningyulepindao/fengningyulepindao.m3u8
-#EXTINF:-1 group-title="河北频道",河北-保定新闻
-http://localhost/dashboard/01_hebei_xingtai_chengde_baoding.php?id=5
-#EXTINF:-1 group-title="河北频道",河北-保定公共
-http://localhost/dashboard/01_hebei_xingtai_chengde_baoding.php?id=6
-#EXTINF:-1 group-title="河北频道",河北-保定生活
-http://localhost/dashboard/01_hebei_xingtai_chengde_baoding.php?id=7
+#EXTINF:-1 group-title="河北台" tvg-id="保定一套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0125/small85accb8b06a8ffe41f15e0937dd1b8131516856684.jpg",保定一套
+http://live.bdgdw.com/channel1/playlist.m3u8?_upt=73ed52521725350905
+#EXTINF:-1 group-title="河北台" tvg-id="保定二套公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0125/small1cb121a976f246a6a6db472ffe7ad5f61516856814.jpg",保定二套公共频道
+http://live.bdgdw.com/channel2/playlist.m3u8?_upt=aba7fe801725350911
+#EXTINF:-1 group-title="河北台" tvg-id="保定三套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0125/small09ae4c62cba3b2e23f13d4bc1f0c40311516857402.jpg",保定三套
+http://live.bdgdw.com/channel3/playlist.m3u8?_upt=6d59246b1725350917
 #EXTINF:-1 group-title="河北频道",河北-涞水新闻频道
 https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
 #EXTINF:-1 group-title="河北频道",河北-唐山新闻综合[组播]
@@ -5624,7 +5624,7 @@ https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
 https://qxlmlive9.cbg.cn/applive/wslive01/playlist.m3u8%22
 #EXTINF:-1 group-title="重庆频道",重庆-潼南综合
 http://183.230.184.51:65500/tntv1.m3u8
-#EXTINF:-1 group-title="重庆频道",重庆-忠县综合频道
+#EXTINF:-1 group-title="重庆台" tvg-id="忠县综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0630/small6e79735514de66fb5657ab8f93ea27391498832153.jpg",忠县综合频道
 https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-开州综合
 https://qxlmlive9.cbg.cn/applive/kzpd02/chunklist.m3u8
