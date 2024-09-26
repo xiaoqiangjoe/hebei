@@ -5227,7 +5227,7 @@ http://localhost/dashboard/23_guangxi_wuzhou.php?id=wzgg
 #EXTINF:-1 group-title="广西频道",广西-梧州教育生活
 http://localhost/dashboard/23_guangxi_wuzhou.php?id=wzjy
 #EXTINF:-1 group-title="广西频道",广西-北海新闻综合
-http://localhost/dashboard/23_guangxi_beihai.php?id=bhzh
+https://live.gxrb.com.cn/gx/beihai/index.m3u8
 #EXTINF:-1 group-title="广西频道",广西-北海科教生活
 http://localhost/dashboard/23_guangxi_beihai.php?id=bhkj
 #EXTINF:-1 group-title="广西频道",广西-贺州新闻综合
