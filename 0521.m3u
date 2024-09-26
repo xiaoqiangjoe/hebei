@@ -3383,8 +3383,7 @@ http://localhost/dashboard/12_henan_fangcheng.php?id=tongxu
 http://localhost/dashboard/12_henan_fangcheng.php?id=kfqixian
 #EXTINF:-1 group-title="河南频道",河南-新蔡综合频道
 http://localhost/dashboard/12_henan_fangcheng.php?id=xincai
-#EXTINF:-1 group-title="河南频道",河南-商丘新闻综合
-https://p2.vzan.com/slowlive/899859453853342540/live.m3u8
+
 #EXTINF:-1 group-title="河南频道",河南-上街综合频道
 http://localhost/dashboard/12_henan_fangcheng.php?id=shangjie
 #EXTINF:-1 group-title="河南频道",河南-光山综合频道
