@@ -5936,11 +5936,13 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPla
 #EXTINF:-1 group-title="澳门",澳门莲花
 http://localhost/dashboard/52_aomen_lianhua.php
 #EXTINF:-1 group-title="澳门",澳视澳门
-http://61.244.22.5/ch1/ch1.live/playlist.m3u8
+http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
 #EXTINF:-1 group-title="澳门",澳视葡文
-http://61.244.22.5/ch2/ch2.live/playelist.m3u8
+http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
 #EXTINF:-1 group-title="澳门",澳门Macua
-http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
+http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
+#EXTINF:-1 group-title="澳门",澳视资讯
+http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
 #EXTINF:-1 group-title="澳门",澳门体育
 http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
 #EXTINF:-1 group-title="澳门",澳门综艺
