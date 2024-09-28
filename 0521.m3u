@@ -5992,6 +5992,10 @@ http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 http://171.108.239.79:8181/tsfile/live/1010_1.m3u8
 #EXTINF:-1 group-title="台湾",中天娱乐台
 http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="台湾",中天娱乐台
+https://stream1.freetv.fun/906fb93843c17f791816b0a848312c306150cf5063d5fc384de85c88bc5700ad.m3u8
+#EXTINF:-1 group-title="台湾",中天新闻
+https://stream1.freetv.fun/zhong-tian-xin-wen-7.ctv
 #EXTINF:-1 group-title="台湾",TVBS-亚洲
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾",客家电视台
@@ -6012,6 +6016,8 @@ http://61.221.215.25:8800/hls/40/index.m3u8
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 group-title="香港",amc电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="香港",amc电影台
+https://stream1.freetv.fun/ceb8e5d09e9af65624a0023241c486d3d4ba222029e8e745bcd4901f47d95445.m3u8
 #EXTINF:-1 group-title="台湾",ASIA
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 group-title="台湾",NHKworld
@@ -6027,13 +6033,13 @@ http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 group-title="台湾",纬来精彩
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 group-title="台湾",纬来体育
-rtmp://220.130.201.73/sat/tv721
+rtmp://f13h.mine.nu:1935/sat/tv721
 #EXTINF:-1 group-title="台湾",纬来育乐
-rtmp://220.130.201.73/sat/tv701
+rtmp://f13h.mine.nu:1935/sat/tv701
 #EXTINF:-1 group-title="台湾",纬来日本
-rtmp://220.130.201.73/sat/tv771
+rtmp://f13h.mine.nu:1935/sat/tv771
 #EXTINF:-1 group-title="台湾",CTV中视HD
-rtmp://220.130.201.73/sat/tv091
+rtmp://f13h.mine.nu:1935/sat/tv091
 #EXTINF:-1 group-title="台湾",CTV中视HD
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 group-title="台湾",MoMoTVHD
