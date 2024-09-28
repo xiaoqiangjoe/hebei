@@ -5945,22 +5945,35 @@ http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
 #EXTINF:-1 group-title="澳门",澳门综艺
 http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
-#EXTINF:-1 group-title="台湾",CTS华视HD
-rtmp://220.130.201.73/sat/tv111
+
+#EXTINF:-1 group-title="台湾",CTV中视HD
+rtmp://f13h.mine.nu:1935/sat/tv091
+#EXTINF:-1 group-title="台湾",CTV中视HD
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="台湾",中视
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 group-title="台湾",中视经典
+http://37.27.111.214:8080/live/47/hls.m3u8
+#EXTINF:-1 group-title="台湾",中视菁彩
+http://37.27.111.214:8080/live/48/hls.m3u8
+#EXTINF:-1 group-title="台湾",中视新闻
+https://stream1.freetv.fun/1f65ec8b6675703b095472e420c7221064aacbf75df7208d59989992d78de738.ctv
+#EXTINF:-1 group-title="台湾",中旺电视
+http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
+
+
 #EXTINF:-1 group-title="台湾",CTS华视HD
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 group-title="台湾",CTS华视HD
 http://37.27.111.214:8080/live/8/hls.m3u8
-#EXTINF:-1 group-title="台湾",台视HD
-rtmp://220.130.201.73/sat/tv071
+
 #EXTINF:-1 group-title="台湾",台视HD
 rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 group-title="台湾",台視新聞 HD
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+
 #EXTINF:-1 group-title="台湾",民视
 http://37.27.111.214:8080/live/6/hls.m3u8
-#EXTINF:-1 group-title="台湾",民视HD
-rtmp://220.130.201.73/sat/tv051
 #EXTINF:-1 group-title="台湾",民视HD
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 group-title="台湾",民视第一台
@@ -5969,6 +5982,7 @@ http://37.27.111.214:8080/live/4/hls.m3u8
 http://37.27.111.214:8080/live/5/hls.m3u8
 #EXTINF:-1 group-title="台湾",民视新闻台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+
 #EXTINF:-1 group-title="台湾",东森购物
 http://37.27.111.214:8080/live/66/hls.m3u8
 #EXTINF:-1 group-title="台湾",东森购物
@@ -5976,25 +5990,31 @@ http://37.27.111.214:8080/live/61/hls.m3u8
 #EXTINF:-1 group-title="台湾",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾",东森超视HD
-rtmp://220.130.201.73/sat/tv331
-#EXTINF:-1 group-title="台湾",东森超视HD
 rtmp://f13h.mine.nu/sat/tv331
+
+
 #EXTINF:-1 group-title="台湾",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 group-title="台湾",东森新闻美国
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾",东森电影台
-http://171.108.239.79:8181/tsfile/live/1010_1.m3u8
+http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
+
 #EXTINF:-1 group-title="台湾",中天娱乐台
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 group-title="台湾",中天娱乐台
 https://stream1.freetv.fun/906fb93843c17f791816b0a848312c306150cf5063d5fc384de85c88bc5700ad.m3u8
 #EXTINF:-1 group-title="台湾",中天新闻
 https://stream1.freetv.fun/zhong-tian-xin-wen-7.ctv
+
+#EXTINF:-1 group-title="台湾",TVBs欢乐台
+http://37.27.111.214:8080/live/24/hls.m3u8
 #EXTINF:-1 group-title="台湾",TVBS-亚洲
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="台湾",客家电视台
-https://hc73k3dhwo5gfkt.wcetv.com/hls/hakkatv.m3u8
+#EXTINF:-1 group-title="台湾",TVBSnew
+http://61.221.215.25:8800/hls/9/index.m3u8
+
+
 #EXTINF:-1 group-title="台湾",客家电视台
 http://37.27.111.214:8080/live/1/hls.m3u8
 #EXTINF:-1 group-title="台湾",番薯音乐
@@ -6003,28 +6023,43 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 group-title="台湾",DIScover
 http://61.221.215.25:8800/hls/1/index.m3u8
-#EXTINF:-1 group-title="台湾",TVBSnew
-http://61.221.215.25:8800/hls/9/index.m3u8
+
+
 #EXTINF:-1 group-title="台湾",中华小当家
 http://61.221.215.25:8800/hls/40/index.m3u8
+
 #EXTINF:-1 group-title="台湾",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 group-title="香港",amc电影台
-http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 group-title="香港",amc电影台
-https://stream1.freetv.fun/ceb8e5d09e9af65624a0023241c486d3d4ba222029e8e745bcd4901f47d95445.m3u8
-#EXTINF:-1 group-title="台湾",ASIA
-http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 group-title="台湾",NHKworld
-http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1 group-title="台湾",三立综合台
+http://37.27.111.214:8080/live/31/hls.m3u8
+
+#EXTINF:-1 group-title="台湾",龙华电影
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="台湾",龙华戏剧
+http://37.27.111.214:8080/live/41/hls.m3u8
+#EXTINF:-1 group-title="台湾",龙华日韩
+http://37.27.111.214:8080/live/42/hls.m3u8
+
 #EXTINF:-1 group-title="台湾",八大戏剧
 http://61.221.215.25:8800/hls/39/index.m3u8
 #EXTINF:-1 group-title="台湾",八大第一
 http://61.221.215.25:8800/hls/55/index.m3u8
 #EXTINF:-1 group-title="台湾",八大综合
 http://61.221.215.25:8800/hls/56/index.m3u8
+
+#EXTINF:-1 group-title="台湾",amc电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="台湾ß",amc电影台
+https://stream1.freetv.fun/ceb8e5d09e9af65624a0023241c486d3d4ba222029e8e745bcd4901f47d95445.m3u8
+
+#EXTINF:-1 group-title="台湾",ASIA
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="台湾",NHKworld
+http://61.221.215.25:8800/hls/51/index.m3u8
+
 #EXTINF:-1 group-title="台湾",动物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
+
 #EXTINF:-1 group-title="台湾",纬来精彩
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 group-title="台湾",纬来体育
@@ -6033,38 +6068,33 @@ rtmp://f13h.mine.nu:1935/sat/tv721
 rtmp://f13h.mine.nu:1935/sat/tv701
 #EXTINF:-1 group-title="台湾",纬来日本
 rtmp://f13h.mine.nu:1935/sat/tv771
-#EXTINF:-1 group-title="台湾",CTV中视HD
-rtmp://f13h.mine.nu:1935/sat/tv091
-#EXTINF:-1 group-title="台湾",CTV中视HD
-rtmp://f13h.mine.nu/sat/tv091
+
+
 #EXTINF:-1 group-title="台湾",MoMoTVHD
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 group-title="台湾",ELEVEN体育1
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 group-title="台湾",ELEVEN体育2
 rtmp://f13h.mine.nu/sat/tv741
+
 #EXTINF:-1 group-title="台湾",大愛1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="台湾",大爱2
 https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8
 #EXTINF:-1 group-title="台湾",大爱2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="台湾",好消息电视台1
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-#EXTINF:-1 group-title="台湾",好消息电视台2
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-#EXTINF:-1 group-title="台湾",TVBS Asia[加载慢]
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="台湾",唯心電視
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 group-title="台湾",原住民
-https://hc73k3dhwo5gfkt.wcetv.com/hls/titv.m3u8
+
 #EXTINF:-1 group-title="台湾",原住民族电视台
 http://37.27.111.214:8080/live/2/hls.m3u8
+
 #EXTINF:-1 group-title="台湾",MOMO亲子台（合并了纬来儿童台）
 http://37.27.111.214:8080/live/3/hls.m3u8
-#EXTINF:-1 group-title="台湾",中视
-http://37.27.111.214:8080/live/7/hls.m3u8
+
 #EXTINF:-1 group-title="台湾",TV5MONDE(法语电视台)
 http://37.27.111.214:8080/live/9/hls.m3u8
 #EXTINF:-1 group-title="台湾",亚洲旅游台
@@ -6079,12 +6109,10 @@ http://37.27.111.214:8080/live/14/hls.m3u8
 http://37.27.111.214:8080/live/15/hls.m3u8
 #EXTINF:-1 group-title="台湾",博斯网球台
 http://37.27.111.214:8080/live/16/hls.m3u8
-#EXTINF:-1 group-title="台湾",龙华电影
-http://37.27.111.214:8080/live/19/hls.m3u8
+
 #EXTINF:-1 group-title="台湾",Nick Jr. （儿童频道、学龄前）
 http://37.27.111.214:8080/live/22/hls.m3u8
-#EXTINF:-1 group-title="台湾",TVBs欢乐台
-http://37.27.111.214:8080/live/24/hls.m3u8
+
 #EXTINF:-1 group-title="台湾",MTv
 http://37.27.111.214:8080/live/25/hls.m3u8
 #EXTINF:-1 group-title="台湾",GSTV幸福空间居家台
@@ -6095,30 +6123,30 @@ http://37.27.111.214:8080/live/27/hls.m3u8
 http://37.27.111.214:8080/live/28/hls.m3u8
 #EXTINF:-1 group-title="台湾",Cinema World(世界影城电影频道)
 http://37.27.111.214:8080/live/30/hls.m3u8
-#EXTINF:-1 group-title="台湾",三立综合台
-http://37.27.111.214:8080/live/31/hls.m3u8
+
 #EXTINF:-1 group-title="台湾",彭博资讯
 http://37.27.111.214:8080/live/34/hls.m3u8
 #EXTINF:-1 group-title="台湾",猪哥秀
 http://37.27.111.214:8080/live/35/hls.m3u8
 #EXTINF:-1 group-title="台湾",滚动力 rollor(艺文纪实台)
 http://37.27.111.214:8080/live/40/hls.m3u8
-#EXTINF:-1 group-title="台湾",龙华戏剧
-http://37.27.111.214:8080/live/41/hls.m3u8
-#EXTINF:-1 group-title="台湾",龙华日韩
-http://37.27.111.214:8080/live/42/hls.m3u8
+
 #EXTINF:-1 group-title="台湾",aljazeera半岛电视台
 http://37.27.111.214:8080/live/44/hls.m3u8
 #EXTINF:-1 group-title="台湾",VOA美国之声
 http://37.27.111.214:8080/live/45/hls.m3u8
 #EXTINF:-1 group-title="台湾",DW English(德国之声英文台)
 http://37.27.111.214:8080/live/46/hls.m3u8
-#EXTINF:-1 group-title="台湾",中视经典
-http://37.27.111.214:8080/live/47/hls.m3u8
-#EXTINF:-1 group-title="台湾",中视菁彩
-http://37.27.111.214:8080/live/48/hls.m3u8
-#EXTINF:-1 group-title="台湾",新唐人亚太台
-http://37.27.111.214:8080/live/51/hls.m3u8
+#EXTINF:-1 group-title="台湾",FTV旅游
+http://37.27.111.214:8080/live/82/hls.m3u8
+#EXTINF:-1 group-title="台湾",FTV综艺
+http://37.27.111.214:8080/live/67/hls.m3u8
+#EXTINF:-1 group-title="台湾",FTV影剧
+http://37.27.111.214:8080/live/88/hls.m3u8
+
+#EXTINF:-1 group-title="台湾",华语电视
+http://38.64.72.148/hls/modn/list/4003/chunklist0.m3u8
+
 #EXTINF:-1 group-title="台湾",ariang Korea
 http://37.27.111.214:8080/live/52/hls.m3u8
 #EXTINF:-1 group-title="台湾",Global Trekker
@@ -6137,8 +6165,7 @@ http://37.27.111.214:8080/live/63/hls.m3u8
 http://37.27.111.214:8080/live/64/hls.m3u8
 #EXTINF:-1 group-title="台湾",寰宇财经
 http://37.27.111.214:8080/live/65/hls.m3u8
-#EXTINF:-1 group-title="台湾",FTV综艺
-http://37.27.111.214:8080/live/67/hls.m3u8
+
 #EXTINF:-1 group-title="台湾",ROCK Entertainment(娱乐频道)
 http://37.27.111.214:8080/live/70/hls.m3u8
 #EXTINF:-1 group-title="台湾",Lifetime(女性娱乐频道)
@@ -6153,8 +6180,7 @@ http://37.27.111.214:8080/live/78/hls.m3u8
 http://37.27.111.214:8080/live/80/hls.m3u8
 #EXTINF:-1 group-title="台湾",Pet Club tv
 http://37.27.111.214:8080/live/81/hls.m3u8
-#EXTINF:-1 group-title="台湾",FTV旅游
-http://37.27.111.214:8080/live/82/hls.m3u8
+
 #EXTINF:-1 group-title="台湾",Festival
 http://37.27.111.214:8080/live/83/hls.m3u8
 #EXTINF:-1 group-title="台湾",LOVE NATURE
@@ -6165,8 +6191,7 @@ http://37.27.111.214:8080/live/85/hls.m3u8
 http://37.27.111.214:8080/live/86/hls.m3u8
 #EXTINF:-1 group-title="台湾",公视戏剧
 http://37.27.111.214:8080/live/87/hls.m3u8
-#EXTINF:-1 group-title="台湾",FTV影剧
-http://37.27.111.214:8080/live/88/hls.m3u8
+
 #EXTINF:-1 group-title="台湾",影迷记实台
 http://37.27.111.214:8080/live/92/hls.m3u8
 #EXTINF:-1 group-title="台湾",金光布袋戏
