@@ -3770,6 +3770,8 @@ http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 https://33524.hlsplay.aodianyun.com/tv_radio_33524/tv_channel_1185.m3u8?auth_key=1719733331-0-0-7f98bbba7ac887ca5a9ac3419e7b279f&extra_key=_AUmvQjYZgim94y92MAAjcXvfX8aEWajtwiwbpP0gxTNb5EIGc0ji3F4LrNc4hEHVOOnNZyX_UtFiMJFFru9rcfabM28hDfhFcPmQu7o5LpkAD3retDoEKbXO-wLzNUdouKq9NSdreK9QfS33ysF65C8QvTqogopZDA7LQE4qgc
 #EXTINF:-1 group-title="浙江频道",浙江-杭州市富阳区新闻综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun2.php?id=fyzh
+
+
 #EXTINF:-1 group-title="广东频道",广东-广东卫视
 http://localhost/dashboard/14_guangdong_shengji.php?id=gdws
 #EXTINF:-1 group-title="广东频道",广东-广东珠江
@@ -3798,10 +3800,12 @@ http://localhost/dashboard/14_guangdong_shengji.php?id=jjkt
 http://localhost/dashboard/14_guangdong_shengji.php?id=gdyd
 #EXTINF:-1 group-title="广东频道",广东-GRTN文化频道
 http://localhost/dashboard/14_guangdong_shengji.php?id=gdwh
+
 #EXTINF:-1 group-title="广东频道",广东综艺4k[组播]
 http://113.87.161.3:4022/udp/239.77.0.245:5146
 #EXTINF:-1 group-title="广东频道",广东现代教育[组播]
 http://113.87.161.3:4022/udp/239.77.0.18:5146
+
 #EXTINF:-1 group-title="广东频道",广东-广州综合
 http://localhost/dashboard/14_guangdong_guangzhou.php?id=zh
 #EXTINF:-1 group-title="广东频道",广东-广州新闻
@@ -3818,20 +3822,16 @@ http://localhost/dashboard/14_guangdong_guangzhou.php?id=ds
 http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 #EXTINF:-1 group-title="广东频道",广东-深圳卫视
 http://localhost/dashboard/14_guangdong_shenzhen.php?id=szws
-#EXTINF:-1 group-title="广东频道",广东-深圳娱乐
-http://localhost/dashboard/14_guangdong_shenzhen.php?id=szyl
+
 #EXTINF:-1 group-title="广东频道",广东-深圳少儿
 http://localhost/dashboard/14_guangdong_shenzhen.php?id=szse
-#EXTINF:-1 group-title="广东频道",广东-深圳公共
-http://localhost/dashboard/14_guangdong_shenzhen.php?id=szgg
+
 #EXTINF:-1 group-title="广东频道",广东-深圳财经生活
 http://localhost/dashboard/14_guangdong_shenzhen.php?id=szcjsh
 #EXTINF:-1 group-title="广东频道",广东-深圳电视剧
 http://localhost/dashboard/14_guangdong_shenzhen.php?id=szdsj
 #EXTINF:-1 group-title="广东频道",广东-深圳都市
 http://localhost/dashboard/14_guangdong_shenzhen.php?id=szds
-#EXTINF:-1 group-title="广东频道",广东-深圳都市
-http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 #EXTINF:-1 group-title="广东频道",广东-深圳国际
 http://localhost/dashboard/14_guangdong_shenzhen.php?id=szgj
 #EXTINF:-1 group-title="广东频道",广东-深圳移动
@@ -3874,8 +3874,6 @@ http://localhost/dashboard/14_guangdong_heyuan.php?id=2
 http://localhost/dashboard/14_guangdong_jieyang.php?id=11
 #EXTINF:-1 group-title="广东频道",广东-揭阳生活
 http://localhost/dashboard/14_guangdong_jieyang.php?id=12
-#EXTINF:-1 group-title="广东频道",广东-台山台
-http://localhost/dashboard/14_guangdong_shengji.php?id=tstv
 #EXTINF:-1 group-title="广东频道",广东-番禺电视台
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 #EXTINF:-1 group-title="广东频道",广东-湛江综合
@@ -3914,16 +3912,13 @@ http://localhost/dashboard/14_guangdong_shengji.php?id=hygg
 http://localhost/dashboard/14_guangdong_shengji.php?id=lpzh
 #EXTINF:-1 group-title="广东频道",广东-阳江1
 https://live.yjtvw.com:8081/live/yjtv1.m3u8
-#EXTINF:-1 group-title="广东频道",广东-阳江-1
-http://localhost/dashboard/14_guangdong_shengji.php?id=yjtv1
-#EXTINF:-1 group-title="广东频道",广东-阳江-2
-http://localhost/dashboard/14_guangdong_shengji.php?id=yjtv2
 #EXTINF:-1 group-title="广东频道",广东-阳江2
 https://live.yjtvw.com:8081/live/yjtv2.m3u8
 #EXTINF:-1 group-title="广东频道",广东-开平综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=kpzh
 #EXTINF:-1 group-title="广东频道",广东-开平生活
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=kpsh
+
 #EXTINF:-1 group-title="广东频道",广东-广宁综合
 http://localhost/dashboard/14_guangdong_shengji.php?id=gnzh
 #EXTINF:-1 group-title="广东频道",广东-化州综合
