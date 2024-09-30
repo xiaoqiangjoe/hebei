@@ -232,12 +232,14 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0
 #EXTINF:-1 group-title="央视频",CCTV卫生健康(vip)
 http://localhost/dashboard/58_ysp.php?id=wsjk
-#EXTINF:-1 group-title="央视频",种养新影-中学生
-http://localhost/dashboard/cq/cqyx.php?id=zxs
-#EXTINF:-1 group-title="央视频",种养新影-发现之旅
-http://localhost/dashboard/cq/cqyx.php?id=fxzl
-#EXTINF:-1 group-title="央视频",种养新影-老故事
-http://localhost/dashboard/cq/cqyx.php?id=lgs
+
+#EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E4%B8%AD%E5%A4%AE%E6%96%B0%E5%BD%B1%E4%B8%AD%E5%AD%A6%E7%94%9F.png" group-title="央视频",种养新影-中学生
+http://localhost/dashboard/58_migu_wangy.php?id=zxs
+#EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E4%B8%AD%E5%A4%AE%E6%96%B0%E5%BD%B1%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85.png" group-title="央视频",种养新影-发现之旅
+http://localhost/dashboard/58_migu_wangy.php?id=fxzl
+#EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E4%B8%AD%E5%A4%AE%E6%96%B0%E5%BD%B1%E8%80%81%E6%95%85%E4%BA%8B.png" group-title="央视频",种养新影-老故事
+http://localhost/dashboard/58_migu_wangy.php?id=lgs
+
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CGTN.png" group-title="央视频",CGTN
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CGTN纪录.png" group-title="央视频",CGTN纪录
@@ -250,6 +252,8 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m
 http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CGTN俄语.png" group-title="央视频",CGTN俄语
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2
+
+
 #EXTINF:-1 group-title="天翼云频道",cctv6
 http://localhost/dashboard/60_dxtyy.php?id=cctv6
 #EXTINF:-1 group-title="天翼云频道",四川卫视
@@ -306,6 +310,7 @@ http://localhost/dashboard/60_dxtyy.php?id=cetv4
 http://localhost/dashboard/60_dxtyy.php?id=zgjt
 #EXTINF:-1 group-title="天翼云频道",杭州生活
 http://localhost/dashboard/60_dxtyy.php?id=hzsh
+
 #EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="求索系列",求索动物
 http://[2409:8087:1a01:df::7005]:80/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="求索系列",求索记录
@@ -314,10 +319,14 @@ http://[2409:8087:1a01:df::7005]:80/000000001000/6000000002000032052/index.m3u8?
 http://[2409:8087:1a01:df::7005]:80/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="求索系列",求索生活
 http://[2409:8087:1a01:df::7005]:80/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/重温经典.png" group-title="电影频道",重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 group-title="电影频道",重庆-重温经典
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/重温经典.png" group-title="电影频道",重温经典
 http://localhost/dashboard/27_chongqin_cqyx2.php?id=cwjdHD
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/重温经典.png" group-title="电影频道",重温经典
+
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
 #EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" group-title="电影频道",cctv6
 http://localhost/dashboard/56_1095.php?id=cctv6
 #EXTINF:-1 tvg-id="1905b" tvg-name="1905b" group-title="电影频道",1905b
@@ -326,6 +335,7 @@ http://localhost/dashboard/56_1095.php?id=1905b
 http://localhost/dashboard/56_1095.php?id=1905a
 #EXTINF:-1 group-title="电影频道",中国电影频道
 https://k44991.kylintv.tv/live/chinamovie_iphone.m3u8
+
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC家庭影院.png" group-title="电影频道",CHC家庭影院[联通]
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8?
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC动作电影.png" group-title="电影频道",CHC动作电影[联通]
