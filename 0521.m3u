@@ -3986,6 +3986,8 @@ https://livestream.oeeee.com/slive/17806.m3u8
 https://livestream.oeeee.com/slive/17807.m3u8
 #EXTINF:-1 group-title="广东频道",广东-丰顺综合
 http://p2.vzan.com/slowlive/024926084736123668/live.m3u8
+
+
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南卫视.png" group-title="海南频道",海南卫视[官网]
 http://localhost/dashboard/15_hainan_shengji.php?id=1
 #EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南文旅.png" group-title="海南频道",海南自贸[官网]
@@ -4028,6 +4030,45 @@ http://localhost/dashboard/15_hainan_haikou.php?id=3
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000136/1.m3u8
 #EXTINF:-1 group-title="海南频道",海南州
 https://play-video.hnzgbdst.com/live/59_1.m3u8
+
+#EXTINF:-1 group-title="海南频道",文昌TV
+http://112.66.231.105:554/rtp/239.253.64.105:5140
+#EXTINF:-1 group-title="海南频道",五指山TV
+http://112.66.231.105:554/rtp/239.253.64.69:5140
+#EXTINF:-1 group-title="海南频道",屯昌TV
+http://112.66.231.105:554/rtp/239.253.64.117:5140
+#EXTINF:-1 group-title="海南频道",万宁综合
+http://112.66.231.105:554/rtp/239.253.64.167:5140
+#EXTINF:-1 group-title="海南频道",乐东TV
+http://112.66.231.105:554/rtp/239.253.64.166:5140
+#EXTINF:-1 group-title="海南频道",昌江TV
+http://112.66.231.105:554/rtp/239.253.64.108:5140
+#EXTINF:-1 group-title="海南频道",澄迈TV
+http://112.66.231.105:554/rtp/239.253.64.109:5140
+#EXTINF:-1 group-title="海南频道",儋州TV
+http://112.66.231.105:554/rtp/239.253.64.107:5140
+#EXTINF:-1 group-title="海南频道",定安TV
+http://112.66.231.105:554/rtp/239.253.64.110:5140
+#EXTINF:-1 group-title="海南频道",东方TV
+http://112.66.231.105:554/rtp/239.253.64.111:5140
+#EXTINF:-1 group-title="海南频道",临高
+http://112.66.231.105:554/rtp/239.253.64.155:5140
+#EXTINF:-1 group-title="海南频道",陵水TV
+http://112.66.231.105:554/rtp/239.253.64.116:5140
+#EXTINF:-1 group-title="海南频道",琼海TV
+http://112.66.231.105:554/rtp/239.253.64.106:5140
+#EXTINF:-1 group-title="海南频道",琼中TV
+http://112.66.231.105:554/rtp/239.253.64.165:5140
+#EXTINF:-1 group-title="海南频道",白沙TV
+http://112.66.231.105:554/rtp/239.253.64.118:5140
+#EXTINF:-1 group-title="海南频道",保亭TV
+http://112.66.231.105:554/rtp/239.253.64.159:5140
+
+
+
+
+
+
 #EXTINF:-1 group-title="甘肃频道",甘肃-甘肃卫视
 http://localhost/dashboard/16_gansu_shengji.php?id=6
 #EXTINF:-1 group-title="甘肃频道",甘肃-甘肃影视
