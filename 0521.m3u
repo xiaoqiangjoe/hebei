@@ -1,7 +1,7 @@
 
-#EXTINF:-1 group-title="咪咕",cctv1[咪咕2]
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV1.png" group-title="咪咕",cctv1[咪咕2]
 http://localhost/dashboard/57_migu2.php?id=cctv1
-#EXTINF:-1 group-title="咪咕",CCTV1[广电云]
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV1.png" group-title="咪咕",cctv1[广电云]
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=CCTV1
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV1.png" group-title="咪咕",cctv1
 http://localhost/dashboard/57_migu720.php?id=cctv1
@@ -87,6 +87,7 @@ http://localhost/dashboard/57_migu_aikan.php?id=cctv14
 http://localhost/dashboard/57_migu_aikan.php?id=cctv15
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV17.png" group-title="咪咕视频爱看版",cctv17
 http://localhost/dashboard/57_migu_aikan.php?id=cctv17
+
 #EXTINF:-1 group-title="咪咕视频爱看版",青海卫视
 http://localhost/dashboard/57_migu_aikan.php?id=qhws
 #EXTINF:-1 group-title="咪咕视频爱看版",东方卫视
@@ -147,6 +148,7 @@ http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226046/main.m3u8
 http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225895/main.m3u8
 #EXTINF:-1 group-title="咪咕",睛彩篮球
 http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226027/main.m3u8
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV1.png" group-title="ysp3",cctv1
 http://localhost/dashboard/60_yst3.php?id=cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV2.png" group-title="ysp3",cctv2
@@ -181,6 +183,7 @@ http://localhost/dashboard/60_yst3.php?id=cctv15
 http://localhost/dashboard/60_yst3.php?id=cctv16
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV17.png" group-title="ysp3",cctv17
 http://localhost/dashboard/60_yst3.php?id=cctv17
+
 #EXTINF:-1 group-title="ysp3",CCTV-5+
 http://localhost/dashboard/60_yst3.php?id=cctv5p
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4K.png" group-title="4K频道",CCTV-4K 超高清-河北联通组播
@@ -351,6 +354,7 @@ http://ikuai.zlsip.top:4022/rtp/239.3.1.54:4120
 http://ikuai.zlsip.top:4022/rtp/239.3.1.55:4120
 #EXTINF:-1 group-title="教育频道",CETV4[北京联通]
 http://ikuai.zlsip.top:4022/rtp/239.3.1.56:4120
+
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -487,6 +491,7 @@ http://live.sjsrm.com/bjsjs/sd/live.m3u8
 http://ikuai.zlsip.top:4022/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-id="北京延庆" tvg-name="北京延庆" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E5%BB%B6%E5%BA%86.png" group-title="北京频道",北京-北京延庆[组播]
 http://ikuai.zlsip.top:4022/rtp/239.3.1.187:8001
+
 #EXTINF:-1 tvg-name="通州融媒" group-title="北京频道",通州融媒[组播]
 http://ikuai.zlsip.top:4022/rtp/239.3.1.221:8001
 #EXTINF:-1 tvg-name="密云电视台" group-title="北京频道",密云电视台[组播]
@@ -511,6 +516,8 @@ http://ikuai.zlsip.top:4022/rtp/239.3.1.250:8001
 http://ikuai.zlsip.top:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="北京iptv4K" tvg-name="北京iptv4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京IPTV4K.png" group-title="北京频道",北京iptv4K
 https://stream1.freetv.fun/ca73ddfb2395bd0630a74b007492e4cc2c7a2859e5bb9c8c5aacccb15287a2ff.ctv
+
+
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海东方卫视.png" group-title="上海频道",东方卫视
 http://localhost/dashboard/57_migu720.php?id=dfws
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海东方卫视.png" group-title="上海频道",东方卫视
@@ -593,6 +600,9 @@ https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.
 http://localhost/dashboard/25_shanghai_jinshan.php?id=1
 #EXTINF:-1 tvg-id="浦东电视台" tvg-name="浦东电视台" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海浦东电视台.png" group-title="上海频道",浦东电视台
 http://localhost/dashboard/25_shanghai_pudong.php
+
+
+
 #EXTINF:-1 group-title="天津频道",天津卫视[组播]
 http://221.198.182.240:8888/udp/225.1.1.111:5002
 #EXTINF:-1 group-title="天津频道",天津新闻 1[组播]
@@ -635,6 +645,8 @@ http://221.198.182.240:8888/udp/225.1.2.14:5002
 https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8
 #EXTINF:-1 group-title="天津频道",天津-宝坻电视台
 https://player4.juyun.tv/tv/143100176.m3u8
+
+
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="河北频道",河北卫视
 http://localhost/dashboard/01_hebei_shengji.php?id=hbws
 #EXTINF:-1 group-title="河北频道",河北-经济生活
@@ -717,11 +729,11 @@ https://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8
 #EXTINF:-1 group-title="河北频道",河北-承德丰宁娱乐频道
 https://jwliveqxzb.hebyun.com.cn/fengningyulepindao/fengningyulepindao.m3u8
-#EXTINF:-1 group-title="河北台" tvg-id="保定一套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0125/small85accb8b06a8ffe41f15e0937dd1b8131516856684.jpg",保定一套
+#EXTINF:-1 group-title="河北频道" tvg-id="保定一套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0125/small85accb8b06a8ffe41f15e0937dd1b8131516856684.jpg",保定一套
 http://live.bdgdw.com/channel1/playlist.m3u8?_upt=73ed52521725350905
-#EXTINF:-1 group-title="河北台" tvg-id="保定二套公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0125/small1cb121a976f246a6a6db472ffe7ad5f61516856814.jpg",保定二套公共频道
+#EXTINF:-1 group-title="河北频道" tvg-id="保定二套公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0125/small1cb121a976f246a6a6db472ffe7ad5f61516856814.jpg",保定二套公共频道
 http://live.bdgdw.com/channel2/playlist.m3u8?_upt=aba7fe801725350911
-#EXTINF:-1 group-title="河北台" tvg-id="保定三套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0125/small09ae4c62cba3b2e23f13d4bc1f0c40311516857402.jpg",保定三套
+#EXTINF:-1 group-title="河北频道" tvg-id="保定三套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0125/small09ae4c62cba3b2e23f13d4bc1f0c40311516857402.jpg",保定三套
 http://live.bdgdw.com/channel3/playlist.m3u8?_upt=6d59246b1725350917
 #EXTINF:-1 group-title="河北频道",河北-涞水新闻频道
 https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
@@ -1017,6 +1029,8 @@ http://27.184.66.85:1024/rtp/239.254.200.236:5210
 http://27.184.66.85:1024/rtp/239.254.201.48:5371
 #EXTINF:-1 group-title="河北频道",河北-丰润电视
 http://27.184.66.85:1024/rtp/239.254.201.58:5197
+
+
 #EXTINF:-1 group-title="山东频道",山东卫视
 http://[2409:8087:1a0a:df::4036]:80/wh7f454c46tw3812967688_-1687053025/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8?icpid=88888888&RTS=1713970641&from=4&hms_devid=1209&online=1713970641&vqe=3
 #EXTINF:-1 group-title="山东频道",山东卫视-php
