@@ -4,45 +4,45 @@ http://localhost/dashboard/57_migu2.php?id=cctv1
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV1.png" group-title="咪咕",cctv1[广电云]
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=CCTV1
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV1.png" group-title="咪咕",cctv1
-http://localhost/dashboard/57_migu720.php?id=cctv1
+http://localhost/dashboard/57_migu2.php?id=cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV2.png" group-title="咪咕",cctv2
-http://localhost/dashboard/57_migu720.php?id=cctv2
+http://localhost/dashboard/57_migu2.php?id=cctv2
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV3.png" group-title="咪咕",cctv3
-http://localhost/dashboard/57_migu720.php?id=cctv3
+http://localhost/dashboard/57_migu2.php?id=cctv3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4.png" group-title="咪咕",cctv4
-http://localhost/dashboard/57_migu720.php?id=cctv4
+http://localhost/dashboard/57_migu2.php?id=cctv4
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4美洲.png" group-title="咪咕",CCTV4美洲
-http://localhost/dashboard/57_migu720.php?id=cctv4a
+http://localhost/dashboard/57_migu2.php?id=cctv4a
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4欧洲.png" group-title="咪咕",CCTV4欧洲
-http://localhost/dashboard/57_migu720.php?id=cctv4o
+http://localhost/dashboard/57_migu2.php?id=cctv4o
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV5.png" group-title="咪咕",cctv5[IPV6]
-http://localhost/dashboard/57_migu720.php?id=cctv5
+http://localhost/dashboard/57_migu2.php?id=cctv5
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV5.png" group-title="咪咕",cctv5[咪咕2]
 http://localhost/dashboard/57_migu2.php?id=cctv5
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV6.png" group-title="咪咕",cctv6
-http://localhost/dashboard/57_migu720.php?id=cctv6
+http://localhost/dashboard/57_migu2.php?id=cctv6
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV7.png" group-title="咪咕",cctv7
-http://localhost/dashboard/57_migu720.php?id=cctv7
+http://localhost/dashboard/57_migu2.php?id=cctv7
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV8.png" group-title="咪咕",cctv8
-http://localhost/dashboard/57_migu720.php?id=cctv8
+http://localhost/dashboard/57_migu2.php?id=cctv8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV9.png" group-title="咪咕",cctv9
-http://localhost/dashboard/57_migu720.php?id=cctv9
+http://localhost/dashboard/57_migu2.php?id=cctv9
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV10.png" group-title="咪咕",cctv10
-http://localhost/dashboard/57_migu720.php?id=cctv10
+http://localhost/dashboard/57_migu2.php?id=cctv10
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV11.png" group-title="咪咕",cctv11
-http://localhost/dashboard/57_migu720.php?id=cctv11
+http://localhost/dashboard/57_migu2.php?id=cctv11
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV12.png" group-title="咪咕",cctv12
-http://localhost/dashboard/57_migu720.php?id=cctv12
+http://localhost/dashboard/57_migu2.php?id=cctv12
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV13.png" group-title="咪咕",cctv13
-http://localhost/dashboard/57_migu720.php?id=cctv13
+http://localhost/dashboard/57_migu2.php?id=cctv13
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV14.png" group-title="咪咕",cctv14
-http://localhost/dashboard/57_migu720.php?id=cctv14
+http://localhost/dashboard/57_migu2.php?id=cctv14
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV15.png" group-title="咪咕",cctv15
-http://localhost/dashboard/57_migu720.php?id=cctv15
+http://localhost/dashboard/57_migu2.php?id=cctv15
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV16.png" group-title="咪咕",cctv16
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV17.png" group-title="咪咕",cctv17
-http://localhost/dashboard/57_migu720.php?id=cctv17
+http://localhost/dashboard/57_migu2.php?id=cctv17
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频",CETV-1
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央视频",CETV-2
@@ -520,21 +520,21 @@ https://stream1.freetv.fun/ca73ddfb2395bd0630a74b007492e4cc2c7a2859e5bb9c8c5aacc
 
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海东方卫视.png" group-title="上海频道",东方卫视
-http://localhost/dashboard/57_migu720.php?id=dfws
+http://localhost/dashboard/57_migu2.php?id=dfws
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海东方卫视.png" group-title="上海频道",东方卫视
 http://localhost/dashboard/25_shanghai_shengji.php?id=dfws
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海上视新闻.png" group-title="上海频道",上海新闻
 http://localhost/dashboard/25_shanghai_shengji.php?id=shxwzh
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海上视新闻.png" group-title="上海频道",上海新闻-静态
-http://localhost/dashboard/57_migu720.php?id=shxwzh
+http://localhost/dashboard/57_migu2.php?id=shxwzh
 #EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海外语.png" group-title="上海频道",上海ICS
-http://localhost/dashboard/57_migu720.php?id=shics
+http://localhost/dashboard/57_migu2.php?id=shics
 #EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海外语.png" group-title="上海频道",上海ICS
 http://localhost/dashboard/25_shanghai_shengji.php?id=shics
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海都市.png" group-title="上海频道",上海都市
 http://localhost/dashboard/25_shanghai_shengji.php?id=shds
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海东方影视.png" group-title="上海频道",东方影视
-http://localhost/dashboard/57_migu720.php?id=dfys
+http://localhost/dashboard/57_migu2.php?id=dfys
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/纪实人文.png" group-title="上海频道",纪实人文
 http://localhost/dashboard/25_shanghai_shengji.php?id=jsrw
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海哈哈炫动.png" group-title="上海频道",哈哈炫动
@@ -576,21 +576,21 @@ http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?
 #EXTINF:-1 group-title="上海频道",上海-五星体育
 http://183.195.235.162/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="上海频道",上海-法治天地
-http://localhost/dashboard/57_migu720.php?id=fztd
+http://localhost/dashboard/57_migu2.php?id=fztd
 #EXTINF:-1 group-title="上海频道",上海-劲爆体育
-http://localhost/dashboard/57_migu720.php?id=jbty
+http://localhost/dashboard/57_migu2.php?id=jbty
 #EXTINF:-1 group-title="上海频道",上海-劲爆体育
 http://183.195.235.162/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="上海频道",上海-魅力足球
-http://localhost/dashboard/57_migu720.php?id=mlzq
+http://localhost/dashboard/57_migu2.php?id=mlzq
 #EXTINF:-1 group-title="上海频道",上海-乐游
-http://localhost/dashboard/57_migu720.php?id=ly
+http://localhost/dashboard/57_migu2.php?id=ly
 #EXTINF:-1 group-title="上海频道",上海-欢笑剧场
-http://localhost/dashboard/57_migu720.php?id=hxjc
+http://localhost/dashboard/57_migu2.php?id=hxjc
 #EXTINF:-1 group-title="上海频道",上海-七彩戏剧
-http://localhost/dashboard/57_migu720.php?id=qcxj
+http://localhost/dashboard/57_migu2.php?id=qcxj
 #EXTINF:-1 group-title="上海频道",上海-游戏风云
-http://localhost/dashboard/57_migu720.php?id=yxfy
+http://localhost/dashboard/57_migu2.php?id=yxfy
 #EXTINF:-1 tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海教育.png" group-title="上海频道",上海-上海教育
 http://localhost/dashboard/25_shanghai_edu.php
 #EXTINF:-1 group-title="上海频道",上海-嘉定电视台
@@ -4114,7 +4114,7 @@ https://play.kankanlive.com/live/1696834115672925.m3u8
 #EXTINF:-1 group-title="甘肃频道",甘肃-景泰
 https://play.kankanlive.com/live/1624439143745981.m3u8
 #EXTINF:-1 group-title="甘肃频道",甘肃-临洮电视台
-http://localhost/dashboard/57_migu720.php?id=lttv
+http://localhost/dashboard/57_migu2.php?id=lttv
 #EXTINF:-1 group-title="甘肃频道",甘肃-甘南汉语频道
 http://localhost/dashboard/16_gansu_gannan.php?id=gnhypd
 #EXTINF:-1 group-title="甘肃频道",甘肃-甘南藏语频道
@@ -4688,7 +4688,7 @@ http://localhost/dashboard/19_jiangsu_wuxi.php?id=5
 #EXTINF:-1 group-title="江苏频道",江苏-无锡教育
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=wxjy
 #EXTINF:-1 group-title="江苏频道",江苏-连云港新闻综合
-http://localhost/dashboard/57_migu720.php?id=lygxwzh
+http://localhost/dashboard/57_migu2.php?id=lygxwzh
 #EXTINF:-1 group-title="江苏频道",江苏-连云港综合
 http://localhost/dashboard/19_jiangsu_lianyungang.php?id=lygzh
 #EXTINF:-1 group-title="江苏频道",江苏-连云港公共
@@ -4768,9 +4768,9 @@ http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjyrw.m3u8
 #EXTINF:-1 group-title="江苏频道",江苏-丹阳电视台
 http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8
 #EXTINF:-1 group-title="江苏频道",江苏-淮安新闻综合
-http://localhost/dashboard/57_migu720.php?id=haxwzh
+http://localhost/dashboard/57_migu2.php?id=haxwzh
 #EXTINF:-1 group-title="江苏频道",江苏-宿迁新闻综合
-http://localhost/dashboard/57_migu720.php?id=sqxwzh
+http://localhost/dashboard/57_migu2.php?id=sqxwzh
 #EXTINF:-1 group-title="江苏频道",宿迁-沭阳综合频道
 https://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 #EXTINF:-1 group-title="江苏频道",宿迁-宿豫综合频道
@@ -4778,7 +4778,7 @@ https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
 #EXTINF:-1 group-title="江苏频道",宿迁-泗洪综合频道
 https://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8
 #EXTINF:-1 group-title="江苏频道",江苏-徐州新闻综合
-http://localhost/dashboard/57_migu720.php?id=xzxwzh
+http://localhost/dashboard/57_migu2.php?id=xzxwzh
 #EXTINF:-1 group-title="江苏频道",江苏-靖江新闻综合
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 group-title="江苏频道",江苏-如东新闻
