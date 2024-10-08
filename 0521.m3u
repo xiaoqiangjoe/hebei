@@ -2085,9 +2085,9 @@ http://localhost/dashboard/05_sichuan_guangan.php?id=1
 #EXTINF:-1 group-title="四川频道",四川-广安文旅乡村
 http://localhost/dashboard/05_sichuan_guangan.php?id=2
 #EXTINF:-1 group-title="四川频道",四川-遂宁新闻综合
-http://play.web.snxw.com/live/xwzh/playlist.m3u8
+https://szyplaytv.snxw.com/live/xwzh/playlist.m3u8
 #EXTINF:-1 group-title="四川频道",四川-遂宁文化生活
-http://play.web.snxw.com/live/gggy/playlist.m3u8
+http://szyplaytv.snxw.com/live/gggy/playlist.m3u8
 #EXTINF:-1 group-title="四川频道",四川-内江综合
 https://njzb.scnj.tv/hls_njtv_direct/1.m3u8
 #EXTINF:-1 group-title="四川频道",四川-内江科技生活
