@@ -27,6 +27,8 @@ http://localhost/dashboard/57_migu2.php?id=cctv7
 http://localhost/dashboard/57_migu2.php?id=cctv8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV9.png" group-title="咪咕",cctv9
 http://localhost/dashboard/57_migu2.php?id=cctv9
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV9.png" group-title="咪咕",cctv9
+http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000288020&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV10.png" group-title="咪咕",cctv10
 http://localhost/dashboard/57_migu2.php?id=cctv10
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV11.png" group-title="咪咕",cctv11
@@ -43,10 +45,17 @@ http://localhost/dashboard/57_migu2.php?id=cctv15
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV17.png" group-title="咪咕",cctv17
 http://localhost/dashboard/57_migu2.php?id=cctv17
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV17.png" group-title="咪咕",cctv17
+http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000288014&livemode=1&stbId=3
+
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频",CETV-1
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频",CETV-1
+http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000288015&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央视频",CETV-2
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央视频",CETV-2
+http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000288017&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="央视频",CETV-4
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV1.png" group-title="咪咕视频爱看版",cctv1
@@ -188,6 +197,8 @@ http://localhost/dashboard/60_yst3.php?id=cctv17
 http://localhost/dashboard/60_yst3.php?id=cctv5p
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4K.png" group-title="4K频道",CCTV-4K 超高清-河北联通组播
 http://27.184.67.201:1024/rtp/239.253.93.134:6631
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV16.png" group-title="ysp3",cctv16-4K
+http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1 group-title="4K频道",纯享4K
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
 #EXTINF:-1 group-title="4K频道",4K自然台
@@ -198,6 +209,9 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
 http://gslbserv.itv.cmvideo.cn/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 #EXTINF:-1 group-title="4K频道",广东-南国都市4k
 http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+
+#EXTINF:-1 group-title="央视频",中国天气
+http://gslbserv.itv.cmvideo.cn/000000001000/5000000005000031974/1.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="央视频",CCTV电视指南-黑龙联通
 http://bxny.667789.cn:55055/udp/229.58.190.191:5000
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png" group-title="央视频",CCTV怀旧剧场
@@ -534,6 +548,8 @@ http://localhost/dashboard/57_migu2.php?id=shxwzh
 http://localhost/dashboard/57_migu2.php?id=shics
 #EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海外语.png" group-title="上海频道",上海ICS
 http://localhost/dashboard/25_shanghai_shengji.php?id=shics
+#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海外语.png" group-title="上海频道",上海ICS-bestzb
+http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000288018&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海都市.png" group-title="上海频道",上海都市
 http://localhost/dashboard/25_shanghai_shengji.php?id=shds
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海东方影视.png" group-title="上海频道",东方影视
@@ -596,6 +612,8 @@ http://localhost/dashboard/57_migu2.php?id=qcxj
 http://localhost/dashboard/57_migu2.php?id=yxfy
 #EXTINF:-1 tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海教育.png" group-title="上海频道",上海-上海教育
 http://localhost/dashboard/25_shanghai_edu.php
+#EXTINF:-1 tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海教育.png" group-title="上海频道",上海-上海教育
+http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000288019&livemode=1&stbId=3
 #EXTINF:-1 group-title="上海频道",上海-嘉定电视台
 http://localhost/dashboard/25_shanghai_jiading.php
 #EXTINF:-1 group-title="上海频道",上海-崇明电视台
@@ -4010,6 +4028,11 @@ http://localhost/dashboard/15_hainan_shengji.php?id=7
 http://localhost/dashboard/15_hainan_shengji.php?id=2
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/三沙卫视.png" group-title="海南频道",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?fmmv6
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/三沙卫视.png" group-title="海南频道",三沙卫视[IPTV]
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/三沙卫视.png" group-title="海南频道",三沙卫视[IPTV]
+http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000288016&livemode=1&stbId=3
+
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南卫视.png" group-title="海南频道",海南卫视[IPTV]
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006211/1.m3u8
 #EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南文旅.png" group-title="海南频道",海南自贸[IPTV]
@@ -4022,8 +4045,8 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
 #EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/海南少儿.png" group-title="海南频道",海南少儿[IPTV]
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/三沙卫视.png" group-title="海南频道",三沙卫视[IPTV]
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
+
+
 #EXTINF:-1 group-title="海南频道",海南-儋州-看时效性
 https://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8?auth_key=4854915849-0-0-5cf8df0f6f82fbb8da58b60f011965c3&extra_key=HNL6clOeib0LS3fRsE7WQZ_4boW0AhqKOifX_vuKG0xEAexspcmCGIg-qbC7gZ9plvSkj2n0Msg6PQ5PoSWHCNTrvoEhEVOCmZSGwPoXfj6-jezQ4S5t
 #EXTINF:-1 group-title="海南频道",海南-海口新闻综合
