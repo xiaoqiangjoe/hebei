@@ -364,13 +364,13 @@ http://ha.xushining.com:50000/udp/225.1.1.213:5002
 http://ha.xushining.com:50000/udp/225.1.2.207:5002
 
 #EXTINF:-1 group-title="教育频道",CETV1HD[北京联通]
-http://ikuai.zlsip.top:4022/rtp/239.3.1.57:8152
+http://123.117.39.86:88/rtp/239.3.1.57:8152
 #EXTINF:-1 group-title="教育频道",CETV2[北京联通]
-http://ikuai.zlsip.top:4022/rtp/239.3.1.54:4120
+http://123.117.39.86:88/rtp/239.3.1.54:4120
 #EXTINF:-1 group-title="教育频道",CETV3[北京联通]
-http://ikuai.zlsip.top:4022/rtp/239.3.1.55:4120
+http://123.117.39.86:88/rtp/239.3.1.55:4120
 #EXTINF:-1 group-title="教育频道",CETV4[北京联通]
-http://ikuai.zlsip.top:4022/rtp/239.3.1.56:4120
+http://123.117.39.86:88/rtp/239.3.1.56:4120
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -467,24 +467,8 @@ http://localhost/dashboard/26_beijing_shengji.php?id=bjsh
 http://localhost/dashboard/26_beijing_shengji.php?id=bjxw
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/卡酷少儿.png" group-title="北京频道",北京卡酷少儿-btime
 http://localhost/dashboard/26_beijing_shengji.php?id=bjkk
-
-
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京卫视.png" group-title="北京频道",北京卫视
-https://epg.pw/stream/a1b8449e57128964aa71351c670ff6f35a16043ffbf54a2bf1cb780837224ce6.m3u8
-#EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京文艺.png" group-title="北京频道",北京文艺
-https://stream1.freetv.fun/79d8d6eefaf041aaa7191491097193fad58566b50eaca07bcb82d024cb81036e.ctv
-#EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京生活.png" group-title="北京频道",北京生活
-https://stream1.freetv.fun/eee2f771439b02e1c67272b823e65fdedb4905421c47151e48570f3cf5f86ed1.ctv
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/卡酷少儿.png" group-title="北京频道",北京卡酷少儿
-https://stream1.freetv.fun/5d69f6dee3b252dcd6757553b099a4f0741026abc91d6d8d14ef1c9ece616ee8.ctv
-#EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京影视.png" group-title="北京频道",北京影视
-https://stream1.freetv.fun/cdcfe3ec6cca2a8ba74df72bc575c307bbc69e2fbf4cce276ef60356af2c472b.ctv
-#EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京财经.png" group-title="北京频道",北京财经
-https://stream1.freetv.fun/e808f36c2927f45833d51a83d7566f663dda18e6b16e94c70455a93e84950db7.ctv
-#EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京体育休闲.png" group-title="北京频道",北京体育休闲
-https://stream1.freetv.fun/d23027b0f30091a7101077287bd4c992dbde838afc158ee59733e87107e4c755.ctv
-#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京纪实科教.png" group-title="北京频道",北京纪实科教
-https://stream1.freetv.fun/806203b1d14d78d01f55ea31e7ed18375c034f3cfb7d005a1b82d7ccc5884bb0.ctv
+#EXTINF:-1 tvg-name="北京国际" group-title="北京频道",北京国际[组播]
+http://114.243.109.163:8822/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京纪实科教.png" group-title="北京频道",北京纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 
@@ -505,34 +489,33 @@ https://livebjsy.chinamcache.com/live/zb01.m3u8
 #EXTINF:-1 tvg-id="北京石景山" tvg-name="北京石景山" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E7%9F%B3%E6%99%AF%E5%B1%B1.png" group-title="北京频道",北京-石景山
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 tvg-name="朝阳融媒" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E6%9C%9D%E9%98%B3.png" group-title="北京频道",朝阳融媒[组播]
-http://ikuai.zlsip.top:4022/rtp/239.3.1.163:8001
+http://123.117.39.86:88/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-id="北京延庆" tvg-name="北京延庆" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E5%BB%B6%E5%BA%86.png" group-title="北京频道",北京-北京延庆[组播]
-http://ikuai.zlsip.top:4022/rtp/239.3.1.187:8001
-
+http://123.117.39.86:88/rtp/239.3.1.187:8001
 #EXTINF:-1 tvg-name="通州融媒" group-title="北京频道",通州融媒[组播]
-http://ikuai.zlsip.top:4022/rtp/239.3.1.221:8001
+http://123.117.39.86:88/rtp/239.3.1.221:8001
 #EXTINF:-1 tvg-name="密云电视台" group-title="北京频道",密云电视台[组播]
-http://ikuai.zlsip.top:4022/rtp/239.3.1.154:8001
+http://123.117.39.86:88/rtp/239.3.1.154:8001
+
 #EXTINF:-1 tvg-id="北京萌宠" tvg-name="北京萌宠" group-title="北京频道",北京萌宠
-http://ikuai.zlsip.top:4022/rtp/239.3.1.102:8001
+http://123.117.39.86:88/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-id="北京iptv淘精彩" tvg-name="北京iptv淘精彩" group-title="北京频道",北京iptv淘精彩
-http://ikuai.zlsip.top:4022/rtp/239.3.1.178:8001
+http://123.117.39.86:88/rtp/239.3.1.178:8001
 #EXTINF:-1 tvg-id="北京淘baby" tvg-name="北京淘baby" group-title="北京频道",北京淘baby
-http://ikuai.zlsip.top:4022/rtp/239.3.1.238:8001
+http://123.117.39.86:88/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="北京淘" tvg-name="北京淘娱乐" group-title="北京频道",北京淘娱乐
-http://ikuai.zlsip.top:4022/rtp/239.3.1.100:8001
+http://123.117.39.86:88/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="北京大健康" tvg-name="北京大健康" group-title="北京频道",北京大健康
-http://ikuai.zlsip.top:4022/rtp/239.3.1.251:8001
-#EXTINF:-1 tvg-id="北京大健康" tvg-name="北京大健康" group-title="北京频道",北京大健康[备用ip]
-http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.251:8001
-#EXTINF:-1 tvg-id="BRTV8K2" tvg-name="BRTV8K2" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%998K.png" group-title="北京频道",北京纪实科教8K
-https://stream1.freetv.fun/fdf18c3c9e038a9d380d79d7db4af229f7ef534950a509e4cc9e58d88f05362f.m3u8
+http://123.117.39.86:88/rtp/239.3.1.251:8001
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E6%B7%98%E7%94%B5%E5%BD%B1.png" group-title="北京频道",北京淘电影
-http://ikuai.zlsip.top:4022/rtp/239.3.1.250:8001
+http://123.117.39.86:88/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E6%B7%98%E5%89%A7%E5%9C%BA.png" group-title="北京频道",北京淘剧场
-http://ikuai.zlsip.top:4022/rtp/239.3.1.95:8001
+http://123.117.39.86:88/rtp/239.3.1.95:8001
+
 #EXTINF:-1 tvg-id="北京iptv4K" tvg-name="北京iptv4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京IPTV4K.png" group-title="北京频道",北京iptv4K
 https://stream1.freetv.fun/ca73ddfb2395bd0630a74b007492e4cc2c7a2859e5bb9c8c5aacccb15287a2ff.ctv
+#EXTINF:-1 tvg-id="BRTV8K2" tvg-name="BRTV8K2" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%998K.png" group-title="北京频道",北京纪实科教8K
+https://stream1.freetv.fun/fdf18c3c9e038a9d380d79d7db4af229f7ef534950a509e4cc9e58d88f05362f.m3u8
 
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海东方卫视.png" group-title="上海频道",东方卫视
