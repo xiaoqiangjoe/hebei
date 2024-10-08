@@ -211,30 +211,34 @@ http://gslbservzqhsw.itv.cmvideo.cn/5000000007000010001/1.m3u8?channel-id=bestzb
 
 #EXTINF:-1 group-title="央视频",中国天气
 http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000005000031974/1.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="央视频",CCTV电视指南-黑龙联通
-http://bxny.667789.cn:55055/udp/229.58.190.191:5000
+
+
+#EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="央视频",CCTV电视指南-天津联通
+http://111.165.213.195:8000/udp/225.1.2.167:5002
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png" group-title="央视频",CCTV怀旧剧场
-http://bxny.667789.cn:55055/udp/229.58.190.78:5000
+http://111.165.213.195:8000/udp/225.1.2.173:5002
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png" group-title="央视频",CCTV风云剧场
-http://bxny.667789.cn:55055/udp/229.58.190.170:5000
+http://111.165.213.195:8000/udp/225.1.2.174:5002
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/blob/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png" group-title="央视频",CCTV女性时尚
-http://bxny.667789.cn:55055/udp/229.58.190.187:5000
+http://111.165.213.195:8000/udp/225.1.2.172:5002
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80.png" group-title="央视频",CCTV兵器科技
-http://bxny.667789.cn:55055/udp/229.58.190.189:5000
+http://111.165.213.195:8000/udp/225.1.2.166:5002
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png" group-title="央视频",CCTV第一剧场
-http://bxny.667789.cn:55055/udp/229.58.190.171:5000
+http://111.165.213.195:8000/udp/225.1.2.175:5002
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png" group-title="央视频",CCTV风云音乐
-http://bxny.667789.cn:55055/udp/229.58.190.188:5000
+http://111.165.213.195:8000/udp/225.1.2.176:5002
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="央视频",CCTV风云足球
-http://bxny.667789.cn:55055/udp/229.58.190.190:5000
+http://111.165.213.195:8000/udp/225.1.2.168:5002
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83.png" group-title="央视频",CCTV高尔夫网球
-http://bxny.667789.cn:55055/udp/229.58.190.11:5000
+http://111.165.213.195:8000/udp/225.1.2.169:5002
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png" group-title="央视频",CCTV央视台球
-http://bxny.667789.cn:55055/udp/229.58.190.193:5000
+http://111.165.213.195:8000/udp/225.1.2.170:5002
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png" group-title="央视频",CCTV央视文化精品
-http://bxny.667789.cn:55055/udp/229.58.190.57:5000
+http://111.165.213.195:8000/udp/225.1.2.177:5002
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png" group-title="央视频",CCTV世界地理
-http://bxny.667789.cn:55055/udp/229.58.190.175:5000
+http://111.165.213.195:8000/udp/225.1.2.171:5002
+
+
 
 
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E4%B8%AD%E5%A4%AE%E6%96%B0%E5%BD%B1%E4%B8%AD%E5%AD%A6%E7%94%9F.png" group-title="央视频",种养新影-中学生
