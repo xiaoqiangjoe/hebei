@@ -207,8 +207,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
 #EXTINF:-1 group-title="4K频道",欢笑剧场
 http://gslbserv.itv.cmvideo.cn/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
-#EXTINF:-1 group-title="4K频道",广东-南国都市4k
-http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+
 
 #EXTINF:-1 group-title="央视频",中国天气
 http://gslbserv.itv.cmvideo.cn/000000001000/5000000005000031974/1.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
@@ -3856,8 +3855,6 @@ http://localhost/dashboard/14_guangdong_guangzhou.php?id=ys
 http://localhost/dashboard/14_guangdong_guangzhou.php?id=fz
 #EXTINF:-1 group-title="广东频道",广东-南国都市
 http://localhost/dashboard/14_guangdong_guangzhou.php?id=ds
-#EXTINF:-1 group-title="广东频道",广东-南国都市4k
-http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 
 
 #EXTINF:-1 group-title="广东频道",广东-深圳卫视
