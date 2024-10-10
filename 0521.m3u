@@ -1844,38 +1844,24 @@ http://pili-live-hls.189.i2863.com/i2863-189/live_189_170656.m3u8
 http://pili-live-hls.188.i2863.com/i2863-188/live_188_430198.m3u8?sign=e4382c67bc77902120f4c228b6ca57e8&t=667bd08c
 #EXTINF:-1 group-title="山西频道",山西-柳林新闻综合[需要观察时效性]
 http://pili-live-hls.212.i2863.com/i2863-212/live_212_336940.m3u8
-#EXTINF:-1 group-title="山西频道",山西
+#EXTINF:-1 group-title="山西频道",山西-闻喜综合
 https://www.wxhcgbds.com:8081/channelTv/WXTV_1.flv
-#EXTINF:-1 group-title="山西频道",山西黎城综合
+#EXTINF:-1 group-title="山西频道",山西-黎城综合
 http://111.53.96.67:8081/live/1/index.m3u8
-#EXTINF:-1 group-title="山西频道",阳曲综合
+#EXTINF:-1 group-title="山西频道",山西-阳曲综合
 https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd
+#EXTINF:-1 group-title="山西频道",山西-襄汾综合
+http://7sycrzf7.live.sxmty.com/live/hls/da9222d15ce7491d85fe3519e5201df5/af161dfd2a434b22b3b75fdd72fb9038-1.m3u8
+#EXTINF:-1 group-title="山西频道",山西-潞城新闻综合
+http://59.48.42.6:62204/lucheng.m3u8
+#EXTINF:-1 group-title="山西频道",山西-汾西综合,
+https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
+#EXTINF:-1 group-title="山西频道",山西-定襄综合
+http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
+#EXTINF:-1 group-title="山西频道",山西-五台综合
+https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西卫视.png" group-title="陕西频道",陕西卫视
-http://gxlive.snrtv.com/sxws-SD.m3u8
-#EXTINF:-1 group-title="陕西频道",陕西农林卫视
-http://gxlive.snrtv.com/nlws-SD.m3u8
-#EXTINF:-1 tvg-id="陕西一套" tvg-name="陕西一套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西新闻资讯.png" group-title="陕西频道",陕西新闻资讯
-http://gxlive.snrtv.com/sx1-SD.m3u8
-#EXTINF:-1 tvg-id="陕西二套" tvg-name="陕西二套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西都市青春.png" group-title="陕西频道",陕西都市青春
-http://gxlive.snrtv.com/sx2-SD.m3u8
-#EXTINF:-1 tvg-id="陕西三套" tvg-name="陕西三套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西生活.png" group-title="陕西频道",陕西生活频道
-http://gxlive.snrtv.com/sx3-SD.m3u8
-#EXTINF:-1 tvg-id="陕西四套" tvg-name="陕西四套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西影视.png" group-title="陕西频道",陕西影视频道
-http://gxlive.snrtv.com/sx4-SD.m3u8
-#EXTINF:-1 tvg-id="陕西五套" tvg-name="陕西五套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西公共.png" group-title="陕西频道",陕西公共频道
-http://gxlive.snrtv.com/sx5-SD.m3u8
-#EXTINF:-1 tvg-id="陕西七套" tvg-name="陕西七套" group-title="陕西频道",陕西乐家购物
-http://gxlive.snrtv.com/sx6-SD.m3u8
-#EXTINF:-1 tvg-id="陕西八套" tvg-name="陕西八套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西体育休闲.png" group-title="陕西频道",陕西体育休闲
-http://gxlive.snrtv.com/sx7-SD.m3u8
-#EXTINF:-1 group-title="陕西频道",陕西西部电影
-http://gxlive.snrtv.com/sx8-SD.m3u8
-#EXTINF:-1 group-title="陕西频道",陕西移动频道
-http://stream.snrtv.com/sxbc-yd-uBDW46.m3u8
 #EXTINF:-1 group-title="陕西频道",西安一套
 http://localhost/dashboard/04_shan_xi_shanshipin.php?id=xazh
 #EXTINF:-1 group-title="陕西频道",榆林一套
@@ -1894,6 +1880,7 @@ http://localhost/dashboard/04_shan_xi_shanshipin.php?id=slzh
 http://localhost/dashboard/04_shan_xi_shanshipin.php?id=tczh
 #EXTINF:-1 group-title="陕西频道",杨凌一套
 http://localhost/dashboard/04_shan_xi_shanshipin.php?id=ylzhh
+
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西卫视.png" group-title="陕西频道",陕西卫视
 http://localhost/dashboard/04_shan_xi_shengji.php?id=sxws
 #EXTINF:-1 tvg-id="陕西一套" tvg-name="陕西一套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西新闻资讯.png" group-title="陕西频道",陕西新闻资讯
@@ -2901,6 +2888,9 @@ http://localhost/dashboard/08_hunan_qita.php?id=rlzh
 http://localhost/dashboard/08_hunan_qita.php?id=xtzh
 #EXTINF:-1 group-title="湖南频道",湖南-衡南电视台
 http://localhost/dashboard/08_hunan_qita.php?id=hnzh
+
+
+
 #EXTINF:-1 group-title="安徽频道",安徽-安徽卫视
 http://localhost/dashboard/09_anhui_shengji.php?id=ahws
 #EXTINF:-1 group-title="安徽频道",安徽-安徽经视
@@ -3079,6 +3069,12 @@ http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=dszh
 https://live.cnjxxw.com/hls/jxzh/playlist.m3u8
 #EXTINF:-1 group-title="安徽频道",安徽-阜南
 https://xhmm-new-live.media.xinhuamm.net/liveNoRecord/a42bf9ee9c224a44a393aafc33990c78_111ae5a842ff4b32ab277ed1d9e216c5.m3u8?auth_key=2017017629-3866c768f70a4b47a2352f7b746e7bc1-0-1470ba4cbd641cbe479da8838d3396da
+#EXTINF:-1 group-title="安徽频道",安徽-黄山新闻综合
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
+#EXTINF:-1 group-title="安徽频道",安徽-黄山公共生活
+http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
+
+
 #EXTINF:-1 group-title="西藏频道",西藏卫视
 http://localhost/dashboard/10_xizang_shengji.php?id=ws
 #EXTINF:-1 group-title="西藏频道",西藏卫视
@@ -3644,8 +3640,8 @@ http://localhost/dashboard/13_zhejiang_jiaxing.php?id=yhxwzh
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=csxwzh
 #EXTINF:-1 group-title="浙江频道",浙江-江山电视台
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=jstv
-#EXTINF:-1 group-title="浙江频道",浙江-衢江新闻综合(非全天候)
-http://localhost/dashboard/13_zhejiang_jiaxing.php?id=qjxwzh
+#EXTINF:-1 group-title="浙江频道",浙江-衢江新闻综合
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-苍南综合
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=cnzh
 #EXTINF:-1 group-title="浙江频道",浙江-永嘉综合
@@ -3798,10 +3794,12 @@ http://localhost/dashboard/13_zhejiang_jiaxing.php?id=dtzh
 http://play-sh13.quklive.com/live/1688012459764188.m3u8?auth_key=2028413596-fc5dc2320f7f48b98b2287e55a028b39-0-2d0ee22ce5009e44ff294c7ca34a6274
 #EXTINF:-1 group-title="浙江频道",浙江-龙游新闻综合
 http://play-sh13.quklive.com/live/1703570877483349.m3u8?auth_key=2028414694-515206b2ec504fa3bc90bb1ec3b0c48e-0-eeeeb3d5a8f8e5415142bf430b916d79
+#EXTINF:-1 group-title="浙江频道",浙江-龙游生活娱乐频道
+https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-龙泉新闻综合
 https://live-pull.newslqy.com/live/fmzb1682404988829.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-遂昌综合频道
-http://play-sh13.quklive.com/live/1708426592499070.m3u8?auth_key=2028414342-e92bda8423ad478c987a8b7ae82abe0e-0-c616f7fabb9675e1ed1d84d9edae7e07
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="浙江频道",浙江-青田电视台
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=qtds
 #EXTINF:-1 group-title="浙江频道",浙江-缙云综合
@@ -3954,7 +3952,10 @@ http://localhost/dashboard/14_guangdong_qingyuan.php?id=qywl
 http://localhost/dashboard/14_guangdong_shengji.php?id=dgzh
 #EXTINF:-1 group-title="广东频道",广东-东莞公共
 http://localhost/dashboard/14_guangdong_shengji.php?id=dggg
-
+#EXTINF:-1 group-title="广东频道",广东-综合
+http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
+#EXTINF:-1 group-title="广东频道",广东-梅州公共
+http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8
 #EXTINF:-1 group-title="广东频道",广东-中山新闻综合[组播]
 http://119.135.1.64:9999/udp/239.11.0.122:1025
 #EXTINF:-1 group-title="广东频道",广东-香山文化[组播]
@@ -4330,6 +4331,8 @@ http://localhost/dashboard/17_liaoniang_shengji.php?id=281
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=tlzh
 #EXTINF:-1 group-title="辽宁频道",朝阳新闻综合
 http://localhost/dashboard/17_liaoniang_shengji.php?id=282
+#EXTINF:-1 group-title="辽宁频道",朝阳新闻综合
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000282
 #EXTINF:-1 group-title="辽宁频道",本溪综合
 http://localhost/dashboard/17_liaoniang_shengji.php?id=312
 #EXTINF:-1 group-title="辽宁频道",连山区综合
