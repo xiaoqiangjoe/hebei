@@ -6554,12 +6554,12 @@ https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 
 
 
+
+
 #EXTINF:-1 group-title="港澳台2",Now Sports 618 欧洲杯
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-618
 #EXTINF:-1 group-title="港澳台2",Now Sports 619 欧洲杯
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-619
-#EXTINF:-1 group-title="港澳台2",澳门莲花卫视
-http://php.jdshipin.com:8880/xsj.php?id=lotustv
 #EXTINF:-1 group-title="港澳台2",Now Sports 英超1
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-premier-league1
 #EXTINF:-1 group-title="港澳台2",Now beIN SPORTS 1
@@ -6578,8 +6578,7 @@ http://php.jdshipin.com:8880/smt.php?id=inews_twn
 http://php.jdshipin.com:8880/xsj.php?id=rthk31
 #EXTINF:-1 group-title="港澳台2",美亚电影台
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-#EXTINF:-1 group-title="港澳台2",华丽翡翠台
-http://php.jdshipin.com:8880/smt.php?id=Wlt
+
 #EXTINF:-1 group-title="港澳台2",NowViu剧集台
 http://php.jdshipin.com:8880/xsj.php?id=now-viu-drama
 #EXTINF:-1 group-title="港澳台2",HOY国际财经
@@ -6610,16 +6609,29 @@ http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
 http://php.jdshipin.com:8880/xsj.php?id=gdty
 #EXTINF:-1 group-title="港澳台2",澳门莲花
 http://php.jdshipin.com:8880/amlh.php
-#EXTINF:-1 group-title="港澳台2",TVB翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
+
 #EXTINF:-1 group-title="港澳台2",重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 group-title="港澳台2",凤凰卫视
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="港澳台2",凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+
+#EXTINF:-1 group-title="港澳台2",华丽翡翠台
+http://php.jdshipin.com:8880/smt.php?id=Wlt
+#EXTINF:-1 group-title="港澳台2",TVB翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 group-title="港澳台2",华丽翡翠
 http://php.jdshipin.com:8880/smt.php?id=Wlt
+#EXTINF:-1 group-title="港澳台2",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1 group-title="港澳台2",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="港澳台2",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="港澳台2",翡翠台4K
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+
 #EXTINF:-1 group-title="港澳台2",凤凰卫视
 http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 #EXTINF:-1 group-title="港澳台2",重温经典
@@ -6670,8 +6682,8 @@ http://php.jdshipin.com:8880/xsj.php?id=now-sports-5
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-6
 #EXTINF:-1 group-title="港澳台2",Now Sports 7
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-7
-#EXTINF:-1 group-title="港澳台2",翡翠台4K
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+
+
 #EXTINF:-1 group-title="港澳台2",HBO Now115
 http://php.jdshipin.com:8880/xsj.php?id=Now-HBO
 #EXTINF:-1 group-title="港澳台2",MovieMovie
@@ -6680,14 +6692,10 @@ http://php.jdshipin.com:8880/xsj.php?id=moviemovie
 http://php.jdshipin.com:8880/xsj.php?id=now-golf2
 #EXTINF:-1 group-title="港澳台2",Now Golf 3
 http://php.jdshipin.com:8880/xsj.php?id=now-golf3
-#EXTINF:-1 group-title="港澳台2",翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
+
 #EXTINF:-1 group-title="港澳台2",明珠台
 http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-#EXTINF:-1 group-title="港澳台2",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1 group-title="港澳台2",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+
 #EXTINF:-1 group-title="港澳台2",TVB星河
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
 #EXTINF:-1 group-title="港澳台2",乐游
@@ -6702,8 +6710,6 @@ http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000003000000558
 #EXTINF:-1 group-title="港澳台2",TVB Plus
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-#EXTINF:-1 group-title="港澳台2",TVB Plus
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 #EXTINF:-1 group-title="港澳台2",TVBJade
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 #EXTINF:-1 group-title="港澳台2",Now NBA
@@ -6734,6 +6740,9 @@ http://php.jdshipin.com:8880/xsj.php?id=viutv
 http://php.jdshipin.com:8880/smt.php?id=j2_twn
 #EXTINF:-1 group-title="港澳台2",财经资讯台
 http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
+
+
+
 #EXTINF:-1 group-title="港澳台3",民视台湾台
 http://litv.zapi.us.kg/?id=4gtv-4gtv001
 #EXTINF:-1 group-title="港澳台3",民视
