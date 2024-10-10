@@ -364,16 +364,16 @@ http://ha.xushining.com:50000/udp/225.1.1.215:5002
 http://ha.xushining.com:50000/udp/225.1.1.214:5002
 #EXTINF:-1 group-title="电影频道",CHC家庭影院[天津联通]
 http://ha.xushining.com:50000/udp/225.1.1.213:5002
-#EXTINF:-1 group-title="教育频道",早期教育[天津联通]
+#EXTINF:-1 group-title="卫视频道",早期教育[天津联通]
 http://ha.xushining.com:50000/udp/225.1.2.207:5002
 
-#EXTINF:-1 group-title="教育频道",CETV1HD[北京联通]
+#EXTINF:-1 group-title="卫视频道",CETV1HD[北京联通]
 http://221.221.153.193:8888/rtp/239.3.1.57:8152
-#EXTINF:-1 group-title="教育频道",CETV2[北京联通]
+#EXTINF:-1 group-title="卫视频道",CETV2[北京联通]
 http://221.221.153.193:8888/rtp/239.3.1.54:4120
-#EXTINF:-1 group-title="教育频道",CETV3[北京联通]
+#EXTINF:-1 group-title="卫视频道",CETV3[北京联通]
 http://221.221.153.193:8888/rtp/239.3.1.55:4120
-#EXTINF:-1 group-title="教育频道",CETV4[北京联通]
+#EXTINF:-1 group-title="卫视频道",CETV4[北京联通]
 http://221.221.153.193:8888/rtp/239.3.1.56:4120
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
@@ -651,6 +651,8 @@ http://ha.xushining.com:50000/udp/225.1.2.14:5002
 https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8
 #EXTINF:-1 group-title="天津频道",天津-宝坻电视台
 https://player4.juyun.tv/tv/143100176.m3u8
+#EXTINF:-1 group-title="天津频道",天津-津南一套
+http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 
 
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="河北频道",河北卫视
@@ -1711,6 +1713,9 @@ http://localhost/dashboard/02_shandong_qita.php?id=dyklxw
 http://localhost/dashboard/02_shandong_qita.php?id=dyljzh
 #EXTINF:-1 group-title="山东频道",东营-利津文化生活
 http://localhost/dashboard/02_shandong_qita.php?id=dyljwh
+
+
+
 #EXTINF:-1 group-title="山西频道",山西卫视
 http://localhost/dashboard/03_shanxi_shengji.php?id=sxws
 #EXTINF:-1 group-title="山西频道",山西经济
@@ -1839,8 +1844,16 @@ http://pili-live-hls.189.i2863.com/i2863-189/live_189_170656.m3u8
 http://pili-live-hls.188.i2863.com/i2863-188/live_188_430198.m3u8?sign=e4382c67bc77902120f4c228b6ca57e8&t=667bd08c
 #EXTINF:-1 group-title="山西频道",山西-柳林新闻综合[需要观察时效性]
 http://pili-live-hls.212.i2863.com/i2863-212/live_212_336940.m3u8
-#EXTINF:-1 group-title="山西频道",山西卫视
+#EXTINF:-1 group-title="山西频道",山西
 https://www.wxhcgbds.com:8081/channelTv/WXTV_1.flv
+#EXTINF:-1 group-title="山西频道",山西黎城综合
+http://111.53.96.67:8081/live/1/index.m3u8
+#EXTINF:-1 group-title="山西频道",阳曲综合
+https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd
+
+
+
+
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西卫视.png" group-title="陕西频道",陕西卫视
 http://gxlive.snrtv.com/sxws-SD.m3u8
 #EXTINF:-1 group-title="陕西频道",陕西农林卫视
@@ -2083,18 +2096,18 @@ https://njzb.scnj.tv/hls_njtv_direct/9.m3u8
 http://110.189.153.160:1001/zhpd.flv
 #EXTINF:-1 group-title="四川频道",四川-自贡公共
 http://110.189.153.160:1002/ggpd.flv
-#EXTINF:-1 group-title="四川频道",四川-雅安新闻
-https://play.yunxya.com/channellive/xinwen.m3u8
-#EXTINF:-1 group-title="四川频道",四川-雅安文化生活
-https://play.yunxya.com/channellive/whsh.m3u8
-#EXTINF:-1 group-title="四川频道",四川-雅安文化生活
-https://m3u8channel.yunxya.com/nmip-media/channellive/channel100819/playlist.m3u8
 #EXTINF:-1 group-title="四川频道",四川-会东电视台
 http://live.schdxww.com:90/live/xwzh.m3u8
 #EXTINF:-1 group-title="四川频道",四川-昭觉电视台
 http://dcpull.sctvcloud.com/live/4bb3c2bd01881000e843b73a00000000/playlist.m3u8
 #EXTINF:-1 group-title="四川频道",四川-荥经综合
 http://localhost/dashboard/11_guizhou_liupanshui.php?id=yjzh
+#EXTINF:-1 group-title="四川频道",四川-雅安新闻
+https://play.yunxya.com/channellive/xinwen.m3u8
+#EXTINF:-1 group-title="四川频道",四川-雅安文化生活
+https://play.yunxya.com/channellive/whsh.m3u8
+#EXTINF:-1 group-title="四川频道",四川-雅安文化生活
+https://m3u8channel.yunxya.com/nmip-media/channellive/channel100819/playlist.m3u8
 #EXTINF:-1 group-title="四川频道",四川-雅安市名山区电视台
 http://localhost/dashboard/11_guizhou_liupanshui.php?id=yamszh
 #EXTINF:-1 group-title="四川频道",四川-宝兴电视台
@@ -2233,6 +2246,8 @@ http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
 http://palive.patv123.com:8091/live/xwpd_800K.m3u8?zsicd
 #EXTINF:-1 group-title="四川频道",四川-金川新闻综合
 http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",四川-金川乡村
+http://live.jinchuanrmt.com:90/live/jcxc.m3u8
 #EXTINF:-1 group-title="四川频道",四川-长宁综合
 http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
 #EXTINF:-1 group-title="四川频道",四川-青神综合
@@ -2272,7 +2287,7 @@ http://live.sfrmt.com:85/live/zhpd.m3u8
 #EXTINF:-1 group-title="四川频道",四川-苍溪电视台
 http://localhost/dashboard/05_sichuan_cangxi.php
 #EXTINF:-1 group-title="四川频道",四川-凉山新闻
-http://118.122.2.29:9999/hls/51/index.m3u8
+http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
 #EXTINF:-1 group-title="四川频道",四川-大竹新闻综合
 https://lmt.dazhutv.com/live1/live1.m3u8
 #EXTINF:-1 group-title="四川频道",四川-郫都新闻综合
@@ -2303,8 +2318,6 @@ http://localhost/dashboard/05_sichuan_comulnId.php?id=rxzh
 http://localhost/dashboard/05_sichuan_comulnId.php?id=nxzh
 #EXTINF:-1 group-title="四川频道",四川-筠连综合
 https://live.dameijunlian.cn/live1/live1.m3u8
-#EXTINF:-1 group-title="四川频道",四川-金川电视台
-http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 #EXTINF:-1 group-title="四川频道",四川-岳池综合
 http://localhost/dashboard/05_sichuan_yueci.php
 #EXTINF:-1 group-title="四川频道",四川-黑水综合
@@ -2359,6 +2372,12 @@ http://localhost/dashboard/05_sichuan_pull.php?id=jzzh
 http://localhost/dashboard/05_sichuan_leibo.php?id=lbzh
 #EXTINF:-1 group-title="四川频道",四川-乐山电视台
 http://localhost/dashboard/50_leshan.php
+#EXTINF:-1 group-title="四川频道",四川-乐山新闻综合
+https://stream1.freetv.fun/le-shan-xin-wen-zong-he-1.m3u8
+#EXTINF:-1 group-title="四川频道",四川-渠县新闻综合
+http://222.208.224.227:81/hls/cfp2p8m3.m3u8
+纳溪新闻,https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8?zsicd
+
 
 
 #EXTINF:-1 group-title="江西频道",江西-江西卫视
@@ -3780,7 +3799,7 @@ http://play-sh13.quklive.com/live/1688012459764188.m3u8?auth_key=2028413596-fc5d
 #EXTINF:-1 group-title="浙江频道",浙江-龙游新闻综合
 http://play-sh13.quklive.com/live/1703570877483349.m3u8?auth_key=2028414694-515206b2ec504fa3bc90bb1ec3b0c48e-0-eeeeb3d5a8f8e5415142bf430b916d79
 #EXTINF:-1 group-title="浙江频道",浙江-龙泉新闻综合
-http://play-sh13.quklive.com/live/1687165190567216.m3u8?auth_key=2028414202-0ffdfb3af5174f0a80ba56f4c31c1083-0-2fdcb5b6c33997fb8c3ed861e693508c
+https://live-pull.newslqy.com/live/fmzb1682404988829.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-遂昌综合频道
 http://play-sh13.quklive.com/live/1708426592499070.m3u8?auth_key=2028414342-e92bda8423ad478c987a8b7ae82abe0e-0-c616f7fabb9675e1ed1d84d9edae7e07
 #EXTINF:-1 group-title="浙江频道",浙江-青田电视台
@@ -5382,6 +5401,11 @@ https://live.gxrb.com.cn/gx/rongxian/index.m3u8
 https://live.gxrb.com.cn/gx/cenxi/index.m3u8
 #EXTINF:-1 group-title="广西频道",融水新闻综合
 https://live.gxrb.com.cn/gx/rongshui/index.m3u8
+#EXTINF:-1 group-title="广西频道",钦州综合
+http://www.dsmcloud.top:8888/udp/239.81.0.164:4056
+
+
+
 #EXTINF:-1 group-title="黑龙江频道",黑龙江卫视-1
 http://localhost/dashboard/24_heilongjiang_shengji.php?id=hljws
 #EXTINF:-1 group-title="黑龙江频道",黑龙江卫视-2
@@ -5590,6 +5614,8 @@ https://rmplive.hljtv.com/live/tahe.m3u8
 https://rmplive.hljtv.com/live/hegang.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-绥滨综合频道
 https://masterpull.hljtv.com/live/DQiqZPCj.m3u8
+
+
 #EXTINF:-1 group-title="青海频道",青海-青海卫视
 http://stream.qhbtv.com/qhws/playlist.m3u8?_upt=ccd8cdae1711212553
 #EXTINF:-1 group-title="青海频道",青海-青海卫视-格尔木官方
@@ -5654,6 +5680,10 @@ http://localhost/dashboard/30_qinghai_delingha.php?id=22
 http://localhost/dashboard/30_qinghai_delingha.php?id=24
 #EXTINF:-1 group-title="青海频道",青海-格尔木新闻综合频道
 http://localhost/dashboard/30_qinghai_geermu.php?id=1
+
+
+
+
 #EXTINF:-1 group-title="重庆频道",重庆-重庆先执行
 http://localhost/dashboard/cq/@@cqyx_uppd.php
 #EXTINF:-1 group-title="重庆频道",重庆-重庆卫视
@@ -5766,12 +5796,10 @@ http://localhost/dashboard/27_chongqin_cqyx2.php?id=hechuan
 http://localhost/dashboard/27_chongqin_cqyx2.php?id=kaizhouHD
 #EXTINF:-1 group-title="重庆频道",重庆-黔江综合
 http://localhost/dashboard/27_chongqin_cqyx2.php?id=qianjiang
-#EXTINF:-1 group-title="重庆频道",重庆-荣昌综合
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=rongchangHD
 #EXTINF:-1 group-title="重庆频道",重庆-铜梁综合
 http://localhost/dashboard/27_chongqin_cqyx2.php?id=tongliangzongheHD
-#EXTINF:-1 group-title="重庆频道",重庆-潼南综合
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=TNZH
+
+
 #EXTINF:-1 group-title="重庆频道",重庆-武隆综合
 http://localhost/dashboard/27_chongqin_cqyx2.php?id=wlzh
 #EXTINF:-1 group-title="重庆频道",重庆-巫溪综合
