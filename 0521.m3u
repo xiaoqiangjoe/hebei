@@ -6357,10 +6357,13 @@ http://37.27.111.214:8080/live/57/hls.m3u8
 http://37.27.111.214:8080/live/62/hls.m3u8
 #EXTINF:-1 group-title="台湾",寰宇新闻台湾台
 http://37.27.111.214:8080/live/63/hls.m3u8
+#EXTINF:-1 group-title="台湾",寰宇新闻台湾台
+http://cdn.iptv8k.top/dl/jspd.php?id=7
 #EXTINF:-1 group-title="台湾",全球财经HD
 http://37.27.111.214:8080/live/64/hls.m3u8
 #EXTINF:-1 group-title="台湾",寰宇财经
 http://37.27.111.214:8080/live/65/hls.m3u8
+
 
 #EXTINF:-1 group-title="台湾",ROCK Entertainment(娱乐频道)
 http://37.27.111.214:8080/live/70/hls.m3u8
