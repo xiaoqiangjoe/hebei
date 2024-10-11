@@ -3609,8 +3609,6 @@ http://localhost/dashboard/13_zhejiang_jiaxing.php?id=3
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=4
 #EXTINF:-1 group-title="浙江频道",浙江-舟山公共频道
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=5
-#EXTINF:-1 group-title="浙江频道",浙江-衢州新闻综合
-http://localhost/dashboard/13_zhejiang_jiaxing.php?id=6
 #EXTINF:-1 group-title="浙江频道",浙江-开化电视台
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=7
 
@@ -3628,7 +3626,7 @@ http://localhost/dashboard/13_zhejiang_jiaxing.php?id=dyxwzh
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=dyyssh
 #EXTINF:-1 group-title="浙江频道",浙江-天台和合频道
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=tthh
-#EXTINF:-1 group-title="浙江频道",浙江-庆元电视台
+#EXTINF:-1 group-title="浙江频道",浙江-庆元电视台(非全天候)
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=qytv
 #EXTINF:-1 group-title="浙江频道",浙江-云和新闻综合
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=yhxwzh
@@ -3641,7 +3639,7 @@ http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江-苍南综合
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=cnzh
 #EXTINF:-1 group-title="浙江频道",浙江-永嘉综合
-http://localhost/dashboard/13_zhejiang_jiaxing.php?id=yjzh
+http://localhost/dashboard/13_zhejiang_jiaxing.php?id=yjxwzh
 #EXTINF:-1 group-title="浙江频道",浙江-柯桥综合
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=kqzh
 #EXTINF:-1 group-title="浙江频道",嘉兴桐乡新闻综合
