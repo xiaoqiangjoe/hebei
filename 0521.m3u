@@ -6172,23 +6172,20 @@ http://37.27.111.214:8080/live/61/hls.m3u8
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾",东森超视HD
 rtmp://f13h.mine.nu/sat/tv331
-
-
 #EXTINF:-1 group-title="台湾",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 group-title="台湾",东森新闻美国
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",东森美洲
+http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾",东森电影台
 http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 
 #EXTINF:-1 group-title="台湾",中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-7.ctv
-#EXTINF:-1 group-title="台湾",中天新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv009
 #EXTINF:-1 group-title="台湾",中天娱乐台
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 group-title="台湾",中天娱乐台
-https://stream1.freetv.fun/906fb93843c17f791816b0a848312c306150cf5063d5fc384de85c88bc5700ad.m3u8
+
 
 #EXTINF:-1 group-title="台湾",TVBs欢乐台
 http://37.27.111.214:8080/live/24/hls.m3u8
@@ -6211,6 +6208,13 @@ http://61.221.215.25:8800/hls/1/index.m3u8
 #EXTINF:-1 group-title="台湾",中华小当家
 http://61.221.215.25:8800/hls/40/index.m3u8
 
+
+#EXTINF:-1 group-title="台湾",三立都会台
+http://211.72.65.236:8550/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+#EXTINF:-1 group-title="台湾",三立新闻
+http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+#EXTINF:-1 group-title="台湾",三立台湾台
+http://211.72.65.236:8550/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 #EXTINF:-1 group-title="台湾",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 group-title="台湾",三立综合台
@@ -6229,6 +6233,10 @@ http://61.221.215.25:8800/hls/39/index.m3u8
 http://61.221.215.25:8800/hls/55/index.m3u8
 #EXTINF:-1 group-title="台湾",八大综合
 http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="台湾",八大精彩
+https://stream1.freetv.fun/ba-da-jing-cai-3.m3u8
+#EXTINF:-1 group-title="台湾",八大精彩此
+http://4gtv.kakaxi-1.ink:9999/litv/4gtv-4gtv034
 
 #EXTINF:-1 group-title="台湾",amc电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
@@ -6776,8 +6784,6 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv004
 http://litv.zapi.us.kg/?id=litv-ftv09
 #EXTINF:-1 group-title="港澳台3",猪哥秀
 http://litv.zapi.us.kg/?id=4gtv-4gtv006
-#EXTINF:-1 group-title="港澳台3",中天新闻
-http://litv.zapi.us.kg/?id=4gtv-4gtv009
 #EXTINF:-1 group-title="港澳台3",非凡新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv010
 #EXTINF:-1 group-title="港澳台3",FGM
@@ -6794,8 +6800,7 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv017
 #EXTINF:-1 group-title="港澳台3",？
 http://litv.zapi.us.kg/?id=4gtv-4gtv018
 
-#EXTINF:-1 group-title="港澳台3",八大精彩
-http://litv.zapi.us.kg/?id=4gtv-4gtv034
+
 #EXTINF:-1 group-title="港澳台3",?
 http://litv.zapi.us.kg/?id=4gtv-4gtv039
 #EXTINF:-1 group-title="港澳台3",中视新闻
