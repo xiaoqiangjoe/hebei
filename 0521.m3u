@@ -6039,7 +6039,8 @@ http://117.114.153.18:8180/TV00000000000000000071@HHZT
 http://ayolee.com:5253/udp/239.93.1.10:2193
 #EXTINF:-1 group-title="香港",CHANNEL-V[四川组播]
 http://117.114.153.18:8180/TV00000000000000000067@HHZT
-
+#EXTINF:-1 group-title="香港",onetv
+http://play2.one-tv.com/live/onetv.m3u8
 #EXTINF:-1 group-title="香港",環球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="香港",香港環球衛視
