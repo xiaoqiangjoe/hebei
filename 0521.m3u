@@ -6251,14 +6251,8 @@ http://61.221.215.25:8800/hls/51/index.m3u8
 #EXTINF:-1 group-title="台湾",动物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
 
-#EXTINF:-1 group-title="台湾",纬来精彩
-http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 group-title="台湾",纬来体育
-rtmp://f13h.mine.nu:1935/sat/tv721
-#EXTINF:-1 group-title="台湾",纬来育乐
-rtmp://f13h.mine.nu:1935/sat/tv701
-#EXTINF:-1 group-title="台湾",纬来日本
-rtmp://f13h.mine.nu:1935/sat/tv771
+
+
 #EXTINF:-1 group-title="台湾",创世.电视
 https://cdn.deepcore.online/hlsme/ctv_hk.m3u8?zgangd
 #EXTINF:-1 group-title="台湾",MoMoTVHD
@@ -6285,6 +6279,17 @@ http://37.27.111.214:8080/live/2/hls.m3u8
 
 #EXTINF:-1 group-title="台湾",MOMO亲子台（合并了纬来儿童台）
 http://37.27.111.214:8080/live/3/hls.m3u8
+#EXTINF:-1 group-title="台湾",纬来精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="台湾",纬来体育
+rtmp://f13h.mine.nu:1935/sat/tv721
+#EXTINF:-1 group-title="台湾",纬来育乐
+rtmp://f13h.mine.nu:1935/sat/tv701
+#EXTINF:-1 group-title="台湾",纬来日本
+rtmp://f13h.mine.nu:1935/sat/tv771
+#EXTINF:-1 group-title="台湾",纬来电影
+http://211.72.65.236:8550/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+
 
 #EXTINF:-1 group-title="台湾",TV5MONDE(法语电视台)
 http://37.27.111.214:8080/live/9/hls.m3u8
