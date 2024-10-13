@@ -5195,6 +5195,25 @@ https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8
 http://localhost/dashboard/58_hbky.php?id=bcxw
 #EXTINF:-1 group-title="云南频道",瑞丽综合
 http://channel.rlrmtzx.com/nmip-media/channellive/channel100728/playlist.m3u8
+
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/内蒙古卫视.png" group-title="内蒙古频道",内蒙古卫视[官方]
+http://localhost/dashboard/22_neimenggu_shengji.php?id=nmws
+#EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-name="内蒙古新闻综合" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/内蒙古新闻综合.png" group-title="内蒙古频道",内蒙古新闻综合
+http://localhost/dashboard/22_neimenggu_shengji.php?id=nmxwzh
+#EXTINF:-1 tvg-id="内蒙古经济生活" tvg-name="内蒙古经济生活" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/内蒙古经济生活.png" group-title="内蒙古频道",内蒙古经济生活
+http://localhost/dashboard/22_neimenggu_shengji.php?id=nmjjsh
+#EXTINF:-1 tvg-id="内蒙古少儿" tvg-name="内蒙古少儿" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/内蒙古少儿.png" group-title="内蒙古频道",内蒙古少儿频道
+http://localhost/dashboard/22_neimenggu_shengji.php?id=nmse
+#EXTINF:-1 tvg-id="内蒙古文体娱乐" tvg-name="内蒙古文体娱乐" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/内蒙古文体娱乐.png" group-title="内蒙古频道",内蒙古文体娱乐
+http://localhost/dashboard/22_neimenggu_shengji.php?id=nmwtyl
+#EXTINF:-1 tvg-id="内蒙古农牧" tvg-name="内蒙古农牧" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/内蒙古农牧.png" group-title="内蒙古频道",内蒙古农牧频道
+http://localhost/dashboard/22_neimenggu_shengji.php?id=nmnm
+#EXTINF:-1 tvg-id="内蒙古蒙语卫视" tvg-name="内蒙古蒙语卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/内蒙古蒙语卫视.png" group-title="内蒙古频道",内蒙古蒙语卫视
+http://localhost/dashboard/22_neimenggu_shengji.php?id=nmmyws
+#EXTINF:-1 tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/内蒙古蒙语文化.png" group-title="内蒙古频道",内蒙古蒙语文化
+http://localhost/dashboard/22_neimenggu_shengji.php?id=nmwh
+
+
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/内蒙古卫视.png" group-title="内蒙古频道",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 #EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-name="内蒙古新闻综合" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/内蒙古新闻综合.png" group-title="内蒙古频道",内蒙古新闻综合
@@ -5211,6 +5230,9 @@ https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 #EXTINF:-1 tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/内蒙古蒙语文化.png" group-title="内蒙古频道",内蒙古蒙语文化
 https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
+
+
+
 #EXTINF:-1 group-title="内蒙古频道",内蒙古-鄂尔多斯新闻综合
 http://localhost/dashboard/26_beijing_yanqing.php?id=eedszh
 #EXTINF:-1 group-title="内蒙古频道",内蒙古-鄂尔多斯经济服务
@@ -5829,22 +5851,8 @@ http://localhost/dashboard/28_jilin_shengji.php?id=jlys
 http://localhost/dashboard/28_jilin_shengji.php?id=jlds
 
 
-#EXTINF:-1 group-title="吉林频道",吉林-吉林卫视高清
-http://localhost/dashboard/28_jilin_xianji.php?id=351
-#EXTINF:-1 group-title="吉林频道",吉林-都市频道高清
-http://localhost/dashboard/28_jilin_xianji.php?id=317
-#EXTINF:-1 group-title="吉林频道",吉林-戏曲频道高清
-http://localhost/dashboard/28_jilin_xianji.php?id=319
-#EXTINF:-1 group-title="吉林频道",吉林-影视频道高清
-http://localhost/dashboard/28_jilin_xianji.php?id=352
-#EXTINF:-1 group-title="吉林频道",吉林-生活频道高清
-http://localhost/dashboard/28_jilin_xianji.php?id=354
-#EXTINF:-1 group-title="吉林频道",吉林-乡村频道高清
-http://localhost/dashboard/28_jilin_xianji.php?id=356
-#EXTINF:-1 group-title="吉林频道",吉林-公共频道高清
-http://localhost/dashboard/28_jilin_xianji.php?id=358
-#EXTINF:-1 group-title="吉林频道",吉林-综艺频道高清
-http://localhost/dashboard/28_jilin_xianji.php?id=362
+
+
 #EXTINF:-1 group-title="吉林频道",吉林-吉林县
 http://localhost/dashboard/50_quxian_qita.php?id=jxzh
 #EXTINF:-1 group-title="吉林频道",吉林-长春综合
@@ -5871,8 +5879,10 @@ http://localhost/dashboard/28_jilin_yanbian.php?id=ybtv1
 http://localhost/dashboard/28_jilin_yanbian.php?id=ybtv2
 #EXTINF:-1 group-title="吉林频道",吉林-永吉综合频道
 http://stream10.jlntv.cn/yongji/sd/live.m3u8
+
 #EXTINF:-1 group-title="吉林频道",吉林-雾凇台
 http://localhost/dashboard/28_jilin_wusong.php
+
 #EXTINF:-1 group-title="吉林频道",吉林-家有购物
 http://localhost/dashboard/28_jilin_xianji.php?id=14
 #EXTINF:-1 group-title="吉林频道",吉林-长春-1
@@ -5969,6 +5979,8 @@ http://localhost/dashboard/28_jilin_xianji.php?id=248
 http://localhost/dashboard/28_jilin_xianji.php?id=252
 #EXTINF:-1 group-title="吉林频道",吉林-桦甸综合
 http://localhost/dashboard/28_jilin_xianji.php?id=259
+
+
 #EXTINF:-1 group-title="吉林频道",吉林-长春九台区电视台
 http://stream10.jlntv.cn/jiutaitv/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",长白山综合
