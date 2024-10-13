@@ -5812,21 +5812,23 @@ http://localhost/dashboard/27_chongqin_cqyx2.php?id=youyang
 
 
 #EXTINF:-1 group-title="吉林频道",吉林-吉林卫视频道
-http://localhost/dashboard/28_jilin_shengji.php?id=351
+http://localhost/dashboard/28_jilin_shengji.php?id=jlws
 #EXTINF:-1 group-title="吉林频道",吉林-吉林综艺文化
-http://localhost/dashboard/28_jilin_shengji.php?id=362
+http://localhost/dashboard/28_jilin_shengji.php?id=jlzywh
 #EXTINF:-1 group-title="吉林频道",吉林-吉林东北戏曲
 http://localhost/dashboard/28_jilin_shengji.php?id=319
 #EXTINF:-1 group-title="吉林频道",吉林-吉林公共频道
-http://localhost/dashboard/28_jilin_shengji.php?id=358
+http://localhost/dashboard/28_jilin_shengji.php?id=jlggxw
 #EXTINF:-1 group-title="吉林频道",吉林-吉林乡村频道
-http://localhost/dashboard/28_jilin_shengji.php?id=356
+http://localhost/dashboard/28_jilin_shengji.php?id=jldbxq
 #EXTINF:-1 group-title="吉林频道",吉林-吉林生活频道
-http://localhost/dashboard/28_jilin_shengji.php?id=354
+http://localhost/dashboard/28_jilin_shengji.php?id=jlsh
 #EXTINF:-1 group-title="吉林频道",吉林-吉林影视频道
-http://localhost/dashboard/28_jilin_shengji.php?id=352
+http://localhost/dashboard/28_jilin_shengji.php?id=jlys
 #EXTINF:-1 group-title="吉林频道",吉林-吉林都市频道
-http://localhost/dashboard/28_jilin_shengji.php?id=317
+http://localhost/dashboard/28_jilin_shengji.php?id=jlds
+
+
 #EXTINF:-1 group-title="吉林频道",吉林-吉林卫视高清
 http://localhost/dashboard/28_jilin_xianji.php?id=351
 #EXTINF:-1 group-title="吉林频道",吉林-都市频道高清
