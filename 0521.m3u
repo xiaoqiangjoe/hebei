@@ -5883,20 +5883,13 @@ http://stream10.jlntv.cn/yongji/sd/live.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-雾凇台
 http://localhost/dashboard/28_jilin_wusong.php
 
-#EXTINF:-1 group-title="吉林频道",吉林-家有购物
-http://localhost/dashboard/28_jilin_xianji.php?id=14
-#EXTINF:-1 group-title="吉林频道",吉林-长春-1
-http://localhost/dashboard/28_jilin_xianji.php?id=24
+
 #EXTINF:-1 group-title="吉林频道",吉林-吉林市-1
 http://localhost/dashboard/28_jilin_xianji.php?id=25
 #EXTINF:-1 group-title="吉林频道",吉林-辽源新闻综合频道
 http://localhost/dashboard/28_jilin_xianji.php?id=27
-#EXTINF:-1 group-title="吉林频道",吉林-新闻频道
-http://localhost/dashboard/28_jilin_xianji.php?id=28
 #EXTINF:-1 group-title="吉林频道",吉林-白城-1
 http://localhost/dashboard/28_jilin_xianji.php?id=31
-#EXTINF:-1 group-title="吉林频道",吉林-延边-1
-http://localhost/dashboard/28_jilin_xianji.php?id=32
 #EXTINF:-1 group-title="吉林频道",吉林-四平-1
 http://localhost/dashboard/28_jilin_xianji.php?id=75
 #EXTINF:-1 group-title="吉林频道",吉林-松原新闻综合频道
@@ -5914,79 +5907,79 @@ http://localhost/dashboard/28_jilin_xianji.php?id=94
 #EXTINF:-1 group-title="吉林频道",吉林-梅河口综合频道
 http://localhost/dashboard/28_jilin_xianji.php?id=108
 #EXTINF:-1 group-title="吉林频道",吉林-磐石综合
-http://localhost/dashboard/28_jilin_xianji.php?id=130
+http://stream5.jlntv.cn/ps/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-柳河综合频道
-http://localhost/dashboard/28_jilin_xianji.php?id=131
+http://stream5.jlntv.cn/lh/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-公主岭综合频道
-http://localhost/dashboard/28_jilin_xianji.php?id=132
+http://stream5.jlntv.cn/gzl/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-汪清
-http://localhost/dashboard/28_jilin_xianji.php?id=133
+http://stream5.jlntv.cn/wq/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-双辽新闻综合频道
-http://localhost/dashboard/28_jilin_xianji.php?id=134
+http://stream5.jlntv.cn/sl/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-伊通电视
-http://localhost/dashboard/28_jilin_xianji.php?id=138
+http://stream6.jlntv.cn/yt/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-通化县电视
-http://localhost/dashboard/28_jilin_xianji.php?id=140
+http://stream5.jlntv.cn/thx/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-东丰综合频道
-http://localhost/dashboard/28_jilin_xianji.php?id=142
+http://stream5.jlntv.cn/df/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-东辽综合频道
-http://localhost/dashboard/28_jilin_xianji.php?id=144
+http://stream5.jlntv.cn/dl/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-辉南新闻综合频道
-http://localhost/dashboard/28_jilin_xianji.php?id=146
+http://stream5.jlntv.cn/hn/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-图们一套
-http://localhost/dashboard/28_jilin_xianji.php?id=149
+http://stream6.jlntv.cn/tm/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-通榆电视
-http://localhost/dashboard/28_jilin_xianji.php?id=150
+http://stream6.jlntv.cn/ty/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-大安电视
-http://localhost/dashboard/28_jilin_xianji.php?id=151
+http://stream6.jlntv.cn/da/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-镇赉电视
-http://localhost/dashboard/28_jilin_xianji.php?id=152
+http://stream6.jlntv.cn/zl/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-扶余电视
-http://localhost/dashboard/28_jilin_xianji.php?id=153
+http://stream6.jlntv.cn/fy/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-乾安电视
-http://localhost/dashboard/28_jilin_xianji.php?id=154
+http://stream6.jlntv.cn/qa/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-梨树电视
-http://localhost/dashboard/28_jilin_xianji.php?id=155
+http://stream6.jlntv.cn/ls/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-延吉电视台一套
-http://localhost/dashboard/28_jilin_xianji.php?id=163
+http://stream6.jlntv.cn/yj/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-洮南电视
-http://localhost/dashboard/28_jilin_xianji.php?id=166
+http://stream5.jlntv.cn/tn/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-抚松电视
-http://localhost/dashboard/28_jilin_xianji.php?id=169
+http://stream8.jlntv.cn/fs/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-舒兰电视台
-http://localhost/dashboard/28_jilin_xianji.php?id=171
+http://stream8.jlntv.cn/shulan/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-临江电视
-http://localhost/dashboard/28_jilin_xianji.php?id=173
+http://stream8.jlntv.cn/linjiang/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-靖宇综合频道
-http://localhost/dashboard/28_jilin_xianji.php?id=177
+http://stream8.jlntv.cn/jytv/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-龙井电视台综合频道
-http://localhost/dashboard/28_jilin_xianji.php?id=191
+http://stream8.jlntv.cn/ljtv/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-珲春电视
-http://localhost/dashboard/28_jilin_xianji.php?id=195
+http://stream8.jlntv.cn/hctv/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-白山综合
 http://localhost/dashboard/28_jilin_xianji.php?id=200
-#EXTINF:-1 group-title="吉林频道",吉林-白山旅游生活
-http://stream8.jlntv.cn/baishan2/sd/live.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-永吉综合
-http://localhost/dashboard/28_jilin_xianji.php?id=208
+http://stream10.jlntv.cn/yongji/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-江源一套
-http://localhost/dashboard/28_jilin_xianji.php?id=212
-#EXTINF:-1 group-title="吉林频道",吉林-九台融媒综合频道
-http://localhost/dashboard/28_jilin_xianji.php?id=226
+http://stream10.jlntv.cn/jiangyuantv/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-双阳电视
-http://localhost/dashboard/28_jilin_xianji.php?id=248
+http://stream11.jlntv.cn/shuangyang/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-德惠电视
-http://localhost/dashboard/28_jilin_xianji.php?id=252
+http://stream11.jlntv.cn/dehuitv/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-桦甸综合
-http://localhost/dashboard/28_jilin_xianji.php?id=259
-
-
+http://stream10.jlntv.cn/huadian/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",吉林-长春九台区电视台
 http://stream10.jlntv.cn/jiutaitv/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",长白山综合
 http://stream8.jlntv.cn/cbstv/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",敦化一套
 http://stream8.jlntv.cn/dhtv/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="宁夏频道",宁夏卫视
 https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 #EXTINF:-1 group-title="宁夏频道",宁夏公共
