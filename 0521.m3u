@@ -196,7 +196,7 @@ http://localhost/dashboard/60_yst3.php?id=cctv17
 #EXTINF:-1 group-title="ysp3",CCTV-5+
 http://localhost/dashboard/60_yst3.php?id=cctv5p
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4K.png" group-title="4K频道",CCTV-4K 超高清-河北联通组播
-http://60.7.56.33:4000/rtp/239.253.93.134:6631
+http://101.27.106.176:8888/rtp/239.253.93.134:6631
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV16.png" group-title="ysp3",cctv16-4K
 http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1 group-title="4K频道",纯享4K
@@ -368,13 +368,13 @@ http://ha.xushining.com:50000/udp/225.1.1.213:5002
 http://ha.xushining.com:50000/udp/225.1.2.207:5002
 
 #EXTINF:-1 group-title="卫视频道",CETV1HD[北京联通]
-http://221.221.153.193:8888/rtp/239.3.1.57:8152
+http://114.254.94.146:2222/rtp/239.3.1.57:8152
 #EXTINF:-1 group-title="卫视频道",CETV2[北京联通]
-http://221.221.153.193:8888/rtp/239.3.1.54:4120
+http://114.254.94.146:2222/rtp/239.3.1.54:4120
 #EXTINF:-1 group-title="卫视频道",CETV3[北京联通]
-http://221.221.153.193:8888/rtp/239.3.1.55:4120
+http://114.254.94.146:2222/rtp/239.3.1.55:4120
 #EXTINF:-1 group-title="卫视频道",CETV4[北京联通]
-http://221.221.153.193:8888/rtp/239.3.1.56:4120
+http://114.254.94.146:2222/rtp/239.3.1.56:4120
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -472,7 +472,7 @@ http://localhost/dashboard/26_beijing_shengji.php?id=bjxw
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/卡酷少儿.png" group-title="北京频道",北京卡酷少儿-btime
 http://localhost/dashboard/26_beijing_shengji.php?id=bjkk
 #EXTINF:-1 tvg-name="北京国际" group-title="北京频道",北京国际[组播]
-http://221.221.153.193:8888/rtp/239.3.1.235:8000
+http://114.254.94.146:2222/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京纪实科教.png" group-title="北京频道",北京纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 
@@ -492,29 +492,30 @@ http://localhost/dashboard/26_beijing_yanqing.php?id=bjyq
 https://livebjsy.chinamcache.com/live/zb01.m3u8
 #EXTINF:-1 tvg-id="北京石景山" tvg-name="北京石景山" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E7%9F%B3%E6%99%AF%E5%B1%B1.png" group-title="北京频道",北京-石景山
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
+
 #EXTINF:-1 tvg-name="朝阳融媒" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E6%9C%9D%E9%98%B3.png" group-title="北京频道",朝阳融媒[组播]
-http://221.221.153.193:8888/rtp/239.3.1.163:8001
+http://114.254.94.146:2222/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-id="北京延庆" tvg-name="北京延庆" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E5%BB%B6%E5%BA%86.png" group-title="北京频道",北京-北京延庆[组播]
-http://221.221.153.193:8888/rtp/239.3.1.187:8001
+http://114.254.94.146:2222/rtp/239.3.1.187:8001
 #EXTINF:-1 tvg-name="通州融媒" group-title="北京频道",通州融媒[组播]
-http://221.221.153.193:8888/rtp/239.3.1.221:8001
+http://114.254.94.146:2222/rtp/239.3.1.221:8001
 #EXTINF:-1 tvg-name="密云电视台" group-title="北京频道",密云电视台[组播]
-http://221.221.153.193:8888/rtp/239.3.1.154:8001
+http://114.254.94.146:2222/rtp/239.3.1.154:8001
 
 #EXTINF:-1 tvg-id="北京萌宠" tvg-name="北京萌宠" group-title="北京频道",北京萌宠
-http://221.221.153.193:8888/rtp/239.3.1.102:8001
+http://114.254.94.146:2222/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-id="北京iptv淘精彩" tvg-name="北京iptv淘精彩" group-title="北京频道",北京iptv淘精彩
-http://221.221.153.193:8888/rtp/239.3.1.178:8001
+http://114.254.94.146:2222/rtp/239.3.1.178:8001
 #EXTINF:-1 tvg-id="北京淘baby" tvg-name="北京淘baby" group-title="北京频道",北京淘baby
-http://221.221.153.193:8888/rtp/239.3.1.238:8001
+http://114.254.94.146:2222/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="北京淘" tvg-name="北京淘娱乐" group-title="北京频道",北京淘娱乐
-http://221.221.153.193:8888/rtp/239.3.1.100:8001
+http://114.254.94.146:2222/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="北京大健康" tvg-name="北京大健康" group-title="北京频道",北京大健康
-http://221.221.153.193:8888/rtp/239.3.1.251:8001
+http://114.254.94.146:2222/rtp/239.3.1.251:8001
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E6%B7%98%E7%94%B5%E5%BD%B1.png" group-title="北京频道",北京淘电影
-http://221.221.153.193:8888/rtp/239.3.1.250:8001
+http://114.254.94.146:2222/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E6%B7%98%E5%89%A7%E5%9C%BA.png" group-title="北京频道",北京淘剧场
-http://221.221.153.193:8888/rtp/239.3.1.95:8001
+http://114.254.94.146:2222/rtp/239.3.1.95:8001
 
 #EXTINF:-1 tvg-id="北京iptv4K" tvg-name="北京iptv4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京IPTV4K.png" group-title="北京频道",北京iptv4K
 https://stream1.freetv.fun/ca73ddfb2395bd0630a74b007492e4cc2c7a2859e5bb9c8c5aacccb15287a2ff.ctv
@@ -655,6 +656,7 @@ https://player4.juyun.tv/tv/143100176.m3u8
 http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 
 
+
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="河北频道",河北卫视
 http://localhost/dashboard/01_hebei_shengji.php?id=hbws
 #EXTINF:-1 group-title="河北频道",河北-经济生活
@@ -671,6 +673,7 @@ http://localhost/dashboard/01_hebei_shengji.php?id=sekj
 http://localhost/dashboard/01_hebei_shengji.php?id=hbgg
 #EXTINF:-1 group-title="河北频道",河北-三佳购物
 http://localhost/dashboard/01_hebei_shengji.php?id=sjgw
+
 
 #EXTINF:-1 group-title="河北频道",河北卫视-静态
 http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
@@ -689,12 +692,9 @@ http://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=2510710360&k=2d3ada9117a7f
 #EXTINF:-1 group-title="河北频道",河北经济-静态
 http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=878ace626abc063571a3ddff9ec396a3
 
-#EXTINF:-1 group-title="河北频道",河北-河北杂技
-http://101.27.106.176:8888/rtp/239.254.201.139:7203
-#EXTINF:-1 group-title="河北频道",河北-河北收视指南
-http://localhost/dashboard/otv.php?id=13010
-#EXTINF:-1 group-title="河北频道",河北-睛彩河北
-http://60.7.56.33:4000/rtp/239.253.92.104:6221
+#EXTINF:-1 group-title="河北频道",河北-河北杂技[电信]
+http://111.227.202.212:4022/rtp/239.254.201.139:7203
+
 
 #EXTINF:-1 group-title="河北频道",河北-石家庄新闻
 http://localhost/dashboard/01_hebei_shijiazhuang.php?id=sjzxw
@@ -748,30 +748,36 @@ http://live.bdgdw.com/channel2/playlist.m3u8?_upt=aba7fe801725350911
 http://live.bdgdw.com/channel3/playlist.m3u8?_upt=6d59246b1725350917
 #EXTINF:-1 group-title="河北频道",河北-涞水新闻频道
 https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
+
+
+#EXTINF:-1 group-title="河北频道",河北-睛彩河北
+http://60.7.56.33:4000/rtp/239.253.92.104:6221
 #EXTINF:-1 group-title="河北频道",河北-唐山新闻综合[组播]
-http://60.7.56.33:4000/rtp/239.253.92.245:6089
-#EXTINF:-1 group-title="河北频道",河北-唐山生活服务-otv
-http://60.7.56.33:4000/rtp/239.253.92.126:6026
+http://111.227.202.212:4022/rtp/239.254.200.166:6000
+#EXTINF:-1 group-title="河北频道",河北-唐山生活服务[组播]
+http://111.227.202.212:4022/rtp/239.254.200.167:6000
 #EXTINF:-1 group-title="河北频道",河北-唐山影视频道[组播]
-http://60.7.56.33:4000/rtp/239.253.92.127:6027
+http://111.227.202.212:4022/rtp/239.254.200.168:6000
 #EXTINF:-1 group-title="河北频道",河北-唐山公共频道[组播]
-http://60.7.56.33:4000/rtp/239.253.92.128:6028
+http://111.227.202.212:4022/rtp/239.254.200.169:6000
 #EXTINF:-1 group-title="河北频道",河北-唐山迁安
 http://jwplay.hebyun.com.cn/live/jiuyunqianan/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",河北-唐山玉田
 https://p2bj.vzan.com/slowlive/743175440646736781/live.m3u8
 #EXTINF:-1 group-title="河北频道",香河电视[组播]
-http://60.7.56.33:4000/rtp/239.253.92.185:6049
+http://111.227.202.212:4022/rtp/239.254.201.32:5306
+#EXTINF:-1 group-title="河北频道",香河电视2[组播]
+http://27.188.111.176:9009/rtp/239.254.201.32:5306
 #EXTINF:-1 group-title="河北频道",秦皇岛综合[组播]
-http://60.7.56.33:4000/udp/239.253.92.52:6021
+http://111.227.202.212:4022/rtp/239.254.200.39:6000
 #EXTINF:-1 group-title="河北频道",秦皇岛公共[组播]
-http://60.7.56.33:4000/udp/239.253.92.53:6022
+http://111.227.202.212:4022/rtp/239.254.200.40:6000
 #EXTINF:-1 group-title="河北频道",秦皇岛影视[组播]
-http://60.7.56.33:4000/udp/239.253.92.54:6023
+http://111.227.202.212:4022/rtp/239.254.200.41:6000
 #EXTINF:-1 group-title="河北频道",河北-廊坊综合[组播]
-http://60.7.56.33:4000/udp/239.253.92.164:6036
+http://111.227.202.212:4022/rtp/239.254.200.183:6000
 #EXTINF:-1 group-title="河北频道",河北-廊坊公共[组播]
-http://60.7.56.33:4000/udp/239.253.92.166:6037
+http://111.227.202.212:4022/rtp/239.254.200.184:6000
 #EXTINF:-1 group-title="河北频道",河北-廊坊综合
 rtmp://222.222.126.18/live/lfxw
 #EXTINF:-1 group-title="河北频道",河北-廊坊公共
@@ -828,219 +834,220 @@ https://tvnew.lnshw.com.cn:58123/live/lntv1.m3u8
 https://tvnew.lnshw.com.cn:58123/live/lntv2.m3u8
 
 #EXTINF:-1 group-title="河北频道",河北-保定新闻
-http://60.7.56.33:4000/rtp/239.254.200.144:6000
+http://111.227.202.212:4022/rtp/239.254.200.144:6000
 #EXTINF:-1 group-title="河北频道",河北-保定公共
-http://60.7.56.33:4000/rtp/239.254.200.145:6000
+http://111.227.202.212:4022/rtp/239.254.200.145:6000
 #EXTINF:-1 group-title="河北频道",河北-保定生活
-http://60.7.56.33:4000/rtp/239.254.200.146:6000
+http://111.227.202.212:4022/rtp/239.254.200.146:6000
 #EXTINF:-1 group-title="河北频道",河北-衡水新闻综合
-http://60.7.56.33:4000/rtp/239.254.200.147:6000
+http://111.227.202.212:4022/rtp/239.254.200.147:6000
 #EXTINF:-1 group-title="河北频道",河北-衡水公共
-http://60.7.56.33:4000/rtp/239.254.200.149:6000
+http://111.227.202.212:4022/rtp/239.254.200.149:6000
+
 #EXTINF:-1 group-title="河北频道",河北-元氏电视
-http://60.7.56.33:4000/rtp/239.254.200.191:5169
+http://111.227.202.212:4022/rtp/239.254.200.191:5169
 #EXTINF:-1 group-title="河北频道",河北-无极电视
-http://60.7.56.33:4000/rtp/239.254.200.220:5167
+http://111.227.202.212:4022/rtp/239.254.200.220:5167
 #EXTINF:-1 group-title="河北频道",河北-高邑电视
-http://60.7.56.33:4000/rtp/239.254.201.24:5170
+http://111.227.202.212:4022/rtp/239.254.201.24:5170
 #EXTINF:-1 group-title="河北频道",河北-栾城电视
-http://60.7.56.33:4000/rtp/239.254.200.215:5173
+http://111.227.202.212:4022/rtp/239.254.200.215:5173
 #EXTINF:-1 group-title="河北频道",河北-井陉矿区电视
-http://60.7.56.33:4000/rtp/239.254.201.14:5175
+http://111.227.202.212:4022/rtp/239.254.201.14:5175
 #EXTINF:-1 group-title="河北频道",河北-赞皇电视
-http://60.7.56.33:4000/rtp/239.254.200.244:5177
+http://111.227.202.212:4022/rtp/239.254.200.244:5177
 #EXTINF:-1 group-title="河北频道",河北-深泽电视
-http://60.7.56.33:4000/rtp/239.254.201.108:5180
+http://111.227.202.212:4022/rtp/239.254.201.108:5180
 #EXTINF:-1 group-title="河北频道",河北-赵县电视
-http://60.7.56.33:4000/rtp/239.254.201.111:5183
+http://111.227.202.212:4022/rtp/239.254.201.111:5183
 #EXTINF:-1 group-title="河北频道",河北-晋州电视
-http://60.7.56.33:4000/rtp/239.254.201.127:5184
+http://111.227.202.212:4022/rtp/239.254.201.127:5184
 #EXTINF:-1 group-title="河北频道",河北-井陉电视
-http://60.7.56.33:4000/rtp/239.254.201.215:6167
+http://111.227.202.212:4022/rtp/239.254.201.215:6167
 #EXTINF:-1 group-title="河北频道",河北-平泉电视
-http://60.7.56.33:4000/rtp/239.254.200.177:5286
+http://111.227.202.212:4022/rtp/239.254.200.177:5286
 #EXTINF:-1 group-title="河北频道",河北-滦平电视
-http://60.7.56.33:4000/rtp/239.254.201.4:5291
+http://111.227.202.212:4022/rtp/239.254.201.4:5291
 #EXTINF:-1 group-title="河北频道",河北-双滦电视
-http://60.7.56.33:4000/rtp/239.254.201.63:5293
+http://111.227.202.212:4022/rtp/239.254.201.63:5293
 #EXTINF:-1 group-title="河北频道",河北-兴隆电视
-http://60.7.56.33:4000/rtp/239.254.201.95:5295
+http://111.227.202.212:4022/rtp/239.254.201.95:5295
 #EXTINF:-1 group-title="河北频道",河北-隆化电视
-http://60.7.56.33:4000/rtp/239.254.201.142:5296
+http://111.227.202.212:4022/rtp/239.254.201.142:5296
 #EXTINF:-1 group-title="河北频道",河北-鹿泉电视
-http://60.7.56.33:4000/rtp/239.254.201.204:6166
+http://111.227.202.212:4022/rtp/239.254.201.204:6166
 #EXTINF:-1 group-title="河北频道",河北-任县电视
-http://60.7.56.33:4000/rtp/239.254.201.115:5381
+http://111.227.202.212:4022/rtp/239.254.201.115:5381
 #EXTINF:-1 group-title="河北频道",河北-邯山电视
-http://60.7.56.33:4000/rtp/239.254.201.116:5225
+http://111.227.202.212:4022/rtp/239.254.201.116:5225
 #EXTINF:-1 group-title="河北频道",河北-崇礼电视
-http://60.7.56.33:4000/rtp/239.254.201.117:5267
+http://111.227.202.212:4022/rtp/239.254.201.117:5267
 #EXTINF:-1 group-title="河北频道",河北-顺平电视
-http://60.7.56.33:4000/rtp/239.254.201.118:6257
+http://111.227.202.212:4022/rtp/239.254.201.118:6257
 #EXTINF:-1 group-title="河北频道",河北-张北电视
-http://60.7.56.33:4000/rtp/239.254.201.130:5271
+http://111.227.202.212:4022/rtp/239.254.201.130:5271
 #EXTINF:-1 group-title="河北频道",河北-邱县电视
-http://60.7.56.33:4000/rtp/239.254.201.129:6209
+http://111.227.202.212:4022/rtp/239.254.201.129:6209
 #EXTINF:-1 group-title="河北频道",河北-赤城电视
-http://60.7.56.33:4000/rtp/239.254.201.131:5269
+http://111.227.202.212:4022/rtp/239.254.201.131:5269
 #EXTINF:-1 group-title="河北频道",河北-康保电视
-http://60.7.56.33:4000/rtp/239.254.201.135:5270
+http://111.227.202.212:4022/rtp/239.254.201.135:5270
 #EXTINF:-1 group-title="河北频道",河北-遵化电视
-http://60.7.56.33:4000/rtp/239.254.201.146:5202
+http://111.227.202.212:4022/rtp/239.254.201.146:5202
 #EXTINF:-1 group-title="河北频道",河北-昌黎电视
-http://60.7.56.33:4000/rtp/239.254.201.61:5230
+http://111.227.202.212:4022/rtp/239.254.201.61:5230
 #EXTINF:-1 group-title="河北频道",河北-昌黎综合频道
 http://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.flv
 #EXTINF:-1 group-title="河北频道",河北-抚宁电视
-http://60.7.56.33:4000/rtp/239.254.201.213:5232
+http://111.227.202.212:4022/rtp/239.254.201.213:5232
 #EXTINF:-1 group-title="河北频道",河北-卢龙电视
-http://60.7.56.33:4000/rtp/239.254.201.216:5233
+http://111.227.202.212:4022/rtp/239.254.201.216:5233
 #EXTINF:-1 group-title="河北频道",河北-丰南电视
-http://60.7.56.33:4000/rtp/239.254.200.218:5186
+http://111.227.202.212:4022/rtp/239.254.200.218:5186
 #EXTINF:-1 group-title="河北频道",河北-迁西电视
-http://60.7.56.33:4000/rtp/239.254.201.26:5188
+http://111.227.202.212:4022/rtp/239.254.201.26:5188
 #EXTINF:-1 group-title="河北频道",河北-滦南电视
-http://60.7.56.33:4000/rtp/239.254.201.22:5191
+http://111.227.202.212:4022/rtp/239.254.201.22:5191
 #EXTINF:-1 group-title="河北频道",河北-玉田电视
-http://60.7.56.33:4000/rtp/239.254.201.28:5194
+http://111.227.202.212:4022/rtp/239.254.201.28:5194
 #EXTINF:-1 group-title="河北频道",河北-滦州电视
-http://60.7.56.33:4000/rtp/239.254.201.30:5196
+http://111.227.202.212:4022/rtp/239.254.201.30:5196
 #EXTINF:-1 group-title="河北频道",河北-香河电视
-http://60.7.56.33:4000/rtp/239.254.201.32:5306
+http://111.227.202.212:4022/rtp/239.254.201.32:5306
 #EXTINF:-1 group-title="河北频道",河北-大城电视
-http://60.7.56.33:4000/rtp/239.254.201.34:5308
+http://111.227.202.212:4022/rtp/239.254.201.34:5308
 #EXTINF:-1 group-title="河北频道",河北-大厂电视
-http://60.7.56.33:4000/rtp/239.254.201.71:5310
+http://111.227.202.212:4022/rtp/239.254.201.71:5310
 #EXTINF:-1 group-title="河北频道",河北-固安电视
-http://60.7.56.33:4000/rtp/239.254.201.101:5312
+http://111.227.202.212:4022/rtp/239.254.201.101:5312
 #EXTINF:-1 group-title="河北频道",河北-文安电视
-http://60.7.56.33:4000/rtp/239.254.201.103:5314
+http://111.227.202.212:4022/rtp/239.254.201.103:5314
 #EXTINF:-1 group-title="河北频道",河北-三河电视
-http://60.7.56.33:4000/rtp/239.254.201.113:5315
+http://111.227.202.212:4022/rtp/239.254.201.113:5315
 #EXTINF:-1 group-title="河北频道",河北-永清电视
-http://60.7.56.33:4000/rtp/239.254.201.141:5316
+http://111.227.202.212:4022/rtp/239.254.201.141:5316
 #EXTINF:-1 group-title="河北频道",河北-成安电视
-http://60.7.56.33:4000/rtp/239.254.201.143:6210
+http://111.227.202.212:4022/rtp/239.254.201.143:6210
 #EXTINF:-1 group-title="河北频道",河北-魏县电视
-http://60.7.56.33:4000/rtp/239.254.201.148:6211
+http://111.227.202.212:4022/rtp/239.254.201.148:6211
 #EXTINF:-1 group-title="河北频道",河北-霸州电视
-http://60.7.56.33:4000/rtp/239.254.200.4:5313
+http://111.227.202.212:4022/rtp/239.254.200.4:5313
 #EXTINF:-1 group-title="河北频道",河北-渤海电视
-http://60.7.56.33:4000/rtp/239.254.201.35:5327
+http://111.227.202.212:4022/rtp/239.254.201.35:5327
 #EXTINF:-1 group-title="河北频道",河北-黄骅电视
-http://60.7.56.33:4000/rtp/239.254.201.36:5325
+http://111.227.202.212:4022/rtp/239.254.201.36:5325
 #EXTINF:-1 group-title="河北频道",河北-孟村电视
-http://60.7.56.33:4000/rtp/239.254.201.38:5329
+http://111.227.202.212:4022/rtp/239.254.201.38:5329
 #EXTINF:-1 group-title="河北频道",河北-东光电视
-http://60.7.56.33:4000/rtp/239.254.201.76:5331
+http://111.227.202.212:4022/rtp/239.254.201.76:5331
 #EXTINF:-1 group-title="河北频道",河北-青县电视
-http://60.7.56.33:4000/rtp/239.254.201.112:5333
+http://111.227.202.212:4022/rtp/239.254.201.112:5333
 #EXTINF:-1 group-title="河北频道",河北-盐山电视
-http://60.7.56.33:4000/rtp/239.254.201.114:5334
+http://111.227.202.212:4022/rtp/239.254.201.114:5334
 #EXTINF:-1 group-title="河北频道",河北-南皮电视
-http://60.7.56.33:4000/rtp/239.254.201.119:5335
+http://111.227.202.212:4022/rtp/239.254.201.119:5335
 #EXTINF:-1 group-title="河北频道",河北-肃宁电视
-http://60.7.56.33:4000/rtp/239.254.201.122:5336
+http://111.227.202.212:4022/rtp/239.254.201.122:5336
 #EXTINF:-1 group-title="河北频道",河北-吴桥电视
-http://60.7.56.33:4000/rtp/239.254.201.138:5337
+http://111.227.202.212:4022/rtp/239.254.201.138:5337
 #EXTINF:-1 group-title="河北频道",河北-丰宁电视
-http://60.7.56.33:4000/rtp/239.254.200.5:5290
+http://111.227.202.212:4022/rtp/239.254.200.5:5290
 #EXTINF:-1 group-title="河北频道",河北-定兴电视
-http://60.7.56.33:4000/rtp/239.254.200.172:5246
+http://111.227.202.212:4022/rtp/239.254.200.172:5246
 #EXTINF:-1 group-title="河北频道",河北-阜平电视
-http://60.7.56.33:4000/rtp/239.254.201.40:5248
+http://111.227.202.212:4022/rtp/239.254.201.40:5248
 #EXTINF:-1 group-title="河北频道",河北-涞水电视
-http://60.7.56.33:4000/rtp/239.254.201.10:5250
+http://111.227.202.212:4022/rtp/239.254.201.10:5250
 #EXTINF:-1 group-title="河北频道",河北-满城电视
-http://60.7.56.33:4000/rtp/239.254.200.222:5252
+http://111.227.202.212:4022/rtp/239.254.200.222:5252
 #EXTINF:-1 group-title="河北频道",河北-涞源电视
-http://60.7.56.33:4000/rtp/239.254.200.213:5260
+http://111.227.202.212:4022/rtp/239.254.200.213:5260
 #EXTINF:-1 group-title="河北频道",河北-高碑店电视
-http://60.7.56.33:4000/rtp/239.254.200.210:5254
+http://111.227.202.212:4022/rtp/239.254.200.210:5254
 #EXTINF:-1 group-title="河北频道",河北-涿州电视
-http://60.7.56.33:4000/rtp/239.254.201.17:5261
+http://111.227.202.212:4022/rtp/239.254.201.17:5261
 #EXTINF:-1 group-title="河北频道",河北-唐县电视
-http://60.7.56.33:4000/rtp/239.254.201.41:5264
+http://111.227.202.212:4022/rtp/239.254.201.41:5264
 #EXTINF:-1 group-title="河北频道",河北-曲阳电视
-http://60.7.56.33:4000/rtp/239.254.200.242:5265
+http://111.227.202.212:4022/rtp/239.254.200.242:5265
 #EXTINF:-1 group-title="河北频道",河北-望都电视
-http://60.7.56.33:4000/rtp/239.254.201.56:6246
+http://111.227.202.212:4022/rtp/239.254.201.56:6246
 #EXTINF:-1 group-title="河北频道",河北-定州电视
-http://60.7.56.33:4000/rtp/239.254.201.74:6251
+http://111.227.202.212:4022/rtp/239.254.201.74:6251
 #EXTINF:-1 group-title="河北频道",河北-雄县电视
-http://60.7.56.33:4000/rtp/239.254.201.94:6254
+http://111.227.202.212:4022/rtp/239.254.201.94:6254
 #EXTINF:-1 group-title="河北频道",河北-高阳电视
-http://60.7.56.33:4000/rtp/239.254.201.96:6253
+http://111.227.202.212:4022/rtp/239.254.201.96:6253
 #EXTINF:-1 group-title="河北频道",河北-安新电视
-http://60.7.56.33:4000/rtp/239.254.201.99:6255
+http://111.227.202.212:4022/rtp/239.254.201.99:6255
 #EXTINF:-1 group-title="河北频道",河北-容城电视
-http://60.7.56.33:4000/rtp/239.254.201.102:6256
+http://111.227.202.212:4022/rtp/239.254.201.102:6256
 #EXTINF:-1 group-title="河北频道",河北-柏乡电视
-http://60.7.56.33:4000/rtp/239.254.201.140:5383
+http://111.227.202.212:4022/rtp/239.254.201.140:5383
 #EXTINF:-1 group-title="河北频道",河北-涿鹿电视
-http://60.7.56.33:4000/rtp/239.254.201.145:5272
+http://111.227.202.212:4022/rtp/239.254.201.145:5272
 #EXTINF:-1 group-title="河北频道",河北-徐水电视
-http://60.7.56.33:4000/rtp/239.254.201.147:6260
+http://111.227.202.212:4022/rtp/239.254.201.147:6260
 #EXTINF:-1 group-title="河北频道",河北-大名电视
-http://60.7.56.33:4000/rtp/239.254.201.149:6212
+http://111.227.202.212:4022/rtp/239.254.201.149:6212
 #EXTINF:-1 group-title="河北频道",河北-冀州电视
-http://60.7.56.33:4000/rtp/239.254.200.179:5346
+http://111.227.202.212:4022/rtp/239.254.200.179:5346
 #EXTINF:-1 group-title="河北频道",河北-安平电视
-http://60.7.56.33:4000/rtp/239.254.201.42:5348
+http://111.227.202.212:4022/rtp/239.254.201.42:5348
 #EXTINF:-1 group-title="河北频道",河北-景县电视
-http://60.7.56.33:4000/rtp/239.254.200.240:5350
+http://111.227.202.212:4022/rtp/239.254.200.240:5350
 #EXTINF:-1 group-title="河北频道",河北-饶阳电视
-http://60.7.56.33:4000/rtp/239.254.201.44:5353
+http://111.227.202.212:4022/rtp/239.254.201.44:5353
 #EXTINF:-1 group-title="河北频道",河北-深州电视
-http://60.7.56.33:4000/rtp/239.254.201.46:5357
+http://111.227.202.212:4022/rtp/239.254.201.46:5357
 #EXTINF:-1 group-title="河北频道",河北-武邑电视
-http://60.7.56.33:4000/rtp/239.254.201.8:5355
+http://111.227.202.212:4022/rtp/239.254.201.8:5355
 #EXTINF:-1 group-title="河北频道",河北-阜城电视
-http://60.7.56.33:4000/rtp/239.254.201.98:5361
+http://111.227.202.212:4022/rtp/239.254.201.98:5361
 #EXTINF:-1 group-title="河北频道",河北-故城电视
-http://60.7.56.33:4000/rtp/239.254.201.126:5362
+http://111.227.202.212:4022/rtp/239.254.201.126:5362
 #EXTINF:-1 group-title="河北频道",河北-枣强电视
-http://60.7.56.33:4000/rtp/239.254.201.136:5363
+http://111.227.202.212:4022/rtp/239.254.201.136:5363
 #EXTINF:-1 group-title="河北频道",河北-清河电视
-http://60.7.56.33:4000/rtp/239.254.200.170:5366
+http://111.227.202.212:4022/rtp/239.254.200.170:5366
 #EXTINF:-1 group-title="河北频道",河北-广宗电视
-http://60.7.56.33:4000/rtp/239.254.201.50:5373
+http://111.227.202.212:4022/rtp/239.254.201.50:5373
 #EXTINF:-1 group-title="河北频道",河北-武安电视
-http://60.7.56.33:4000/rtp/239.254.201.6:5216
+http://111.227.202.212:4022/rtp/239.254.201.6:5216
 #EXTINF:-1 group-title="河北频道",河北-宁晋电视
-http://60.7.56.33:4000/rtp/239.254.201.51:5375
+http://111.227.202.212:4022/rtp/239.254.201.51:5375
 #EXTINF:-1 group-title="河北频道",河北-平乡电视
-http://60.7.56.33:4000/rtp/239.254.201.53:5378
+http://111.227.202.212:4022/rtp/239.254.201.53:5378
 #EXTINF:-1 group-title="河北频道",河北-鸡泽电视
-http://60.7.56.33:4000/rtp/239.254.201.60:5218
+http://111.227.202.212:4022/rtp/239.254.201.60:5218
 #EXTINF:-1 group-title="河北频道",河北-隆尧电视
-http://60.7.56.33:4000/rtp/239.254.201.69:5379
+http://111.227.202.212:4022/rtp/239.254.201.69:5379
 #EXTINF:-1 group-title="河北频道",河北-广平电视
-http://60.7.56.33:4000/rtp/239.254.201.70:5220
+http://111.227.202.212:4022/rtp/239.254.201.70:5220
 #EXTINF:-1 group-title="河北频道",河北-南和电视
-http://60.7.56.33:4000/rtp/239.254.201.72:6000
+http://111.227.202.212:4022/rtp/239.254.201.72:6000
 #EXTINF:-1 group-title="河北频道",河北-临漳电视
-http://60.7.56.33:4000/rtp/239.254.201.73:5221
+http://111.227.202.212:4022/rtp/239.254.201.73:5221
 #EXTINF:-1 group-title="河北频道",河北-内丘电视
-http://60.7.56.33:4000/rtp/239.254.201.77:5380
+http://111.227.202.212:4022/rtp/239.254.201.77:5380
 #EXTINF:-1 group-title="河北频道",河北-涉县电视
-http://60.7.56.33:4000/rtp/239.254.201.97:5222
+http://111.227.202.212:4022/rtp/239.254.201.97:5222
 #EXTINF:-1 group-title="河北频道",河北-迁安电视
-http://60.7.56.33:4000/rtp/239.254.201.109:5199
+http://111.227.202.212:4022/rtp/239.254.201.109:5199
 #EXTINF:-1 group-title="河北频道",河北-肥乡电视
-http://60.7.56.33:4000/rtp/239.254.201.105:5223
+http://111.227.202.212:4022/rtp/239.254.201.105:5223
 #EXTINF:-1 group-title="河北频道",河北-馆陶电视
-http://60.7.56.33:4000/rtp/239.254.201.106:5224
+http://111.227.202.212:4022/rtp/239.254.201.106:5224
 #EXTINF:-1 group-title="河北频道",河北-乐亭电视
-http://60.7.56.33:4000/rtp/239.254.201.107:5200
+http://111.227.202.212:4022/rtp/239.254.201.107:5200
 #EXTINF:-1 group-title="河北频道",河北-沙河电视
-http://60.7.56.33:4000/rtp/239.254.200.181:5369
+http://111.227.202.212:4022/rtp/239.254.200.181:5369
 #EXTINF:-1 group-title="河北频道",河北-曲周电视
-http://60.7.56.33:4000/rtp/239.254.200.236:5210
+http://111.227.202.212:4022/rtp/239.254.200.236:5210
 #EXTINF:-1 group-title="河北频道",河北-南宫电视
-http://60.7.56.33:4000/rtp/239.254.201.48:5371
+http://111.227.202.212:4022/rtp/239.254.201.48:5371
 #EXTINF:-1 group-title="河北频道",河北-丰润电视
-http://60.7.56.33:4000/rtp/239.254.201.58:5197
+http://111.227.202.212:4022/rtp/239.254.201.58:5197
 
 
 #EXTINF:-1 group-title="山东频道",山东卫视
@@ -4255,36 +4262,57 @@ https://play.kankanlive.com/live/1711282408137964.m3u8
 http://p2.vzan.com/419307/577613453950840330/live.m3u8
 #EXTINF:-1 group-title="甘肃频道",甘肃-武都综合频道
 http://play.kankanlive.com/live/1703747194431958.m3u8
-#EXTINF:-1 group-title="辽宁频道",辽宁卫视
-http://localhost/dashboard/17_liaoniang_shengji.php?id=058
+
+
+#EXTINF:-1 group-title="辽宁频道",辽宁卫视-[联通]
+http://42.58.245.40:9012/rtp/232.0.0.126:1234
 #EXTINF:-1 group-title="辽宁频道",辽宁都市
-http://localhost/dashboard/17_liaoniang_shengji.php?id=610
+http://42.58.245.40:9012/rtp/232.0.0.154:1234
 #EXTINF:-1 group-title="辽宁频道",辽宁北方
-http://localhost/dashboard/17_liaoniang_shengji.php?id=071
+http://42.58.245.40:9012/rtp/232.0.0.151:1234
 #EXTINF:-1 group-title="辽宁频道",辽宁生活
-http://localhost/dashboard/17_liaoniang_shengji.php?id=073
+http://42.58.245.40:9012/rtp/232.0.0.150:1234
 #EXTINF:-1 group-title="辽宁频道",辽宁体育
-http://localhost/dashboard/17_liaoniang_shengji.php?id=611
+http://42.58.245.40:9012/rtp/232.0.0.164:1234
 #EXTINF:-1 group-title="辽宁频道",辽宁影视剧
-http://localhost/dashboard/17_liaoniang_shengji.php?id=070
+http://42.58.245.40:9012/rtp/232.0.0.25:1234
 #EXTINF:-1 group-title="辽宁频道",辽宁教育青少
-http://localhost/dashboard/17_liaoniang_shengji.php?id=075
+http://42.58.245.40:9012/rtp/232.0.0.241:1234
 #EXTINF:-1 group-title="辽宁频道",辽宁经济
-http://localhost/dashboard/17_liaoniang_shengji.php?id=076
+http://42.58.245.40:9012/rtp/232.0.0.156:1234
 #EXTINF:-1 group-title="辽宁频道",辽宁公共
-http://localhost/dashboard/17_liaoniang_shengji.php?id=077
-#EXTINF:-1 group-title="辽宁频道",辽宁公共
-http://localhost/dashboard/17_liaoniang_shengji.php?id=481
-#EXTINF:-1 group-title="辽宁频道",辽宁经济
-http://localhost/dashboard/17_liaoniang_shengji.php?id=480
-#EXTINF:-1 group-title="辽宁频道",北方导视
-http://localhost/dashboard/17_liaoniang_shengji.php?id=187
+http://42.58.245.40:9012/rtp/232.0.0.168:1234
+#EXTINF:-1 group-title="辽宁频道",辽宁宜家购物
+http://42.58.245.40:9012/rtp/232.0.0.30:1234
+#EXTINF:-1 group-title="辽宁频道",辽宁移动电视
+http://42.58.245.40:9012/rtp/232.0.0.165:1234
+#EXTINF:-1 group-title="辽宁频道",辽宁-沈阳新闻综合高清
+http://42.58.245.40:9012/rtp/232.0.0.206:1234
+#EXTINF:-1 group-title="辽宁频道",辽宁-抚顺综合
+http://42.58.245.40:9012/rtp/232.0.0.143:1234
+#EXTINF:-1 group-title="辽宁频道",辽宁-抚顺教育
+http://42.58.245.40:9012/rtp/232.0.0.145:1234
+#EXTINF:-1 group-title="辽宁频道",辽宁-大洼综合
+http://42.58.245.40:9012/rtp/232.0.0.146:1234
+
+#EXTINF:-1 group-title="辽宁频道",辽河新闻综合
+http://42.58.245.40:9012/rtp/232.0.0.214:1234
+#EXTINF:-1 group-title="辽宁频道",辽河文化生活
+http://42.58.245.40:9012/rtp/232.0.0.215:1234
+
+#EXTINF:-1 group-title="辽宁频道",锦州新闻综合
+http://42.58.245.40:9012/rtp/232.0.0.148:1234
+
+#EXTINF:-1 group-title="辽宁频道",辽宁-锦州综合
+http://localhost/dashboard/17_liaoniang_jinzhou.php?id=jzzh
+#EXTINF:-1 group-title="辽宁频道",辽宁-锦州教育
+http://localhost/dashboard/17_liaoniang_jinzhou.php?id=jzjy
+
 #EXTINF:-1 group-title="辽宁频道",辽宁-辽宁金普综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=jpzh
 #EXTINF:-1 group-title="辽宁频道",辽宁-辽宁金普二套
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=jpsh
-#EXTINF:-1 group-title="辽宁频道",辽宁-抚顺综合
-http://localhost/dashboard/17_liaoniang_shengji.php?id=275
+
 #EXTINF:-1 group-title="辽宁频道",辽宁-大连新闻综合
 http://localhost/dashboard/17_liaoniang_dalian.php?id=xw
 #EXTINF:-1 group-title="辽宁频道",辽宁-大连生活频道
@@ -4293,36 +4321,28 @@ http://localhost/dashboard/17_liaoniang_dalian.php?id=sh
 http://localhost/dashboard/17_liaoniang_dalian.php?id=wt
 #EXTINF:-1 group-title="辽宁频道",辽宁-大连乐天购物
 http://localhost/dashboard/17_liaoniang_dalian.php?id=gw
-#EXTINF:-1 group-title="辽宁频道",辽宁-沈阳新闻综合高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=059
-#EXTINF:-1 group-title="辽宁频道",鞍山新闻综合
-http://localhost/dashboard/17_liaoniang_shengji.php?id=274
-#EXTINF:-1 group-title="辽宁频道",大连新闻综合
-http://localhost/dashboard/17_liaoniang_shengji.php?id=273
-#EXTINF:-1 group-title="辽宁频道",丹东新闻综合
-http://localhost/dashboard/17_liaoniang_shengji.php?id=276
-#EXTINF:-1 group-title="辽宁频道",丹东新闻综合-静态
-https://time-vod-qhlive.sobeylive.com/zhddgbds/ddnews.m3u8
+
 #EXTINF:-1 group-title="辽宁频道",丹东新闻综合-php
 http://localhost/dashboard/17_liaoniang_dandong.php
-#EXTINF:-1 group-title="辽宁频道",锦州新闻综合
-http://localhost/dashboard/17_liaoniang_shengji.php?id=277
-#EXTINF:-1 group-title="辽宁频道",辽宁-锦州综合
-http://localhost/dashboard/17_liaoniang_jinzhou.php?id=jzzh
-#EXTINF:-1 group-title="辽宁频道",辽宁-锦州教育
-http://localhost/dashboard/17_liaoniang_jinzhou.php?id=jzjy
+#EXTINF:-1 group-title="辽宁频道",丹东新闻综合-静态
+https://time-vod-qhlive.sobeylive.com/zhddgbds/ddnews.m3u8
+
+#EXTINF:-1 group-title="辽宁频道",辽宁-铁岭综合
+http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=tlzh
+
+
+#EXTINF:-1 group-title="辽宁频道",北方导视
+http://localhost/dashboard/17_liaoniang_shengji.php?id=187
+#EXTINF:-1 group-title="辽宁频道",鞍山新闻综合
+http://localhost/dashboard/17_liaoniang_shengji.php?id=274
 #EXTINF:-1 group-title="辽宁频道",阜新综合
 http://localhost/dashboard/17_liaoniang_shengji.php?id=279
 #EXTINF:-1 group-title="辽宁频道",辽阳新闻综合
 http://localhost/dashboard/17_liaoniang_shengji.php?id=280
 #EXTINF:-1 group-title="辽宁频道",营口新闻综合
 http://localhost/dashboard/17_liaoniang_shengji.php?id=278
-#EXTINF:-1 group-title="辽宁频道",盘锦新闻综合
-http://localhost/dashboard/17_liaoniang_shengji.php?id=283
 #EXTINF:-1 group-title="辽宁频道",铁岭新闻综合
 http://localhost/dashboard/17_liaoniang_shengji.php?id=281
-#EXTINF:-1 group-title="辽宁频道",辽宁-铁岭综合
-http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=tlzh
 #EXTINF:-1 group-title="辽宁频道",朝阳新闻综合
 http://localhost/dashboard/17_liaoniang_shengji.php?id=282
 #EXTINF:-1 group-title="辽宁频道",朝阳新闻综合
@@ -4335,198 +4355,8 @@ http://localhost/dashboard/17_liaoniang_shengji.php?id=491
 http://localhost/dashboard/17_liaoniang_shengji.php?id=490
 #EXTINF:-1 group-title="辽宁频道",葫芦岛新闻综合
 http://localhost/dashboard/17_liaoniang_shengji.php?id=284
-#EXTINF:-1 group-title="辽宁频道",CCTV-1高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=488
-#EXTINF:-1 group-title="辽宁频道",CCTV-2高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=061
-#EXTINF:-1 group-title="辽宁频道",CCTV-3高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=062
-#EXTINF:-1 group-title="辽宁频道",CCTV-4高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=063
-#EXTINF:-1 group-title="辽宁频道",CCTV-5高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=064
-#EXTINF:-1 group-title="辽宁频道",CCTV-5+高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=246
-#EXTINF:-1 group-title="辽宁频道",CCTV-6高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=065
-#EXTINF:-1 group-title="辽宁频道",CCTV-7高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=127
-#EXTINF:-1 group-title="辽宁频道",CCTV-8高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=066
-#EXTINF:-1 group-title="辽宁频道",CCTV-9高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=128
-#EXTINF:-1 group-title="辽宁频道",CCTV-10高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=129
-#EXTINF:-1 group-title="辽宁频道",CCTV-11高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=130
-#EXTINF:-1 group-title="辽宁频道",CCTV-12高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=131
-#EXTINF:-1 group-title="辽宁频道",CCTV-13高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=067
-#EXTINF:-1 group-title="辽宁频道",CCTV-14高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=132
-#EXTINF:-1 group-title="辽宁频道",CCTV-15高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=133
-#EXTINF:-1 group-title="辽宁频道",CCTV-17高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=204
-#EXTINF:-1 group-title="辽宁频道",江苏卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=085
-#EXTINF:-1 group-title="辽宁频道",天津卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=084
-#EXTINF:-1 group-title="辽宁频道",湖南卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=086
-#EXTINF:-1 group-title="辽宁频道",北京卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=083
-#EXTINF:-1 group-title="辽宁频道",黑龙江卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=095
-#EXTINF:-1 group-title="辽宁频道",广东卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=092
-#EXTINF:-1 group-title="辽宁频道",东方卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=093
-#EXTINF:-1 group-title="辽宁频道",浙江卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=094
-#EXTINF:-1 group-title="辽宁频道",吉林卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=097
-#EXTINF:-1 group-title="辽宁频道",安徽卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=096
-#EXTINF:-1 group-title="辽宁频道",江西卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=098
-#EXTINF:-1 group-title="辽宁频道",山东卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=099
-#EXTINF:-1 group-title="辽宁频道",贵州卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=101
-#EXTINF:-1 group-title="辽宁频道",深圳卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=100
-#EXTINF:-1 group-title="辽宁频道",湖北卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=102
-#EXTINF:-1 group-title="辽宁频道",四川卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=103
-#EXTINF:-1 group-title="辽宁频道",陕西卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=512
-#EXTINF:-1 group-title="辽宁频道",河南卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=339
-#EXTINF:-1 group-title="辽宁频道",海南卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=473
-#EXTINF:-1 group-title="辽宁频道",云南卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=482
-#EXTINF:-1 group-title="辽宁频道",东南卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=483
-#EXTINF:-1 group-title="辽宁频道",河南卫视
-http://localhost/dashboard/17_liaoniang_shengji.php?id=104
-#EXTINF:-1 group-title="辽宁频道",北京卡酷少儿
-http://localhost/dashboard/17_liaoniang_shengji.php?id=106
-#EXTINF:-1 group-title="辽宁频道",重庆卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=107
-#EXTINF:-1 group-title="辽宁频道",山西卫视
-http://localhost/dashboard/17_liaoniang_shengji.php?id=109
-#EXTINF:-1 group-title="辽宁频道",河北卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=108
-#EXTINF:-1 group-title="辽宁频道",青海卫视
-http://localhost/dashboard/17_liaoniang_shengji.php?id=07_hubei_shengji
-#EXTINF:-1 group-title="辽宁频道",内蒙古卫视
-http://localhost/dashboard/17_liaoniang_shengji.php?id=110
-#EXTINF:-1 group-title="辽宁频道",山东教育卫视
-http://localhost/dashboard/17_liaoniang_shengji.php?id=112
-#EXTINF:-1 group-title="辽宁频道",北京纪实科教高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=113
-#EXTINF:-1 group-title="辽宁频道",广西卫视高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=116
-#EXTINF:-1 group-title="辽宁频道",宁夏卫视
-http://localhost/dashboard/17_liaoniang_shengji.php?id=118
-#EXTINF:-1 group-title="辽宁频道",延边卫视
-http://localhost/dashboard/17_liaoniang_shengji.php?id=117
-#EXTINF:-1 group-title="辽宁频道",甘肃卫视
-http://localhost/dashboard/17_liaoniang_shengji.php?id=119
-#EXTINF:-1 group-title="辽宁频道",西藏卫视
-http://localhost/dashboard/17_liaoniang_shengji.php?id=121
-#EXTINF:-1 group-title="辽宁频道",农林卫视
-http://localhost/dashboard/17_liaoniang_shengji.php?id=122
-#EXTINF:-1 group-title="辽宁频道",CETV-1高清
-http://localhost/dashboard/17_liaoniang_shengji.php?id=135
-#EXTINF:-1 group-title="辽宁频道",CETV-2
-http://localhost/dashboard/17_liaoniang_shengji.php?id=492
-#EXTINF:-1 group-title="辽宁频道",CGTN
-http://localhost/dashboard/17_liaoniang_shengji.php?id=134
-#EXTINF:-1 group-title="辽宁频道",CGTN西班牙语
-http://localhost/dashboard/17_liaoniang_shengji.php?id=306
-#EXTINF:-1 group-title="辽宁频道",CGTN阿拉伯语
-http://localhost/dashboard/17_liaoniang_shengji.php?id=308
-#EXTINF:-1 group-title="辽宁频道",CGTN法语
-http://localhost/dashboard/17_liaoniang_shengji.php?id=307
-#EXTINF:-1 group-title="辽宁频道",CGTN
-http://localhost/dashboard/17_liaoniang_shengji.php?id=305
-#EXTINF:-1 group-title="辽宁频道",CGTN俄语
-http://localhost/dashboard/17_liaoniang_shengji.php?id=309
-#EXTINF:-1 group-title="辽宁频道",求索动物
-http://localhost/dashboard/17_liaoniang_shengji.php?id=287
-#EXTINF:-1 group-title="辽宁频道",求索生活
-http://localhost/dashboard/17_liaoniang_shengji.php?id=288
-#EXTINF:-1 group-title="辽宁频道",求索地理
-http://localhost/dashboard/17_liaoniang_shengji.php?id=286
-#EXTINF:-1 group-title="辽宁频道",家庭影院
-http://localhost/dashboard/17_liaoniang_shengji.php?id=289
-#EXTINF:-1 group-title="辽宁频道",家庭剧场
-http://localhost/dashboard/17_liaoniang_shengji.php?id=290
-#EXTINF:-1 group-title="辽宁频道",外国影院
-http://localhost/dashboard/17_liaoniang_shengji.php?id=291
-#EXTINF:-1 group-title="辽宁频道",综艺
-http://localhost/dashboard/17_liaoniang_shengji.php?id=292
-#EXTINF:-1 group-title="辽宁频道",午夜影院
-http://localhost/dashboard/17_liaoniang_shengji.php?id=294
-#EXTINF:-1 group-title="辽宁频道",纪录片
-http://localhost/dashboard/17_liaoniang_shengji.php?id=295
-#EXTINF:-1 group-title="辽宁频道",游戏竞技
-http://localhost/dashboard/17_liaoniang_shengji.php?id=296
-#EXTINF:-1 group-title="辽宁频道",儿童动漫
-http://localhost/dashboard/17_liaoniang_shengji.php?id=293
-#EXTINF:-1 group-title="辽宁频道",3D影院
-http://localhost/dashboard/17_liaoniang_shengji.php?id=298
-#EXTINF:-1 group-title="辽宁频道",绘画
-http://localhost/dashboard/17_liaoniang_shengji.php?id=297
-#EXTINF:-1 group-title="辽宁频道",家庭理财
-http://localhost/dashboard/17_liaoniang_shengji.php?id=139
-#EXTINF:-1 group-title="辽宁频道",环球旅游
-http://localhost/dashboard/17_liaoniang_shengji.php?id=147
-#EXTINF:-1 group-title="辽宁频道",车迷频道
-http://localhost/dashboard/17_liaoniang_shengji.php?id=146
-#EXTINF:-1 group-title="辽宁频道",生态环境
-http://localhost/dashboard/17_liaoniang_shengji.php?id=149
-#EXTINF:-1 group-title="辽宁频道",发现之旅
-http://localhost/dashboard/17_liaoniang_shengji.php?id=151
-#EXTINF:-1 group-title="辽宁频道",优优宝贝
-http://localhost/dashboard/17_liaoniang_shengji.php?id=153
-#EXTINF:-1 group-title="辽宁频道",新疆卫视
-http://localhost/dashboard/17_liaoniang_shengji.php?id=150
-#EXTINF:-1 group-title="辽宁频道",收藏天下
-http://localhost/dashboard/17_liaoniang_shengji.php?id=155
-#EXTINF:-1 group-title="辽宁频道",中华特产
-http://localhost/dashboard/17_liaoniang_shengji.php?id=158
-#EXTINF:-1 group-title="辽宁频道",法治天地
-http://localhost/dashboard/17_liaoniang_shengji.php?id=162
-#EXTINF:-1 group-title="辽宁频道",电视指南
-http://localhost/dashboard/17_liaoniang_shengji.php?id=164
-#EXTINF:-1 group-title="辽宁频道",重庆汽摩
-http://localhost/dashboard/17_liaoniang_shengji.php?id=168
-#EXTINF:-1 group-title="辽宁频道",国学频道
-http://localhost/dashboard/17_liaoniang_shengji.php?id=169
-#EXTINF:-1 group-title="辽宁频道",老故事
-http://localhost/dashboard/17_liaoniang_shengji.php?id=166
-#EXTINF:-1 group-title="辽宁频道",女性时尚
-http://localhost/dashboard/17_liaoniang_shengji.php?id=176
-#EXTINF:-1 group-title="辽宁频道",世界地理
-http://localhost/dashboard/17_liaoniang_shengji.php?id=177
-#EXTINF:-1 group-title="辽宁频道",茶频道
-http://localhost/dashboard/17_liaoniang_shengji.php?id=181
-#EXTINF:-1 group-title="辽宁频道",书画
-http://localhost/dashboard/17_liaoniang_shengji.php?id=180
-#EXTINF:-1 group-title="辽宁频道",百姓健康
-http://localhost/dashboard/17_liaoniang_shengji.php?id=219
-#EXTINF:-1 group-title="辽宁频道",财富天下
-http://localhost/dashboard/17_liaoniang_shengji.php?id=231
-#EXTINF:-1 group-title="辽宁频道",四海钓鱼
-http://localhost/dashboard/17_liaoniang_shengji.php?id=229
-#EXTINF:-1 group-title="辽宁频道",风尚音乐
-http://localhost/dashboard/17_liaoniang_shengji.php?id=294
+
+
 #EXTINF:-1 group-title="福建频道",福建-东南卫视
 http://localhost/dashboard/18_fujian_shengji.php?id=5
 #EXTINF:-1 group-title="福建频道",福建-福建综合频道
