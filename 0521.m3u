@@ -306,9 +306,8 @@ http://[2409:8087:1a01:df::7005]:80/000000001000/6000000002000032344/index.m3u8?
 http://[2409:8087:1a01:df::7005]:80/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/重温经典.png" group-title="电影频道",重温经典
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/重温经典.png" group-title="电影频道",重温经典
-http://localhost/dashboard/27_chongqin_cqyx2.php?id=cwjdHD
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+
 
 
 #EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" group-title="电影频道",cctv6
