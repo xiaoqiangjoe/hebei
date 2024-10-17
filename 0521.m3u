@@ -4100,7 +4100,7 @@ http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000136/1.m
 #EXTINF:-1 group-title="海南频道",海南州
 https://play-video.hnzgbdst.com/live/59_1.m3u8
 
-#EXTINF:-1 group-title="海南频道",文昌TV
+#EXTINF:-1 group-title="海南频道",文昌TV[电信]
 http://59.50.194.91:4022/rtp/239.253.64.105:5140
 #EXTINF:-1 group-title="海南频道",五指山TV
 http://59.50.194.91:4022/rtp/239.253.64.69:5140
