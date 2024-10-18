@@ -252,6 +252,8 @@ http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=500000001
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频",CETV-1
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频",CETV-1
+http://117.114.153.18:8180/TV00000000000000000007@HHZT
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频",CETV-1
 http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000288015&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央视频",CETV-2
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
@@ -259,6 +261,7 @@ http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000288017&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="央视频",CETV-4
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV1.png" group-title="咪咕视频爱看版",cctv1
 http://192.168.10.12/dashboard/57_migu_aikan.php?id=cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV2.png" group-title="咪咕视频爱看版",cctv2
@@ -397,7 +400,7 @@ http://192.168.10.12/dashboard/60_yst3.php?id=cctv17
 #EXTINF:-1 group-title="ysp3",CCTV-5+
 http://192.168.10.12/dashboard/60_yst3.php?id=cctv5p
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4K.png" group-title="4K频道",CCTV-4K 超高清-河北联通组播
-http://101.27.106.176:8888/rtp/239.253.93.134:6631
+http://www.xingwen.online:9810/rtp/239.253.93.134:6631
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV16.png" group-title="ysp3",cctv16-4K
 http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1 group-title="4K频道",纯享4K
@@ -412,9 +415,6 @@ http://gslbservzqhsw.itv.cmvideo.cn/5000000007000010001/1.m3u8?channel-id=bestzb
 
 #EXTINF:-1 group-title="央视频",中国天气
 http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000005000031974/1.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
-
-
-
 
 
 
@@ -507,7 +507,7 @@ http://[2409:8087:1a01:df::7005]:80/000000001000/6000000002000032344/index.m3u8?
 http://[2409:8087:1a01:df::7005]:80/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/重温经典.png" group-title="电影频道",重温经典
-http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 
 
 
@@ -518,46 +518,41 @@ http://192.168.10.12/dashboard/56_1095.php?id=1905b
 #EXTINF:-1 tvg-id="1905a" tvg-name="1905a" group-title="电影频道",1905a
 http://192.168.10.12/dashboard/56_1095.php?id=1905a
 
-#EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="央视频",CCTV电视指南[河北电信]
-http://27.188.111.176:9009/rtp/239.254.201.217:7250
+#EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="央视频",CCTV电视指南[河北联通]
+http://www.xingwen.online:9810/rtp/239.253.93.249:6427
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png" group-title="央视频",CCTV怀旧剧场
-http://27.188.111.176:9009/rtp/239.254.201.220:7256
+http://61.55.46.35:4022/rtp/239.253.93.252:6430
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png" group-title="央视频",CCTV风云剧场
-http://27.188.111.176:9009/rtp/239.254.201.219:7257
+http://61.55.46.35:4022/rtp/239.253.93.251:6429
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/blob/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png" group-title="央视频",CCTV女性时尚
-http://27.188.111.176:9009/rtp/239.254.201.228:7255
+http://61.55.46.35:4022/rtp/239.253.92.144:6114
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80.png" group-title="央视频",CCTV兵器科技
-http://27.188.111.176:9009/rtp/239.254.201.225:7249
+http://61.55.46.35:4022/rtp/239.253.93.47:6435
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png" group-title="央视频",CCTV第一剧场
-http://27.188.111.176:9009/rtp/239.254.201.218:7258
+http://61.55.46.35:4022/rtp/239.253.93.138:6428
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png" group-title="央视频",CCTV风云音乐
-http://27.188.111.176:9009/rtp/239.254.201.221:7259
+http://61.55.46.35:4022/rtp/239.253.93.253:6431
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="央视频",CCTV风云足球
-http://27.188.111.176:9009/rtp/239.254.201.222:7251
+http://61.55.46.35:4022/rtp/239.253.93.254:6432
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83.png" group-title="央视频",CCTV高尔夫网球
-http://27.188.111.176:9009/rtp/239.254.201.223:7252
+http://61.55.46.35:4022/rtp/239.253.93.122:6465
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png" group-title="央视频",CCTV央视台球
-http://27.188.111.176:9009/rtp/239.254.201.171:7176
+http://61.55.46.35:4022/rtp/239.253.93.231:6409
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png" group-title="央视频",CCTV央视文化精品
-http://27.188.111.176:9009/rtp/239.254.201.229:7260
+http://61.55.46.35:4022/rtp/239.253.93.175:6439
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png" group-title="央视频",CCTV世界地理
-http://27.188.111.176:9009/rtp/239.254.201.226:7254
-#EXTINF:-1 group-title="电影频道",中国电影频道
-https://k44991.kylintv.tv/live/chinamovie_iphone.m3u8
+http://61.55.46.35:4022/rtp/239.253.92.131:6113
+#EXTINF:-1 group-title="河北频道",河北-中华美食高清
+http://61.55.46.35:4022/rtp/239.253.93.248:6426
+
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC家庭影院.png" group-title="电影频道",CHC家庭影院[联通]
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8?
+http://home.yulei.online:9999/rtp/226.0.2.240:9820
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC动作电影.png" group-title="电影频道",CHC动作电影[联通]
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+http://home.yulei.online:9999/rtp/226.0.2.240:9820
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC高清电影.png" group-title="电影频道",CHC高清电影[联通]
-http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
+http://home.yulei.online:9999/rtp/226.0.2.93:8004
 
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
-http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=chcjtyyHD
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC高清电影.png" group-title="电影频道",CHC高清电影
-http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=chcgqdyHD
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC动作电影.png" group-title="电影频道",CHC动作电影
-http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=chcdzdyHD
 
 #EXTINF:-1 group-title="电影频道",CHC动作电影[天津联通]
 http://ha.xushining.com:50000/udp/225.1.1.215:5002
@@ -1010,6 +1005,260 @@ https://tvnew.lnshw.com.cn:58123/live/lntv2.m3u8
 
 #EXTINF:-1 group-title="河北频道",河北-睛彩河北
 http://60.7.56.33:4000/rtp/239.253.92.104:6221
+#EXTINF:-1 group-title="河北频道",河北-昌黎综合频道
+http://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.flv
+#EXTINF:-1 group-title="河北频道",河北-唐山新闻综合[联通组播]
+http://www.xingwen.online:9810/rtp/239.253.92.245:6089
+#EXTINF:-1 group-title="河北频道",河北-唐山生活服务[组播]
+http://www.xingwen.online:9810/rtp/239.253.92.126:6026
+#EXTINF:-1 group-title="河北频道",河北-唐山影视频道[组播]
+http://www.xingwen.online:9810/rtp/239.253.92.127:6027
+#EXTINF:-1 group-title="河北频道",河北-唐山公共频道[组播]
+http://www.xingwen.online:9810/rtp/239.253.92.128:6028
+#EXTINF:-1 group-title="河北频道",河北-廊坊综合[组播]
+http://www.xingwen.online:9810/rtp/239.253.92.164:6036
+#EXTINF:-1 group-title="河北频道",河北-廊坊公共[组播]
+http://www.xingwen.online:9810/rtp/239.253.92.166:6037
+#EXTINF:-1 group-title="河北频道",香河电视[组播]
+http://27.188.111.176:9009/rtp/239.254.201.32:5306
+#EXTINF:-1 group-title="河北频道",香河电视2[组播]
+http://27.188.111.176:9009/rtp/239.254.201.32:5306
+#EXTINF:-1 group-title="河北频道",秦皇岛综合[组播]
+http://www.xingwen.online:9810/rtp/239.253.92.52:6021
+#EXTINF:-1 group-title="河北频道",秦皇岛公共[组播]
+http://www.xingwen.online:9810/rtp/239.253.92.53:6022
+#EXTINF:-1 group-title="河北频道",秦皇岛影视[组播]
+http://www.xingwen.online:9810/rtp/239.253.92.54:6023
+#EXTINF:-1 group-title="河北频道",沧州新闻综合
+http://www.xingwen.online:9810/rtp/239.253.92.121:6015
+#EXTINF:-1 group-title="河北频道",沧州公共
+http://www.xingwen.online:9810/rtp/239.253.92.122:6016
+#EXTINF:-1 group-title="河北频道",沧州影视娱乐
+http://www.xingwen.online:9810/rtp/239.253.92.123:6017
+#EXTINF:-1 group-title="河北频道",河北-保定新闻
+http://www.xingwen.online:9810/rtp/239.253.93.2:6153
+#EXTINF:-1 group-title="河北频道",河北-保定公共
+http://www.xingwen.online:9810/rtp/239.253.93.4:6157
+#EXTINF:-1 group-title="河北频道",河北-保定生活
+http://www.xingwen.online:9810/rtp/239.253.93.5:6158
+#EXTINF:-1 group-title="河北频道",河北-衡水新闻综合
+http://www.xingwen.online:9810/rtp/239.253.93.3:6154
+#EXTINF:-1 group-title="河北频道",河北-衡水公共
+http://www.xingwen.online:9810/rtp/239.253.93.7:6160
+#EXTINF:-1 group-title="河北频道",邢台综合
+http://www.xingwen.online:9810/rtp/239.253.93.8:6161
+#EXTINF:-1 group-title="河北频道",邢台城市生活
+http://www.xingwen.online:9810/rtp/239.253.93.10:6163
+#EXTINF:-1 group-title="河北频道",邯郸新闻综合
+http://www.xingwen.online:9810/rtp/239.253.93.11:6164
+#EXTINF:-1 group-title="河北频道",邯郸公共
+http://www.xingwen.online:9810/rtp/239.253.93.12:6165
+#EXTINF:-1 group-title="河北频道",邯郸科技教育
+http://www.xingwen.online:9810/rtp/239.253.93.13:6166
+#EXTINF:-1 group-title="河北频道",河北-元氏电视
+http://www.xingwen.online:9810/rtp/239.253.92.142:6040
+#EXTINF:-1 group-title="河北频道",河北-无极电视
+http://www.xingwen.online:9810/rtp/239.253.92.138:6222
+#EXTINF:-1 group-title="河北频道",河北-高邑电视
+http://www.xingwen.online:9810/rtp/239.253.92.160:6041
+#EXTINF:-1 group-title="河北频道",河北-栾城电视
+http://www.xingwen.online:9810/rtp/239.253.92.187:6051
+#EXTINF:-1 group-title="河北频道",河北-井陉矿区电视
+http://www.xingwen.online:9810/rtp/239.253.92.215:6067
+#EXTINF:-1 group-title="河北频道",河北-赞皇电视
+http://www.xingwen.online:9810/rtp/239.253.92.12:6042
+#EXTINF:-1 group-title="河北频道",河北-深泽电视
+http://www.xingwen.online:9810/rtp/239.253.94.31:6630
+#EXTINF:-1 group-title="河北频道",河北-晋州电视
+http://www.xingwen.online:9810/rtp/239.253.93.156:6324
+#EXTINF:-1 group-title="河北频道",河北-井陉电视
+http://www.xingwen.online:9810/rtp/239.253.93.205:6383
+#EXTINF:-1 group-title="河北频道",河北-平泉电视
+http://www.xingwen.online:9810/rtp/239.253.92.156:6012
+#EXTINF:-1 group-title="河北频道",河北-滦平电视
+http://www.xingwen.online:9810/rtp/239.253.92.100:6142
+#EXTINF:-1 group-title="河北频道",河北-双滦电视
+http://www.xingwen.online:9810/rtp/239.253.92.147:6224
+#EXTINF:-1 group-title="河北频道",河北-兴隆电视
+http://www.xingwen.online:9810/rtp/239.253.93.104:6271
+#EXTINF:-1 group-title="河北频道",河北-隆化电视
+http://www.xingwen.online:9810/rtp/239.253.93.174:6342
+#EXTINF:-1 group-title="河北频道",河北-承德电视
+http://www.xingwen.online:9810/rtp/239.253.94.28:6627
+#EXTINF:-1 group-title="河北频道",河北-宽城新闻
+http://www.xingwen.online:9810/rtp/239.253.93.117:6019
+#EXTINF:-1 group-title="河北频道",河北-任县电视
+http://www.xingwen.online:9810/rtp/239.253.93.145:6313
+#EXTINF:-1 group-title="河北频道",河北-邯山电视
+http://www.xingwen.online:9810/rtp/239.253.93.146:6314
+#EXTINF:-1 group-title="河北频道",河北-崇礼电视
+http://www.xingwen.online:9810/rtp/239.253.93.147:6315
+#EXTINF:-1 group-title="河北频道",河北-顺平电视
+http://www.xingwen.online:9810/rtp/239.253.93.148:6316
+#EXTINF:-1 group-title="河北频道",河北-张北电视
+http://www.xingwen.online:9810/rtp/239.253.93.159:6327
+#EXTINF:-1 group-title="河北频道",河北-尚义电视
+http://www.xingwen.online:9810/rtp/239.253.93.163:6331
+#EXTINF:-1 group-title="河北频道",河北-邱县电视
+http://www.xingwen.online:9810/rtp/239.253.93.158:6326
+#EXTINF:-1 group-title="河北频道",河北-赤城电视
+http://www.xingwen.online:9810/rtp/239.253.93.160:6328
+#EXTINF:-1 group-title="河北频道",河北-康保电视
+http://www.xingwen.online:9810/rtp/239.253.93.165:6333
+#EXTINF:-1 group-title="河北频道",河北-遵化电视
+http://www.xingwen.online:9810/rtp/239.253.93.177:6345
+#EXTINF:-1 group-title="河北频道",河北-昌黎电视
+http://www.xingwen.online:9810/rtp/239.253.92.109:6217
+#EXTINF:-1 group-title="河北频道",河北-抚宁电视
+http://www.xingwen.online:9810/rtp/239.253.93.201:6379
+#EXTINF:-1 group-title="河北频道",河北-卢龙电视
+http://www.xingwen.online:9810/rtp/239.253.93.206:6384
+#EXTINF:-1 group-title="河北频道",河北-丰南电视
+http://www.xingwen.online:9810/rtp/239.253.92.231:6070
+#EXTINF:-1 group-title="河北频道",河北-迁西电视
+http://www.xingwen.online:9810/rtp/239.253.92.247:6091
+#EXTINF:-1 group-title="河北频道",河北-滦南电视
+http://www.xingwen.online:9810/rtp/239.253.92.218:6100
+#EXTINF:-1 group-title="河北频道",河北-玉田电视
+http://www.xingwen.online:9810/rtp/239.253.92.118:6133
+#EXTINF:-1 group-title="河北频道",河北-滦州电视
+http://www.xingwen.online:9810/rtp/239.253.92.97:6138
+#EXTINF:-1 group-title="河北频道",河北-香河电视
+http://www.xingwen.online:9810/rtp/239.253.92.185:6049
+#EXTINF:-1 group-title="河北频道",河北-大城电视
+http://www.xingwen.online:9810/rtp/239.253.92.230:6068
+#EXTINF:-1 group-title="河北频道",河北-大厂电视
+http://www.xingwen.online:9810/rtp/239.253.92.253:6244
+#EXTINF:-1 group-title="河北频道",河北-固安电视
+http://www.xingwen.online:9810/rtp/239.253.93.109:6276
+#EXTINF:-1 group-title="河北频道",河北-文安电视
+http://www.xingwen.online:9810/rtp/239.253.93.111:6278
+#EXTINF:-1 group-title="河北频道",河北-三河电视
+http://www.xingwen.online:9810/rtp/239.253.93.143:6311
+#EXTINF:-1 group-title="河北频道",河北-永清电视
+http://www.xingwen.online:9810/rtp/239.253.93.172:6340
+#EXTINF:-1 group-title="河北频道",河北-成安电视
+http://www.xingwen.online:9810/rtp/239.253.93.178:6346
+#EXTINF:-1 group-title="河北频道",河北-魏县电视
+http://www.xingwen.online:9810/rtp/239.253.93.185:6353
+#EXTINF:-1 group-title="河北频道",河北-霸州综合
+http://www.xingwen.online:9810/rtp/239.253.93.209:6387
+#EXTINF:-1 group-title="河北频道",河北-黄骅电视
+http://www.xingwen.online:9810/rtp/239.253.92.183:6047
+#EXTINF:-1 group-title="河北频道",河北-东光电视
+http://www.xingwen.online:9810/rtp/239.253.93.96:6262
+#EXTINF:-1 group-title="河北频道",河北-青县电视
+http://www.xingwen.online:9810/rtp/239.253.93.139:6307
+#EXTINF:-1 group-title="河北频道",河北-盐山电视
+http://www.xingwen.online:9810/rtp/239.253.93.144:6312
+#EXTINF:-1 group-title="河北频道",河北-南皮电视
+http://www.xingwen.online:9810/rtp/239.253.93.149:6317
+#EXTINF:-1 group-title="河北频道",河北-肃宁电视
+http://www.xingwen.online:9810/rtp/239.253.93.152:6320
+#EXTINF:-1 group-title="河北频道",河北-吴桥电视
+http://www.xingwen.online:9810/rtp/239.253.93.169:6337
+#EXTINF:-1 group-title="河北频道",河北-丰宁综合
+http://www.xingwen.online:9810/rtp/239.253.93.210:6388
+#EXTINF:-1 group-title="河北频道",河北-定兴电视
+http://www.xingwen.online:9810/rtp/239.253.93.14:6167
+#EXTINF:-1 group-title="河北频道",河北-阜平电视
+http://www.xingwen.online:9810/rtp/239.253.93.16:6169
+#EXTINF:-1 group-title="河北频道",河北-涞水电视
+http://www.xingwen.online:9810/rtp/239.253.93.17:6170
+#EXTINF:-1 group-title="河北频道",河北-满城电视
+http://www.xingwen.online:9810/rtp/239.253.93.19:6172
+#EXTINF:-1 group-title="河北频道",河北-涞源电视
+http://www.xingwen.online:9810/rtp/239.253.93.22:6175
+#EXTINF:-1 group-title="河北频道",河北-高碑店电视
+http://www.xingwen.online:9810/rtp/239.253.93.23:6176
+#EXTINF:-1 group-title="河北频道",河北-清苑电视
+http://www.xingwen.online:9810/rtp/239.253.93.24:6177
+#EXTINF:-1 group-title="河北频道",河北-涿州电视
+http://www.xingwen.online:9810/rtp/239.253.93.27:6180
+#EXTINF:-1 group-title="河北频道",河北-唐县电视
+http://www.xingwen.online:9810/rtp/239.253.93.30:6183
+#EXTINF:-1 group-title="河北频道",河北-曲阳电视
+http://www.xingwen.online:9810/rtp/239.253.93.31:6184
+#EXTINF:-1 group-title="河北频道",河北-望都电视
+http://www.xingwen.online:9810/rtp/239.253.93.32:6185
+#EXTINF:-1 group-title="河北频道",河北-定州电视
+http://www.xingwen.online:9810/rtp/239.253.93.95:6260
+#EXTINF:-1 group-title="河北频道",河北-高阳电视
+http://www.xingwen.online:9810/rtp/239.253.93.105:6272
+#EXTINF:-1 group-title="河北频道",河北-安新电视
+http://www.xingwen.online:9810/rtp/239.253.93.107:6274
+#EXTINF:-1 group-title="河北频道",河北-容城电视
+http://www.xingwen.online:9810/rtp/239.253.93.110:6277
+#EXTINF:-1 group-title="河北频道",河北-临城电视
+http://www.xingwen.online:9810/rtp/239.253.93.167:6335
+#EXTINF:-1 group-title="河北频道",河北-柏乡电视
+http://www.xingwen.online:9810/rtp/239.253.93.171:6339
+#EXTINF:-1 group-title="河北频道",河北-涿鹿电视
+http://www.xingwen.online:9810/rtp/239.253.93.181:6349
+#EXTINF:-1 group-title="河北频道",河北-徐水电视
+http://www.xingwen.online:9810/rtp/239.253.93.182:6350
+#EXTINF:-1 group-title="河北频道",河北-大名电视
+http://www.xingwen.online:9810/rtp/239.253.93.186:6354
+#EXTINF:-1 group-title="河北频道",河北-巨鹿电视
+http://www.xingwen.online:9810/rtp/239.253.92.254:6449
+#EXTINF:-1 group-title="河北频道",河北-临西电视
+http://www.xingwen.online:9810/rtp/239.253.94.29:6628
+#EXTINF:-1 group-title="河北频道",河北-冀州电视
+http://www.xingwen.online:9810/rtp/239.253.93.34:6187
+#EXTINF:-1 group-title="河北频道",河北-安平电视
+http://www.xingwen.online:9810/rtp/239.253.93.36:6189
+#EXTINF:-1 group-title="河北频道",河北-景县电视
+http://www.xingwen.online:9810/rtp/239.253.93.38:6191
+#EXTINF:-1 group-title="河北频道",河北-饶阳电视
+http://www.xingwen.online:9810/rtp/239.253.93.40:6193
+#EXTINF:-1 group-title="河北频道",河北-深州电视
+http://www.xingwen.online:9810/rtp/239.253.93.42:6195
+#EXTINF:-1 group-title="河北频道",河北-武强电视
+http://www.xingwen.online:9810/rtp/239.253.93.79:6245
+#EXTINF:-1 group-title="河北频道",河北-阜城电视
+http://www.xingwen.online:9810/rtp/239.253.93.168:6336
+#EXTINF:-1 group-title="河北频道",河北-故城电视
+http://www.xingwen.online:9810/rtp/239.253.93.161:6329
+#EXTINF:-1 group-title="河北频道",河北-枣强电视
+http://www.xingwen.online:9810/rtp/239.253.93.166:6334
+#EXTINF:-1 group-title="河北频道",河北-清河电视
+http://www.xingwen.online:9810/rtp/239.253.93.44:6197
+#EXTINF:-1 group-title="河北频道",河北-广宗电视
+http://www.xingwen.online:9810/rtp/239.253.93.50:6203
+#EXTINF:-1 group-title="河北频道",河北-武安电视
+http://www.xingwen.online:9810/rtp/239.253.93.62:6215
+#EXTINF:-1 group-title="河北频道",河北-宁晋电视
+http://www.xingwen.online:9810/rtp/239.253.93.51:6204
+#EXTINF:-1 group-title="河北频道",河北-平乡电视
+http://www.xingwen.online:9810/rtp/239.253.93.53:6206
+#EXTINF:-1 group-title="河北频道",河北-鸡泽电视
+http://www.xingwen.online:9810/rtp/239.253.93.64:6219
+#EXTINF:-1 group-title="河北频道",河北-隆尧电视
+http://www.xingwen.online:9810/rtp/239.253.93.65:6230
+#EXTINF:-1 group-title="河北频道",河北-广平电视
+http://www.xingwen.online:9810/rtp/239.253.93.66:6231
+#EXTINF:-1 group-title="河北频道",河北-南和电视
+http://www.xingwen.online:9810/rtp/239.253.93.80:6246
+#EXTINF:-1 group-title="河北频道",河北-临漳电视
+http://www.xingwen.online:9810/rtp/239.253.93.84:6250
+#EXTINF:-1 group-title="河北频道",河北-内丘电视
+http://www.xingwen.online:9810/rtp/239.253.93.102:6268
+#EXTINF:-1 group-title="河北频道",河北-涉县电视
+http://www.xingwen.online:9810/rtp/239.253.93.106:6273
+#EXTINF:-1 group-title="河北频道",河北-迁安电视
+http://www.xingwen.online:9810/rtp/239.253.93.113:6280
+#EXTINF:-1 group-title="河北频道",河北-馆陶电视
+http://www.xingwen.online:9810/rtp/239.253.93.115:6282
+#EXTINF:-1 group-title="河北频道",河北-乐亭电视
+http://www.xingwen.online:9810/rtp/239.253.93.250:6290
+#EXTINF:-1 group-title="河北频道",河北-沙河电视
+http://www.xingwen.online:9810/rtp/239.253.93.179:6347
+#EXTINF:-1 group-title="河北频道",河北-曲周电视
+http://www.xingwen.online:9810/rtp/239.253.93.54:6207
+#EXTINF:-1 group-title="河北频道",河北-南宫电视
+http://www.xingwen.online:9810/rtp/239.253.93.48:6201
+#EXTINF:-1 group-title="河北频道",河北-丰润电视
+http://www.xingwen.online:9810/rtp/239.253.92.252:6156
 
 
 
@@ -1714,6 +1963,25 @@ http://192.168.10.12/dashboard/03_shanxi_taiyuan.php?id=tyjy
 http://192.168.10.12/dashboard/03_shanxi_taiyuan.php?id=tyblg
 #EXTINF:-1 group-title="山西频道",山西-太原城市生活
 http://192.168.10.12/dashboard/03_shanxi_taiyuan.php?id=tycssh
+
+
+#EXTINF:-1 group-title="山西频道",山西-太原新闻综合[联通组播]
+http://home.yulei.online:9999/rtp/226.0.2.201:9520
+#EXTINF:-1 group-title="山西频道",山西-太原生活
+http://home.yulei.online:9999/rtp/226.0.2.202:9528
+#EXTINF:-1 group-title="山西频道",山西-太原社教法制
+http://home.yulei.online:9999/rtp/226.0.2.203:9536
+#EXTINF:-1 group-title="山西频道",山西-太原文体频道
+http://home.yulei.online:9999/rtp/226.0.2.204:9544
+#EXTINF:-1 group-title="山西频道",山西-太原影视
+http://home.yulei.online:9999/rtp/226.0.2.205:9552
+#EXTINF:-1 group-title="山西频道",山西-太原教育
+http://home.yulei.online:9999/rtp/226.0.2.206:9560
+
+
+
+
+
 #EXTINF:-1 group-title="山西频道",山西-大同新闻综合
 http://192.168.10.12/dashboard/03_shanxi_datong.php?id=16
 #EXTINF:-1 group-title="山西频道",山西-大同公共
@@ -1721,7 +1989,7 @@ http://192.168.10.12/dashboard/03_shanxi_datong.php?id=8
 #EXTINF:-1 group-title="山西频道",山西-大同煤都生活
 http://192.168.10.12/dashboard/03_shanxi_datong.php?id=9
 #EXTINF:-1 group-title="山西频道",山西-大同教育
-http://183.191.251.235:8001/rtp/226.0.2.232:9772
+http://home.yulei.online:9999/rtp/226.0.2.232:9772
 #EXTINF:-1 group-title="山西频道",大同-灵丘电视台
 https://player4.juyun.tv/tv/150434132.m3u8
 #EXTINF:-1 group-title="山西频道",山西-运城新闻综合
@@ -3794,34 +4062,36 @@ https://33524.hlsplay.aodianyun.com/tv_radio_33524/tv_channel_1185.m3u8?auth_key
 http://192.168.10.12/dashboard/07_hubei_quxian_guangdianyun2.php?id=fyzh
 
 
-#EXTINF:-1 group-title="广东频道",广东-广东卫视[移动组播]
-http://119.135.1.64:9999/udp/239.10.0.111:1025
+#EXTINF:-1 group-title="广东频道",广东-广东卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 group-title="广东频道",广东-广东珠江[组播]
-http://119.135.1.64:9999/udp/239.10.0.62:1025
+http://113.90.245.17:4000/udp/239.10.0.62:1025
 #EXTINF:-1 group-title="广东频道",广东-广东新闻[组播]
-http://119.135.1.64:9999/udp/239.10.0.199:1025
+http://113.90.245.17:4000/udp/239.10.0.199:1025
 #EXTINF:-1 group-title="广东频道",广东-广东民生[组播]
-http://119.135.1.64:9999/udp/239.11.0.80:1025
+http://1b6467f415.iok.la:9931/tsfile/live/1013_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东-广东体育[组播]
-http://119.135.1.64:9999/udp/239.10.0.47:1025
+http://113.90.245.17:4000/udp/239.10.0.47:1025
 #EXTINF:-1 group-title="广东频道",广东-大湾区卫视[组播]
-http://119.135.1.64:9999/udp/239.11.0.78:1025
+http://113.90.245.17:4000/udp/239.11.0.78:1025
 #EXTINF:-1 group-title="广东频道",广东-经济科教[组播]
-http://119.135.1.64:9999/udp/239.10.0.46:1025
+http://113.90.245.17:4000/udp/239.10.0.46:1025
 #EXTINF:-1 group-title="广东频道",广东-广东影视[组播]
-http://119.135.1.64:9999/udp/239.11.0.79:1025
+http://113.90.245.17:4000/udp/239.11.0.79:1025
 #EXTINF:-1 group-title="广东频道",广东-广东少儿[组播]
-http://119.135.1.64:9999/udp/239.11.0.81:1025
+http://113.90.245.17:4000/udp/239.11.0.81:1025
 #EXTINF:-1 group-title="广东频道",广东-嘉佳卡通[组播]
-http://119.135.1.64:9999/udp/239.10.0.200:1025
+http://113.90.245.17:4000/udp/239.10.0.200:1025
 #EXTINF:-1 group-title="广东频道",广东-岭南戏曲[组播]
-http://119.135.1.64:9999/udp/239.11.0.180:1025
+http://113.90.245.17:4000/udp/239.11.0.180:1025
 #EXTINF:-1 group-title="广东频道",广东-现代教育[组播]
-http://119.135.1.64:9999/udp/239.11.0.181:1025
+http://113.90.245.17:4000/udp/239.11.0.181:1025
 #EXTINF:-1 group-title="广东频道",广东-南方购物[组播]
-http://119.135.1.64:9999/udp/239.11.0.95:1025
+http://113.90.245.17:4000/udp/239.11.0.95:1025
 #EXTINF:-1 group-title="广东频道",广东综艺4k[组播]
-http://119.135.1.64:9999/udp/239.10.0.74:1025
+http://113.90.245.17:4000/udp/239.10.0.74:1025
+
+
 
 #EXTINF:-1 group-title="广东频道",广东-广东综艺
 http://192.168.10.12/dashboard/14_guangdong_shengji.php?id=gdzy
@@ -3920,21 +4190,22 @@ http://192.168.10.12/dashboard/14_guangdong_shengji.php?id=dggg
 http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
 #EXTINF:-1 group-title="广东频道",广东-梅州公共
 http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8
+
 #EXTINF:-1 group-title="广东频道",广东-中山新闻综合[组播]
-http://119.135.1.64:9999/udp/239.11.0.122:1025
+http://113.90.245.17:4000/udp/239.11.0.122:1025
 #EXTINF:-1 group-title="广东频道",广东-香山文化[组播]
-http://119.135.1.64:9999/udp/239.11.0.123:1025
+http://113.90.245.17:4000/udp/239.11.0.123:1025
 #EXTINF:-1 group-title="广东频道",广东-珠海1[组播]
-http://119.135.1.64:9999/udp/239.10.0.242:1025
+http://113.90.245.17:4000/udp/239.10.0.242:1025
 
 #EXTINF:-1 group-title="广东频道",广东-HZTV1[组播]
 http://59.38.62.36:2052/udp/239.77.1.232:5146
 #EXTINF:-1 group-title="广东频道",广东-HZTV2[组播]
 http://59.38.62.36:2052/udp/239.77.1.233:5146
 #EXTINF:-1 group-title="广东频道",茂名文化[组播]
-http://119.135.1.64:9999/udp/239.11.0.76:1025
+http://113.90.245.17:4000/udp/239.11.0.76:1025
 #EXTINF:-1 group-title="广东频道",茂名综合[组播]
-http://119.135.1.64:9999/udp/239.10.0.238:1025
+http://113.90.245.17:4000/udp/239.10.0.238:1025
 
 #EXTINF:-1 group-title="广东频道",广东-肇庆综合
 http://192.168.10.12/dashboard/14_guangdong_zhaoqing.php?id=zqzh
@@ -6454,9 +6725,6 @@ http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
 http://php.jdshipin.com:8880/xsj.php?id=gdty
 #EXTINF:-1 group-title="港澳台2",澳门莲花
 http://php.jdshipin.com:8880/amlh.php
-
-#EXTINF:-1 group-title="港澳台2",重温经典
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 group-title="港澳台2",凤凰卫视
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="港澳台2",凤凰资讯
@@ -6481,8 +6749,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 
 #EXTINF:-1 group-title="港澳台2",凤凰卫视
 http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-#EXTINF:-1 group-title="港澳台2",重温经典
-http://php.jdshipin.com:8880/xsj.php?id=cwjd
 #EXTINF:-1 group-title="港澳台2",Now HBO Hits
 http://php.jdshipin.com:8880/xsj.php?id=now-hbo-hits
 #EXTINF:-1 group-title="港澳台2",风尚音乐
