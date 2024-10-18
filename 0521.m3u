@@ -4064,43 +4064,46 @@ http://192.168.10.12/dashboard/07_hubei_quxian_guangdianyun2.php?id=fyzh
 
 #EXTINF:-1 group-title="广东频道",广东-广东卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 group-title="广东频道",广东-广东珠江[组播]
-http://113.90.245.17:4000/udp/239.10.0.62:1025
+#EXTINF:-1 group-title="广东频道",广东-广东卫视
+http://59.42.180.136:8090/udp/239.77.1.19:5146
 #EXTINF:-1 group-title="广东频道",广东-广东新闻[组播]
-http://113.90.245.17:4000/udp/239.10.0.199:1025
+http://59.42.180.136:8090/udp/239.77.0.173:5146
 #EXTINF:-1 group-title="广东频道",广东-广东民生[组播]
-http://1b6467f415.iok.la:9931/tsfile/live/1013_1.m3u8
+http://59.42.180.136:8090/udp/239.77.0.225:5146
 #EXTINF:-1 group-title="广东频道",广东-广东体育[组播]
-http://113.90.245.17:4000/udp/239.10.0.47:1025
+http://59.42.180.136:8090/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="广东频道",广东-广东体育超清[组播]
+http://59.42.180.136:8090/udp/239.77.0.168:5146
 #EXTINF:-1 group-title="广东频道",广东-大湾区卫视[组播]
-http://113.90.245.17:4000/udp/239.11.0.78:1025
+http://59.42.180.136:8090/udp/239.77.0.215:5146
 #EXTINF:-1 group-title="广东频道",广东-经济科教[组播]
-http://113.90.245.17:4000/udp/239.10.0.46:1025
+http://59.42.180.136:8090/udp/239.77.0.85:5146
+#EXTINF:-1 group-title="广东频道",广东-经济科教超清[组播]
+http://59.42.180.136:8090/udp/239.77.0.167:5146
 #EXTINF:-1 group-title="广东频道",广东-广东影视[组播]
-http://113.90.245.17:4000/udp/239.11.0.79:1025
+http://59.42.180.136:8090/udp/239.77.0.11:5146
 #EXTINF:-1 group-title="广东频道",广东-广东少儿[组播]
-http://113.90.245.17:4000/udp/239.11.0.81:1025
-#EXTINF:-1 group-title="广东频道",广东-嘉佳卡通[组播]
-http://113.90.245.17:4000/udp/239.10.0.200:1025
+http://59.42.180.136:8090/udp/239.77.0.250:5146
 #EXTINF:-1 group-title="广东频道",广东-岭南戏曲[组播]
-http://113.90.245.17:4000/udp/239.11.0.180:1025
+http://59.42.180.136:8090/udp/239.77.0.16:5146
 #EXTINF:-1 group-title="广东频道",广东-现代教育[组播]
-http://113.90.245.17:4000/udp/239.11.0.181:1025
+http://59.42.180.136:8090/udp/239.77.0.18:5146
 #EXTINF:-1 group-title="广东频道",广东-南方购物[组播]
-http://113.90.245.17:4000/udp/239.11.0.95:1025
+http://59.42.180.136:8090/udp/239.77.0.22:5146
+#EXTINF:-1 group-title="广东频道",广东-广东珠江[组播]
+http://59.42.180.136:8090/udp/239.77.0.1:5146
 #EXTINF:-1 group-title="广东频道",广东综艺4k[组播]
-http://113.90.245.17:4000/udp/239.10.0.74:1025
-
-
-
-#EXTINF:-1 group-title="广东频道",广东-广东综艺
-http://192.168.10.12/dashboard/14_guangdong_shengji.php?id=gdzy
-#EXTINF:-1 group-title="广东频道",广东-广东国际
-http://192.168.10.12/dashboard/14_guangdong_shengji.php?id=gdgj
+http://59.42.180.136:8090/udp/239.77.1.237:5146
+#EXTINF:-1 group-title="广东频道",南国都市 4K[组播]
+http://59.42.180.136:8090/udp/239.253.43.99:5146
+#EXTINF:-1 group-title="广东频道",嘉佳卡通[组播]
+http://59.42.180.136:8090/udp/239.77.0.179:5146
+#EXTINF:-1 group-title="广东频道",广东-广东国际[组播]
+http://59.42.180.136:8090/udp/239.77.0.7:5146
+#EXTINF:-1 group-title="广东频道",广东-广东房产
+http://59.42.180.136:8090/udp/239.77.0.14:5146
 #EXTINF:-1 group-title="广东频道",广东-广东移动
-http://192.168.10.12/dashboard/14_guangdong_shengji.php?id=gdyd
-#EXTINF:-1 group-title="广东频道",广东-GRTN文化频道
-http://192.168.10.12/dashboard/14_guangdong_shengji.php?id=gdwh
+http://59.42.180.136:8090/udp/239.77.0.20:5146
 
 
 #EXTINF:-1 group-title="广东频道",广东-广州综合
@@ -4133,6 +4136,10 @@ http://192.168.10.12/dashboard/14_guangdong_shenzhen.php?id=szgj
 http://192.168.10.12/dashboard/14_guangdong_shenzhen.php?id=szyd
 #EXTINF:-1 group-title="广东频道",广东-深圳宜和购物
 http://192.168.10.12/dashboard/14_guangdong_shenzhen.php?id=yhgw
+#EXTINF:-1 group-title="广东频道",广东-深圳宝安
+http://59.42.180.136:8090/udp/239.77.1.67:5146
+#EXTINF:-1 group-title="广东频道",广东-深圳众创TV
+http://59.42.180.136:8090/udp/239.77.1.247:5146
 
 #EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/guangdong/%E6%B1%95%E5%A4%B4%E7%BB%BC%E5%90%88.png" group-title="广东频道",广东-汕头综合
 http://192.168.10.12/dashboard/14_guangdong_shantou.php?id=stxwzh
@@ -4167,9 +4174,9 @@ http://192.168.10.12/dashboard/14_guangdong_heyuan.php?id=1
 #EXTINF:-1 group-title="广东频道",广东-河源公共
 http://192.168.10.12/dashboard/14_guangdong_heyuan.php?id=2
 #EXTINF:-1 group-title="广东频道",广东-揭阳综合
-http://192.168.10.12/dashboard/14_guangdong_jieyang.php?id=11
+http://59.42.180.136:8090/udp/239.77.0.229:5146
 #EXTINF:-1 group-title="广东频道",广东-揭阳生活
-http://192.168.10.12/dashboard/14_guangdong_jieyang.php?id=12
+http://59.42.180.136:8090/udp/239.77.0.251:5146
 #EXTINF:-1 group-title="广东频道",广东-番禺电视台
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 #EXTINF:-1 group-title="广东频道",广东-湛江综合
@@ -4191,21 +4198,28 @@ http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3
 #EXTINF:-1 group-title="广东频道",广东-梅州公共
 http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8
 
+
 #EXTINF:-1 group-title="广东频道",广东-中山新闻综合[组播]
-http://113.90.245.17:4000/udp/239.11.0.122:1025
+http://59.42.180.136:8090/udp/239.253.43.62:5146
 #EXTINF:-1 group-title="广东频道",广东-香山文化[组播]
-http://113.90.245.17:4000/udp/239.11.0.123:1025
+http://59.42.180.136:8090/udp/239.253.43.63:5146
+
 #EXTINF:-1 group-title="广东频道",广东-珠海1[组播]
-http://113.90.245.17:4000/udp/239.10.0.242:1025
+http://59.42.180.136:8090/udp/239.77.0.155:5146
+#EXTINF:-1 group-title="广东频道",广东-珠海-2高清
+http://59.42.180.136:8090/udp/239.77.0.154:5146
 
 #EXTINF:-1 group-title="广东频道",广东-HZTV1[组播]
-http://59.38.62.36:2052/udp/239.77.1.232:5146
+http://113.90.245.17:4000/udp/239.77.1.232:5146
+#EXTINF:-1 group-title="广东频道",广东-HZTV1[组播]
+http://59.42.180.136:8090/udp/239.77.1.232:5146
 #EXTINF:-1 group-title="广东频道",广东-HZTV2[组播]
-http://59.38.62.36:2052/udp/239.77.1.233:5146
-#EXTINF:-1 group-title="广东频道",茂名文化[组播]
-http://113.90.245.17:4000/udp/239.11.0.76:1025
+http://113.90.245.17:4000/udp/239.77.1.233:5146
+
 #EXTINF:-1 group-title="广东频道",茂名综合[组播]
-http://113.90.245.17:4000/udp/239.10.0.238:1025
+http://59.42.180.136:8090/udp/239.77.0.206:5146
+#EXTINF:-1 group-title="广东频道",茂名公共[组播]
+http://59.42.180.136:8090/udp/239.77.0.207:5146
 
 #EXTINF:-1 group-title="广东频道",广东-肇庆综合
 http://192.168.10.12/dashboard/14_guangdong_zhaoqing.php?id=zqzh
@@ -4217,6 +4231,7 @@ http://192.168.10.12/dashboard/14_guangdong_shengji.php?id=hyzh
 http://192.168.10.12/dashboard/14_guangdong_shengji.php?id=hygg
 #EXTINF:-1 group-title="广东频道",广东-连平台
 http://192.168.10.12/dashboard/14_guangdong_shengji.php?id=lpzh
+
 #EXTINF:-1 group-title="广东频道",广东-阳江1
 https://live.yjtvw.com:8081/live/yjtv1.m3u8
 #EXTINF:-1 group-title="广东频道",广东-阳江2
@@ -5767,67 +5782,38 @@ http://192.168.10.12/dashboard/30_qinghai_geermu.php?id=1
 
 
 
-#EXTINF:-1 group-title="重庆频道",重庆-重庆先执行
-http://192.168.10.12/dashboard/cq/@@cqyx_uppd.php
-#EXTINF:-1 group-title="重庆频道",重庆-重庆卫视
-http://192.168.10.12/dashboard/27_chongqing_shengji.php?id=2
-#EXTINF:-1 group-title="重庆频道",重庆-重庆新闻
-http://192.168.10.12/dashboard/27_chongqing_shengji.php?id=3
-#EXTINF:-1 group-title="重庆频道",重庆-重庆新闻--重庆有线
-http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=CQTVNewsHD
-#EXTINF:-1 group-title="重庆频道",重庆-重庆科教
-http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=CQTVkejiaoHD
-#EXTINF:-1 group-title="重庆频道",重庆-重庆影视
-http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=cqyingshiHD
-#EXTINF:-1 group-title="重庆频道",重庆-重庆文体娱乐
-http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=cqwtylHD
-#EXTINF:-1 group-title="重庆频道",重庆-重庆少儿
-http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=cqseHD
-#EXTINF:-1 group-title="重庆频道",重庆-重庆时尚生活
-http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=cqssgwHD
-#EXTINF:-1 group-title="重庆频道",重庆-重庆新农村
-http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=cqggncHD
-#EXTINF:-1 group-title="重庆频道",重庆-重庆社会与法
-http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=CQTVTrendyHD
-#EXTINF:-1 group-title="重庆频道",重庆-重庆移动
-http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=mryyHD
-#EXTINF:-1 group-title="重庆频道",重庆-重庆汽摩
-http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=cqcarSD
-#EXTINF:-1 group-title="重庆频道",重庆-重广融媒
-http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=cqrongmei
-#EXTINF:-1 group-title="重庆频道",重庆-爱看导视
-http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=aikanHD
+
+
+
+
+#EXTINF:-1 group-title="重庆频道",重庆卫视[联通组播]
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001096/1.m3u8
+#EXTINF:-1 group-title="重庆频道",重庆影视[联通组播]
+http://123.144.84.164:8002/udp/225.0.4.192:7980
+#EXTINF:-1 group-title="重庆频道",重庆时尚[联通组播]
+http://123.144.84.164:8002/udp/225.0.4.196:7980
+#EXTINF:-1 group-title="重庆频道",重庆娱乐[联通组播]
+http://123.144.84.164:8002/udp/225.0.4.194:7980
+#EXTINF:-1 group-title="重庆频道",重庆新农村[联通组播]
+http://123.144.84.164:8002/udp/225.0.4.189:7980
+#EXTINF:-1 group-title="重庆频道",重庆少儿[联通组播]
+http://123.144.84.164:8002/udp/225.0.4.191:7980
+#EXTINF:-1 group-title="重庆频道",重庆科教[联通组播]
+http://123.144.84.164:8002/udp/225.0.4.193:7980
+#EXTINF:-1 group-title="重庆频道",重庆汽摩[联通组播]
+http://123.144.84.164:8002/udp/225.0.4.195:7980
+#EXTINF:-1 group-title="重庆频道",重庆新闻超高清[联通组播]
+http://123.144.84.164:8002/udp/225.0.4.188:7980
+#EXTINF:-1 group-title="重庆频道",重庆社会与法[联通组播]
+http://123.144.84.164:8002/udp/225.0.4.190:7980
+
+#EXTINF:-1 group-title="重庆频道",重庆移动[联通组播]
+http://123.144.84.164:8002/udp/225.0.4.215:7980
+#EXTINF:-1 group-title="重庆频道",睛彩重庆[联通组播]
+http://113.249.29.27:5555/rtp/235.254.196.218:1146
+
 #EXTINF:-1 group-title="重庆频道",重庆-购物频道
 https://cqonsitecdn.cbgcloud.com:443/161o3l/5tu7tm.m3u8
-
-#EXTINF:-1 group-title="重庆频道",CQTV卫视[电信组播]
-http://113.251.226.247:7788/rtp/235.254.196.249:1268
-#EXTINF:-1 group-title="重庆频道",CQTV影视[电信组播]
-http://113.251.226.247:7788/rtp/235.254.198.180:7980
-#EXTINF:-1 group-title="重庆频道",CQTV都市[电信组播]
-http://113.251.226.247:7788/rtp/235.254.198.181:7980
-#EXTINF:-1 group-title="重庆频道",CQTV时尚[电信组播]
-http://113.251.226.247:7788/rtp/235.254.198.182:7980
-#EXTINF:-1 group-title="重庆频道",CQTV娱乐[电信组播]
-http://113.251.226.247:7788/rtp/235.254.198.187:7980
-#EXTINF:-1 group-title="重庆频道",CQTV公共农村[电信组播]
-http://113.251.226.247:7788/rtp/235.254.198.186:7980
-#EXTINF:-1 group-title="重庆频道",CQTV少儿[电信组播]
-http://113.251.226.247:7788/rtp/235.254.196.214:1128
-#EXTINF:-1 group-title="重庆频道",CQTV科教[电信组播]
-http://113.251.226.247:7788/rtp/235.254.196.215:1132
-#EXTINF:-1 group-title="重庆频道",CQTV生活[电信组播]
-http://113.251.226.247:7788/rtp/235.254.196.216:1136
-#EXTINF:-1 group-title="重庆频道",CQTV汽摩[电信组播]
-http://113.251.226.247:7788/rtp/235.254.196.221:1156
-#EXTINF:-1 group-title="重庆频道",CQTV新闻超高清[电信组播]
-http://113.251.226.247:7788/rtp/235.254.196.199:7980
-#EXTINF:-1 group-title="重庆频道",CQTV手持电视[电信组播]
-http://113.251.226.247:7788/rtp/235.254.196.219:1148
-#EXTINF:-1 group-title="重庆频道",CQTV移动[电信组播]
-http://113.251.226.247:7788/rtp/235.254.196.217:1140
-#EXTINF:-1 group-title="重庆频道",睛彩重庆[电信组播]
-http://113.249.29.27:5555/rtp/235.254.196.218:1146
 
 #EXTINF:-1 group-title="重庆频道",重庆-黔江电视台
 https://qxlmlive9.cbg.cn:443/applive/qjpd1/playlist.m3u8
@@ -5841,8 +5827,10 @@ https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
 https://qxlmlive9.cbg.cn/applive/wslive01/playlist.m3u8%22
 #EXTINF:-1 group-title="重庆频道",重庆-潼南综合
 http://183.230.184.51:65500/tntv1.m3u8
-#EXTINF:-1 group-title="重庆台" tvg-id="忠县综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0630/small6e79735514de66fb5657ab8f93ea27391498832153.jpg",忠县综合频道
+#EXTINF:-1 group-title="重庆频道" tvg-id="忠县综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0630/small6e79735514de66fb5657ab8f93ea27391498832153.jpg",忠县综合频道
 https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="重庆频道",重庆-开州综合
 https://qxlmlive9.cbg.cn/applive/kzpd02/chunklist.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-江津综合
@@ -5855,8 +5843,6 @@ https://play-sh.quklive.com/live/1672366847646284.m3u8
 https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-璧山综合
 http://222.179.42.129:8181/hls1.m3u8
-#EXTINF:-1 group-title="重庆频道",重庆-云阳综合[重庆有线]
-http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=jiangjinHD
 #EXTINF:-1 group-title="重庆频道",重庆-云阳综合[静态]
 https://live.yunyangwang.com/live/dszb.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-梁平综合
@@ -5867,6 +5853,10 @@ https://tlpc01.cqliving.com/ch1.m3u8
 https://live.cqbntv.com/bnmc/tv0709.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-璧山综合
 http://192.168.10.12/dashboard/cq/cqyx.php?id=bishanHD
+
+
+#EXTINF:-1 group-title="重庆频道",重庆-云阳综合[重庆有线]
+http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=jiangjinHD
 #EXTINF:-1 group-title="重庆频道",重庆-长寿综合
 http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=changshou
 #EXTINF:-1 group-title="重庆频道",重庆-丰都综合
@@ -5881,8 +5871,6 @@ http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=kaizhouHD
 http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=qianjiang
 #EXTINF:-1 group-title="重庆频道",重庆-铜梁综合
 http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=tongliangzongheHD
-
-
 #EXTINF:-1 group-title="重庆频道",重庆-武隆综合
 http://192.168.10.12/dashboard/27_chongqin_cqyx2.php?id=wlzh
 #EXTINF:-1 group-title="重庆频道",重庆-巫溪综合
