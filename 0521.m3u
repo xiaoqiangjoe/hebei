@@ -546,12 +546,18 @@ http://61.55.46.35:4022/rtp/239.253.92.131:6113
 http://61.55.46.35:4022/rtp/239.253.93.248:6426
 
 
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC家庭影院.png" group-title="电影频道",CHC家庭影院[联通]
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
 http://home.yulei.online:9999/rtp/226.0.2.240:9820
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC动作电影.png" group-title="电影频道",CHC动作电影[联通]
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC动作电影.png" group-title="电影频道",CHC动作电影
 http://home.yulei.online:9999/rtp/226.0.2.240:9820
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC高清电影.png" group-title="电影频道",CHC高清电影[联通]
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC高清电影.png" group-title="电影频道",CHC高清电影
 http://home.yulei.online:9999/rtp/226.0.2.93:8004
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
+http://117.114.153.18:8180/TV00000000000000000092@HHZT
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC动作电影.png" group-title="电影频道",CHC动作电影
+http://117.114.153.18:8180/TV00000000000000000093@HHZT
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC高清电影.png" group-title="电影频道",CHC影迷电影
+http://117.114.153.18:8180/TV00000000000000000094@HHZT
 
 
 #EXTINF:-1 group-title="电影频道",CHC动作电影[天津联通]
