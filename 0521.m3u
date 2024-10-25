@@ -5170,6 +5170,8 @@ http://117.190.130.4:8081/out_2/index.m3u8
 http://222.81.86.42:8060/hls/ch3/ch3.m3u8
 #EXTINF:-1 group-title="新疆频道",新疆-福海维语综合
 http://222.81.86.42:8060/hls/ch4/ch4.m3u8
+
+
 #EXTINF:-1 group-title="云南频道",云南卫视
 http://localhost/dashboard/21_yunnan_shengji.php?id=ynws
 #EXTINF:-1 tvg-id="云南都市" tvg-name="云南都市" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/云南都市.png" group-title="云南频道",云南都市
@@ -5184,6 +5186,9 @@ http://localhost/dashboard/21_yunnan_shengji.php?id=yngj
 http://localhost/dashboard/21_yunnan_shengji.php?id=ynse
 #EXTINF:-1 tvg-id="云南影视" tvg-name="云南影视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/云南影视.png" group-title="云南频道",云南影视
 http://ynxsj.7766.org:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-id="云南影视" tvg-name="云南影视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/云南影视.png" group-title="云南频道",云南影视
+rtmp://hwzbout.yntv.net/62hdvf/utrat7
+
 #EXTINF:-1 group-title="云南频道",云南-昆明新闻综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=kmxw
 #EXTINF:-1 group-title="云南频道",云南-昆明经济生活
@@ -5218,6 +5223,8 @@ http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
 http://localhost/dashboard/21_yunnan_nujiang.php?id=njxw
 #EXTINF:-1 group-title="云南频道",云南-怒江广播电视台广播综合频率
 http://localhost/dashboard/21_yunnan_nujiang.php?id=njgb
+#EXTINF:-1 group-title="云南频道",云南-怒江广播电视台新闻综合频道
+rtmp://hwzbout.yntv.net/s5xpv2/9r4ei4
 #EXTINF:-1 group-title="云南频道",云南-泸水市广播电视台
 http://localhost/dashboard/21_yunnan_nujiang.php?id=lsxw
 #EXTINF:-1 group-title="云南频道",云南-福贡县广播电视台
@@ -5280,6 +5287,21 @@ https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8
 http://localhost/dashboard/58_hbky.php?id=bcxw
 #EXTINF:-1 group-title="云南频道",瑞丽综合
 http://channel.rlrmtzx.com/nmip-media/channellive/channel100728/playlist.m3u8
+#EXTINF:-1 group-title="云南频道",洱原县电视台
+rtmp://hwzbout.yntv.net/d117oe/mk98io
+#EXTINF:-1 group-title="云南频道",云龙电视台
+rtmp://hwzbout.yntv.net/b0231t/f502oq
+#EXTINF:-1 group-title="云南频道",巍山县电视台
+rtmp://hwzbout.yntv.net/euxv6l/5q7637
+#EXTINF:-1 group-title="云南频道",元江县新闻综合
+rtmp://hwzbout.yntv.net/vu7hkj/x6rer3
+#EXTINF:-1 group-title="云南频道",华坪县新闻综合频道
+rtmp://hwzbout.yntv.net/xfm214/198968
+#EXTINF:-1 group-title="云南频道",临沧新闻综合
+rtmp://hwzbout.yntv.net/6tt654/1i495z
+#EXTINF:-1 group-title="云南频道",临沧科教频道
+rtmp://hwzbout.yntv.net/6tt654/drfs5s
+
 
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/内蒙古卫视.png" group-title="内蒙古频道",内蒙古卫视[官方]
 http://localhost/dashboard/22_neimenggu_shengji.php?id=nmws
