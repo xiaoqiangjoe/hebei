@@ -4521,9 +4521,31 @@ http://p2.vzan.com/419307/577613453950840330/live.m3u8
 #EXTINF:-1 group-title="甘肃频道",甘肃-武都综合频道
 http://play.kankanlive.com/live/1703747194431958.m3u8
 
+#EXTINF:-1 group-title="辽宁频道",辽宁卫视高清 
+http://localhost/dashboard/17_liaoniang_shengji.php?id=058
+#EXTINF:-1 group-title="辽宁频道",辽宁都市
+http://localhost/dashboard/17_liaoniang_shengji.php?id=610
+#EXTINF:-1 group-title="辽宁频道",辽宁经济
+http://localhost/dashboard/17_liaoniang_shengji.php?id=076
+#EXTINF:-1 group-title="辽宁频道",辽宁经济
+http://localhost/dashboard/17_liaoniang_shengji.php?id=480
+#EXTINF:-1 group-title="辽宁频道",辽宁公共
+http://localhost/dashboard/17_liaoniang_shengji.php?id=481
+#EXTINF:-1 group-title="辽宁频道",辽宁影视剧
+http://localhost/dashboard/17_liaoniang_shengji.php?id=070
+#EXTINF:-1 group-title="辽宁频道",辽宁北方
+http://localhost/dashboard/17_liaoniang_shengji.php?id=071
+#EXTINF:-1 group-title="辽宁频道",辽宁体育
+http://localhost/dashboard/17_liaoniang_shengji.php?id=611
+#EXTINF:-1 group-title="辽宁频道",辽宁生活
+http://localhost/dashboard/17_liaoniang_shengji.php?id=073
+#EXTINF:-1 group-title="辽宁频道",辽宁教育青少
+http://localhost/dashboard/17_liaoniang_shengji.php?id=075
+#EXTINF:-1 group-title="辽宁频道",沈阳新闻综合高清 
+http://localhost/dashboard/17_liaoniang_shengji.php?id=059
 
 #EXTINF:-1 group-title="辽宁频道",辽宁卫视-[联通]
-http://42.58.245.40:9012/rtp/232.0.0.126:1234
+http://113.224.161.159:5555/rtp/232.0.0.126:1234
 #EXTINF:-1 group-title="辽宁频道",辽宁都市
 http://42.58.245.40:9012/rtp/232.0.0.154:1234
 #EXTINF:-1 group-title="辽宁频道",辽宁北方
