@@ -255,12 +255,24 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://117.114.153.18:8180/TV00000000000000000007@HHZT
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频",CETV-1
 http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000288015&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频",CETV-1
+http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央视频",CETV-2
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央视频",CETV-2
 http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000288017&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="央视频",CETV-4
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+#EXTINF:-1 group-title="卫视频道",早期教育[天津联通]
+http://ha.xushining.com:50000/udp/225.1.2.207:5002
+#EXTINF:-1 group-title="卫视频道",CETV1HD[北京联通]
+http://114.254.94.146:2222/rtp/239.3.1.57:8152
+#EXTINF:-1 group-title="卫视频道",CETV2[北京联通]
+http://114.254.94.146:2222/rtp/239.3.1.54:4120
+#EXTINF:-1 group-title="卫视频道",CETV3[北京联通]
+http://114.254.94.146:2222/rtp/239.3.1.55:4120
+#EXTINF:-1 group-title="卫视频道",CETV4[北京联通]
+http://114.254.94.146:2222/rtp/239.3.1.56:4120
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV1.png" group-title="咪咕视频爱看版",cctv1
 http://localhost/dashboard/57_migu_aikan.php?id=cctv1
@@ -510,7 +522,8 @@ http://[2409:8087:1a01:df::7005]:80/000000001000/6000000002000003382/index.m3u8?
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 
 
-
+#EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" group-title="电影频道",cctv6
+http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" group-title="电影频道",cctv6
 http://localhost/dashboard/56_1095.php?id=cctv6
 #EXTINF:-1 tvg-id="1905b" tvg-name="1905b" group-title="电影频道",1905b
@@ -566,17 +579,7 @@ http://ha.xushining.com:50000/udp/225.1.1.215:5002
 http://ha.xushining.com:50000/udp/225.1.1.214:5002
 #EXTINF:-1 group-title="电影频道",CHC家庭影院[天津联通]
 http://ha.xushining.com:50000/udp/225.1.1.213:5002
-#EXTINF:-1 group-title="卫视频道",早期教育[天津联通]
-http://ha.xushining.com:50000/udp/225.1.2.207:5002
 
-#EXTINF:-1 group-title="卫视频道",CETV1HD[北京联通]
-http://114.254.94.146:2222/rtp/239.3.1.57:8152
-#EXTINF:-1 group-title="卫视频道",CETV2[北京联通]
-http://114.254.94.146:2222/rtp/239.3.1.54:4120
-#EXTINF:-1 group-title="卫视频道",CETV3[北京联通]
-http://114.254.94.146:2222/rtp/239.3.1.55:4120
-#EXTINF:-1 group-title="卫视频道",CETV4[北京联通]
-http://114.254.94.146:2222/rtp/239.3.1.56:4120
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -5030,6 +5033,9 @@ http://localhost/dashboard/20_xinjiang_shengji.php?id=xjws
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 group-title="新疆频道",兵团卫视
 http://localhost/dashboard/17_liaoniang_shengji.php?id=124
+#EXTINF:-1 group-title="新疆频道",兵团卫视
+http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
+
 #EXTINF:-1 group-title="新疆频道",新疆-维语新闻综合
 http://localhost/dashboard/20_xinjiang_shengji.php?id=xwwy
 #EXTINF:-1 group-title="新疆频道",新疆-哈语新闻综合
