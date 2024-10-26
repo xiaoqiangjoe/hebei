@@ -5547,8 +5547,12 @@ https://live.gxrb.com.cn/gx/rongxian/index.m3u8
 https://live.gxrb.com.cn/gx/cenxi/index.m3u8
 #EXTINF:-1 group-title="广西频道",融水新闻综合
 https://live.gxrb.com.cn/gx/rongshui/index.m3u8
-#EXTINF:-1 group-title="广西频道",钦州综合
+#EXTINF:-1 group-title="广西频道",钦州综合[组播]
 http://www.dsmcloud.top:8888/udp/239.81.0.164:4056
+#EXTINF:-1 group-title="广西频道",合浦电视台
+http://222.218.158.86:8181/tsfile/live/1036_1.m3u8
+#EXTINF:-1 group-title="广西频道",BBTV
+http://222.218.158.86:8181/tsfile/live/1035_1.m3u8
 
 
 
