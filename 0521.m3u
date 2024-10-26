@@ -796,7 +796,7 @@ https://epg.pw/stream/45ee99a8a0badc17c2a57378b6b4f076167eb740985eec8349043ca56f
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 
 #EXTINF:-1 group-title="上海频道",上海-劲爆体育
-http://localhost/dashboard/57_migu2.php?id=jbty
+http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="上海频道",上海-魅力足球
 http://localhost/dashboard/57_migu2.php?id=mlzq
 #EXTINF:-1 group-title="上海频道",上海-乐游
