@@ -6385,8 +6385,10 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8
 #EXTINF:-1 group-title="台湾",大爱2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-
-
+#EXTINF:-1 group-title="台湾",好消息GOODTV
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 group-title="台湾",好消息2
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 
 #EXTINF:-1 group-title="台湾",唯心電視
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
