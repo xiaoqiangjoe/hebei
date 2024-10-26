@@ -5271,8 +5271,6 @@ http://39.129.113.77:38083/live/cxxwpd.m3u8
 http://39.129.113.77:38083/live/cxwlpd.m3u8
 #EXTINF:-1 group-title="云南频道",云南-麻栗坡县电视台
 https://m3u8.channel.wsrtv.com.cn/nmip-media/channellive/channel107237/playlist.m3u8
-#EXTINF:-1 group-title="云南频道",云南文山-麻栗坡台
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",云南-丘北新闻综合
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",云南-砚山频道
@@ -5289,10 +5287,10 @@ http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
 http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8
 #EXTINF:-1 group-title="云南频道",云南-文山州新闻综合
 http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
-#EXTINF:-1 group-title="云南频道",云南-文山州公共
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",云南-文山州新闻综合
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+http://m3u8.channel.wsrtv.com.cn/nmip-media/channellive/channel103390/playlist.m3u8
+#EXTINF:-1 group-title="云南频道",云南文山-麻栗坡台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",云南-德宏新闻综合
 https://zhztsrs.edehong.com:8001/srs1/matrix/102580.flv
 #EXTINF:-1 group-title="云南频道",云南-德宏文旅
