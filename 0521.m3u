@@ -413,6 +413,10 @@ http://localhost/dashboard/60_yst3.php?id=cctv17
 
 #EXTINF:-1 group-title="ysp3",CCTV-5+
 http://localhost/dashboard/60_yst3.php?id=cctv5p
+
+
+#EXTINF:-1 group-title="4K频道",北京纪实8K
+http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV4K.png" group-title="4K频道",CCTV-4K 超高清-河北联通组播
 http://www.xingwen.online:9810/rtp/239.253.93.134:6631
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CCTV16.png" group-title="ysp3",cctv16-4K
