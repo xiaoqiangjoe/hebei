@@ -6156,6 +6156,8 @@ rtmp://live.pyscripter.com/HKgstv_com/www_hkgstv_com?auth_key=6001723702257-0-0-
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="香港",TVB翡翠
 http://14.145.132.125:8081/hls/30/index.m3u8
+#EXTINF:-1 group-title="香港",TVB翡翠
+https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 group-title="香港",TVB明珠
 http://14.145.132.125:8081/hls/31/index.m3u8
 #EXTINF:-1 group-title="香港",TVB星河
