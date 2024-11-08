@@ -327,11 +327,11 @@ http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000005000031974/1.m3u8?chan
 
 
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E4%B8%AD%E5%A4%AE%E6%96%B0%E5%BD%B1%E4%B8%AD%E5%AD%A6%E7%94%9F.png" group-title="央视频",种养新影-中学生
-http://localhost/dashboard/58_migu_wangy.php?id=zxs
+http://vapi.91kds.cc/live1/jdtv2.m3u8?id=zxs&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E4%B8%AD%E5%A4%AE%E6%96%B0%E5%BD%B1%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85.png" group-title="央视频",种养新影-发现之旅
-http://localhost/dashboard/58_migu_wangy.php?id=fxzl
+http://vapi.91kds.cc/live1/jdtv2.m3u8?id=fxzl&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E4%B8%AD%E5%A4%AE%E6%96%B0%E5%BD%B1%E8%80%81%E6%95%85%E4%BA%8B.png" group-title="央视频",种养新影-老故事
-http://localhost/dashboard/58_migu_wangy.php?id=lgs
+http://vapi.91kds.cc/live1/jdtv2.m3u8?id=lgs&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CGTN.png" group-title="央视频",CGTN
 https://0472.org/hls/cgtn.m3u8
@@ -6111,6 +6111,8 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 http://14.145.132.125:8081/hls/30/index.m3u8
 #EXTINF:-1 group-title="香港",TVB翡翠
 https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 group-title="香港",TVB翡翠
+http://beishan008.asuscomm.com:8889/bysid/1
 #EXTINF:-1 group-title="香港",TVB明珠
 http://14.145.132.125:8081/hls/31/index.m3u8
 #EXTINF:-1 group-title="香港",TVB明珠
