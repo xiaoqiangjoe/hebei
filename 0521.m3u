@@ -5390,6 +5390,47 @@ https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8
 #EXTINF:-1 tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/内蒙古蒙语文化.png" group-title="内蒙古频道",内蒙古蒙语文化
 https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-内蒙古卫视
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=nmws
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-内蒙古蒙古语卫视
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=nmmyws
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-内蒙古新闻综合
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=nmxwzh
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-内蒙古经济生活
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=nmjjsh
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-内蒙古少儿频道
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=nmse
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-内蒙古文体娱乐
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=nmwtyl
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-内蒙古农牧频道
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=nmnm
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-内蒙古蒙古语文化
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=nmwh
+
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-呼和浩特新闻综合
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=hhht1
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-锡林郭勒
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=xlgl1
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-阿拉善新闻综合
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=als1
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-巴彦淖尔
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=byle1
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-鄂尔多斯
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=erds1
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-赤峰新闻综合
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=cf1
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-通辽新闻综合
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=tl1
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-乌兰察布
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=wlcb1
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-乌海新闻综合
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=wh1
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-呼伦贝尔新闻综合
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=hlbe1
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-兴安新闻综合
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=xa1
+#EXTINF:-1 group-title="内蒙古频道",内蒙古-包头新闻综合
+http://localhost/dashboard/22_neimenggu_shengji1.php?id=bt1
 
 
 #EXTINF:-1 group-title="内蒙古频道",内蒙古-鄂尔多斯新闻综合
