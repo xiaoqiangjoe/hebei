@@ -592,7 +592,7 @@ http://111.165.213.195:8000/udp/225.1.1.213:5002
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视
@@ -2949,12 +2949,8 @@ http://192.168.10.12/dashboard/07_hubei_quxian_guangdianyun.php?id=hsds
 
 #EXTINF:-1 group-title="湖南频道",湖南卫视
 http://192.168.10.12/dashboard/07_hubei_quxian_guangdianyun.php?id=hnws
-#EXTINF:-1 group-title="湖南频道",湖南-湖南卫视
-http://192.168.10.12/dashboard/07_hubei_quxian_guangdianyun2.php?id=hnws
-#EXTINF:-1 group-title="湖南频道",湖南-湖南卫视
-http://192.168.10.12/dashboard/08_hunan_loudi.php?id=hnws
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/湖南卫视.png" group-title="湖南频道",湖南卫视
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181358BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUds%2BUtPKX7dYKgp%2FtymOuOt9pHjY5eGh1%2F3MQt0stvVIffnHpm3K91ELxLBLxf9DE3IGliSDUqkfu%2BEzvoBJvtA
+#EXTINF:-1 group-title="湖南频道",湖南卫视
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/湖南经视.png" group-title="湖南频道",湖南经视
 http://192.168.10.12/dashboard/08_hunan_shengji.php?id=8
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/湖南娱乐.png" group-title="湖南频道",湖南娱乐
