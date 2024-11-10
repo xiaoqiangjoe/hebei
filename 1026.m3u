@@ -3689,19 +3689,21 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 
 #EXTINF:-1 group-title="浙江频道",浙江-杭州综合
-http://localhost/dashboard/13_zhejiang_hangzhou.php?id=zh
+http://localhost/dashboard/13_zhejiang_hangzhou.php?id=hzzh
 #EXTINF:-1 group-title="浙江频道",浙江-杭州西湖明珠
-http://localhost/dashboard/13_zhejiang_hangzhou.php?id=xh
+http://localhost/dashboard/13_zhejiang_hangzhou.php?id=hzmz
 #EXTINF:-1 group-title="浙江频道",浙江-杭州生活
-http://localhost/dashboard/13_zhejiang_hangzhou.php?id=sh
-#EXTINF:-1 group-title="浙江频道",浙江-杭州青少体育
-http://localhost/dashboard/13_zhejiang_hangzhou.php?id=qt
+http://localhost/dashboard/13_zhejiang_hangzhou.php?id=hzsh
+#EXTINF:-1 group-title="浙江频道",浙江-杭州少儿
+http://localhost/dashboard/13_zhejiang_hangzhou.php?id=hzse
 #EXTINF:-1 group-title="浙江频道",浙江-杭州影视
-http://localhost/dashboard/13_zhejiang_hangzhou.php?id=ys
+http://localhost/dashboard/13_zhejiang_hangzhou.php?id=hzys
 #EXTINF:-1 group-title="浙江频道",浙江-杭州导视
-http://localhost/dashboard/13_zhejiang_hangzhou.php?id=ds
+http://localhost/dashboard/13_zhejiang_hangzhou.php?id=hzds
+#EXTINF:-1 group-title="浙江频道",浙江-杭州葫芦直播
+http://localhost/dashboard/13_zhejiang_hangzhou.php?id=hzhl
 #EXTINF:-1 group-title="浙江频道",浙江-富阳综合
-http://localhost/dashboard/13_zhejiang_hangzhou.php?id=fy
+http://localhost/dashboard/13_zhejiang_hangzhou.php?id=fyxwzh
 
 #EXTINF:-1 group-title="浙江频道",浙江-嘉兴新闻综合
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=1
