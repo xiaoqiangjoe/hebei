@@ -199,7 +199,10 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226976/1.m3u8?GuardEncType
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAWLGkc6X5Fh9eyLXH5iy4A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="北京IPTV",淘电影
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-
+#EXTINF:-1 group-title="北京IPTV",郑铁频道
+http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
+#EXTINF:-1 group-title="北京IPTV",人民铁道
+http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 
 
 
@@ -5950,6 +5953,8 @@ http://localhost/dashboard/29_ningxia_shizuishan.php?id=12
 http://live.kanwz.net/zhpd/sd/live.m3u8
 #EXTINF:-1 group-title="宁夏频道",宁夏吴忠公共
 http://live.kanwz.net/ggpd/sd/live.m3u8
+
+
 #EXTINF:-1 group-title="其他",欧洲-华文一套
 http://localhost/dashboard/50_European_Chinese_Television_Station.php?id=11
 #EXTINF:-1 group-title="其他",欧洲-华文二套
@@ -6505,10 +6510,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 #EXTINF:-1 group-title="未分组",NewTV精品萌宠
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 group-title="未分组",郑铁频道
-http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
-#EXTINF:-1 group-title="未分组",人民铁道
-http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
+
+
+
 #EXTINF:-1 group-title="春晚",春晚1984
 http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 #EXTINF:-1 group-title="春晚",春晚1985
