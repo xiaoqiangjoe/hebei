@@ -6333,11 +6333,11 @@ http://37.27.111.214:8080/live/3/hls.m3u8
 #EXTINF:-1 group-title="台湾",纬来精彩
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 group-title="台湾",纬来体育
-rtmp://f13h.mine.nu:1935/sat/tv721
+rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 group-title="台湾",纬来育乐
-rtmp://f13h.mine.nu:1935/sat/tv701
+rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 group-title="台湾",纬来日本
-rtmp://f13h.mine.nu:1935/sat/tv771
+rtmp://f13h.mine.nu/sat/tv771
 
 #EXTINF:-1 group-title="台湾",美亚電影
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
