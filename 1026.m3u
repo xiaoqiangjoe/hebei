@@ -6341,6 +6341,10 @@ rtmp://f13h.mine.nu/sat/tv771
 
 #EXTINF:-1 group-title="台湾",美亚電影
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 group-title="台湾",ELEVEN1
+http://211.72.65.236:8566/.m3u8
+#EXTINF:-1 group-title="台湾",ELEVEN2
+http://211.72.65.236:8567/.m3u8
 
 
 #EXTINF:-1 group-title="台湾",TV5MONDE(法语电视台)
