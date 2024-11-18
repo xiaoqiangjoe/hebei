@@ -5392,51 +5392,74 @@ http://zb.gxlbamc.com:1935/live/lbzh.stream/chunklist_w359925134.m3u8
 http://localhost/dashboard/23_guangxi_fcg.php?id=fcgzh
 #EXTINF:-1 group-title="广西频道",广西-防城港公共
 http://localhost/dashboard/23_guangxi_fcg.php?id=fcggg
+#EXTINF:-1 group-title="广西频道",乐业新闻综合
+rtmp://live.gxrb.com.cn/gx/leye
 #EXTINF:-1 group-title="广西频道",广西-百色综合
 https://live.gxrb.com.cn/tv/bstv_zh/index.m3u8
-#EXTINF:-1 group-title="广西频道",灵川新闻综合
+#EXTINF:-1 group-title="广西频道",广西-灵川新闻综合
 rtmp://pulls.myun.tv/live/loezggo5
+#EXTINF:-1 group-title="广西频道",广西-灵川新闻综合
+https://rtmp.gdlive.gdmain.com/live/0ye9dn75.m3u8
+#EXTINF:-1 group-title="广西频道",广西-荔浦新闻综合
+https://web.guangdianyun.tv/tv/3396?uin=4262
+#EXTINF:-1 group-title="广西频道",广西-全州新闻综合
+rtmp://live.gxrb.com.cn/gx/quanzhou
+#EXTINF:-1 group-title="广西频道",广西-兴安新闻综合
+rtmp://live.gxrb.com.cn/gx/xingan
 #EXTINF:-1 group-title="广西频道",广西-藤县新闻综合
 http://srs.txdst.cn/live/txtv.m3u8
 #EXTINF:-1 group-title="广西频道",灌阳新闻综合
-https://live.gxrb.com.cn/gx/guanyang/index.m3u8
+rtmp://live.gxrb.com.cn/gx/guanyang
 #EXTINF:-1 group-title="广西频道",宾阳新闻综合
-https://live.gxrb.com.cn/gx/binyang/index.m3u8
+rtmp://live.gxxw.cn/gx/binyang
 #EXTINF:-1 group-title="广西频道",龙州新闻综合
-https://live.gxrb.com.cn/gx/longzhou/index.m3u8
+rtmp://live.gxrb.com.cn/gx/longzhou
 #EXTINF:-1 group-title="广西频道",凭祥新闻综合
-https://live.gxrb.com.cn/gx/pingxiang/index.m3u8
+rtmp://live.gxrb.com.cn/gx/pingxiang
 #EXTINF:-1 group-title="广西频道",资源新闻综合
 rtmp://pulls.myun.tv/live/5z4yjgm0
 #EXTINF:-1 group-title="广西频道",天等新闻综合
-https://live.gxrb.com.cn/gx/tiandeng/index.m3u8
+rtmp://live.gxrb.com.cn/gx/tiandeng
 #EXTINF:-1 group-title="广西频道",巴马新闻综合
-https://live.gxrb.com.cn/gx/bama/index.m3u8
+rtmp://live.gxrb.com.cn/gx/bama
 #EXTINF:-1 group-title="广西频道",都安新闻综合
-https://live.gxrb.com.cn/gx/duan/index.m3u8
+rtmp://live.gxrb.com.cn/gx/duan
 #EXTINF:-1 group-title="广西频道",罗城新闻综合
 http://111.12.75.177:9100/lctvlive/lch.m3u8
 #EXTINF:-1 group-title="广西频道",东兰新闻综合
 rtmp://push.gdlive.gdmain.com/live/09aony85
 #EXTINF:-1 group-title="广西频道",靖西新闻综合
-https://live.gxrb.com.cn/gx/jingxi/index.m3u8
+rtmp://live.gxrb.com.cn/gx/jingxi
 #EXTINF:-1 group-title="广西频道",凌云新闻综合
-https://live.gxrb.com.cn/gx/lingyun/index.m3u8
+rtmp://live.gxrb.com.cn/gx/lingyun
 #EXTINF:-1 group-title="广西频道",那坡新闻综合
-http://rtmp.gdlive.gdmain.com/live/02vy7x7l.m3u8
+http://rtmp.gdlive.gdmain.com/live/ljkp2890.m3u8
 #EXTINF:-1 group-title="广西频道",田东新闻综合
-https://live.gxrb.com.cn/gx/tiandong/index.m3u8
+https://rtmp.gdlive.gdmain.com/live/5zor3gal.m3u8
 #EXTINF:-1 group-title="广西频道",博白新闻综合
-http://live.gxrb.com.cn/hls/a22/index.m3u8
+rtmp://live.gxrb.com.cn/hls/a22
 #EXTINF:-1 group-title="广西频道",容县新闻综合
-https://live.gxrb.com.cn/gx/rongxian/index.m3u8
+rtmp://live.gxrb.com.cn/gx/rongxian
+#EXTINF:-1 group-title="广西频道",容县新闻综合
+https://rongxianapph5.cloudgx.cn/living/44d94680e6c04e66a6f3e5c82e677e4f
 #EXTINF:-1 group-title="广西频道",岑溪新闻综合
-https://live.gxrb.com.cn/gx/cenxi/index.m3u8
+rtmp://live.gxrb.com.cn/gx/cenxi
 #EXTINF:-1 group-title="广西频道",融水新闻综合
-https://live.gxrb.com.cn/gx/rongshui/index.m3u8
+https://rtmp.gdlive.gdmain.com/live/5k93daol.m3u8
 #EXTINF:-1 group-title="广西频道",钦州综合
 http://www.dsmcloud.top:8888/udp/239.81.0.164:4056
-
+#EXTINF:-1 group-title="广西频道",鹿寨新闻综合
+rtmp://live.gxrb.com.cn/tv/luzhai
+#EXTINF:-1 group-title="广西频道",广西-隆林新闻综合
+rtmp://live.gxrb.com.cn/gx/longlin
+#EXTINF:-1 group-title="广西频道",广西-西林新闻综合
+rtmp://live.gxrb.com.cn/gx/xilin
+#EXTINF:-1 group-title="广西频道",广西-田阳新闻综合
+rtmp://live.gxrb.com.cn/gx/tianyang
+#EXTINF:-1 group-title="广西频道",广西-昭平新闻综合
+rtmp://live.gxrb.com.cn/gx/zhaoping
+#EXTINF:-1 group-title="广西频道",广西-横州新闻综合
+http://live.nnnews.net/video/s10004-hzstv-hd/index.m3u8
 
 
 #EXTINF:-1 group-title="黑龙江频道",黑龙江卫视-1
