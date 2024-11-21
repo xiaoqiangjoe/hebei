@@ -3515,6 +3515,8 @@ http://localhost/dashboard/12_henan_fangcheng.php?id=wuyangzh
 http://localhost/dashboard/12_henan_fangcheng.php?id=fangcheng
 #EXTINF:-1 group-title="河南频道",河南-新郑综合频道
 http://localhost/dashboard/12_henan_fangcheng.php?id=xianzheng
+#EXTINF:-1 group-title="河南频道",河南-新郑综合频道
+http://live.dxhmt.cn:9081/tv/10184-1.m3u8
 #EXTINF:-1 group-title="河南频道",河南-巩义综合频道
 http://localhost/dashboard/12_henan_fangcheng.php?id=gongyi
 #EXTINF:-1 group-title="河南频道",河南-偃师综合频道
@@ -4120,6 +4122,9 @@ http://113.100.72.190:8899/udp/239.77.1.67:5146
 http://zhfw-t.szlg.com:8080/live/television2.m3u8
 #EXTINF:-1 group-title="广东频道",广东-深圳龙岗
 http://zhfw-t.szlg.com:8080/live/television1.m3u8
+
+#EXTINF:-1 group-title="广东频道",广东-韶关综合
+https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/guangdong/%E6%B1%95%E5%A4%B4%E7%BB%BC%E5%90%88.png" group-title="广东频道",广东-汕头综合
 http://localhost/dashboard/14_guangdong_shantou.php?id=stxwzh
