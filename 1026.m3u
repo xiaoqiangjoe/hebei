@@ -443,6 +443,8 @@ http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" group-title="电影频道",cctv6
 http://localhost/dashboard/60_tyy189.php?id=cctv6
+#EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" group-title="电影频道",cctv6
+http://localhost/dashboard/56_1095.php?id=cctv6
 #EXTINF:-1 tvg-id="1905b" tvg-name="1905b" group-title="电影频道",1905b
 http://localhost/dashboard/56_1095.php?id=1905b
 #EXTINF:-1 tvg-id="1905a" tvg-name="1905a" group-title="电影频道",1905a
