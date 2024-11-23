@@ -4043,6 +4043,8 @@ http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 https://33524.hlsplay.aodianyun.com/tv_radio_33524/tv_channel_1185.m3u8?auth_key=1719733331-0-0-7f98bbba7ac887ca5a9ac3419e7b279f&extra_key=_AUmvQjYZgim94y92MAAjcXvfX8aEWajtwiwbpP0gxTNb5EIGc0ji3F4LrNc4hEHVOOnNZyX_UtFiMJFFru9rcfabM28hDfhFcPmQu7o5LpkAD3retDoEKbXO-wLzNUdouKq9NSdreK9QfS33ysF65C8QvTqogopZDA7LQE4qgc
 #EXTINF:-1 group-title="浙江频道",浙江-杭州市富阳区新闻综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun2.php?id=fyzh
+#EXTINF:-1 group-title="浙江频道",浙江温州泰顺-只能回看最新
+http://localhost/dashboard/13_zhejiang_shuntai.php
 
 
 #EXTINF:-1 group-title="广东频道",广东-广东卫视
