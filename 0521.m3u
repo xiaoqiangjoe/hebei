@@ -5390,8 +5390,9 @@ https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=7b16e82a11c42b867ae
 https://livestream-bt.nmtv.cn/nmtv/2347general.m3u8?txSecret=1152410b316282d3e0c066f360e14a38&txTime=771E8800
 
 
+
 #EXTINF:-1 group-title="广西频道",广西卫视
-https://mobilelive.gxtv.cn/live/nn_live1004/playlist.m3u8
+rtmp://live.gxxw.cn/hls/a23
 #EXTINF:-1 group-title="广西频道",广西综艺
 http://222.218.158.86:8181/tsfile/live/1010_1.m3u8
 #EXTINF:-1 group-title="广西频道",广西影视
