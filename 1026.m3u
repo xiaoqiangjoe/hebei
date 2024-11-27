@@ -2256,6 +2256,25 @@ http://localhost/dashboard/05_chengdu_quxian.php?id=cdse
 http://localhost/dashboard/05_chengdu_quxian.php?id=cdrc
 #EXTINF:-1 group-title="四川频道",四川-成华有线
 http://localhost/dashboard/05_chengdu_quxian.php?id=chyx
+
+#EXTINF:-1 tvg-id="cdtv1" tvg-name="cdtv1" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cdtv1.png" group-title="四川频道",四川-成都新闻综合
+http://localhost/dashboard/05_sichuan_chengdu.php?id=cdtv1&fmt=sd
+#EXTINF:-1 tvg-id="cdtv2" tvg-name="cdtv2" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cdtv2.png" group-title="四川频道",四川-成都经济资讯
+http://localhost/dashboard/05_sichuan_chengdu.php?id=cdtv2&fmt=sd
+#EXTINF:-1 tvg-id="cdtv3" tvg-name="cdtv3" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cdtv3.png" group-title="四川频道",四川-成都都市生活
+http://localhost/dashboard/05_sichuan_chengdu.php?id=cdtv3&fmt=sd
+#EXTINF:-1 tvg-id="cdtv4" tvg-name="cdtv4" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cdtv4.png" group-title="四川频道",四川-成都影视文艺
+http://localhost/dashboard/05_sichuan_chengdu.php?id=cdtv4&fmt=sd
+#EXTINF:-1 tvg-id="cdtv5" tvg-name="cdtv5" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cdtv5.png" group-title="四川频道",四川-成都公共
+http://localhost/dashboard/05_sichuan_chengdu.php?id=cdtv5&fmt=sd
+#EXTINF:-1 tvg-id="cdtv6" tvg-name="cdtv6" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cdtv6.png" group-title="四川频道",四川-成都少儿
+http://localhost/dashboard/05_sichuan_chengdu.php?id=cdtv6&fmt=sd
+#EXTINF:-1 group-title="四川频道",四川-成都蓉城先锋
+http://localhost/dashboard/05_sichuan_chengdu.php?id=cdrcxf&fmt=sd
+#EXTINF:-1 group-title="四川频道",四川-成华有线
+http://localhost/dashboard/05_sichuan_chengdu.php?id=chyx&fmt=sd
+
+
 #EXTINF:-1 group-title="四川频道",四川-双流综合
 http://171.221.250.132:28080/live/3146B3F489F1246E4E542E341B99EEAD.m3u8
 #EXTINF:-1 group-title="四川频道",四川-平昌综合
