@@ -5492,6 +5492,8 @@ http://localhost/dashboard/23_guangxi_fcg.php?id=fcgzh
 http://localhost/dashboard/23_guangxi_fcg.php?id=fcggg
 #EXTINF:-1 group-title="广西频道",乐业新闻综合
 rtmp://live.gxrb.com.cn/gx/leye
+#EXTINF:-1 group-title="广西频道",资源县电视台
+https://rtmp.gdlive.gdmain.com/live/56kv8yb0.m3u8
 #EXTINF:-1 group-title="广西频道",广西-百色综合
 https://live.gxrb.com.cn/tv/bstv_zh/index.m3u8
 #EXTINF:-1 group-title="广西频道",广西-灵川新闻综合
