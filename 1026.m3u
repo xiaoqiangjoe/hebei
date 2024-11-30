@@ -6369,7 +6369,6 @@ http://61.221.215.25:8800/hls/1/index.m3u8
 http://61.221.215.25:8800/hls/40/index.m3u8
 
 
-
 #EXTINF:-1 group-title="台湾",三立都会台
 http://211.72.65.236:8550/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 #EXTINF:-1 group-title="台湾",三立新闻
@@ -6408,9 +6407,9 @@ https://stream1.freetv.fun/ba-da-jing-cai-3.m3u8
 #EXTINF:-1 group-title="台湾",八大精彩此
 http://4gtv.kakaxi-1.ink:9999/litv/4gtv-4gtv034
 
-#EXTINF:-1 group-title="台湾",amc电影台
+#EXTINF:-1 group-title="台湾",AMC电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 group-title="台湾",amc电影台
+#EXTINF:-1 group-title="台湾",AMC电影台
 https://stream1.freetv.fun/ceb8e5d09e9af65624a0023241c486d3d4ba222029e8e745bcd4901f47d95445.m3u8
 
 #EXTINF:-1 group-title="台湾",ASIA
@@ -6594,6 +6593,109 @@ http://37.27.111.214:8080/live/110/hls.m3u8
 http://37.27.111.214:8080/live/111/hls.m3u8
 
 
+#EXTINF:-1 group-title="台湾",数位电影
+https://litv.zapi.us.kg/?id=4gtv-4gtv011
+#EXTINF:-1 group-title="台湾",AMC电影
+https://litv.zapi.us.kg/?id=4gtv-4gtv017
+#EXTINF:-1 group-title="台湾",CAT电影
+https://litv.zapi.us.kg/?id=4gtv-4gtv076
+#EXTINF:-1 group-title="台湾",东森新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv152
+#EXTINF:-1 group-title="台湾",TVBS新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv072
+#EXTINF:-1 group-title="台湾",TVBS精采
+https://litv.zapi.us.kg/?id=4gtv-4gtv067
+#EXTINF:-1 group-title="台湾",TVBS欢乐
+https://litv.zapi.us.kg/?id=4gtv-4gtv068
+#EXTINF:-1 group-title="台湾",闽镜新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv075
+#EXTINF:-1 group-title="台湾",民视闽南
+https://litv.zapi.us.kg/?id=4gtv-4gtv002
+#EXTINF:-1 group-title="台湾",民视闽南
+https://litv.zapi.us.kg/?id=4gtv-4gtv155
+#EXTINF:-1 group-title="台湾",中视闽南
+https://litv.zapi.us.kg/?id=4gtv-4gtv040
+#EXTINF:-1 group-title="台湾",华视闽南
+https://litv.zapi.us.kg/?id=4gtv-4gtv041
+#EXTINF:-1 group-title="台湾",台视闽南
+https://litv.zapi.us.kg/?id=4gtv-4gtv066
+#EXTINF:-1 group-title="台湾",寰宇闽南
+https://litv.zapi.us.kg/?id=litv-longturn15
+#EXTINF:-1 group-title="台湾",TVBS闽南
+https://litv.zapi.us.kg/?id=4gtv-4gtv073
+#EXTINF:-1 group-title="台湾",民视第一
+https://litv.zapi.us.kg/?id=4gtv-4gtv003
+#EXTINF:-1 group-title="台湾",台视财经
+https://litv.zapi.us.kg/?id=4gtv-4gtv056
+#EXTINF:-1 group-title="台湾",公视戏剧
+https://litv.zapi.us.kg/?id=4gtv-4gtv042
+#EXTINF:-1 group-title="台湾",闽南戏剧
+https://litv.zapi.us.kg/?id=litv-longturn22
+#EXTINF:-1 group-title="台湾",国际财经
+https://litv.zapi.us.kg/?id=4gtv-4gtv104
+#EXTINF:-1 group-title="台湾",东森财经
+https://litv.zapi.us.kg/?id=4gtv-4gtv153
+#EXTINF:-1 group-title="台湾",爱尔达娱乐
+https://litv.zapi.us.kg/?id=4gtv-4gtv070
+#EXTINF:-1 group-title="台湾",靖洋戏剧
+https://litv.zapi.us.kg/?id=4gtv-4gtv045
+#EXTINF:-1 group-title="台湾",靖天综合
+https://litv.zapi.us.kg/?id=4gtv-4gtv046
+#EXTINF:-1 group-title="台湾",靖天日本
+https://litv.zapi.us.kg/?id=4gtv-4gtv047
+#EXTINF:-1 group-title="台湾",靖天欢乐
+https://litv.zapi.us.kg/?id=4gtv-4gtv054
+#EXTINF:-1 group-title="台湾",靖天映画
+https://litv.zapi.us.kg/?id=4gtv-4gtv055
+#EXTINF:-1 group-title="台湾",靖天戏剧
+https://litv.zapi.us.kg/?id=4gtv-4gtv058
+#EXTINF:-1 group-title="台湾",靖天电影
+https://litv.zapi.us.kg/?id=4gtv-4gtv061
+#EXTINF:-1 group-title="台湾",靖天育乐
+https://litv.zapi.us.kg/?id=4gtv-4gtv062
+#EXTINF:-1 group-title="台湾",靖天国际
+https://litv.zapi.us.kg/?id=4gtv-4gtv063
+#EXTINF:-1 group-title="台湾",靖天资讯
+https://litv.zapi.us.kg/?id=4gtv-4gtv065
+#EXTINF:-1 group-title="台湾",龙华卡通
+https://litv.zapi.us.kg/?id=litv-longturn01
+#EXTINF:-1 group-title="台湾",龙华日韩
+https://litv.zapi.us.kg/?id=litv-longturn11
+#EXTINF:-1 group-title="台湾",龙华偶像
+https://litv.zapi.us.kg/?id=litv-longturn12
+#EXTINF:-1 group-title="台湾",龙华电影
+https://litv.zapi.us.kg/?id=litv-longturn03
+#EXTINF:-1 group-title="台湾",龙华戏剧
+https://litv.zapi.us.kg/?id=litv-longturn18
+#EXTINF:-1 group-title="台湾",龙华经典
+https://litv.zapi.us.kg/?id=litv-longturn21
+#EXTINF:-1 group-title="台湾",国会壹
+https://litv.zapi.us.kg/?id=4gtv-4gtv084
+#EXTINF:-1 group-title="台湾",国会贰
+https://litv.zapi.us.kg/?id=4gtv-4gtv085
+#EXTINF:-1 group-title="台湾",好消息壹
+https://litv.zapi.us.kg/?id=litv-ftv16
+#EXTINF:-1 group-title="台湾",好消息贰
+https://litv.zapi.us.kg/?id=litv-ftv17
+
+#EXTINF:-1 group-title="台湾",阿里郎,https://litv.zapi.us.kg/?id=4gtv-4gtv079
+#EXTINF:-1 group-title="台湾",达文西,https://litv.zapi.us.kg/?id=4gtv-4gtv018
+#EXTINF:-1 group-title="台湾",猪哥亮歌厅,https://litv.zapi.us.kg/?id=4gtv-4gtv006
+#EXTINF:-1 group-title="台湾",亚洲旅游,https://litv.zapi.us.kg/?id=litv-longturn17
+#EXTINF:-1 group-title="台湾",非凡商业,https://litv.zapi.us.kg/?id=4gtv-4gtv048
+#EXTINF:-1 group-title="台湾",第壹商业,https://litv.zapi.us.kg/?id=4gtv-4gtv109
+#EXTINF:-1 group-title="台湾",爱放动漫,https://litv.zapi.us.kg/?id=litv-ftv15
+#EXTINF:-1 group-title="台湾",古典音乐,https://litv.zapi.us.kg/?id=4gtv-4gtv059
+#EXTINF:-1 group-title="台湾",客家电视,https://litv.zapi.us.kg/?id=4gtv-4gtv043
+#EXTINF:-1 group-title="台湾",华仁纪实,https://litv.zapi.us.kg/?id=4gtv-4gtv013
+#EXTINF:-1 group-title="台湾",时尚运动,https://litv.zapi.us.kg/?id=4gtv-4gtv014
+#EXTINF:-1 group-title="台湾",生活英语,https://litv.zapi.us.kg/?id=litv-longturn20
+#EXTINF:-1 group-title="台湾",采昌影剧,https://litv.zapi.us.kg/?id=4gtv-4gtv049
+#EXTINF:-1 group-title="台湾",SMArt知识,https://litv.zapi.us.kg/?id=litv-longturn19
+#EXTINF:-1 group-title="台湾",GLO-Bet,https://litv.zapi.us.kg/?id=4gtv-4gtv016
+#EXTINF:-1 group-title="台湾",TRACEU,https://litv.zapi.us.kg/?id=4gtv-4gtv082
+#EXTINF:-1 group-title="台湾",MEZZOl,https://litv.zapi.us.kg/?id=4gtv-4gtv083
+#EXTINF:-1 group-title="台湾",Ginx_TV,https://litv.zapi.us.kg/?id=4gtv-4gtv053
 
 
 #EXTINF:-1 group-title="未分组",NewTV超级体育
