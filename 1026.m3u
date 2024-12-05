@@ -3493,17 +3493,17 @@ http://localhost/dashboard/12_henan_sanmenxia.php?id=xsj
 http://localhost/dashboard/12_henan_sanmenxia.php?id=zz1
 
 #EXTINF:-1 group-title="河南频道",河南-郑州新闻
-https://live3-new.zztv.tv:443/xwzh/sd/live.m3u8
+http://localhost/dashboard/12_henan_zhengzhou.php?id=xwzh
 #EXTINF:-1 group-title="河南频道",河南-郑州商都
-https://live3-new.zztv.tv:443/sdpd/sd/live.m3u8
+http://localhost/dashboard/12_henan_zhengzhou.php?id=sdpd
 #EXTINF:-1 group-title="河南频道",河南-郑州文旅
-https://live3-new.zztv.tv:443/wtly/sd/live.m3u8
+http://localhost/dashboard/12_henan_zhengzhou.php?id=wtly
 #EXTINF:-1 group-title="河南频道",河南-郑州影视
-https://live3-new.zztv.tv:443/xqpd/sd/live.m3u8
+http://localhost/dashboard/12_henan_zhengzhou.php?id=xqpd
 #EXTINF:-1 group-title="河南频道",河南-郑州妇女
-https://live3-new.zztv.tv:443/fnet/sd/live.m3u8
+http://localhost/dashboard/12_henan_zhengzhou.php?id=fnet
 #EXTINF:-1 group-title="河南频道",河南-郑州都市
-https://live3-new.zztv.tv:443/dssh/sd/live.m3u8
+http://localhost/dashboard/12_henan_zhengzhou.php?id=dssh
 
 #EXTINF:-1 group-title="河南频道",河南-周口新闻综合
 http://localhost/dashboard/12_henan_zhoukou.php?id=zkxwzh
