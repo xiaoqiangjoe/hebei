@@ -845,25 +845,6 @@ http://localhost/dashboard/01_hebei_shengji.php?id=sjgw
 #EXTINF:-1 group-title="河北频道",河北-中华美食高清
 http://121.29.169.100:2083/rtp/239.253.93.248:6426
 
-
-
-#EXTINF:-1 group-title="河北频道",河北卫视-静态
-http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
-#EXTINF:-1 group-title="河北频道",河北农民-静态
-http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38
-#EXTINF:-1 group-title="河北频道",河北都市-静态
-http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=4380da13735a230c080ce8ff404033af
-#EXTINF:-1 group-title="河北频道",河北少儿-静态
-http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
-#EXTINF:-1 group-title="河北频道",河北公共-静态
-http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=6c7672b94bb3940303bd8f5b81d4bdb6
-#EXTINF:-1 group-title="河北频道",河北购物-静态
-http://tv.pull.hebtv.com/zhibo/sanjiagouwu.m3u8?t=2510710360&k=13d8a0c69ef0817e26d7e9ce7304701e
-#EXTINF:-1 group-title="河北频道",河北影视-静态
-http://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=2510710360&k=2d3ada9117a7f1c3f7c11b67671bbe3c
-#EXTINF:-1 group-title="河北频道",河北经济-静态
-http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=878ace626abc063571a3ddff9ec396a3
-
 #EXTINF:-1 group-title="河北频道",河北-河北杂技[电信]
 http://itms.xznet.org:41097/rtp/239.254.201.139:7203
 
@@ -983,6 +964,7 @@ http://121.29.169.100:2083/rtp/239.253.92.126:6026
 http://121.29.169.100:2083/rtp/239.253.92.127:6027
 #EXTINF:-1 group-title="河北频道",河北-唐山公共频道[组播]
 http://121.29.169.100:2083/rtp/239.253.92.128:6028
+
 #EXTINF:-1 group-title="河北频道",河北-唐山迁安
 http://jwplay.hebyun.com.cn/live/jiuyunqianan/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",河北-唐山玉田
