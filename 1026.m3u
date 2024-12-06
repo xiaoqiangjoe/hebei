@@ -778,6 +778,8 @@ http://localhost/dashboard/25_shanghai_pudong.php
 
 #EXTINF:-1 group-title="天津频道",天津卫视[组播]
 http://60.27.103.47:8082/udp/225.1.1.111:5002
+#EXTINF:-1 group-title="天津频道",天津卫视[组播]
+http://ha.xushining.com:50000/udp/225.1.1.111:5002
 #EXTINF:-1 group-title="天津频道",天津新闻 1[组播]
 http://60.27.103.47:8082/udp/225.1.1.130:500
 #EXTINF:-1 group-title="天津频道",天津新闻 1[组播]
