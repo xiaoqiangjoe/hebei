@@ -6212,6 +6212,8 @@ http://205.185.123.236:8899/1/now/stream.m3u8
 http://205.185.123.236:8899/1/baogutai/stream.m3u8
 #EXTINF:-1 group-title="香港",千禧经典
 http://205.185.123.236:8899/astro/qianxi/stream.m3u8
+#EXTINF:-1 group-title="香港",now新闻台
+https://ali.hlspull.yximgs.com/live/45ce8df1637fa11e6557de0c6c21e783.flv
 
 #EXTINF:-1 group-title="香港",无线生活
 http://205.185.123.236:8899/tvb/Finance/stream.m3u8
