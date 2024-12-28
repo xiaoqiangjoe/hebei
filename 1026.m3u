@@ -3105,6 +3105,17 @@ http://localhost/dashboard/09_anhui_shengji.php?id=ahgj
 #EXTINF:-1 tvg-id="安徽移动" tvg-name="" tvg-logo="安徽移动" group-title="安徽频道",安徽-安徽移动
 http://localhost/dashboard/09_anhui_shengji.php?id=ahyd
 
+#EXTINF:-1 group-title="安徽频道",安徽-蚌埠新闻
+http://localhost/dashboard/09_anhui_shixun.php?id=bbxw
+#EXTINF:-1 group-title="安徽频道",安徽-六安综合
+http://localhost/dashboard/09_anhui_shixun.php?id=lazh
+#EXTINF:-1 group-title="安徽频道",安徽-铜陵新闻综合
+http://localhost/dashboard/09_anhui_shixun.php?id=tlxwzh
+#EXTINF:-1 group-title="安徽频道",安徽-芜湖新闻综合
+http://localhost/dashboard/09_anhui_shixun.php?id=whxwzh
+#EXTINF:-1 group-title="安徽频道",安徽-宣城综合
+http://localhost/dashboard/09_anhui_shixun.php?id=xczh
+
 #EXTINF:-1 group-title="安徽频道",安徽-亳州综合
 http://localhost/dashboard/09_anhui_bozhou.php?id=bzzh
 #EXTINF:-1 group-title="安徽频道",安徽-亳州农村
