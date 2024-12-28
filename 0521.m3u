@@ -197,23 +197,23 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226968/1.m3u8?GuardEncType
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226976/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EvfRMC51wpBEwf_3ooIvthw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="北京IPTV",睛彩青少
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAWLGkc6X5Fh9eyLXH5iy4A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="咪咕",晴彩广场舞
+#EXTINF:-1 group-title="北京IPTV",晴彩广场舞
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 group-title="咪咕",睛彩青少
+#EXTINF:-1 group-title="北京IPTV",睛彩青少
 http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226053/main.m3u8
-#EXTINF:-1 group-title="咪咕",睛彩青少
+#EXTINF:-1 group-title="北京IPTV",睛彩青少
 http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226031/main.m3u8
-#EXTINF:-1 group-title="咪咕",睛彩竞技
+#EXTINF:-1 group-title="北京IPTV",睛彩竞技
 http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225897/main.m3u8
-#EXTINF:-1 group-title="咪咕",睛彩竞技
+#EXTINF:-1 group-title="北京IPTV",睛彩竞技
 http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226046/main.m3u8
-#EXTINF:-1 group-title="咪咕",晴彩竞技
+#EXTINF:-1 group-title="北京IPTV",晴彩竞技
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 group-title="咪咕",睛彩篮球
+#EXTINF:-1 group-title="北京IPTV",睛彩篮球
 http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225895/main.m3u8
-#EXTINF:-1 group-title="咪咕",睛彩篮球
+#EXTINF:-1 group-title="北京IPTV",睛彩篮球
 http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226027/main.m3u8
-#EXTINF:-1 group-title="咪咕",晴彩篮球
+#EXTINF:-1 group-title="北京IPTV",晴彩篮球
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 
 #EXTINF:-1 group-title="北京IPTV",淘电影
@@ -227,74 +227,71 @@ http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合[广电云]
 http://192.168.10.12/dashboard/07_hubei_quxian_guangdianyun.php?id=CCTV1
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000502/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226539/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000507/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000006/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000504/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000008/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226434/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226164/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226541/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226436/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226438/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002148/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226616/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226413/index.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000513
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
+http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031101/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008883/index.m3u8?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031102/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008885/index.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031127/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008886/index.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031104/index.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008888/index.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
+http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000032162/index.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000012827/index.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031106/index.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031107/index.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031108/index.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000006673/index.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031109/index.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000008000023253/index.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
+http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克 4K
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1 group-title="央视频道",中国天气
 http://39.134.136.161:6610/000000001000/5000000005000031974/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000031974
 
 
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="卫视频道",CETV-1
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="卫视频道",CETV-4
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频道",CETV-1
-http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202
-#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频道",CETV-1
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000046/index.m3u8
-#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央视频道",CETV-2
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8
-#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="央视频道",CETV-4
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频道",CETV-1[北京联通]
-http://114.243.100.193:8888/rtp/239.3.1.57:8152
+http://114.249.229.24:8888/rtp/239.3.1.57:8152
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央视频道",CETV-2[北京联通]
-http://114.243.100.193:8888/rtp/239.3.1.54:4120
+http://114.249.229.24:8888/rtp/239.3.1.54:4120
 #EXTINF:-1 tvg-name="中国教育3台" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="央视频道",CETV-3[北京联通]
-http://114.243.100.193:8888/rtp/239.3.1.55:4120
+http://114.249.229.24:8888/rtp/239.3.1.55:4120
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="央视频道",CETV-4[北京联通]
-http://114.243.100.193:8888/rtp/239.3.1.56:4120
+http://114.249.229.24:8888/rtp/239.3.1.56:4120
 #EXTINF:-1 group-title="央视频道",早期教育[天津联通]
-http://111.162.43.174:8888/udp/225.1.2.207:5002
-
-#EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E4%B8%AD%E5%A4%AE%E6%96%B0%E5%BD%B1%E4%B8%AD%E5%AD%A6%E7%94%9F.png" group-title="央视频道",种养新影-中学生
-http://vapi.91kds.cc/live1/jdtv2.m3u8?id=zxs&apiKey=73c963d13814ce7d0e4743c5e7d033cc
-#EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E4%B8%AD%E5%A4%AE%E6%96%B0%E5%BD%B1%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85.png" group-title="央视频道",种养新影-发现之旅
-http://vapi.91kds.cc/live1/jdtv2.m3u8?id=fxzl&apiKey=73c963d13814ce7d0e4743c5e7d033cc
+http://221.198.202.147:8888/udp/225.1.2.207:5002
+#EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E4%B8%AD%E5%A4%AE%E6%96%B0%E5%BD%B1%E4%B8%AD%E5%AD%A6%E7%94%9F.png" group-title="央视频道",种养新影-中学生[天津联通]
+http://221.198.202.147:8888/udp/225.1.1.193:5002
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cctv%E4%BB%98%E8%B4%B9/%E4%B8%AD%E5%A4%AE%E6%96%B0%E5%BD%B1%E8%80%81%E6%95%85%E4%BA%8B.png" group-title="央视频道",种养新影-老故事
-http://vapi.91kds.cc/live1/jdtv2.m3u8?id=lgs&apiKey=73c963d13814ce7d0e4743c5e7d033cc
+http://221.198.202.147:8888/udp/225.1.1.188:5002
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CGTN.png" group-title="央视频道",CGTN
 https://0472.org/hls/cgtn.m3u8
@@ -485,13 +482,13 @@ http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHAN
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
 [天津联通]
-http://111.162.43.174:8888/udp/225.1.1.213:5002
+http://221.198.202.147:8888/udp/225.1.1.213:5002
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC动作电影.png" group-title="电影频道",CHC动作电影
 [天津联通]
-http://111.162.43.174:8888/udp/225.1.1.215:5002
+http://221.198.202.147:8888/udp/225.1.1.215:5002
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CHC高清电影.png" group-title="电影频道",CHC影迷电影
 [天津联通]
-http://111.162.43.174:8888/udp/225.1.1.214:5002
+http://221.198.202.147:8888/udp/225.1.1.214:5002
 
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
@@ -590,7 +587,7 @@ http://192.168.10.12/dashboard/26_beijing_shengji.php?id=bjxw
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/卡酷少儿.png" group-title="北京频道",北京卡酷少儿-btime
 http://192.168.10.12/dashboard/26_beijing_shengji.php?id=bjkk
 #EXTINF:-1 tvg-name="北京国际" group-title="北京频道",北京国际[组播]
-http://114.243.100.193:8888/rtp/239.3.1.235:8000
+http://114.249.229.24:8888/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京纪实科教.png" group-title="北京频道",北京纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 
@@ -613,28 +610,28 @@ http://live.sjsrm.com/bjsjs/sd/live.m3u8
 
 
 #EXTINF:-1 tvg-name="朝阳融媒" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E6%9C%9D%E9%98%B3.png" group-title="北京频道",朝阳融媒[组播]
-http://114.243.100.193:8888/rtp/239.3.1.163:8001
+http://114.249.229.24:8888/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-id="北京延庆" tvg-name="北京延庆" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E5%BB%B6%E5%BA%86.png" group-title="北京频道",北京-北京延庆[组播]
-http://114.243.100.193:8888/rtp/239.3.1.187:8001
+http://114.249.229.24:8888/rtp/239.3.1.187:8001
 #EXTINF:-1 tvg-name="通州融媒" group-title="北京频道",通州融媒[组播]
-http://114.243.100.193:8888/rtp/239.3.1.221:8001
+http://114.249.229.24:8888/rtp/239.3.1.221:8001
 #EXTINF:-1 tvg-name="密云电视台" group-title="北京频道",密云电视台[组播]
-http://114.243.100.193:8888/rtp/239.3.1.154:8001
+http://114.249.229.24:8888/rtp/239.3.1.154:8001
 
 #EXTINF:-1 tvg-id="北京萌宠" tvg-name="北京萌宠" group-title="北京频道",北京萌宠
-http://114.243.100.193:8888/rtp/239.3.1.102:8001
+http://114.249.229.24:8888/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-id="北京iptv淘精彩" tvg-name="北京iptv淘精彩" group-title="北京频道",北京iptv淘精彩
-http://114.243.100.193:8888/rtp/239.3.1.178:8001
+http://114.249.229.24:8888/rtp/239.3.1.178:8001
 #EXTINF:-1 tvg-id="北京淘baby" tvg-name="北京淘baby" group-title="北京频道",北京淘baby
-http://114.243.100.193:8888/rtp/239.3.1.238:8001
+http://114.249.229.24:8888/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="北京淘" tvg-name="北京淘娱乐" group-title="北京频道",北京淘娱乐
-http://114.243.100.193:8888/rtp/239.3.1.100:8001
+http://114.249.229.24:8888/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="北京大健康" tvg-name="北京大健康" group-title="北京频道",北京大健康
-http://114.243.100.193:8888/rtp/239.3.1.251:8001
+http://114.249.229.24:8888/rtp/239.3.1.251:8001
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E6%B7%98%E7%94%B5%E5%BD%B1.png" group-title="北京频道",北京淘电影
-http://114.243.100.193:8888/rtp/239.3.1.250:8001
+http://114.249.229.24:8888/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E6%B7%98%E5%89%A7%E5%9C%BA.png" group-title="北京频道",北京淘剧场
-http://114.243.100.193:8888/rtp/239.3.1.95:8001
+http://114.249.229.24:8888/rtp/239.3.1.95:8001
 
 #EXTINF:-1 tvg-id="北京iptv4K" tvg-name="北京iptv4K" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京IPTV4K.png" group-title="北京频道",北京iptv4K
 https://stream1.freetv.fun/ca73ddfb2395bd0630a74b007492e4cc2c7a2859e5bb9c8c5aacccb15287a2ff.ctv
@@ -724,35 +721,35 @@ http://192.168.10.12/dashboard/25_shanghai_pudong.php
 
 
 #EXTINF:-1 group-title="天津频道",天津卫视[组播]
-http://111.162.43.174:8888/udp/225.1.1.111:5002
+http://221.198.202.147:8888/udp/225.1.1.111:5002
 #EXTINF:-1 group-title="天津频道",天津卫视[组播]
 http://ha.xushining.com:50000/udp/225.1.1.111:5002
 #EXTINF:-1 group-title="天津频道",天津新闻 1[组播]
-http://111.162.43.174:8888/udp/225.1.1.130:500
+http://221.198.202.147:8888/udp/225.1.1.130:500
 #EXTINF:-1 group-title="天津频道",天津新闻 1[组播]
 http://ha.xushining.com:50000/udp/225.1.1.130:500
 #EXTINF:-1 group-title="天津频道",天津文艺 2[组播]
-http://111.162.43.174:8888/udp/225.1.1.131:5002
+http://221.198.202.147:8888/udp/225.1.1.131:5002
 #EXTINF:-1 group-title="天津频道",天津影视 3[组播]
-http://111.162.43.174:8888/udp/225.1.1.149:5002
+http://221.198.202.147:8888/udp/225.1.1.149:5002
 #EXTINF:-1 group-title="天津频道",天津都市 4[组播]
-http://111.162.43.174:8888/udp/225.1.1.128:5002
+http://221.198.202.147:8888/udp/225.1.1.128:5002
 #EXTINF:-1 group-title="天津频道",天津体育 5[组播]
-http://111.162.43.174:8888/udp/225.1.1.122:5002
+http://221.198.202.147:8888/udp/225.1.1.122:5002
 #EXTINF:-1 group-title="天津频道",天津教育 6[组播]
-http://111.162.43.174:8888/udp/225.1.1.129:5002
+http://221.198.202.147:8888/udp/225.1.1.129:5002
 #EXTINF:-1 group-title="天津频道",天津购物[组播]
-http://111.162.43.174:8888/udp/225.1.1.151:5002
+http://221.198.202.147:8888/udp/225.1.1.151:5002
 #EXTINF:-1 group-title="天津频道",天津购物[组播]
-http://111.162.43.174:8888/udp/225.1.1.118:5002
+http://221.198.202.147:8888/udp/225.1.1.118:5002
 #EXTINF:-1 group-title="天津频道",天津iptv[组播]
-http://111.162.43.174:8888/udp/225.1.1.132:5002
+http://221.198.202.147:8888/udp/225.1.1.132:5002
 #EXTINF:-1 group-title="天津频道",天津iptv[组播]
-http://111.162.43.174:8888/udp/225.1.1.108:5002
+http://221.198.202.147:8888/udp/225.1.1.108:5002
 #EXTINF:-1 group-title="天津频道",天津iptv[组播]
-http://111.162.43.174:8888/udp/225.1.1.109:5002
+http://221.198.202.147:8888/udp/225.1.1.109:5002
 #EXTINF:-1 group-title="天津频道",天津静海[组播]
-http://111.162.43.174:8888/udp/225.1.1.110:5002
+http://221.198.202.147:8888/udp/225.1.1.110:5002
 
 #EXTINF:-1 group-title="天津频道",天津-滨海新闻
 http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
@@ -762,9 +759,9 @@ http://traffic.jbh.tjbh.com/live/bhtv20/playlist.m3u8
 http://221.238.209.44:81/hls/live1.m3u8
 
 #EXTINF:-1 group-title="天津频道",天津-天津蓟县[组播]
-http://111.162.43.174:8888/udp/225.1.1.82:5002
+http://221.198.202.147:8888/udp/225.1.1.82:5002
 #EXTINF:-1 group-title="天津频道",天津-大港油田企业[组播]
-http://111.162.43.174:8888/udp/225.1.2.14:5002
+http://221.198.202.147:8888/udp/225.1.2.14:5002
 #EXTINF:-1 group-title="天津频道",天津-宝坻电视台
 https://player4.juyun.tv/tv/143100176.m3u8
 #EXTINF:-1 group-title="天津频道",天津-津南一套
