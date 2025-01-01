@@ -268,10 +268,50 @@ http://[2409:8087:5e08:24::17]:6610/000000001000/5000000008000023254/index.m3u8?
 #EXTINF:-1 group-title="央视频道",中国天气
 http://39.134.136.161:6610/000000001000/5000000005000031974/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000031974
 
+#EXTINF:-1 group-title="咪咕视频爱看版",青海卫视
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=qhws
+#EXTINF:-1 group-title="咪咕视频爱看版",东方卫视
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=dfws
+#EXTINF:-1 group-title="咪咕视频爱看版",广东卫视
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=fdws
+#EXTINF:-1 group-title="咪咕视频爱看版",江苏卫视
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=jsws
+#EXTINF:-1 group-title="咪咕视频爱看版",海南卫视
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=hnws
+#EXTINF:-1 group-title="咪咕视频爱看版",吉林卫视
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=jlws
+#EXTINF:-1 group-title="咪咕视频爱看版",江西卫视
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=jxws
+#EXTINF:-1 group-title="咪咕视频爱看版",陕西卫视
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=sxws
+#EXTINF:-1 group-title="咪咕视频爱看版",湖北卫视
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=hbws
+#EXTINF:-1 group-title="咪咕视频爱看版",大湾区卫视
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=dwqws
+#EXTINF:-1 group-title="咪咕视频爱看版",山东教育
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=sdjy
+#EXTINF:-1 group-title="咪咕视频爱看版",江苏教育
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=jsjy
+#EXTINF:-1 group-title="咪咕视频爱看版",老故事
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=lgs
+#EXTINF:-1 group-title="咪咕视频爱看版",发现之旅
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=fxzl
+#EXTINF:-1 group-title="咪咕视频爱看版",中学生
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=zxs
+#EXTINF:-1 group-title="咪咕视频爱看版",游戏风云
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=yxfy
+#EXTINF:-1 group-title="咪咕视频爱看版",四海钓鱼
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=shdy
+#EXTINF:-1 group-title="咪咕视频爱看版",chc家庭
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=CHCJT
+#EXTINF:-1 group-title="咪咕视频爱看版",chc动作电影
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=CHCDZ
+#EXTINF:-1 group-title="咪咕视频爱看版",Y+影视
+http://192.168.10.12/dashboard/57_migu_aikan.php?id=YYS
 
-#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="卫视频道",CETV-1
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="央视频道",CETV-1
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="卫视频道",CETV-4
+#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="央视频道",CETV-4
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 
 
@@ -408,19 +448,20 @@ http://192.168.10.12/dashboard/60_dxtyy.php?id=zgjt
 #EXTINF:-1 group-title="天翼云频道",杭州生活
 http://192.168.10.12/dashboard/60_dxtyy.php?id=hzsh
 
-#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="数字频道",求索纪录
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="数字频道",求索生活
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="数字频道",求索动物
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="数字频道",求索科学
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.cn/tv/求索纪录.png" group-title="数字频道",求索纪录
+http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://live.fanmingming.cn/tv/求索生活.png" group-title="数字频道",求索生活
+http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://live.fanmingming.cn/tv/求索动物.png" group-title="数字频道",求索动物
+http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://live.fanmingming.cn/tv/求索科学.png" group-title="数字频道",求索科学
+http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.cn/tv/魅力足球.png" group-title="数字频道",魅力足球
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
 
 
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/重温经典.png" group-title="电影频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-
 #EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" group-title="电影频道",cctv6
 http://192.168.10.12/dashboard/60_tyy189.php?id=cctv6
 #EXTINF:-1 tvg-id="1905b" tvg-name="1905b" group-title="电影频道",1905b
