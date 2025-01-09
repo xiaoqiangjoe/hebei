@@ -2885,9 +2885,9 @@ http://localhost/dashboard/07_hubei_jingmen.php?id=0
 #EXTINF:-1 group-title="湖北频道",湖北-荆门科教文旅
 http://localhost/dashboard/07_hubei_jingmen.php?id=1
 #EXTINF:-1 group-title="湖北频道",湖北-鄂州新闻频道
-http://localhost/dashboard/07_hubei_ezhou.php?id=ezxw
+http://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-0f99f7df9fd0d3fca9beca6bafa6b043
 #EXTINF:-1 group-title="湖北频道",湖北-鄂州新闻频道
-http://localhost/dashboard/07_hubei_ezhou.php?id=ezgg
+http://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-ab320ba90f39f94baba04e30ff07c52e
 #EXTINF:-1 group-title="湖北频道",湖北-襄城综合频道
 http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
 #EXTINF:-1 group-title="湖北频道",湖北-安陆新闻综合
@@ -2898,6 +2898,8 @@ http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=xzzh
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=cdzh
 #EXTINF:-1 group-title="湖北频道",湖北-黄石综合频道
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=hszh
+#EXTINF:-1 group-title="湖北频道",湖北-黄石综合频道
+http://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-e22af05072c6fa8bc1fc35e042e97467
 #EXTINF:-1 group-title="湖北频道",湖北-黄石都市综合频道
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=hsds
 
