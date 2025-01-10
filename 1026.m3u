@@ -6146,12 +6146,11 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 
 
 
-#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="香港",星空卫视
-https://epg.pw/stream/295e40de2803afdf3bdd9e10c5468e14227aca3ddcb253c76c5124bd0b09e1a7.ctv
-#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="香港",星空卫视
-http://171.213.140.55:5555/udp/239.93.0.156:2193
+#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="香港",星空卫视【四川组播】
+http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 group-title="香港",CHANNEL-V
-http://58.250.155.2:8180/TV00000000000000000067@HHZT
+http://171.213.201.224:58888/udp/239.93.0.157:2194
+
 
 #EXTINF:-1 group-title="香港",星光视界
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
@@ -6164,7 +6163,7 @@ rtmp://play.xghqws.cn/yunqing888/yunqing888?auth_key=1731294000-0-0-0942b140da60
 #EXTINF:-1 group-title="香港",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="香港",Now星影
-http://205.185.123.236:8899/1/now/stream.m3u8
+http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 #EXTINF:-1 group-title="香港",Now爆谷
 http://205.185.123.236:8899/1/baogutai/stream.m3u8
 #EXTINF:-1 group-title="香港",千禧经典
@@ -6262,11 +6261,11 @@ http://localhost/dashboard/52_aomen_lianhua.php
 #EXTINF:-1 group-title="澳门",澳门莲花
 http://php.jdshipin.com:8880/amlh.php
 #EXTINF:-1 group-title="澳门",澳视澳门
-http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+http://cdn.132.us.kg/live/asam/stream.m3u8
 #EXTINF:-1 group-title="澳门",澳视葡文
 http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
 #EXTINF:-1 group-title="澳门",澳门Macua
-http://61.244.22.5/ch3/ch3.live/playelist.m3u8
+http://cdn.132.us.kg/live/as/stream.m3u8
 #EXTINF:-1 group-title="澳门",澳门体育
 http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
 #EXTINF:-1 group-title="澳门",澳视资讯
