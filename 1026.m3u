@@ -2730,19 +2730,19 @@ http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yugan.m3u8
 #EXTINF:-1 group-title="湖北频道",湖北卫视
 http://localhost/dashboard/07_hubei_shengji.php?id=hbws
 #EXTINF:-1 group-title="湖北频道",湖北经济
-http://localhost/dashboard/07_hubei_shengji.php?id=hbjs
+https://stream1.freetv.fun/hu-bei-jing-shi-16.ctv
 #EXTINF:-1 group-title="湖北频道",湖北综合
-http://localhost/dashboard/07_hubei_shengji.php?id=hbzh
+https://stream1.freetv.fun/hu-bei-zong-he-6.ctv
 #EXTINF:-1 group-title="湖北频道",湖北公共新闻
-http://localhost/dashboard/07_hubei_shengji.php?id=hbgg
+https://stream1.freetv.fun/hu-bei-gong-gong-xin-wen-1.ctv
 #EXTINF:-1 group-title="湖北频道",湖北影视
-http://localhost/dashboard/07_hubei_shengji.php?id=hbys
+https://stream1.freetv.fun/hu-bei-ying-shi-9.ctv
 #EXTINF:-1 group-title="湖北频道",湖北生活
-http://localhost/dashboard/07_hubei_shengji.php?id=hbsh
+https://stream1.freetv.fun/hu-bei-sheng-huo-8.ctv
 #EXTINF:-1 group-title="湖北频道",湖北教育
-http://localhost/dashboard/07_hubei_shengji.php?id=hbjy
+https://stream1.freetv.fun/hu-bei-jiao-yu-1.ctv
 #EXTINF:-1 group-title="湖北频道",湖北垄上
-http://localhost/dashboard/07_hubei_shengji.php?id=hbls
+https://stream1.freetv.fun/hu-bei-long-shang-18.ctv
 
 #EXTINF:-1 group-title="湖北频道",湖北-武汉新闻综合
 http://stream.appwuhan.com/1tzb/sd/live.m3u8
