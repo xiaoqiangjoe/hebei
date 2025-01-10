@@ -6264,16 +6264,15 @@ http://php.jdshipin.com:8880/amlh.php
 http://cdn.132.us.kg/live/asam/stream.m3u8
 #EXTINF:-1 group-title="澳门",澳视葡文
 http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
+
 #EXTINF:-1 group-title="澳门",澳门Macua
 http://cdn.132.us.kg/live/as/stream.m3u8
 #EXTINF:-1 group-title="澳门",澳门体育
-http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
+http://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 group-title="澳门",澳视资讯
-http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
+http://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 group-title="澳门",澳门综艺
-http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
-
-
+http://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 
 
 #EXTINF:-1 group-title="台湾",CTV中视HD
