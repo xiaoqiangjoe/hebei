@@ -4119,6 +4119,12 @@ https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/
 
 #EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/guangdong/%E6%B1%95%E5%A4%B4%E7%BB%BC%E5%90%88.png" group-title="广东频道",广东-汕头综合
 http://localhost/dashboard/14_guangdong_shantou.php?id=stxwzh
+#EXTINF:-1 group-title="广东频道",广东-汕头经济
+http://localhost/dashboard/14_guangdong_shantou.php?id=st2
+#EXTINF:-1 group-title="广东频道",广东-汕头综合
+http://localhost/dashboard/14_guangdong_shantou.php?id=st3
+
+
 #EXTINF:-1 group-title="广东频道",广东-汕尾新闻综合
 http://localhost/dashboard/14_guangdong_shanwei.php?id=35
 #EXTINF:-1 group-title="广东频道",广东-汕尾文化生活
