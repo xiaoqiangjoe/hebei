@@ -5997,15 +5997,17 @@ http://stream8.jlntv.cn/dhtv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="宁夏频道",宁夏卫视
-https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
+https://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.m3u8
 #EXTINF:-1 group-title="宁夏频道",宁夏公共
-https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
+https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.m3u8
 #EXTINF:-1 group-title="宁夏频道",宁夏经济
-https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
+https://livepgc.cmc.ningxiahuangheyun.com/tv/nxjj.m3u8
 #EXTINF:-1 group-title="宁夏频道",宁夏文旅
-https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
+https://livepgc.cmc.ningxiahuangheyun.com/tv/nxwl.m3u8
 #EXTINF:-1 group-title="宁夏频道",宁夏少儿
-https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
+https://livepgc.cmc.ningxiahuangheyun.com/tv/nxse.m3u8
+
+
 #EXTINF:-1 group-title="宁夏频道",宁夏银川公共
 http://localhost/dashboard/29_ningxia_yinchuan.php?id=ycgg
 #EXTINF:-1 group-title="宁夏频道",宁夏银川生活
