@@ -5721,8 +5721,7 @@ http://localhost/dashboard/30_qinghai_geermu.php?id=1
 
 
 
-#EXTINF:-1 group-title="重庆频道",重庆卫视
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226551/index.m3u8
+
 #EXTINF:-1 group-title="重庆频道",重庆影视[联通组播]
 http://27.10.214.57:4767/udp/225.0.4.192:7980
 #EXTINF:-1 group-title="重庆频道",重庆时尚[联通组播]
@@ -5738,7 +5737,7 @@ http://27.11.195.72:8009/udp/225.0.4.193:7980
 #EXTINF:-1 group-title="重庆频道",重庆汽摩[联通组播]
 http://27.11.195.72:8009/udp/225.0.4.195:7980
 #EXTINF:-1 group-title="重庆频道",重庆新闻超高清[联通组播]
-http://27.11.195.72:8009/udp/225.0.4.188:7980
+http://cqshushu.us.kg:2086/公众号【医工学习日志】/cqtv.php?id=cqxw
 #EXTINF:-1 group-title="重庆频道",重庆社会与法[联通组播]
 http://27.11.195.72:8009/udp/225.0.4.190:7980
 
@@ -5755,7 +5754,7 @@ https://qxlmlive9.cbg.cn:443/applive/qjpd1/playlist.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-荣昌综合
 http://183.64.181.25:40023/rongchang01.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-永川综合
-https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
+https://yypull.cbg.cn/applive/yctv01/playlist.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-巫山综合
 https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-万盛综合
@@ -5767,28 +5766,27 @@ https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="重庆频道",重庆-开州综合
-https://qxlmlive9.cbg.cn/applive/kzpd02/chunklist.m3u8
+https://yypull.cbg.cn/applive/kzpd02/chunklist.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-江津综合
 http://222.179.155.21:1935/ch1.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-合川综合
-https://qxlmlive9.cbg.cn/applive/hechuan01/chunklist.m3u8
+https://yypull.cbg.cn/applive/hechuantv1/playlist.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-垫江综合
 https://play-sh.quklive.com/live/1672366847646284.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-武隆综合
-https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8
+https://yypull.cbg.cn/applive/wltvzh/playlist.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-璧山综合
 http://222.179.42.129:8181/hls1.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-云阳综合[静态]
 https://live.yunyangwang.com/live/dszb.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-梁平综合
-https://qxlmlive9.cbg.cn/applive/lplive01/chunklist.m3u8
+https://yypull.cbg.cn/applive/lplive01/chunklist.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-铜梁综合
 https://tlpc01.cqliving.com/ch1.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-巴南综合
 https://live.cqbntv.com/bnmc/tv0709.m3u8
 #EXTINF:-1 group-title="重庆频道",重庆-璧山综合
 http://localhost/dashboard/cq/cqyx.php?id=bishanHD
-
 
 #EXTINF:-1 group-title="重庆频道",重庆-云阳综合[重庆有线]
 http://localhost/dashboard/27_chongqin_cqyx2.php?id=jiangjinHD
