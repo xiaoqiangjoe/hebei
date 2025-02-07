@@ -2370,7 +2370,7 @@ http://localhost/dashboard/05_tvradio.php?id=zyxw
 #EXTINF:-1 group-title="四川频道",四川-雁江
 http://localhost/dashboard/05_tvradio.php?id=zyyj
 #EXTINF:-1 group-title="四川频道",四川-珙县电视台
-http://localhost/dashboard/05_tvradio.php?id=gxzh
+https://pili-live-hls-app.chuanqigongxian.com/cqgx/xwzhpd.m3u8?sign=3cfb1b50dde9aad71d56e1f73a34787d&t=67a5ee35
 #EXTINF:-1 group-title="四川频道",四川-长宁电视台
 http://cnpull.sccnfb.com/live/123456.m3u8
 #EXTINF:-1 group-title="四川频道",四川-江安电视台
