@@ -4396,6 +4396,9 @@ http://localhost/dashboard/16_gansu_shengji.php?id=3
 http://localhost/dashboard/16_gansu_shengji.php?id=4
 #EXTINF:-1 group-title="甘肃频道",甘肃-甘肃少儿
 http://localhost/dashboard/16_gansu_shengji.php?id=5
+#EXTINF:-1 group-title="甘肃频道",甘肃-甘肃移动电视
+http://localhost/dashboard/16_gansu_shengji.php?id=ydds
+
 #EXTINF:-1 group-title="甘肃频道",甘肃-兰州新闻综合
 http://localhost/dashboard/16_gansu_lztv.php?id=gslzxw
 #EXTINF:-1 group-title="甘肃频道",甘肃-兰州文旅
