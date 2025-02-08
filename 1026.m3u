@@ -5,6 +5,10 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="北京IPTV",CCTV-4中文国际
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="北京IPTV",CCTV-4 中文国际-欧洲HD
+http://114.249.11.163:4022/rtp/239.3.1.213:4220
+#EXTINF:-1 group-title="北京IPTV",CCTV-4 中文国际-美洲HD
+http://114.249.11.163:4022/rtp/239.3.1.214:4220
 #EXTINF:-1 group-title="北京IPTV",CCTV5+体育赛事
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="北京IPTV",CCTV-7国防军事
@@ -464,13 +468,13 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
 
 
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频道",CETV-1[北京联通]
-http://114.243.100.193:8888/rtp/239.3.1.57:8152
+http://222.129.33.161:10444/rtp/239.3.1.57:8152
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央视频道",CETV-2[北京联通]
-http://114.243.100.193:8888/rtp/239.3.1.54:4120
+http://222.129.33.161:10444/rtp/239.3.1.54:4120
 #EXTINF:-1 tvg-name="中国教育3台" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="央视频道",CETV-3[北京联通]
-http://114.243.100.193:8888/rtp/239.3.1.55:4120
+http://222.129.33.161:10444/rtp/239.3.1.55:4120
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="央视频道",CETV-4[北京联通]
-http://114.243.100.193:8888/rtp/239.3.1.56:4120
+http://222.129.33.161:10444/rtp/239.3.1.56:4120
 #EXTINF:-1 group-title="央视频道",早期教育[天津联通]
 http://nas.hssvm.com:8888/udp/225.1.2.207:5002
 
@@ -697,13 +701,14 @@ http://localhost/dashboard/26_beijing_shengji.php?id=bjxw
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/卡酷少儿.png" group-title="北京频道",北京卡酷少儿-btime
 http://localhost/dashboard/26_beijing_shengji.php?id=bjkk
 #EXTINF:-1 tvg-name="北京国际" group-title="北京频道",北京国际[组播]
-http://114.243.100.193:8888/rtp/239.3.1.235:8000
+http://222.129.33.161:10444/rtp/239.3.1.235:8000
 
 
 #EXTINF:-1 tvg-id="北京怀柔" tvg-name="北京怀柔" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E6%80%80%E6%9F%94.png" group-title="北京频道",北京-北京怀柔
 http://localhost/dashboard/50_quxian_qita.php?id=hrtv
 #EXTINF:-1 tvg-id="北京房山" tvg-name="北京房山" tvg-logo="https://i.imgur.com/WJeOjFE.png" group-title="北京频道",北京-北京房山无线
-https://live.funhillrm.com/2/sd/live.m3u8
+
+http://114.249.11.163:4022/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京新闻.png" group-title="北京频道",北京-北京新闻
 https://live.funhillrm.com/5/sd/live.m3u8
 #EXTINF:-1 tvg-id="北京大兴" tvg-name="北京大兴" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E5%A4%A7%E5%85%B4.png" group-title="北京频道",北京-北京大兴
@@ -719,28 +724,28 @@ http://live.sjsrm.com/bjsjs/sd/live.m3u8
 
 
 #EXTINF:-1 tvg-name="朝阳融媒" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E6%9C%9D%E9%98%B3.png" group-title="北京频道",朝阳融媒[组播]
-http://114.243.100.193:8888/rtp/239.3.1.163:8001
+http://222.129.33.161:10444/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-id="北京延庆" tvg-name="北京延庆" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E5%BB%B6%E5%BA%86.png" group-title="北京频道",北京-北京延庆[组播]
-http://114.243.100.193:8888/rtp/239.3.1.187:8001
+http://222.129.33.161:10444/rtp/239.3.1.187:8001
 #EXTINF:-1 tvg-name="通州融媒" group-title="北京频道",通州融媒[组播]
-http://114.243.100.193:8888/rtp/239.3.1.221:8001
+http://222.129.33.161:10444/rtp/239.3.1.221:8001
 #EXTINF:-1 tvg-name="密云电视台" group-title="北京频道",密云电视台[组播]
-http://114.243.100.193:8888/rtp/239.3.1.154:8001
+http://222.129.33.161:10444/rtp/239.3.1.154:8001
 
 #EXTINF:-1 tvg-id="北京萌宠" tvg-name="北京萌宠" group-title="北京频道",北京萌宠
-http://114.243.100.193:8888/rtp/239.3.1.102:8001
+http://222.129.33.161:10444/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-id="北京iptv淘精彩" tvg-name="北京iptv淘精彩" group-title="北京频道",北京iptv淘精彩
-http://114.243.100.193:8888/rtp/239.3.1.178:8001
+http://222.129.33.161:10444/rtp/239.3.1.178:8001
 #EXTINF:-1 tvg-id="北京淘baby" tvg-name="北京淘baby" group-title="北京频道",北京淘baby
-http://114.243.100.193:8888/rtp/239.3.1.238:8001
+http://222.129.33.161:10444/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="北京淘" tvg-name="北京淘娱乐" group-title="北京频道",北京淘娱乐
-http://114.243.100.193:8888/rtp/239.3.1.100:8001
+http://222.129.33.161:10444/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="北京大健康" tvg-name="北京大健康" group-title="北京频道",北京大健康
-http://114.243.100.193:8888/rtp/239.3.1.251:8001
+http://222.129.33.161:10444/rtp/239.3.1.251:8001
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E6%B7%98%E7%94%B5%E5%BD%B1.png" group-title="北京频道",北京淘电影
-http://114.243.100.193:8888/rtp/239.3.1.250:8001
+http://222.129.33.161:10444/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E6%B7%98%E5%89%A7%E5%9C%BA.png" group-title="北京频道",北京淘剧场
-http://123.112.212.175:4022/rtp/239.3.1.95:8001
+http://222.129.33.161:10444/rtp/239.3.1.95:8001
 
 
 
