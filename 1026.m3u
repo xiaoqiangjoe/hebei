@@ -324,34 +324,130 @@ http://localhost/dashboard/58_gctv.php?id=fsgw
 #EXTINF:-1 group-title="赣橙TV",江西教育
 http://localhost/dashboard/58_gctv.php?id=jxjy
 
-#EXTINF:-1 group-title="咪咕",晴彩广场舞
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 group-title="咪咕",睛彩青少
-http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226053/main.m3u8
-#EXTINF:-1 group-title="咪咕",睛彩青少
-http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226031/main.m3u8
-#EXTINF:-1 group-title="咪咕",睛彩竞技
-http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225897/main.m3u8
-#EXTINF:-1 group-title="咪咕",睛彩竞技
-http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226046/main.m3u8
-#EXTINF:-1 group-title="咪咕",晴彩竞技
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 group-title="咪咕",睛彩篮球
-http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225895/main.m3u8
-#EXTINF:-1 group-title="咪咕",睛彩篮球
-http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226027/main.m3u8
-#EXTINF:-1 group-title="咪咕",晴彩篮球
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-
-#EXTINF:-1 group-title="北京IPTV",淘电影
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-
-
-#EXTINF:-1 group-title="北京IPTV",郑铁频道
-http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
-#EXTINF:-1 group-title="北京IPTV",人民铁道
-http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
-
+#EXTINF:-1 group-title="江苏直播",CCTV-1综合
+http://localhost/dashboard/58_migu_wangy.php?id=CCTV1HD
+#EXTINF:-1 group-title="江苏直播",CCTV-2戏曲
+http://localhost/dashboard/58_migu_wangy.php?id=CCTV2HD
+#EXTINF:-1 group-title="江苏直播",CCTV-4中文
+http://localhost/dashboard/58_migu_wangy.php?id=CCTV4HD
+#EXTINF:-1 group-title="江苏直播",CCTV3高清
+http://localhost/dashboard/58_migu_wangy.php?id=CCTV3_HD
+#EXTINF:-1 group-title="江苏直播",CCTV5+高清
+http://localhost/dashboard/58_migu_wangy.php?id=CCTV5+HD
+#EXTINF:-1 group-title="江苏直播",CCTV5高清
+http://localhost/dashboard/58_migu_wangy.php?id=CCTV5_HD
+#EXTINF:-1 group-title="江苏直播",CCTV6高清
+http://localhost/dashboard/58_migu_wangy.php?id=CCTV6_HD
+#EXTINF:-1 group-title="江苏直播",CCTV8高清
+http://localhost/dashboard/58_migu_wangy.php?id=CCTV8_HD
+#EXTINF:-1 group-title="江苏直播",CCTV-9纪录
+http://localhost/dashboard/58_migu_wangy.php?id=CCTV9HD
+#EXTINF:-1 group-title="江苏直播",CCTV-10科教
+http://localhost/dashboard/58_migu_wangy.php?id=CCTV10HD
+#EXTINF:-1 group-title="江苏直播",CCTV-11戏曲
+http://localhost/dashboard/58_migu_wangy.php?id=CCTV11HD
+#EXTINF:-1 group-title="江苏直播",CCTV-12社会与法
+http://localhost/dashboard/58_migu_wangy.php?id=CCTV12HD
+#EXTINF:-1 group-title="江苏直播",CCTV-13新闻
+http://localhost/dashboard/58_migu_wangy.php?id=CCTV13HD
+#EXTINF:-1 group-title="江苏直播",CCTV-14少儿
+http://localhost/dashboard/58_migu_wangy.php?id=CCTV14HD
+#EXTINF:-1 group-title="江苏直播",CCTV-15音乐
+http://localhost/dashboard/58_migu_wangy.php?id=CCTV15
+#EXTINF:-1 group-title="江苏直播",CCTV16高清
+http://localhost/dashboard/58_migu_wangy.php?id=CCTV16HD
+#EXTINF:-1 group-title="江苏直播",安徽卫视
+http://localhost/dashboard/58_migu_wangy.php?id=ANHUIHD
+#EXTINF:-1 group-title="江苏直播",北京卫视
+http://localhost/dashboard/58_migu_wangy.php?id=BEIJHD
+#EXTINF:-1 group-title="江苏直播",福建东南卫视
+http://localhost/dashboard/58_migu_wangy.php?id=DONGNHD
+#EXTINF:-1 group-title="江苏直播",甘肃卫视
+http://localhost/dashboard/58_migu_wangy.php?id=GSWS
+#EXTINF:-1 group-title="江苏直播",广东卫视
+http://localhost/dashboard/58_migu_wangy.php?id=GUANGDHD
+#EXTINF:-1 group-title="江苏直播",广西卫视
+http://localhost/dashboard/58_migu_wangy.php?id=GUANGXHD
+#EXTINF:-1 group-title="江苏直播",贵州卫视
+http://localhost/dashboard/58_migu_wangy.php?id=GUIZHD
+#EXTINF:-1 group-title="江苏直播",海南卫视
+http://localhost/dashboard/58_migu_wangy.php?id=HAINHD
+#EXTINF:-1 group-title="江苏直播",河北卫视
+http://localhost/dashboard/58_migu_wangy.php?id=HAIBHD
+#EXTINF:-1 group-title="江苏直播",河南卫视
+http://localhost/dashboard/58_migu_wangy.php?id=HENHD
+#EXTINF:-1 group-title="江苏直播",黑龙江卫视
+http://localhost/dashboard/58_migu_wangy.php?id=HEILJHD
+#EXTINF:-1 group-title="江苏直播",湖北卫视
+http://localhost/dashboard/58_migu_wangy.php?id=HUBEIHD
+#EXTINF:-1 group-title="江苏直播",湖南金鹰纪实
+http://localhost/dashboard/58_migu_wangy.php?id=JYJSHD
+#EXTINF:-1 group-title="江苏直播",湖南金鹰卡通
+http://localhost/dashboard/58_migu_wangy.php?id=JYKTHD
+#EXTINF:-1 group-title="江苏直播",湖南卫视
+http://localhost/dashboard/58_migu_wangy.php?id=HUNANHD
+#EXTINF:-1 group-title="江苏直播",吉林卫视
+http://localhost/dashboard/58_migu_wangy.php?id=JILHD
+#EXTINF:-1 group-title="江苏直播",江苏卫视
+http://localhost/dashboard/58_migu_wangy.php?id=JIANGSHD
+#EXTINF:-1 group-title="江苏直播",江西都市
+http://localhost/dashboard/58_migu_wangy.php?id=JXDS
+#EXTINF:-1 group-title="江苏直播",江西风尚购物
+http://localhost/dashboard/58_migu_wangy.php?id=FSGW
+#EXTINF:-1 group-title="江苏直播",江西公共农业
+http://localhost/dashboard/58_migu_wangy.php?id=JXGGNY
+#EXTINF:-1 group-title="江苏直播",江西教育
+http://localhost/dashboard/58_migu_wangy.php?id=JXJY
+#EXTINF:-1 group-title="江苏直播",江西经济生活高清
+http://localhost/dashboard/58_migu_wangy.php?id=JXJJSHHD
+#EXTINF:-1 group-title="江苏直播",江西少儿高清
+http://localhost/dashboard/58_migu_wangy.php?id=JXSEHD
+#EXTINF:-1 group-title="江苏直播",江西卫视高清
+http://localhost/dashboard/58_migu_wangy.php?id=JXWSHD
+#EXTINF:-1 group-title="江苏直播",江西新闻高清
+http://localhost/dashboard/58_migu_wangy.php?id=JXXWHD
+#EXTINF:-1 group-title="江苏直播",江西影视旅游
+http://localhost/dashboard/58_migu_wangy.php?id=JXYS
+#EXTINF:-1 group-title="江苏直播",辽宁卫视
+http://localhost/dashboard/58_migu_wangy.php?id=LIAONHD
+#EXTINF:-1 group-title="江苏直播",内蒙古卫视
+http://localhost/dashboard/58_migu_wangy.php?id=NMGWS
+#EXTINF:-1 group-title="江苏直播",宁夏卫视
+http://localhost/dashboard/58_migu_wangy.php?id=NXWS
+#EXTINF:-1 group-title="江苏直播",青海卫视
+http://localhost/dashboard/58_migu_wangy.php?id=QHWS
+#EXTINF:-1 group-title="江苏直播",山东卫视
+http://localhost/dashboard/58_migu_wangy.php?id=SHANDHD
+#EXTINF:-1 group-title="江苏直播",山西卫视
+http://localhost/dashboard/58_migu_wangy.php?id=SXWS
+#EXTINF:-1 group-title="江苏直播",陕西卫视
+http://localhost/dashboard/58_migu_wangy.php?id=SXTV
+#EXTINF:-1 group-title="江苏直播",上海东方卫视
+http://localhost/dashboard/58_migu_wangy.php?id=DONGFHD
+#EXTINF:-1 group-title="江苏直播",深圳卫视
+http://localhost/dashboard/58_migu_wangy.php?id=SHENZHD
+#EXTINF:-1 group-title="江苏直播",四川卫视
+http://localhost/dashboard/58_migu_wangy.php?id=SICHD
+#EXTINF:-1 group-title="江苏直播",天津卫视
+http://localhost/dashboard/58_migu_wangy.php?id=TIANJHD
+#EXTINF:-1 group-title="江苏直播",西藏卫视
+http://localhost/dashboard/58_migu_wangy.php?id=XZWS
+#EXTINF:-1 group-title="江苏直播",新疆兵团卫视
+http://localhost/dashboard/58_migu_wangy.php?id=BTWS
+#EXTINF:-1 group-title="江苏直播",新疆卫视
+http://localhost/dashboard/58_migu_wangy.php?id=XJWS
+#EXTINF:-1 group-title="江苏直播",云南卫视
+http://localhost/dashboard/58_migu_wangy.php?id=YUNNHD
+#EXTINF:-1 group-title="江苏直播",浙江卫视
+http://localhost/dashboard/58_migu_wangy.php?id=ZHEJHD
+#EXTINF:-1 group-title="江苏直播",中国教育1高清
+http://localhost/dashboard/58_migu_wangy.php?id=CETV1HD
+#EXTINF:-1 group-title="江苏直播",中国教育4
+http://localhost/dashboard/58_migu_wangy.php?id=CETV4
+#EXTINF:-1 group-title="江苏直播",重庆卫视
+http://localhost/dashboard/58_migu_wangy.php?id=CHONGQHD
+#EXTINF:-1 group-title="江苏直播",哈哈炫动
+http://localhost/dashboard/58_migu_wangy.php?id=XDKT
 
 
 
@@ -397,11 +493,6 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/CGTN俄语.png" group-title="央视频道",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
-
-
-
-
-
 
 
 
