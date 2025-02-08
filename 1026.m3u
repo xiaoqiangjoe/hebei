@@ -2157,6 +2157,11 @@ http://localhost/dashboard/04_shan_xi_yulin.php?id=ylzh
 #EXTINF:-1 group-title="陕西频道",陕西-榆林公共
 http://localhost/dashboard/04_shan_xi_yulin.php?id=ylgg
 
+#EXTINF:-1 group-title="陕西频道",陕西-商洛综合
+https://player.juyun.tv/camera/165255160.m3u8
+#EXTINF:-1 group-title="陕西频道",陕西-商洛公共
+https://player4.juyun.tv/camera/167348174.m3u8
+
 #EXTINF:-1 group-title="陕西频道",陕西-宝鸡1-静态
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8?
 #EXTINF:-1 group-title="陕西频道",陕西-宝鸡2-静态
@@ -2179,8 +2184,7 @@ http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226006/index.m
 http://39.134.24.162/dbiptv.sn.chinamobile.com//PLTV/88888888/224/3221225990/index.m3u8
 #EXTINF:-1 group-title="陕西频道",陕西-汉中教育
 http://39.134.24.162/dbiptv.sn.chinamobile.com//PLTV/88888888/224/3221225991/index.m3u8
-#EXTINF:-1 group-title="陕西频道",陕西-商洛综合
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8?
+
 #EXTINF:-1 group-title="陕西频道",陕西-西乡融媒
 http://39.134.24.162/dbiptv.sn.chinamobile.com//PLTV/88888890/224/3221226556/index.m3u8
 #EXTINF:-1 group-title="陕西频道",陕西-城园
@@ -5210,9 +5214,9 @@ http://localhost/dashboard/21_yunnan_diqing.php?id=dqxwzh
 #EXTINF:-1 group-title="云南频道",云南-迪庆藏语
 http://localhost/dashboard/21_yunnan_diqing.php?id=dqzy
 #EXTINF:-1 group-title="云南频道",云南-西双版纳综合
-http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+https://channellive.xsbnw.cn/default/nmip-media/channellive/channel112526/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",云南-西双版纳公共
-http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
+https://channellive.xsbnw.cn/default/nmip-media/channellive/channel112694/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",云南-怒江广播电视台新闻综合频道
 http://localhost/dashboard/21_yunnan_nujiang.php?id=njxw
 #EXTINF:-1 group-title="云南频道",云南-怒江广播电视台广播综合频率
