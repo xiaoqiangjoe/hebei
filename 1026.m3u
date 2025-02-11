@@ -5549,23 +5549,26 @@ http://localhost/dashboard/22_neimenggu_tongliao.php?id=tlcs
 
 
 #EXTINF:-1 group-title="广西频道",广西卫视
-https://mobilelive.gxtv.cn/live/nn_live1004/playlist.m3u8
+http://171.107.7.40:4022/udp/239.81.0.107:4056
 #EXTINF:-1 group-title="广西频道",广西综艺
-http://222.218.158.86:8181/tsfile/live/1010_1.m3u8
+http://171.38.151.19:8082/tsfile/live/1040_1.m3u8
 #EXTINF:-1 group-title="广西频道",广西影视
-http://222.218.158.86:8181/tsfile/live/1009_1.m3u8
+http://171.38.151.19:8082/tsfile/live/1037_1.m3u8
 #EXTINF:-1 group-title="广西频道",广西新闻
-http://222.218.158.86:8181/tsfile/live/1012_1.m3u8
+http://171.38.151.19:8082/tsfile/live/1004_1.m3u8
 #EXTINF:-1 group-title="广西频道",广西公共[组播]
-http://www.dsmcloud.top:8888/udp/239.81.0.249:4056
+http://171.107.7.40:4022/udp/239.81.0.249:4056
 #EXTINF:-1 group-title="广西频道",广西都市
-http://222.218.158.86:8181/tsfile/live/1011_1.m3u8
+http://171.38.151.19:8082/tsfile/live/1003_1.m3u8
 #EXTINF:-1 group-title="广西频道",广西国际
-https://mobilelive.gxtv.cn/live/nn_live1009/playlist.m3u8
+http://171.38.151.19:8082/tsfile/live/1016_1.m3u8
 #EXTINF:-1 group-title="广西频道",广西移动
-https://mobilelive.gxtv.cn/live/gxyd/playlist.m3u8
+http://171.38.151.19:8082/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="广西频道",广西乐思购
-https://mobilelive.gxtv.cn/live/nn_live1002/playlist.m3u8
+http://171.107.7.40:4022/udp/239.81.0.9:4056
+
+
+
 
 #EXTINF:-1 group-title="广西频道",广西-南宁新闻综合
 http://localhost/dashboard/23_guangxi_nanning.php?id=nnzh
@@ -5579,6 +5582,7 @@ http://222.218.158.86:8181/tsfile/live/1013_1.m3u8
 http://localhost/dashboard/23_guangxi_nanning.php?id=nngg
 #EXTINF:-1 group-title="广西频道",广西-隆安广播
 http://localhost/dashboard/23_guangxi_nanning.php?id=nnla
+
 #EXTINF:-1 group-title="广西频道",广西-南宁新闻综合-备
 http://localhost/dashboard/23_guangxi_nanning2.php?id=1
 #EXTINF:-1 group-title="广西频道",广西-南宁文旅生活-备
@@ -5591,28 +5595,34 @@ http://localhost/dashboard/23_guangxi_nanning2.php?id=4
 http://localhost/dashboard/23_guangxi_nanning2.php?id=5
 #EXTINF:-1 group-title="广西频道",广西-老友live
 http://localhost/dashboard/23_guangxi_nanning2.php?id=6
+
 #EXTINF:-1 group-title="广西频道",广西-桂林综合频道
 http://localhost/dashboard/23_guangxi_guilin.php?id=33
 #EXTINF:-1 group-title="广西频道",广西-桂林公共频道
 http://localhost/dashboard/23_guangxi_guilin.php?id=34
 #EXTINF:-1 group-title="广西频道",广西-桂林科教旅游
 http://localhost/dashboard/23_guangxi_guilin.php?id=35
+
 #EXTINF:-1 group-title="广西频道",广西-崇左电视台
 https://rtmp.gdlive.gdmain.com/live/5podkk10.m3u8
+
 #EXTINF:-1 group-title="广西频道",广西-玉林综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=ylzh
 #EXTINF:-1 group-title="广西频道",广西-玉林公共
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=ylgg
+
 #EXTINF:-1 group-title="广西频道",广西-梧州新闻综合
 http://localhost/dashboard/23_guangxi_wuzhou.php?id=wzxwzh
 #EXTINF:-1 group-title="广西频道",广西-梧州公共频道
 http://localhost/dashboard/23_guangxi_wuzhou.php?id=wzgg
 #EXTINF:-1 group-title="广西频道",广西-梧州教育生活
 http://localhost/dashboard/23_guangxi_wuzhou.php?id=wzjy
+
 #EXTINF:-1 group-title="广西频道",广西-北海新闻综合
-https://live.gxrb.com.cn/gx/beihai/index.m3u8
+http://171.107.7.40:4022/udp/239.81.0.136:4056
 #EXTINF:-1 group-title="广西频道",广西-北海科教生活
 http://localhost/dashboard/23_guangxi_beihai.php?id=bhkj
+
 #EXTINF:-1 group-title="广西频道",广西-贺州新闻综合
 http://zhz.gxhzxw.com:2935/live/HZXW-HD/chunklist.m3u8
 #EXTINF:-1 group-title="广西频道",广西-来宾新闻综合
@@ -5621,6 +5631,7 @@ http://zb.gxlbamc.com:1935/live/lbzh.stream/chunklist_w359925134.m3u8
 http://localhost/dashboard/23_guangxi_fcg.php?id=fcgzh
 #EXTINF:-1 group-title="广西频道",广西-防城港公共
 http://localhost/dashboard/23_guangxi_fcg.php?id=fcggg
+
 #EXTINF:-1 group-title="广西频道",乐业新闻综合
 rtmp://live.gxrb.com.cn/gx/leye
 #EXTINF:-1 group-title="广西频道",资源县电视台
@@ -5678,7 +5689,12 @@ rtmp://live.gxrb.com.cn/gx/cenxi
 #EXTINF:-1 group-title="广西频道",融水新闻综合
 https://rtmp.gdlive.gdmain.com/live/5k93daol.m3u8
 #EXTINF:-1 group-title="广西频道",钦州综合
-http://www.dsmcloud.top:8888/udp/239.81.0.164:4056
+http://171.107.7.40:4022/udp/239.81.0.164:4056
+#EXTINF:-1 group-title="广西频道",钦州综合
+http://171.38.151.19:8082/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="广西频道",灵山综合频道
+http://171.38.151.19:8082/tsfile/live/1035_1.m3u8
+
 #EXTINF:-1 group-title="广西频道",鹿寨新闻综合
 rtmp://live.gxrb.com.cn/tv/luzhai
 #EXTINF:-1 group-title="广西频道",广西-隆林新闻综合
@@ -5691,7 +5707,8 @@ rtmp://live.gxrb.com.cn/gx/tianyang
 rtmp://live.gxrb.com.cn/gx/zhaoping
 #EXTINF:-1 group-title="广西频道",广西-横州新闻综合
 http://live.nnnews.net/video/s10004-hzstv-hd/index.m3u8
-
+#EXTINF:-1 group-title="广西频道",广西-柳州新闻
+http://171.107.7.40:4022/udp/239.81.0.134:4056
 
 #EXTINF:-1 group-title="黑龙江频道",黑龙江卫视-1
 http://localhost/dashboard/24_heilongjiang_shengji.php?id=hljws
