@@ -3507,12 +3507,10 @@ http://p8.vzan.com/slowlive/158160919638855965/live.m3u8
 http://live.strmtzx.cn/stxw/sd/live.m3u8
 
 
-#EXTINF:-1 group-title="河南频道",河南-河南卫视
-http://localhost/dashboard/60_tyy189.php?id=hnws
+
 #EXTINF:-1 group-title="河南频道",河南-河南卫视
 http://localhost/dashboard/12_henan_shengji.php?id=hnws
-#EXTINF:-1 group-title="河南频道",河南-河南卫视-静态
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+
 #EXTINF:-1 group-title="河南频道",河南-河南都市
 http://localhost/dashboard/12_henan_shengji.php?id=hnds
 #EXTINF:-1 group-title="河南频道",河南-河南民生
@@ -3533,8 +3531,6 @@ http://localhost/dashboard/12_henan_shengji.php?id=hnxc
 http://localhost/dashboard/12_henan_shengji.php?id=hngj
 #EXTINF:-1 group-title="河南频道",河南-河南梨园
 http://localhost/dashboard/12_henan_shengji.php?id=hnly
-#EXTINF:-1 tvg-id="梨园" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/河南梨园.png" group-title="河南频道",梨园频道
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 #EXTINF:-1 group-title="河南频道",河南-文物宝库
 http://localhost/dashboard/12_henan_shengji.php?id=wwbk
 #EXTINF:-1 group-title="河南频道",河南-武术世界
@@ -3547,6 +3543,8 @@ http://localhost/dashboard/12_henan_shengji.php?id=ydxj
 http://localhost/dashboard/12_henan_shengji.php?id=xsj
 #EXTINF:-1 group-title="河南频道",河南-国学频道
 http://localhost/dashboard/12_henan_shengji.php?id=gxpd
+#EXTINF:-1 group-title="河南频道",河南-河南教育
+http://localhost/dashboard/12_henan_jiaoyu.php?id=zzjj
 
 #EXTINF:-1 group-title="河南频道",河南-河南卫视
 http://localhost/dashboard/12_henan_sanmenxia.php?id=hnws
@@ -3580,9 +3578,9 @@ http://localhost/dashboard/12_henan_sanmenxia.php?id=jczy
 http://localhost/dashboard/12_henan_sanmenxia.php?id=ydxq
 #EXTINF:-1 group-title="河南频道",河南-象世界
 http://localhost/dashboard/12_henan_sanmenxia.php?id=xsj
+
 #EXTINF:-1 group-title="河南频道",河南-郑州新闻综合
 http://localhost/dashboard/12_henan_sanmenxia.php?id=zz1
-
 #EXTINF:-1 group-title="河南频道",河南-郑州新闻
 http://localhost/dashboard/12_henan_zhengzhou.php?id=xwzh
 #EXTINF:-1 group-title="河南频道",河南-郑州商都
@@ -3956,7 +3954,8 @@ http://localhost/dashboard/13_zhejiang_hangzhou.php?id=hzds
 http://localhost/dashboard/13_zhejiang_hangzhou.php?id=hzhl
 #EXTINF:-1 group-title="浙江频道",浙江-富阳综合
 http://localhost/dashboard/13_zhejiang_hangzhou.php?id=fyxwzh
-
+#EXTINF:-1 group-title="浙江频道",浙江-浙江玉环
+http://localhost/dashboard/12_henan_jiaoyu.php?id=zzyh
 #EXTINF:-1 group-title="浙江频道",浙江-嘉兴新闻综合
 http://localhost/dashboard/13_zhejiang_jiaxing.php?id=1
 #EXTINF:-1 group-title="浙江频道",浙江-嘉兴公共频道
