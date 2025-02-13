@@ -203,130 +203,6 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226976/1.m3u8?GuardEncType
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAWLGkc6X5Fh9eyLXH5iy4A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
 
-#EXTINF:-1 group-title="赣橙TV",CCTV-1综合
-http://localhost/dashboard/58_gctv.php?id=cctv1
-#EXTINF:-1 group-title="赣橙TV",CCTV-2财经
-http://localhost/dashboard/58_gctv.php?id=cctv2
-#EXTINF:-1 group-title="赣橙TV",CCTV-3综艺
-http://localhost/dashboard/58_gctv.php?id=cctv3
-#EXTINF:-1 group-title="赣橙TV",CCTV-4中文国际
-http://localhost/dashboard/58_gctv.php?id=cctv4
-#EXTINF:-1 group-title="赣橙TV",CCTV-5体育
-http://localhost/dashboard/58_gctv.php?id=cctv5
-#EXTINF:-1 group-title="赣橙TV",CCTV-5+体育赛事
-http://localhost/dashboard/58_gctv.php?id=cctv5p
-#EXTINF:-1 group-title="赣橙TV",CCTV-6电影
-http://localhost/dashboard/58_gctv.php?id=cctv6
-#EXTINF:-1 group-title="赣橙TV",CCTV-8电视剧
-http://localhost/dashboard/58_gctv.php?id=cctv8
-#EXTINF:-1 group-title="赣橙TV",CCTV-9纪录
-http://localhost/dashboard/58_gctv.php?id=cctv9
-#EXTINF:-1 group-title="赣橙TV",CCTV-10科教
-http://localhost/dashboard/58_gctv.php?id=cctv10
-#EXTINF:-1 group-title="赣橙TV",CCTV-11戏曲
-http://localhost/dashboard/58_gctv.php?id=cctv11
-#EXTINF:-1 group-title="赣橙TV",CCTV-12社会与法
-http://localhost/dashboard/58_gctv.php?id=cctv12
-#EXTINF:-1 group-title="赣橙TV",CCTV-13新闻
-http://localhost/dashboard/58_gctv.php?id=cctv13
-#EXTINF:-1 group-title="赣橙TV",CCTV-14少儿
-http://localhost/dashboard/58_gctv.php?id=cctv14
-#EXTINF:-1 group-title="赣橙TV",CCTV-15音乐
-http://localhost/dashboard/58_gctv.php?id=cctv15
-#EXTINF:-1 group-title="赣橙TV",CCTV-16奥林匹克
-http://localhost/dashboard/58_gctv.php?id=cctv16
-#EXTINF:-1 group-title="赣橙TV",CETV1中教1台
-http://localhost/dashboard/58_gctv.php?id=cetv1
-#EXTINF:-1 group-title="赣橙TV",CETV4中教4台
-http://localhost/dashboard/58_gctv.php?id=cetv4
-#EXTINF:-1 group-title="赣橙TV",北京卫视
-http://localhost/dashboard/58_gctv.php?id=bjws
-#EXTINF:-1 group-title="赣橙TV",东方卫视
-http://localhost/dashboard/58_gctv.php?id=dfws
-#EXTINF:-1 group-title="赣橙TV",天津卫视
-http://localhost/dashboard/58_gctv.php?id=tjws
-#EXTINF:-1 group-title="赣橙TV",重庆卫视
-http://localhost/dashboard/58_gctv.php?id=cqws
-#EXTINF:-1 group-title="赣橙TV",黑龙江卫视
-http://localhost/dashboard/58_gctv.php?id=hljws
-#EXTINF:-1 group-title="赣橙TV",吉林卫视
-http://localhost/dashboard/58_gctv.php?id=jlws
-#EXTINF:-1 group-title="赣橙TV",辽宁卫视
-http://localhost/dashboard/58_gctv.php?id=lnws
-#EXTINF:-1 group-title="赣橙TV",内蒙古卫视
-http://localhost/dashboard/58_gctv.php?id=nmws
-#EXTINF:-1 group-title="赣橙TV",宁夏卫视
-http://localhost/dashboard/58_gctv.php?id=nxws
-#EXTINF:-1 group-title="赣橙TV",甘肃卫视
-http://localhost/dashboard/58_gctv.php?id=gsws
-#EXTINF:-1 group-title="赣橙TV",青海卫视
-http://localhost/dashboard/58_gctv.php?id=qhws
-#EXTINF:-1 group-title="赣橙TV",陕西卫视
-http://localhost/dashboard/58_gctv.php?id=sxws
-#EXTINF:-1 group-title="赣橙TV",河北卫视
-http://localhost/dashboard/58_gctv.php?id=hbws
-#EXTINF:-1 group-title="赣橙TV",山西卫视
-http://localhost/dashboard/58_gctv.php?id=sxiws
-#EXTINF:-1 group-title="赣橙TV",山东卫视
-http://localhost/dashboard/58_gctv.php?id=sdws
-#EXTINF:-1 group-title="赣橙TV",安徽卫视
-http://localhost/dashboard/58_gctv.php?id=ahws
-#EXTINF:-1 group-title="赣橙TV",河南卫视
-http://localhost/dashboard/58_gctv.php?id=hnws
-#EXTINF:-1 group-title="赣橙TV",湖北卫视
-http://localhost/dashboard/58_gctv.php?id=hubws
-#EXTINF:-1 group-title="赣橙TV",湖南卫视
-http://localhost/dashboard/58_gctv.php?id=hunws
-#EXTINF:-1 group-title="赣橙TV",江西卫视
-http://localhost/dashboard/58_gctv.php?id=jxws
-#EXTINF:-1 group-title="赣橙TV",江苏卫视
-http://localhost/dashboard/58_gctv.php?id=jsws
-#EXTINF:-1 group-title="赣橙TV",浙江卫视
-http://localhost/dashboard/58_gctv.php?id=zjws
-#EXTINF:-1 group-title="赣橙TV",东南卫视
-http://localhost/dashboard/58_gctv.php?id=dnws
-#EXTINF:-1 group-title="赣橙TV",广东卫视
-http://localhost/dashboard/58_gctv.php?id=gdws
-#EXTINF:-1 group-title="赣橙TV",深圳卫视
-http://localhost/dashboard/58_gctv.php?id=szws
-#EXTINF:-1 group-title="赣橙TV",广西卫视
-http://localhost/dashboard/58_gctv.php?id=gxws
-#EXTINF:-1 group-title="赣橙TV",云南卫视
-http://localhost/dashboard/58_gctv.php?id=ynws
-#EXTINF:-1 group-title="赣橙TV",贵州卫视
-http://localhost/dashboard/58_gctv.php?id=gzws
-#EXTINF:-1 group-title="赣橙TV",四川卫视
-http://localhost/dashboard/58_gctv.php?id=scws
-#EXTINF:-1 group-title="赣橙TV",新疆卫视
-http://localhost/dashboard/58_gctv.php?id=xjws
-#EXTINF:-1 group-title="赣橙TV",兵团卫视
-http://localhost/dashboard/58_gctv.php?id=btws
-#EXTINF:-1 group-title="赣橙TV",西藏卫视
-http://localhost/dashboard/58_gctv.php?id=xzws
-#EXTINF:-1 group-title="赣橙TV",海南卫视
-http://localhost/dashboard/58_gctv.php?id=hinws
-#EXTINF:-1 group-title="赣橙TV",哈哈炫动
-http://localhost/dashboard/58_gctv.php?id=hhxd
-#EXTINF:-1 group-title="赣橙TV",金鹰纪实
-http://localhost/dashboard/58_gctv.php?id=jyjs
-#EXTINF:-1 group-title="赣橙TV",金鹰卡通
-http://localhost/dashboard/58_gctv.php?id=jykt
-#EXTINF:-1 group-title="赣橙TV",江西都市
-http://localhost/dashboard/58_gctv.php?id=jxds
-#EXTINF:-1 group-title="赣橙TV",江西经济生活
-http://localhost/dashboard/58_gctv.php?id=jxjs
-#EXTINF:-1 group-title="赣橙TV",江西影视旅游
-http://localhost/dashboard/58_gctv.php?id=jxys
-#EXTINF:-1 group-title="赣橙TV",江西公共农业
-http://localhost/dashboard/58_gctv.php?id=jxgg
-#EXTINF:-1 group-title="赣橙TV",江西少儿
-http://localhost/dashboard/58_gctv.php?id=jxse
-#EXTINF:-1 group-title="赣橙TV",江西新闻
-http://localhost/dashboard/58_gctv.php?id=jxxw
-#EXTINF:-1 group-title="赣橙TV",风尚购物
-http://localhost/dashboard/58_gctv.php?id=fsgw
-#EXTINF:-1 group-title="赣橙TV",江西教育
-http://localhost/dashboard/58_gctv.php?id=jxjy
 
 #EXTINF:-1 group-title="咪咕",CCTV-1综合
 http://localhost/dashboard/57_migu720.php?id=cctv1
@@ -497,25 +373,14 @@ http://localhost/dashboard/58_migu_wangy.php?id=XDKT
 
 
 
-
-#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频道",CETV-1
-http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202
-#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频道",CETV-1
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000046/index.m3u8
-#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央视频道",CETV-2
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8
-#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="央视频道",CETV-4
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
-
-
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频道",CETV-1[北京联通]
-http://222.129.33.161:10444/rtp/239.3.1.57:8152
+http://123.119.176.79:4022/rtp/239.3.1.57:8152
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央视频道",CETV-2[北京联通]
-http://222.129.33.161:10444/rtp/239.3.1.54:4120
+http://123.119.176.79:4022/rtp/239.3.1.54:4120
 #EXTINF:-1 tvg-name="中国教育3台" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="央视频道",CETV-3[北京联通]
-http://222.129.33.161:10444/rtp/239.3.1.55:4120
+http://123.119.176.79:4022/rtp/239.3.1.55:4120
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="央视频道",CETV-4[北京联通]
-http://222.129.33.161:10444/rtp/239.3.1.56:4120
+http://123.119.176.79:4022/rtp/239.3.1.56:4120
 #EXTINF:-1 group-title="央视频道",早期教育[天津联通]
 http://nas.hssvm.com:8888/udp/225.1.2.207:5002
 
@@ -743,7 +608,7 @@ http://localhost/dashboard/26_beijing_shengji.php?id=bjxw
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/卡酷少儿.png" group-title="北京频道",北京卡酷少儿-btime
 http://localhost/dashboard/26_beijing_shengji.php?id=bjkk
 #EXTINF:-1 tvg-name="北京国际" group-title="北京频道",北京国际[组播]
-http://222.129.33.161:10444/rtp/239.3.1.235:8000
+http://123.119.176.79:4022/rtp/239.3.1.235:8000
 
 
 #EXTINF:-1 tvg-id="北京怀柔" tvg-name="北京怀柔" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E6%80%80%E6%9F%94.png" group-title="北京频道",北京-北京怀柔
@@ -766,28 +631,28 @@ http://live.sjsrm.com/bjsjs/sd/live.m3u8
 
 
 #EXTINF:-1 tvg-name="朝阳融媒" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E6%9C%9D%E9%98%B3.png" group-title="北京频道",朝阳融媒[组播]
-http://222.129.33.161:10444/rtp/239.3.1.163:8001
+http://123.119.176.79:4022/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-id="北京延庆" tvg-name="北京延庆" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E5%BB%B6%E5%BA%86.png" group-title="北京频道",北京-北京延庆[组播]
-http://222.129.33.161:10444/rtp/239.3.1.187:8001
+http://123.119.176.79:4022/rtp/239.3.1.187:8001
 #EXTINF:-1 tvg-name="通州融媒" group-title="北京频道",通州融媒[组播]
-http://222.129.33.161:10444/rtp/239.3.1.221:8001
+http://123.119.176.79:4022/rtp/239.3.1.221:8001
 #EXTINF:-1 tvg-name="密云电视台" group-title="北京频道",密云电视台[组播]
-http://222.129.33.161:10444/rtp/239.3.1.154:8001
+http://123.119.176.79:4022/rtp/239.3.1.154:8001
 
 #EXTINF:-1 tvg-id="北京萌宠" tvg-name="北京萌宠" group-title="北京频道",北京萌宠
-http://222.129.33.161:10444/rtp/239.3.1.102:8001
+http://123.119.176.79:4022/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-id="北京iptv淘精彩" tvg-name="北京iptv淘精彩" group-title="北京频道",北京iptv淘精彩
-http://222.129.33.161:10444/rtp/239.3.1.178:8001
+http://123.119.176.79:4022/rtp/239.3.1.178:8001
 #EXTINF:-1 tvg-id="北京淘baby" tvg-name="北京淘baby" group-title="北京频道",北京淘baby
-http://222.129.33.161:10444/rtp/239.3.1.238:8001
+http://123.119.176.79:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="北京淘" tvg-name="北京淘娱乐" group-title="北京频道",北京淘娱乐
-http://222.129.33.161:10444/rtp/239.3.1.100:8001
+http://123.119.176.79:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="北京大健康" tvg-name="北京大健康" group-title="北京频道",北京大健康
-http://222.129.33.161:10444/rtp/239.3.1.251:8001
+http://123.119.176.79:4022/rtp/239.3.1.251:8001
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E6%B7%98%E7%94%B5%E5%BD%B1.png" group-title="北京频道",北京淘电影
-http://222.129.33.161:10444/rtp/239.3.1.250:8001
+http://123.119.176.79:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E6%B7%98%E5%89%A7%E5%9C%BA.png" group-title="北京频道",北京淘剧场
-http://222.129.33.161:10444/rtp/239.3.1.95:8001
+http://123.119.176.79:4022/rtp/239.3.1.95:8001
 
 
 
