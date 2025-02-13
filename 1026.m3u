@@ -1264,8 +1264,6 @@ http://localhost/dashboard/02_shandong_jiaoyu.php
 
 #EXTINF:-1 group-title="山东频道",济南新闻
 http://localhost/dashboard/02_shandong_jinan.php?id=jnxw
-#EXTINF:-1 group-title="山东频道",济南新闻
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00004000/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="山东频道",济南都市
 http://localhost/dashboard/02_shandong_jinan.php?id=jnds
 #EXTINF:-1 group-title="山东频道",济南文旅体育
@@ -1282,8 +1280,8 @@ http://localhost/dashboard/02_shandong_jinan.php?id=jndt
 http://localhost/dashboard/02_shandong_jinan.php?id=jncs
 #EXTINF:-1 group-title="山东频道",济南鲁中
 http://localhost/dashboard/02_shandong_jinan.php?id=jnlz
-#EXTINF:-1 group-title="山东频道",济南教育电视台
-https://livejnedu.chinamcache.com/live/jneduzb04.m3u8
+
+
 #EXTINF:-1 group-title="山东频道",济南-长清新闻
 http://localhost/dashboard/02_shandong_qita.php?id=jncqxw
 #EXTINF:-1 group-title="山东频道",济南-长清生活
@@ -1308,6 +1306,7 @@ http://localhost/dashboard/02_shandong_qita.php?id=jnshys
 http://localhost/dashboard/02_shandong_qita.php?id=jnzqzh
 #EXTINF:-1 group-title="山东频道",济南-章丘公共
 http://localhost/dashboard/02_shandong_qita.php?id=jnzqgg
+
 #EXTINF:-1 group-title="山东频道",临沂-综合频道
 http://localhost/dashboard/02_shandong_linyi.php?id=1
 #EXTINF:-1 group-title="山东频道",临沂-公共频道
