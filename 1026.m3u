@@ -2087,9 +2087,9 @@ https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb
 
 
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西卫视.png" group-title="陕西频道",陕西卫视
-http://localhost/dashboard/04_shan_xi_shengji.php?id=sxws
+http://stream.snrtv.com/sxbc-star-dxTW34.m3u8
 #EXTINF:-1 tvg-id="陕西一套" tvg-name="陕西一套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西新闻资讯.png" group-title="陕西频道",陕西新闻资讯
-http://localhost/dashboard/04_shan_xi_shengji.php?id=sxxwzx
+http://stream.snrtv.com/sxbc-1-cioQY3.m3u8
 #EXTINF:-1 tvg-id="陕西二套" tvg-name="陕西二套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西都市青春.png" group-title="陕西频道",陕西都市青春
 http://localhost/dashboard/04_shan_xi_shengji.php?id=sxdsqc
 #EXTINF:-1 tvg-id="陕西三套" tvg-name="陕西三套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西生活.png" group-title="陕西频道",陕西银龄频道
