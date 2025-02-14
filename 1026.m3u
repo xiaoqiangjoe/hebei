@@ -2102,12 +2102,31 @@ http://gxlive.snrtv.com/sx5-SD.m3u8
 http://gxlive.snrtv.com/sx7-SD.m3u8
 #EXTINF:-1 tvg-id="陕西八套" tvg-name="陕西八套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西西部电影.png" group-title="陕西频道",陕西乐家购物
 http://gxlive.snrtv.com/sx6-SD.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西西部电影.png"  group-title="陕西频道",陕西西部电影
 http://gxlive.snrtv.com/sx8-SD.m3u8
 #EXTINF:-1 group-title="陕西频道",陕西农林卫视
 http://gxlive.snrtv.com/nlws-SD.m3u8
+
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西卫视.png" group-title="陕西频道",陕西卫视
+http://localhost/dashboard/04_shan_xi_shengji.php?id=sxws
+#EXTINF:-1 tvg-id="陕西一套" tvg-name="陕西一套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西新闻资讯.png" group-title="陕西频道",陕西新闻资讯
+http://localhost/dashboard/04_shan_xi_shengji.php?id=sxxwzx
+#EXTINF:-1 tvg-id="陕西二套" tvg-name="陕西二套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西都市青春.png" group-title="陕西频道",陕西都市青春
+http://localhost/dashboard/04_shan_xi_shengji.php?id=sxdsqc
+#EXTINF:-1 tvg-id="陕西三套" tvg-name="陕西三套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西生活.png" group-title="陕西频道",陕西银龄频道
+http://localhost/dashboard/04_shan_xi_shengji.php?id=sxylpd
+#EXTINF:-1 group-title="陕西频道",陕西影视频道
+http://localhost/dashboard/04_shan_xi_shengji.php?id=sxyy
+#EXTINF:-1 tvg-id="陕西四套" tvg-name="陕西四套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西影视.png" group-title="陕西频道",陕西移动
+http://localhost/dashboard/04_shan_xi_shengji.php?id=sxyd
+#EXTINF:-1 tvg-id="陕西五套" tvg-name="陕西五套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西公共.png" group-title="陕西频道",陕西秦腔频道
+http://localhost/dashboard/04_shan_xi_shengji.php?id=sxqq
+#EXTINF:-1 tvg-id="陕西七套" tvg-name="陕西七套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西体育休闲.png" group-title="陕西频道",陕西体育休闲
+http://localhost/dashboard/04_shan_xi_shengji.php?id=sxtyxx
+#EXTINF:-1 tvg-id="陕西八套" tvg-name="陕西八套" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/陕西西部电影.png" group-title="陕西频道",陕西乐家购物
+http://localhost/dashboard/04_shan_xi_shengji.php?id=ljgw
+#EXTINF:-1 group-title="陕西频道",陕西农林卫视
+http://localhost/dashboard/04_shan_xi_shengji.php?id=nlws
 
 #EXTINF:-1 tvg-id="西安新闻综合" tvg-name="西安新闻综合" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/西安新闻综合.png" group-title="陕西频道",西安新闻综合
 http://localhost/dashboard/04_shan_xi_xian.php?id=xazh
