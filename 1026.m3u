@@ -659,11 +659,8 @@ http://123.119.176.79:4022/rtp/239.3.1.95:8001
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海东方卫视.png" group-title="上海频道",东方卫视
 http://localhost/dashboard/25_shanghai_shengji.php?id=dfws
-
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海上视新闻.png" group-title="上海频道",上海新闻
 http://localhost/dashboard/25_shanghai_shengji.php?id=shxwzh
-
-
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海都市.png" group-title="上海频道",上海都市
 http://localhost/dashboard/25_shanghai_shengji.php?id=shds
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/上海哈哈炫动.png" group-title="上海频道",哈哈炫动
@@ -677,11 +674,11 @@ http://localhost/dashboard/25_shanghai_dongfangcaijing.php?id=dycjhd2
 http://localhost/dashboard/25_shanghai_dongfangcaijing.php?id=dfcjhd
 
 #EXTINF:-1 group-title="上海频道",五星体育
-http://localhost/dashboard/25_shanghai_shengji2.php?id=wxty
+http://localhost/dashboard/25_shanghai_shengji.php?id=wxty
 #EXTINF:-1 group-title="上海频道",上海魔都眼
-http://localhost/dashboard/25_shanghai_shengji2.php?id=mdy
+http://localhost/dashboard/25_shanghai_shengji.php?id=mdy
 #EXTINF:-1 group-title="上海频道",上海新纪实
-http://localhost/dashboard/25_shanghai_shengji2.php?id=xjs
+http://localhost/dashboard/25_shanghai_shengji.php?id=xjs
 
 
 
