@@ -2247,22 +2247,22 @@ http://localhost/dashboard/05_chengdu_kangba.php?id=kbws
 
 
 #EXTINF:-1 tvg-id="cdtv1" tvg-name="cdtv1" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cdtv1.png" group-title="四川频道",四川-成都新闻综合
-http://localhost/dashboard/05_sichuan_chengdu.php?id=cdxw
+http://localhost/dashboard/05_sichuan_chengdu.php?id=cdtv1&fmt=hd
 #EXTINF:-1 tvg-id="cdtv2" tvg-name="cdtv2" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cdtv2.png" group-title="四川频道",四川-成都经济资讯
-http://localhost/dashboard/05_sichuan_chengdu.php?id=cdjj
+http://localhost/dashboard/05_sichuan_chengdu.php?id=cdtv2&fmt=hd
 #EXTINF:-1 tvg-id="cdtv3" tvg-name="cdtv3" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cdtv3.png" group-title="四川频道",四川-成都都市生活
-http://localhost/dashboard/05_sichuan_chengdu.php?id=cdsh
+http://localhost/dashboard/05_sichuan_chengdu.php?id=cdtv3&fmt=hd
 #EXTINF:-1 tvg-id="cdtv4" tvg-name="cdtv4" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cdtv4.png" group-title="四川频道",四川-成都影视文艺
-http://localhost/dashboard/05_sichuan_chengdu.php?id=cdys
+http://localhost/dashboard/05_sichuan_chengdu.php?id=cdtv4&fmt=hd
 #EXTINF:-1 tvg-id="cdtv5" tvg-name="cdtv5" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cdtv5.png" group-title="四川频道",四川-成都公共
-http://localhost/dashboard/05_sichuan_chengdu.php?id=cdgg
+http://localhost/dashboard/05_sichuan_chengdu.php?id=cdtv5&fmt=hd
 #EXTINF:-1 tvg-id="cdtv6" tvg-name="cdtv6" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/cdtv6.png" group-title="四川频道",四川-成都少儿
-http://localhost/dashboard/05_sichuan_chengdu.php?id=cdse
+http://localhost/dashboard/05_sichuan_chengdu.php?id=cdtv6&fmt=hd
 #EXTINF:-1 group-title="四川频道",四川-成都蓉城先锋
-http://localhost/dashboard/05_sichuan_chengdu.php?id=cdrc
+http://localhost/dashboard/05_sichuan_chengdu.php?id=cdrcxf&fmt=hd
 
 #EXTINF:-1 group-title="四川频道",四川-成华有线
-http://localhost/dashboard/05_chengdu_quxian.php?id=chyx
+http://localhost/dashboard/05_sichuan_chengdu.php?id=chyx
 
 
 
@@ -2275,12 +2275,14 @@ http://dcpull.sctvcloud.com/live/9d774482018e1000fec02f9500000000/playlist.m3u8
 http://localhost/dashboard/05_sichuan_bazhong.php?id=6725
 #EXTINF:-1 group-title="四川频道",四川-巴中文旅生活频道
 http://localhost/dashboard/05_sichuan_bazhong.php?id=6726
+
 #EXTINF:-1 group-title="四川频道",四川-南江电视台
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=njtv
 #EXTINF:-1 group-title="四川频道",四川-南充综合
 http://localhost/dashboard/05_sichuan_nanchong.php?id=1
 #EXTINF:-1 group-title="四川频道",四川-南充科教
 http://localhost/dashboard/05_sichuan_nanchong.php?id=2
+
 #EXTINF:-1 group-title="四川频道",四川-绵阳新闻综合
 http://localhost/dashboard/05_sichuan_mianyang.php?id=mytv1
 #EXTINF:-1 group-title="四川频道",四川-绵阳科教生活
@@ -2387,6 +2389,7 @@ http://localhost/dashboard/05_sichuan_meishan.php?id=gqpd
 http://localhost/dashboard/05_sichuan_meishan.php?id=ggpd
 #EXTINF:-1 group-title="四川频道",四川-昭华新闻综合
 http://live.zhgbtv.cn:3100/hls/kwqtkbbi/index.m3u8
+
 #EXTINF:-1 group-title="四川频道",四川-崇州电视1套
 http://localhost/dashboard/05_chengdu_quxian.php?id=cztv
 #EXTINF:-1 group-title="四川频道",四川-都江堰电视台
@@ -2399,6 +2402,7 @@ http://localhost/dashboard/05_chengdu_quxian.php?id=gxtv
 http://localhost/dashboard/05_chengdu_quxian.php?id=jntv
 #EXTINF:-1 group-title="四川频道",四川-锦江电视台
 http://localhost/dashboard/05_chengdu_quxian.php?id=jjtv
+
 #EXTINF:-1 group-title="四川频道",四川-锦江电视台
 http://localhost/dashboard/05_sichuan_jingjiang.php
 #EXTINF:-1 group-title="四川频道",四川-峨眉山综合
