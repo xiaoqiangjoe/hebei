@@ -613,9 +613,12 @@ http://123.119.176.79:4022/rtp/239.3.1.235:8000
 
 #EXTINF:-1 tvg-id="北京怀柔" tvg-name="北京怀柔" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E6%80%80%E6%9F%94.png" group-title="北京频道",北京-北京怀柔
 http://localhost/dashboard/50_quxian_qita.php?id=hrtv
-#EXTINF:-1 tvg-id="北京房山" tvg-name="北京房山" tvg-logo="https://i.imgur.com/WJeOjFE.png" group-title="北京频道",北京-北京房山无线
 
-http://114.249.11.163:4022/rtp/239.3.1.96:8001
+#EXTINF:-1 tvg-id="北京房山" tvg-name="北京房山" tvg-logo="https://i.imgur.com/WJeOjFE.png" group-title="北京频道",北京-北京房山无线
+http://localhost/dashboard/26_beijing_fangshan.php?id=fswx
+#EXTINF:-1 tvg-id="北京房山" tvg-name="北京房山" tvg-logo="https://i.imgur.com/WJeOjFE.png" group-title="北京频道",北京-北京房山有线
+http://localhost/dashboard/26_beijing_fangshan.php?id=fsyx
+
 #EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/北京新闻.png" group-title="北京频道",北京-北京新闻
 https://live.funhillrm.com/5/sd/live.m3u8
 #EXTINF:-1 tvg-id="北京大兴" tvg-name="北京大兴" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/beijing/%E5%A4%A7%E5%85%B4.png" group-title="北京频道",北京-北京大兴
