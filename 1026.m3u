@@ -942,6 +942,9 @@ https://tvnew.lnshw.com.cn:58123/live/lntv2.m3u8
 rtmp://222.222.126.18/live/lfxw
 #EXTINF:-1 group-title="河北频道",河北-廊坊公共
 rtmp://222.222.126.18/live/lfgg
+#EXTINF:-1 group-title="河北频道",河北-廊坊导视
+rtmp://222.222.126.18/live/lfds
+
 #EXTINF:-1 group-title="河北频道",河北-廊坊霸州新闻
 http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/playlist.m3u8
 #EXTINF:-1 group-title="河北频道",河北-廊坊霸州公共
