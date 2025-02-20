@@ -5221,10 +5221,12 @@ http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=kmkj
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=kmys
 #EXTINF:-1 group-title="云南频道",云南-昆明春城民生
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=kmcc
+
 #EXTINF:-1 group-title="云南频道",清廉曲靖
 http://channel.qjrb.cn/nmip-media/channellive/channel125689/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",曲靖影视剧频道
 http://channel.qjrb.cn/nmip-media/channellive/channel127550/playlist.m3u8
+
 #EXTINF:-1 group-title="云南频道",云南-师宗电视台
 http://localhost/dashboard/50_quxian_qita.php?id=sztv
 #EXTINF:-1 group-title="云南频道",云南-保山1套
@@ -5273,12 +5275,14 @@ http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/pla
 http://localhost/dashboard/21_yunnan_yuxi.php
 #EXTINF:-1 group-title="云南频道",云南-陇川新闻综合[需要观察]
 https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
+
 #EXTINF:-1 group-title="云南频道",云南-元阳综合
 http://tv.drs.hhtv.cc:8100/channellive/yydst.flv
 #EXTINF:-1 group-title="云南频道",云南-彝良综合-昭通
 http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
 #EXTINF:-1 group-title="云南频道",云南-新平综合-玉溪市
 http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8
+
 #EXTINF:-1 group-title="云南频道",云南-文山州新闻综合
 http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 #EXTINF:-1 group-title="云南频道",云南-文山州新闻综合
@@ -5297,14 +5301,17 @@ https://zhibo.puerw.cn/puer/ef91c39e-6b27-493e-9728-05e595ce3573.m3u8
 http://localhost/dashboard/21_yunnan_lijiang.php?id=ljxwzh
 #EXTINF:-1 group-title="云南频道",云南-丽江公共频道
 http://localhost/dashboard/21_yunnan_lijiang.php?id=ljwhly
+
 #EXTINF:-1 group-title="云南频道",云南-昭通-1
 http://localhost/dashboard/21_yunnan_zhaotong.php?id=zttv1
 #EXTINF:-1 group-title="云南频道",云南-昭通-3
 http://localhost/dashboard/21_yunnan_zhaotong.php?id=zttv3
 #EXTINF:-1 group-title="云南频道",云南-纳西电视台
 https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8
+
 #EXTINF:-1 group-title="云南频道",云南-宾川新闻频道
 http://localhost/dashboard/58_hbky.php?id=bcxw
+
 #EXTINF:-1 group-title="云南频道",瑞丽综合
 http://channel.rlrmtzx.com/nmip-media/channellive/channel100728/playlist.m3u8
 #EXTINF:-1 group-title="云南频道",洱原县电视台
@@ -5321,6 +5328,9 @@ rtmp://hwzbout.yntv.net/xfm214/198968
 rtmp://hwzbout.yntv.net/6tt654/1i495z
 #EXTINF:-1 group-title="云南频道",临沧科教频道
 rtmp://hwzbout.yntv.net/6tt654/drfs5s
+
+#EXTINF:-1 group-title="云南频道",禄丰
+http://mt2018.iask.in:55555/udp/239.200.200.163:8798
 
 
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/xiaoxiaojoe/tv_log/raw/master/tv_logo/内蒙古卫视.png" group-title="内蒙古频道",内蒙古卫视[官方]
