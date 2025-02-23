@@ -6325,7 +6325,8 @@ http://117.114.153.18:8180/TV00000000000000000076@HHZT
 http://117.114.153.18:8180/TV00000000000000000109@HHZT
 #EXTINF:-1 group-title="香港",HBO（美）
 http://117.114.153.18:8180/TV00000000000000000074@HHZT
-
+#EXTINF:-1 group-title="香港",mbotv[科]
+https://1816029567.rsc.cdn77.org/1816029567/index.m3u8
 
 #EXTINF:-1 group-title="澳门",澳门莲花
 http://localhost/dashboard/52_aomen_lianhua.php
