@@ -6253,7 +6253,7 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPla
 
 
 #EXTINF:-1 group-title="香港",STARmovies
-http://117.114.153.18:8180/TV00000000000000000075@HHZT
+http://171.15.18.199:8180/TV00000000000000000075@HHZT
 #EXTINF:-1 group-title="香港",axn电影
 http://117.114.153.18:8180/TV00000000000000000076@HHZT
 #EXTINF:-1 group-title="香港",CINEMAX电影
@@ -6274,12 +6274,67 @@ http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
 
 #EXTINF:-1 group-title="澳门",澳门Macua
 http://cdn.132.us.kg/live/as/stream.m3u8
+
 #EXTINF:-1 group-title="澳门",澳门体育
 http://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 group-title="澳门",澳视资讯
 http://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 group-title="澳门",澳门综艺
 http://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+
+
+#EXTINF:-1 group-title="台湾",TVBS新闻台
+http://125.227.210.55:8186/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾",TVBSnew
+http://61.221.215.25:8800/hls/9/index.m3u8
+
+
+#EXTINF:-1 group-title="台湾"
+东森中国台,http://38.64.72.148:80/hls/modn/list/2003/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾"
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾"
+东森美洲,http://38.64.72.148:80/hls/modn/list/2016/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾"
+未知,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾"
+华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾"
+华语电视,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾"
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾"
+深圳国际,http://38.64.72.148:80/hls/modn/list/4007/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾"
+海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾"
+中旺电视,http://38.64.72.148:80/hls/modn/list/4010/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾"
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾"
+台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾"
+汉天HTTV,http://38.64.72.148:80/hls/modn/list/4025/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾"
+KTSF26,http://38.64.72.148:80/hls/modn/list/4026/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾"
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4027/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾"
+美国城市卫视,http://38.64.72.148:80/hls/modn/list/4028/chunklist0.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="台湾",TVBs欢乐台
+http://37.27.111.214:8080/live/24/hls.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="台湾",CTV中视HD
@@ -6346,14 +6401,7 @@ http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 group-title="台湾",中天娱乐台
 http://61.221.215.25:8800/hls/47/index.m3u8
 
-#EXTINF:-1 group-title="台湾",TVBS新闻台
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 group-title="台湾",TVBs欢乐台
-http://37.27.111.214:8080/live/24/hls.m3u8
-#EXTINF:-1 group-title="台湾",TVBS-亚洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="台湾",TVBSnew
-http://61.221.215.25:8800/hls/9/index.m3u8
+
 
 
 #EXTINF:-1 group-title="台湾",客家电视台
