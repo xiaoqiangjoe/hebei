@@ -6331,6 +6331,8 @@ http://122.117.71.103:8532/http/61.222.53.250:8081/hls/69/811/ch33.m3u8
 
 #EXTINF:-1 group-title="台湾",中天娱乐台
 http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="台湾",中天娱乐台
+http://108.181.20.197/livehttpplay?channel_id=20079
 #EXTINF:-1 group-title="台湾",中天新闻
 http://222.128.55.152:9080/live/fc.m3u8
 
