@@ -5553,49 +5553,51 @@ http://live.nnnews.net/video/s10004-hzstv-hd/index.m3u8
 #EXTINF:-1 group-title="广西频道",广西-柳州新闻
 http://171.107.7.40:4022/udp/239.81.0.134:4056
 
-#EXTINF:-1 group-title="黑龙江频道",黑龙江卫视-1
+
+
+
+
+
+#EXTINF:-1 group-title="黑龙江频道",黑龙江卫视
 http://localhost/dashboard/24_heilongjiang_shengji.php?id=hljws
-#EXTINF:-1 group-title="黑龙江频道",黑龙江卫视-2
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225985/index.m3u8
-#EXTINF:-1 group-title="黑龙江频道",黑龙江卫视-3
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+
 #EXTINF:-1 group-title="黑龙江频道",黑龙江都市-1
 http://localhost/dashboard/24_heilongjiang_shengji.php?id=hljds
-#EXTINF:-1 group-title="黑龙江频道",黑龙江都市-2
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-#EXTINF:-1 group-title="黑龙江频道",黑龙江少儿-1
+#EXTINF:-1 group-title="黑龙江频道",黑龙江都市
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+
+#EXTINF:-1 group-title="黑龙江频道",黑龙江少儿
 http://localhost/dashboard/24_heilongjiang_shengji.php?id=hljse
-#EXTINF:-1 group-title="黑龙江频道",黑龙江少儿-2
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
-#EXTINF:-1 group-title="黑龙江频道",黑龙江少儿-3
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-#EXTINF:-1 group-title="黑龙江频道",黑龙江黑龙江公共-1
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 group-title="黑龙江频道",黑龙江黑龙江公共-2
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
-#EXTINF:-1 group-title="黑龙江频道",黑龙江文体-1
-http://localhost/dashboard/24_heilongjiang_shengji.php?id=hljwt
-#EXTINF:-1 group-title="黑龙江频道",黑龙江文体-2
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
-#EXTINF:-1 group-title="黑龙江频道",黑龙江文体-3
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-#EXTINF:-1 group-title="黑龙江频道",黑龙江新闻-1
-http://localhost/dashboard/24_heilongjiang_shengji.php?id=hljfz
-#EXTINF:-1 group-title="黑龙江频道",黑龙江新闻-2
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225967/index.m3u8
-#EXTINF:-1 group-title="黑龙江频道",黑龙江影视-1
-http://localhost/dashboard/24_heilongjiang_shengji.php?id=hljys
-#EXTINF:-1 group-title="黑龙江频道",黑龙江影视-2
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225973/index.m3u8
-#EXTINF:-1 group-title="黑龙江频道",黑龙江影视-3
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑龙江少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 
 #EXTINF:-1 group-title="黑龙江频道",黑龙江农业科教
 http://localhost/dashboard/24_heilongjiang_shengji.php?id=hljnk
+#EXTINF:-1 group-title="黑龙江频道",黑龙江农业科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+
+#EXTINF:-1 group-title="黑龙江频道",黑龙江文体
+http://localhost/dashboard/24_heilongjiang_shengji.php?id=hljwt
+#EXTINF:-1 group-title="黑龙江频道",黑龙江文体
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+
+#EXTINF:-1 group-title="黑龙江频道",黑龙江新闻
+http://localhost/dashboard/24_heilongjiang_shengji.php?id=hljfz
+#EXTINF:-1 group-title="黑龙江频道",黑龙江新闻
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+
+#EXTINF:-1 group-title="黑龙江频道",黑龙江影视
+http://localhost/dashboard/24_heilongjiang_shengji.php?id=hljys
+#EXTINF:-1 group-title="黑龙江频道",黑龙江影视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+
+
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-哈尔滨新闻综合频道
 http://localhost/dashboard/24_heilongjiang_Harbin.php?id=3
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-哈尔滨新闻综合频道静态
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-哈尔滨影视频道
 http://localhost/dashboard/24_heilongjiang_Harbin.php?id=5
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-哈尔滨生活频道
@@ -5616,14 +5618,16 @@ https://rmplive.hljtv.com/live/wuchang.m3u8
 https://rmplive.hljtv.com/live/tonghe.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-哈尔滨-尚志综合频道
 https://rmplive.hljtv.com/live/shangzhi.m3u8
+
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-齐齐哈尔新闻综合
 http://localhost/dashboard/24_heilongjiang_qiqihaer.php?id=4
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-齐齐哈尔经济法治
 http://localhost/dashboard/24_heilongjiang_qiqihaer.php?id=6
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-齐齐哈尔新闻综合-备
-http://localhost/dashboard/50_quxian_qita.php?id=qqhe1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-齐齐哈尔经济法治-备
-http://localhost/dashboard/50_quxian_qita.php?id=qqhe2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
+
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-齐齐哈尔-泰来综合频道
 https://rmplive.hljtv.com/live/tailai.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-齐齐哈尔-富裕综合频道
@@ -5637,9 +5641,9 @@ https://rmplive.hljtv.com/live/gannan.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-齐齐哈尔-拜泉县电视台
 https://rmplive.hljtv.com/live/baiquan.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-鹤岗新闻综合
-http://[2409:8087:1a01:df::4060]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-佳木斯新闻综合
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-佳木斯桦南综合频道
 https://rmplive.hljtv.com/live/huanan.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-佳木斯抚远综合频道
@@ -5653,15 +5657,16 @@ https://rmplive.hljtv.com/live/huachuan.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-佳木斯佳木斯新闻综合频道
 https://rmplive.hljtv.com/live/jiamusi.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-双鸭山综合
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-双鸭山饶河综合频道
 https://rmplive.hljtv.com/live/raohe.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-双鸭山宝清综合频道
 https://rmplive.hljtv.com/live/baoqing.m3u8
+
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-鸡西新闻综合
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-鸡西安全生活
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-鸡西-鸡东综合频道
 https://rmplive.hljtv.com/live/jidong.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-鸡西-密山综合频道
@@ -5669,11 +5674,11 @@ https://rmplive.hljtv.com/live/mishan.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-鸡西-虎林综合频道
 https://rmplive.hljtv.com/live/hulin.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-伊春电视台
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-伊春电视台
 https://rmplive.hljtv.com/live/yichun.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-牡丹江新闻综合频道
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-牡丹江东宁综合
 https://rmplive.hljtv.com/live/dongning.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-牡丹江林口综合频道
@@ -5682,10 +5687,12 @@ https://rmplive.hljtv.com/live/linkou.m3u8
 https://rmplive.hljtv.com/live/hailin.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-牡丹江绥芬河综合频道
 https://rmplive.hljtv.com/live/suifenhe.m3u8
+
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-大庆新闻综合
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-大庆教育
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
+
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-大庆综合
 http://localhost/dashboard/07_hubei_quxian_guangdianyun.php?id=dqzh
 #EXTINF:-1 group-title="黑龙江频道",黑龙江-大庆教育
